@@ -1,8 +1,9 @@
 from dataclasses import dataclass
 from typing import List, Tuple, Dict, Any
 import networkx as nx
-from sentence_transformers import SentenceTransformer, util
+from sentence_transformers import SentenceTransformer, util, CrossEncoder
 import torch
+import numpy as np
 
 
 @dataclass
@@ -11,16 +12,15 @@ class Entity:
     text: str
 
 class GraphMetricsCalculator:
-    def __init__(self, model_name: str = 'all-MiniLM-L6-v2'):
-        """
-        Загружаем легковесную модель для семантического сравнения строк.
-        all-MiniLM-L6-v2 
-        """
-        print(f"Загрузка модели {model_name}...")
-        self.model = SentenceTransformer(model_name)
-        # Пороги уверенности
-        self.thr_entity = 0.70  # Насколько должны быть похожи сущности
-        self.thr_relation = 0.55 # Насколько должны быть похожи отношения
+    def __init__(self, semantic_model: str = 'all-MiniLM-L6-v2', nli_model: str = 'cross-encoder/nli-deberta-v3-small'):
+        print(f"Загрузка семантической модели {semantic_model}...")
+        self.model = SentenceTransformer(semantic_model)
+        
+        print(f"Загрузка NLI-модели {nli_model}...")
+        self.nli_model = CrossEncoder(nli_model)
+        
+        self.thr_entity = 0.70  
+        self.thr_relation = 0.55
         
     def _create_entity_dict(self, entities: List[Entity]) -> Dict[int, str]:
         """Вспомогательная функция для быстрого поиска текста сущности по id"""
@@ -29,42 +29,53 @@ class GraphMetricsCalculator:
     def calculate_metrics(
         self, 
         context_entities: List[Entity], context_triplets: List[Tuple[int, str, int]],
-        answer_entities: List[Entity], answer_triplets: List[Tuple[int, str, int]]
+        answer_entities: List[Entity], answer_triplets: List[Tuple[int, str, int]],
+        query_entities: List[Entity] = None, query_triplets: List[Tuple[int, str, int]] = None 
     ) -> Dict[str, Any]:
         
-        # Если ответ пустой
         if not answer_triplets:
-            return {"EG": 0.0, "RP": 0.0, "SC": 0.0, "Uncertainty": 1.0, "hallucinations": []}
+            return {"EG": 0.0, "RP": 0.0, "SC": 0.0, "Path_Ref": 0.0, "GraphEval_Inconsistency": 1.0, "SFS": 0.0, "Uncertainty": 1.0, "hallucinated_triplets": []}
 
-        # Словари для быстрого доступа id -> text
         ctx_ent_dict = self._create_entity_dict(context_entities)
         ans_ent_dict = self._create_entity_dict(answer_entities)
 
-        # Entity Grounding (EG) 
-        eg_score, matched_nodes_map = self._calc_entity_grounding(
-            ans_ent_dict, ctx_ent_dict
-        )
-
-        # Relation Preservation (RP) 
+        eg_score, matched_nodes_map = self._calc_entity_grounding(ans_ent_dict, ctx_ent_dict)
         rp_score, supported_edges, unsupported_triplets = self._calc_relation_preservation(
             answer_triplets, context_triplets, matched_nodes_map, ans_ent_dict, ctx_ent_dict
         )
-
-        # Subgraph Connectivity (SC)
         sc_score = self._calc_subgraph_connectivity(supported_edges, answer_triplets)
 
-        # Агрегация (Uncertainty Score) 
-        # Веса метрик. EG самая важная, SC вспомогательная
-        alpha, beta, gamma = 0.5, 0.3, 0.2 
-        fidelity = (alpha * eg_score) + (beta * rp_score) + (gamma * sc_score)
+        path_ref_score = self._calc_path_relevance(answer_entities, answer_triplets, query_entities, query_triplets)
+        
+        grapheval_nli_score, nli_hallucinations = self._calc_grapheval_nli(
+            unsupported_triplets, context_triplets, ctx_ent_dict
+        )
+        
+        sfs_score = self._calc_supported_faithfulness(supported_edges)
+
+        # uncertainty score 
+        fidelity = (
+            0.30 * eg_score + 
+            0.20 * rp_score + 
+            0.10 * sc_score + 
+            0.15 * path_ref_score + 
+            0.15 * (1.0 - grapheval_nli_score) + # NLI score = противоречие. Делаем инверсию
+            0.10 * sfs_score
+        )
         uncertainty = 1.0 - fidelity
+
+        # Объединяем все найденные галлюцинации (без дубликатов)
+        all_hallucinations = list(set(unsupported_triplets + nli_hallucinations))
 
         return {
             "EG": round(eg_score, 3),
             "RP": round(rp_score, 3),
             "SC": round(sc_score, 3),
+            "Path_Ref": round(path_ref_score, 3),
+            "GraphEval_Inconsistency": round(grapheval_nli_score, 3),
+            "SFS": round(sfs_score, 3),
             "Uncertainty": round(uncertainty, 3),
-            "hallucinated_triplets": unsupported_triplets 
+            "hallucinated_triplets": all_hallucinations
         }
 
     def _calc_entity_grounding(self, ans_dict: Dict, ctx_dict: Dict):
@@ -183,3 +194,57 @@ class GraphMetricsCalculator:
         sc_score = 1.0 / components_count
         return sc_score
     
+
+    def _calc_path_relevance(self, ans_ent, ans_triplets, query_ent, query_triplets):
+        if not query_ent or not query_triplets:
+            return 1.0 
+
+        ans_entities_text = set([e.text.lower() for e in ans_ent])
+        ans_relations_text = set([r.lower() for _, r, _ in ans_triplets])
+        q_entities_text = set([e.text.lower() for e in query_ent])
+        q_relations_text = set([r.lower() for _, r, _ in query_triplets])
+
+        alpha, beta = 0.5, 0.5
+        ent_overlap = len(ans_entities_text.intersection(q_entities_text)) / len(q_entities_text) if q_entities_text else 1.0
+        rel_overlap = len(ans_relations_text.intersection(q_relations_text)) / len(q_relations_text) if q_relations_text else 1.0
+
+        return (alpha * ent_overlap) + (beta * rel_overlap)
+
+    def _calc_grapheval_nli(self, unsupported_triplets, ctx_triplets, ctx_ent_dict):
+        if not unsupported_triplets:
+            return 0.0, [] 
+        if not ctx_triplets:
+            return 1.0, unsupported_triplets
+
+        context_phrases = [f"{ctx_ent_dict[h]} {r} {ctx_ent_dict[t]}" for h, r, t in ctx_triplets]
+        context_text = ". ".join(context_phrases) + "."
+
+        nli_hallucinations = []
+        max_inconsistency = 0.0
+
+        for head, rel, tail in unsupported_triplets:
+            hypothesis = f"{head} {rel} {tail}."
+            scores = self.nli_model.predict([(context_text, hypothesis)])[0]
+            
+            probs = np.exp(scores) / np.sum(np.exp(scores))
+            contradiction_prob = probs[0] 
+
+            max_inconsistency = max(max_inconsistency, contradiction_prob)
+            if contradiction_prob > 0.5: 
+                nli_hallucinations.append((head, rel, tail))
+
+        return max_inconsistency, nli_hallucinations
+
+    def _calc_supported_faithfulness(self, supported_edges):
+        if len(supported_edges) < 2:
+            return 1.0 
+            
+        G = nx.DiGraph() 
+        G.add_edges_from(supported_edges)
+        
+        try:
+            longest_path_len = len(nx.dag_longest_path(G)) - 1
+            sfs_score = longest_path_len / len(supported_edges)
+            return min(sfs_score, 1.0)
+        except nx.NetworkXUnfeasible:
+            return 0.5
