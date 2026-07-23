@@ -1,0 +1,815 @@
+[
+  {
+    "document_id": 150,
+    "ragtruth_id": "198",
+    "text": "After an exciting Moving Day at the 2015 Masters, Jordan Spieth remains the leader with a four shot lead. The 21 year old from Dallas, who enjoyed a five-shot lead going into the third round, has been a sensation at Augusta, with his infallible first two rounds and excellent putting skills. His double bogey on the 17th hole and a wobble on the 18th hole may give chasing players some hope. However, despite efforts from players such as Rory McIlroy, Tiger Woods, Phil Mickelson and Justin Rose, they were only able to make a one shot dent into Spieth's second round lead.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Jordan Spieth"
+      },
+      {
+        "id": 1,
+        "text": "players such as Rory McIlroy, Tiger Woods, Phil Mickelson and Justin Rose"
+      },
+      {
+        "id": 2,
+        "text": "a four shot lead"
+      },
+      {
+        "id": 3,
+        "text": "Augusta"
+      },
+      {
+        "id": 4,
+        "text": "first"
+      },
+      {
+        "id": 5,
+        "text": "two"
+      },
+      {
+        "id": 6,
+        "text": "17th"
+      },
+      {
+        "id": 7,
+        "text": "the 18th"
+      },
+      {
+        "id": 8,
+        "text": "one"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "lead",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "from",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "rounds",
+        "tail": 5
+      },
+      {
+        "head": 0,
+        "relation": "hole",
+        "tail": 6
+      },
+      {
+        "head": 0,
+        "relation": "hole",
+        "tail": 7
+      },
+      {
+        "head": 2,
+        "relation": "reducedBy",
+        "tail": 8
+      }
+    ]
+  },
+  {
+    "document_id": 151,
+    "ragtruth_id": "199",
+    "text": "Saturday at the Masters saw players rise and fall on the leaderboard. Rory McIlroy briefly raised hopes of completing a Grand Slam but finished six under par. Tiger Woods showed improvement but still has a long way to go. Phil Mickelson and Justin Rose also made strong showings. However, Jordan Spieth remained unfazed, maintaining his five-shot lead going into the third round. Spieth played a steady round, with only a few mistakes, and his putting was impeccable. He finished with a double bogey on the 17th, giving hope to the chasing pack, but still holds a four-shot lead going into the final day. Anything is possible, as shown by past comebacks, but it would require a meltdown from Spieth.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Jordan Spieth"
+      },
+      {
+        "id": 1,
+        "text": "Anything"
+      },
+      {
+        "id": 2,
+        "text": "Saturday"
+      },
+      {
+        "id": 3,
+        "text": "Rory McIlroy"
+      },
+      {
+        "id": 4,
+        "text": "Grand Slam"
+      },
+      {
+        "id": 5,
+        "text": "six"
+      },
+      {
+        "id": 6,
+        "text": "Tiger Woods"
+      },
+      {
+        "id": 7,
+        "text": "Phil Mickelson"
+      },
+      {
+        "id": 8,
+        "text": "Justin Rose"
+      },
+      {
+        "id": 9,
+        "text": "five"
+      },
+      {
+        "id": 10,
+        "text": "third"
+      },
+      {
+        "id": 11,
+        "text": "the 17th"
+      },
+      {
+        "id": 12,
+        "text": "four"
+      },
+      {
+        "id": 13,
+        "text": "the final day"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "lead",
+        "tail": 9
+      },
+      {
+        "head": 0,
+        "relation": "lead",
+        "tail": 12
+      },
+      {
+        "head": 0,
+        "relation": "round",
+        "tail": 10
+      },
+      {
+        "head": 0,
+        "relation": "round",
+        "tail": 13
+      },
+      {
+        "head": 0,
+        "relation": "hole",
+        "tail": 11
+      }
+    ]
+  },
+  {
+    "document_id": 152,
+    "ragtruth_id": "200",
+    "text": "Saturday at the Masters, known as \"Moving Day,\" saw players rise and fall on the leaderboard. Rory McIlroy and Tiger Woods both finished six under par, while Phil Mickelson and Justin Rose finished eleven and twelve under respectively. Despite their efforts, no one could keep up with Jordan Spieth's five-shot lead going into the third round. Spieth has been a sensation at Augusta, setting a record for most birdies in a single round with 15. With just one round left, Spieth leads by four shots and is poised to win the Masters.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Jordan Spieth's"
+      },
+      {
+        "id": 1,
+        "text": "the Masters"
+      },
+      {
+        "id": 2,
+        "text": "Saturday"
+      },
+      {
+        "id": 3,
+        "text": "Rory McIlroy"
+      },
+      {
+        "id": 4,
+        "text": "Tiger Woods"
+      },
+      {
+        "id": 5,
+        "text": "six"
+      },
+      {
+        "id": 6,
+        "text": "Phil Mickelson"
+      },
+      {
+        "id": 7,
+        "text": "Justin Rose"
+      },
+      {
+        "id": 8,
+        "text": "eleven"
+      },
+      {
+        "id": 9,
+        "text": "twelve"
+      },
+      {
+        "id": 10,
+        "text": "five"
+      },
+      {
+        "id": 11,
+        "text": "third"
+      },
+      {
+        "id": 12,
+        "text": "Augusta"
+      },
+      {
+        "id": 13,
+        "text": "15"
+      },
+      {
+        "id": 14,
+        "text": "one"
+      },
+      {
+        "id": 15,
+        "text": "four"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "date",
+        "tail": 2
+      },
+      {
+        "head": 3,
+        "relation": "score",
+        "tail": 5
+      },
+      {
+        "head": 4,
+        "relation": "score",
+        "tail": 5
+      },
+      {
+        "head": 6,
+        "relation": "score",
+        "tail": 8
+      },
+      {
+        "head": 7,
+        "relation": "score",
+        "tail": 9
+      },
+      {
+        "head": 0,
+        "relation": "lead",
+        "tail": 10
+      },
+      {
+        "head": 0,
+        "relation": "recordAt",
+        "tail": 12
+      },
+      {
+        "head": 0,
+        "relation": "birdiesInRound",
+        "tail": 13
+      },
+      {
+        "head": 0,
+        "relation": "lead",
+        "tail": 15
+      },
+      {
+        "head": 0,
+        "relation": "round",
+        "tail": 11
+      },
+      {
+        "head": 0,
+        "relation": "wins",
+        "tail": 1
+      }
+    ]
+  },
+  {
+    "document_id": 153,
+    "ragtruth_id": "201",
+    "text": "On Saturday at the Masters, Rory McIlroy and Tiger Woods had solid performances but couldn't catch leader Jordan Spieth, who maintained his lead despite a few mistakes. Spieth's 15 birdies are the most at the Masters since 2001, and he could break Tiger Woods' scoring record. While other contenders like Phil Mickelson and Justin Rose made moves up the leaderboard, they were unable to close the gap on Spieth. Despite a double bogey on the 17th hole, Spieth remains in the lead heading into the final day of the tournament, four shots ahead of his closest competitors.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "leader Jordan Spieth, who maintained his lead despite a few mistakes"
+      },
+      {
+        "id": 1,
+        "text": "the Masters"
+      },
+      {
+        "id": 2,
+        "text": "Tiger Woods"
+      },
+      {
+        "id": 3,
+        "text": "Saturday"
+      },
+      {
+        "id": 4,
+        "text": "Rory McIlroy"
+      },
+      {
+        "id": 5,
+        "text": "15"
+      },
+      {
+        "id": 6,
+        "text": "2001"
+      },
+      {
+        "id": 7,
+        "text": "Phil Mickelson"
+      },
+      {
+        "id": 8,
+        "text": "Justin Rose"
+      },
+      {
+        "id": 9,
+        "text": "17th"
+      },
+      {
+        "id": 10,
+        "text": "the final day"
+      },
+      {
+        "id": 11,
+        "text": "four"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "eventDate",
+        "tail": 3
+      },
+      {
+        "head": 1,
+        "relation": "participant",
+        "tail": 4
+      },
+      {
+        "head": 1,
+        "relation": "participant",
+        "tail": 2
+      },
+      {
+        "head": 1,
+        "relation": "participant",
+        "tail": 7
+      },
+      {
+        "head": 1,
+        "relation": "participant",
+        "tail": 8
+      },
+      {
+        "head": 0,
+        "relation": "birdies",
+        "tail": 5
+      },
+      {
+        "head": 1,
+        "relation": "since",
+        "tail": 6
+      },
+      {
+        "head": 0,
+        "relation": "aheadBy",
+        "tail": 11
+      },
+      {
+        "head": 0,
+        "relation": "aheadOf",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "aheadOf",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "aheadOf",
+        "tail": 7
+      },
+      {
+        "head": 0,
+        "relation": "aheadOf",
+        "tail": 8
+      },
+      {
+        "head": 0,
+        "relation": "aheadOf",
+        "tail": 10
+      }
+    ]
+  },
+  {
+    "document_id": 154,
+    "ragtruth_id": "202",
+    "text": "Jordan Spieth maintained his lead at the Masters despite a solid round from Tiger Woods and a late surge from Justin Rose. Spieth, 21, has a five-shot lead going into the final round and has been nearly flawless so far. Woods and Rose both made moves up the leaderboard, but couldn't quite catch up to Spieth. The young player has been impressive, making 15 birdies so far and showing little sign of faltering. Despite some minor mistakes, Spieth remains the favorite to win and will start Sunday's final round with a four-shot lead.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Jordan Spieth"
+      },
+      {
+        "id": 1,
+        "text": "Tiger Woods"
+      },
+      {
+        "id": 2,
+        "text": "Justin Rose"
+      },
+      {
+        "id": 3,
+        "text": "the final round"
+      },
+      {
+        "id": 4,
+        "text": "a five-shot lead"
+      },
+      {
+        "id": 5,
+        "text": "15"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "lead",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "leadInto",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "birdies",
+        "tail": 5
+      }
+    ]
+  },
+  {
+    "document_id": 155,
+    "ragtruth_id": "203",
+    "text": "On Moving Day at the 2015 Masters, Rory McIlroy and Tiger Woods made moves up the leaderboard, but Jordan Spieth remained in the lead. Spieth played a steady round, making 15 birdies and finishing 12 under par. Despite a double bogey on the 17th hole, he maintains a four-shot lead going into the final round. Phil Mickelson and Justin Rose also had strong rounds, finishing 11 under and 12 under respectively. However, none of the players were able to make a significant dent in Spieth's lead, leaving him as the favorite to win the tournament.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Jordan Spieth"
+      },
+      {
+        "id": 1,
+        "text": "Phil Mickelson and Justin Rose"
+      },
+      {
+        "id": 2,
+        "text": "a four-shot lead"
+      },
+      {
+        "id": 3,
+        "text": "the 2015 Masters"
+      },
+      {
+        "id": 4,
+        "text": "Moving Day"
+      },
+      {
+        "id": 5,
+        "text": "Rory McIlroy"
+      },
+      {
+        "id": 6,
+        "text": "Tiger Woods"
+      },
+      {
+        "id": 7,
+        "text": "15"
+      },
+      {
+        "id": 8,
+        "text": "12"
+      },
+      {
+        "id": 9,
+        "text": "17th"
+      },
+      {
+        "id": 10,
+        "text": "11"
+      },
+      {
+        "id": 11,
+        "text": "12"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "leaderAt",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "event",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "favoriteToWin",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "round",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "birdies",
+        "tail": 7
+      },
+      {
+        "head": 0,
+        "relation": "scoreUnderPar",
+        "tail": 8
+      },
+      {
+        "head": 0,
+        "relation": "hole",
+        "tail": 9
+      },
+      {
+        "head": 1,
+        "relation": "scoreUnderPar",
+        "tail": 10
+      },
+      {
+        "head": 1,
+        "relation": "scoreUnderPar",
+        "tail": 11
+      }
+    ]
+  },
+  {
+    "document_id": 156,
+    "ragtruth_id": "216",
+    "text": "A 21-year-old quadriplegic man with cerebral palsy was left in a Philadelphia park for four days by his mother, who abandoned him to visit her boyfriend in Maryland, according to police. The man, who was found lying in Cobbs Creek Park with just a blanket and a Bible, is unable to communicate how he came to be there. The mother, who has not been identified, is now facing multiple charges including aggravated assault, reckless endangerment, neglect, unlawful restraint, kidnapping and false imprisonment. The man, who suffered eye problems, dehydration, malnutrition and a cut that may become infected, is currently being treated in hospital. His mother's sisters, who had been willing to look after him, are now staying with him at the hospital.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "A 21-year-old quadriplegic man with cerebral palsy"
+      },
+      {
+        "id": 1,
+        "text": "his mother, who abandoned him to visit her boyfriend in Maryland"
+      },
+      {
+        "id": 2,
+        "text": "a Philadelphia park"
+      },
+      {
+        "id": 3,
+        "text": "hospital"
+      },
+      {
+        "id": 4,
+        "text": "four days"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "locatedIn",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "duration",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "abandonedBy",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "treatedIn",
+        "tail": 3
+      }
+    ]
+  },
+  {
+    "document_id": 157,
+    "ragtruth_id": "217",
+    "text": "A 21-year-old quadriplegic with cerebral palsy was abandoned in a park in Philadelphia for over four days by his mother. The man was left with only a blanket and a Bible while experiencing low temperatures and rain. He was found by officials from the School of the Future, which he attends, after he didn't show up for classes. When police located the mother, she initially claimed that her son was with her in Maryland. She now faces charges including aggravated assault, neglect of a care-dependent person, and false imprisonment. The man suffered from eye problems, dehydration, malnutrition, and a cut on his back. He is being treated at a hospital, and two of his aunts, who have tried to obtain guardianship of him, are staying with him. Authorities are investigating the case to understand how the man was cared for and what actions were taken by different agencies.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "A 21-year-old quadriplegic with cerebral palsy"
+      },
+      {
+        "id": 1,
+        "text": "his mother"
+      },
+      {
+        "id": 2,
+        "text": "Philadelphia"
+      },
+      {
+        "id": 3,
+        "text": "four days"
+      },
+      {
+        "id": 4,
+        "text": "Bible"
+      },
+      {
+        "id": 5,
+        "text": "the School of the Future"
+      },
+      {
+        "id": 6,
+        "text": "Maryland"
+      },
+      {
+        "id": 7,
+        "text": "two"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "abandonedIn",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "abandonedForDuration",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "hasItem",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "attends",
+        "tail": 5
+      },
+      {
+        "head": 1,
+        "relation": "claimedLocatedIn",
+        "tail": 6
+      }
+    ]
+  },
+  {
+    "document_id": 158,
+    "ragtruth_id": "218",
+    "text": "A 21-year-old quadriplegic with cerebral palsy was abandoned in the woods of Philadelphia's Cobbs Creek Park for four days by his own mother. The woman, who is the boy's mother, has been arrested and charged with several crimes including aggravated assault, simple assault, reckless endangerment of another person, neglect of a care-dependent person, unlawful restraint, kidnapping, and false imprisonment. The boy was found unconscious and suffering from hypothermia, dehydration, malnutrition, and a cut to the back that has raised infection concerns. It is unclear how the boy ended up in the park, but authorities believe that the mother left him there while she went to visit her boyfriend in Maryland. The boy's school became concerned when he did not show up for classes and tried to contact his mother, but eventually reached an aunt. When police tracked down the mother, she denied knowing anything about the boy's whereabouts. The boy was transported to Presbyterian Hospital, but CNN affiliates reported that he was being treated at The Children's Hospital of Philadelphia. The mother now stands charged with aggravated assault, simple assault, reckless endangerment of another person, neglect of a care-dependent person, unlawful restraint, kidnapping, and false imprisonment.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "A 21-year-old quadriplegic with cerebral palsy"
+      },
+      {
+        "id": 1,
+        "text": "his own mother"
+      },
+      {
+        "id": 2,
+        "text": "Philadelphia's Cobbs Creek Park"
+      },
+      {
+        "id": 3,
+        "text": "Philadelphia's"
+      },
+      {
+        "id": 4,
+        "text": "aggravated assault, simple assault, reckless endangerment of another person, neglect of a care-dependent person, unlawful restraint, kidnapping, and false imprisonment"
+      },
+      {
+        "id": 5,
+        "text": "four days"
+      },
+      {
+        "id": 6,
+        "text": "Maryland"
+      },
+      {
+        "id": 7,
+        "text": "Presbyterian Hospital"
+      },
+      {
+        "id": 8,
+        "text": "CNN"
+      },
+      {
+        "id": 9,
+        "text": "The Children's Hospital of Philadelphia"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "mother",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "locatedIn",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "duration",
+        "tail": 5
+      },
+      {
+        "head": 1,
+        "relation": "visited",
+        "tail": 6
+      },
+      {
+        "head": 0,
+        "relation": "transportedTo",
+        "tail": 7
+      },
+      {
+        "head": 0,
+        "relation": "treatedAt",
+        "tail": 9
+      },
+      {
+        "head": 1,
+        "relation": "chargedWith",
+        "tail": 4
+      }
+    ]
+  },
+  {
+    "document_id": 159,
+    "ragtruth_id": "219",
+    "text": "A 21-year-old quadriplegic man with cerebral palsy was abandoned in a Philadelphia park for four days by his mother, who then fled to Maryland to visit her boyfriend. The man was found with only a blanket and a Bible, and suffered from exposure and dehydration. The mother, who faces multiple charges including aggravated assault and neglect, claimed the man was with her, but later admitted he was in the park. An investigation is underway to determine how the man was left alone and uncared for.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "A 21-year-old quadriplegic man with cerebral palsy"
+      },
+      {
+        "id": 1,
+        "text": "his mother, who then fled to Maryland to visit her boyfriend"
+      },
+      {
+        "id": 2,
+        "text": "a Philadelphia park"
+      },
+      {
+        "id": 3,
+        "text": "four days"
+      },
+      {
+        "id": 4,
+        "text": "Bible"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "abandonedIn",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "abandonedForDuration",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "abandonedBy",
+        "tail": 1
+      },
+      {
+        "head": 1,
+        "relation": "fledTo",
+        "tail": 2
+      }
+    ]
+  }
+]

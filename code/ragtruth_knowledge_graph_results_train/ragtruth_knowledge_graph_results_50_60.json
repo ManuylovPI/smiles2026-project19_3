@@ -1,0 +1,470 @@
+[
+  {
+    "document_id": 50,
+    "ragtruth_id": "74",
+    "text": "The popular TV show \"Mad Men\" is coming to an end after seven seasons. The show, which takes place in the 1960s, follows a group of advertising executives and their personal lives during that time period. The end of the show has been anticipated by fans for several months, and many are eagerly awaiting the final episode. The show has had a significant impact on popular culture, with stores creating fashion lines inspired by the show and even a \"Mad Men\" presidential reference. The finale of the show is expected to take place on Sunday, with many viewers tuning in to see how the story wraps up.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "The popular TV show \"Mad Men\""
+      },
+      {
+        "id": 1,
+        "text": "a group of advertising executives"
+      },
+      {
+        "id": 2,
+        "text": "the 1960s"
+      },
+      {
+        "id": 3,
+        "text": "an end"
+      },
+      {
+        "id": 4,
+        "text": "the final episode"
+      },
+      {
+        "id": 5,
+        "text": "an end after seven seasons"
+      },
+      {
+        "id": 6,
+        "text": "several months"
+      },
+      {
+        "id": 7,
+        "text": "\"Mad Men"
+      },
+      {
+        "id": 8,
+        "text": "Sunday"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "takesPlaceIn",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "endsAfter",
+        "tail": 5
+      },
+      {
+        "head": 0,
+        "relation": "finalEpisode",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "finalEpisodeDate",
+        "tail": 8
+      }
+    ]
+  },
+  {
+    "document_id": 51,
+    "ragtruth_id": "75",
+    "text": "The final season of the popular TV series \"Mad Men\" premieres on April 1st, marking the end of an era. Set in the 1960s, the show follows the lives of employees at a fictional advertising agency in New York City. The last episode ended with the moon landing in July 1969, and fans are eagerly anticipating what will happen next. The show's creator, Matthew Weiner, has remained tight-lipped about the finale, but based on previous seasons, it is likely that the show will continue to explore themes of disintegration and change. Characters such as Don Draper, the creative director played by Jon Hamm, and Peggy Olson, an up-and-coming advertising executive played by Elisabeth Moss, are expected to play a significant role in the final season. The show is known for its accurate depiction of the cultural and social changes of the 1960s, including the rise of feminism, the civil rights movement, and the drug culture. As the show comes to a close, fans are speculating about the fate of the characters and the future of the advertising industry.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "the popular TV series \"Mad Men\""
+      },
+      {
+        "id": 1,
+        "text": "The final season of the popular TV series \"Mad Men\""
+      },
+      {
+        "id": 2,
+        "text": "the 1960s"
+      },
+      {
+        "id": 3,
+        "text": "April 1st"
+      },
+      {
+        "id": 4,
+        "text": "New York City"
+      },
+      {
+        "id": 5,
+        "text": "July 1969"
+      },
+      {
+        "id": 6,
+        "text": "Matthew Weiner"
+      },
+      {
+        "id": 7,
+        "text": "previous seasons"
+      },
+      {
+        "id": 8,
+        "text": "Don Draper"
+      },
+      {
+        "id": 9,
+        "text": "Jon Hamm"
+      },
+      {
+        "id": 10,
+        "text": "Peggy Olson"
+      },
+      {
+        "id": 11,
+        "text": "Elisabeth Moss"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "premiereDate",
+        "tail": 3
+      },
+      {
+        "head": 1,
+        "relation": "partOf",
+        "tail": 0
+      },
+      {
+        "head": 0,
+        "relation": "setIn",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "locatedIn",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "creator",
+        "tail": 6
+      },
+      {
+        "head": 1,
+        "relation": "significantRole",
+        "tail": 8
+      },
+      {
+        "head": 8,
+        "relation": "playedBy",
+        "tail": 9
+      },
+      {
+        "head": 1,
+        "relation": "significantRole",
+        "tail": 10
+      },
+      {
+        "head": 10,
+        "relation": "playedBy",
+        "tail": 11
+      }
+    ]
+  },
+  {
+    "document_id": 52,
+    "ragtruth_id": "76",
+    "text": "The final season of the critically acclaimed drama series \"Mad Men\" premieres on Sunday, marking the end of an era for the show set in the 1960s. The show, which has become a part of the national fabric, follows the lives of the employees of a fictional advertising agency and their personal struggles as they navigate the tumultuous decade. The finale is expected to wrap up loose ends and provide closure for the characters, with speculation that the show may tackle events such as the Manson murders, Woodstock, and the Vietnam War moratorium demonstrations. Creator Matthew Weiner has remained tight-lipped about the finale, leaving fans guessing about what will happen to the characters they have come to know and love.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "the critically acclaimed drama series \"Mad Men\""
+      },
+      {
+        "id": 1,
+        "text": "the employees of a fictional advertising agency"
+      },
+      {
+        "id": 2,
+        "text": "the 1960s"
+      },
+      {
+        "id": 3,
+        "text": "The final season of the critically acclaimed drama series \"Mad Men\""
+      },
+      {
+        "id": 4,
+        "text": "fans"
+      },
+      {
+        "id": 5,
+        "text": "Sunday"
+      },
+      {
+        "id": 6,
+        "text": "Manson"
+      },
+      {
+        "id": 7,
+        "text": "Woodstock"
+      },
+      {
+        "id": 8,
+        "text": "the Vietnam War"
+      },
+      {
+        "id": 9,
+        "text": "Matthew Weiner"
+      }
+    ],
+    "relations": [
+      {
+        "head": 3,
+        "relation": "premieresOn",
+        "tail": 5
+      },
+      {
+        "head": 3,
+        "relation": "partOf",
+        "tail": 0
+      },
+      {
+        "head": 0,
+        "relation": "setIn",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "follows",
+        "tail": 1
+      },
+      {
+        "head": 9,
+        "relation": "creator",
+        "tail": 0
+      }
+    ]
+  },
+  {
+    "document_id": 53,
+    "ragtruth_id": "77",
+    "text": "The final season of the popular TV series \"Mad Men\" premieres on Sunday, and fans are eager to see how the show will conclude. The period drama, set in the 1960s, has become a cultural phenomenon and a symbol of the era. The show's creator, Matthew Weiner, has been tight-lipped about the finale, but speculation suggests that the new season will pick up where the previous one left off, in the latter half of 1969. The show's characters have evolved over the years, and fans expect that the final season will provide closure for the characters they have come to know and love. Don Draper, the show's protagonist, is expected to continue to struggle with his personal demons, while Peggy Olson's star is expected to continue to rise. Fans also speculate that the show may address real-life events such as the Manson murders, Woodstock, and the Vietnam War moratorium demonstrations. Ultimately, fans are prepared for a poignant and thought-provoking conclusion to the beloved series.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "the popular TV series \"Mad Men\""
+      },
+      {
+        "id": 1,
+        "text": "the 1960s"
+      },
+      {
+        "id": 2,
+        "text": "The final season of the popular TV series \"Mad Men\""
+      },
+      {
+        "id": 3,
+        "text": "The show's characters"
+      },
+      {
+        "id": 4,
+        "text": "fans"
+      },
+      {
+        "id": 5,
+        "text": "Don Draper, the show's protagonist"
+      },
+      {
+        "id": 6,
+        "text": "Sunday"
+      },
+      {
+        "id": 7,
+        "text": "Matthew Weiner"
+      },
+      {
+        "id": 8,
+        "text": "the latter half of 1969"
+      },
+      {
+        "id": 9,
+        "text": "the years"
+      },
+      {
+        "id": 10,
+        "text": "Peggy Olson's"
+      },
+      {
+        "id": 11,
+        "text": "Manson"
+      },
+      {
+        "id": 12,
+        "text": "Woodstock"
+      },
+      {
+        "id": 13,
+        "text": "the Vietnam War"
+      }
+    ],
+    "relations": [
+      {
+        "head": 2,
+        "relation": "premieresOn",
+        "tail": 6
+      },
+      {
+        "head": 0,
+        "relation": "setIn",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "symbolOf",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "creator",
+        "tail": 7
+      },
+      {
+        "head": 2,
+        "relation": "setIn",
+        "tail": 8
+      },
+      {
+        "head": 3,
+        "relation": "evolvesOver",
+        "tail": 9
+      }
+    ]
+  },
+  {
+    "document_id": 54,
+    "ragtruth_id": "78",
+    "text": "On a recent episode of \"The Price Is Right\" game show, model Manuela Arbelaez accidentally revealed the correct answer to a guessing game, awarding a contestant a new car.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "The Price Is Right"
+      },
+      {
+        "id": 1,
+        "text": "Manuela Arbelaez"
+      }
+    ],
+    "relations": []
+  },
+  {
+    "document_id": 55,
+    "ragtruth_id": "79",
+    "text": "Model Manuela Arbelaez accidentally revealed the correct answer to a guessing game on \"The Price Is Right,\" giving away a brand-new car. Host Drew Carey found it amusing.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "revealed"
+      },
+      {
+        "id": 1,
+        "text": "Model Manuela Arbelaez"
+      },
+      {
+        "id": 2,
+        "text": "\"The Price Is Right"
+      },
+      {
+        "id": 3,
+        "text": "Drew Carey"
+      }
+    ],
+    "relations": [
+      {
+        "head": 2,
+        "relation": "host",
+        "tail": 3
+      }
+    ]
+  },
+  {
+    "document_id": 56,
+    "ragtruth_id": "80",
+    "text": "\"The Price Is Right\" contestant Manuela Arbelaez accidentally reveals the correct answer to a guessing game for a new Hyundai Sonata, resulting in her winning the car.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "\"The Price Is Right\" contestant Manuela Arbelaez"
+      },
+      {
+        "id": 1,
+        "text": "a new Hyundai Sonata"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "won",
+        "tail": 1
+      }
+    ]
+  },
+  {
+    "document_id": 57,
+    "ragtruth_id": "81",
+    "text": "Model Manuela Arbelaez accidentally revealed the correct answer on \"The Price is Right,\" leading to hilarious moment as host Drew Carey couldn't stop laughing.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Model Manuela Arbelaez"
+      },
+      {
+        "id": 1,
+        "text": "\"The Price is Right"
+      },
+      {
+        "id": 2,
+        "text": "Drew Carey"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "host",
+        "tail": 2
+      }
+    ]
+  },
+  {
+    "document_id": 58,
+    "ragtruth_id": "82",
+    "text": "On The Price is Right, model Manuela Arbelaez accidentally gave away a car to a contestant, causing host Drew Carey to laugh and the audience to gasp.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Manuela Arbelaez"
+      },
+      {
+        "id": 1,
+        "text": "Drew Carey"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "gaveAway",
+        "tail": 1
+      }
+    ]
+  },
+  {
+    "document_id": 59,
+    "ragtruth_id": "83",
+    "text": "Model Manuela Arbelaez accidentally reveals correct answer on \"The Price is Right,\" giving away a new car, causing laughter and embarrassment.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Model Manuela Arbelaez"
+      },
+      {
+        "id": 1,
+        "text": "\"The Price is Right"
+      }
+    ],
+    "relations": []
+  }
+]

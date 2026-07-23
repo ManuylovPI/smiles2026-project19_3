@@ -1,0 +1,500 @@
+[
+  {
+    "document_id": 200,
+    "ragtruth_id": "266",
+    "text": "Apple recently released an update to its mobile operating system that includes more diverse emojis, including a range of skin tones for human emojis and a Santa Claus emoji with a brown skin tone. This change has sparked both cheers and jeers, with some seeing it as a positive recognition of diversity while others are criticizing it for promoting a particular agenda. The emojis have become an important representation of identity in the digital age, where texting is a common way of communication. However, the inclusion of certain emojis may be controversial, such as the gay couple emojis, which could potentially lead to discrimination against LGBTQ individuals. Despite this controversy, the move towards greater diversity in emojis is seen as a step in the right direction, as it reflects the changing demographics of America.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Apple"
+      },
+      {
+        "id": 1,
+        "text": "This change"
+      },
+      {
+        "id": 2,
+        "text": "the move towards greater diversity in emojis"
+      },
+      {
+        "id": 3,
+        "text": "Santa Claus"
+      },
+      {
+        "id": 4,
+        "text": "America"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "released",
+        "tail": 1
+      },
+      {
+        "head": 1,
+        "relation": "includes",
+        "tail": 3
+      },
+      {
+        "head": 2,
+        "relation": "reflects",
+        "tail": 4
+      }
+    ]
+  },
+  {
+    "document_id": 201,
+    "ragtruth_id": "267",
+    "text": "Apple recently released a new version of its mobile operating system, which includes more diverse emojis such as different skin tones, gay and lesbian couples, and even a Palestinian flag emoji. While the update has been met with cheers from many, some groups are still upset that their representation was not included. Redheads, for example, are calling for their own emoji, while Canadians are happy to see their flag included but Armenians are upset that theirs was left out. The inclusion of more diverse emojis is seen as a step towards representing the changing demographics of America, but some argue that it took too long to happen.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Apple"
+      },
+      {
+        "id": 1,
+        "text": "a new version of its mobile operating system"
+      },
+      {
+        "id": 2,
+        "text": "some groups"
+      },
+      {
+        "id": 3,
+        "text": "Redheads"
+      },
+      {
+        "id": 4,
+        "text": "Canadians"
+      },
+      {
+        "id": 5,
+        "text": "Armenians"
+      },
+      {
+        "id": 6,
+        "text": "The inclusion of more diverse emojis"
+      },
+      {
+        "id": 7,
+        "text": "lesbian couples"
+      },
+      {
+        "id": 8,
+        "text": "Palestinian"
+      },
+      {
+        "id": 9,
+        "text": "emoji"
+      },
+      {
+        "id": 10,
+        "text": "America"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "releasedBy",
+        "tail": 0
+      },
+      {
+        "head": 1,
+        "relation": "includes",
+        "tail": 7
+      },
+      {
+        "head": 1,
+        "relation": "includes",
+        "tail": 8
+      },
+      {
+        "head": 8,
+        "relation": "emoji",
+        "tail": 9
+      },
+      {
+        "head": 6,
+        "relation": "represents",
+        "tail": 10
+      }
+    ]
+  },
+  {
+    "document_id": 202,
+    "ragtruth_id": "268",
+    "text": "Apple has released a new version of its mobile operating system with more diverse emojis, including different skin tones, gay and lesbian couples, and flags from various countries. The update has received mixed reactions, with some praising the inclusion of diverse representation and others criticizing the lack of representation for certain groups such as redheads. The new emojis come after a long history of controversy over the lack of diversity in emojis, and some have called for more inclusivity in the future.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Apple"
+      },
+      {
+        "id": 1,
+        "text": "a new version of its mobile operating system with more diverse emojis, including different skin tones, gay and lesbian couples, and flags from various countries"
+      },
+      {
+        "id": 2,
+        "text": "more diverse emojis, including different skin tones, gay and lesbian couples, and flags from various countries"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "released",
+        "tail": 1
+      },
+      {
+        "head": 1,
+        "relation": "includes",
+        "tail": 2
+      }
+    ]
+  },
+  {
+    "document_id": 203,
+    "ragtruth_id": "269",
+    "text": "Apple has released a new version of its mobile operating system that includes more diverse emojis, including different skin tones, gay and lesbian couple emojis, and new flag emojis. The response has been mixed, with some people celebrating the increased representation and others criticizing the lack of representation for certain groups, such as redheads. The inclusion of a Palestinian flag emoji has also been noted, while Armenia has been left out. The update is seen as a step in the right direction towards reflecting the changing demographics of America, but some conservatives may still object to certain emojis, such as the gay couple emojis, citing \"religious liberty\".",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Apple"
+      },
+      {
+        "id": 1,
+        "text": "gay and lesbian couple emojis"
+      },
+      {
+        "id": 2,
+        "text": "Palestinian"
+      },
+      {
+        "id": 3,
+        "text": "emoji"
+      },
+      {
+        "id": 4,
+        "text": "Armenia"
+      },
+      {
+        "id": 5,
+        "text": "America"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "includes",
+        "tail": 2
+      },
+      {
+        "head": 1,
+        "relation": "includes",
+        "tail": 3
+      }
+    ]
+  },
+  {
+    "document_id": 204,
+    "ragtruth_id": "276",
+    "text": "Former NFL star, Aaron Hernandez, has been found guilty of first-degree murder and sentenced to life imprisonment without the possibility of parole. The former New England Patriots tight end was convicted of the murder of Odin Lloyd in June 2013. Lloyd was a semi-pro football player for the Boston Bandits and was dating the sister of Hernandez's fiancée. Lloyd's mother, Ursula Ward, said in court that her son was \"the backbone of the family\" and his death had caused her two years of pain. She also told the court that she forgave those involved in her son's murder, hoping that others would do the same. Hernandez's lawyers argued that he had witnessed the shooting, but the murder had been committed by two of his friends. However, the jury did not believe this argument and convicted Hernandez after more than 35 hours of deliberations.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Former NFL star, Aaron Hernandez"
+      },
+      {
+        "id": 1,
+        "text": "Odin Lloyd"
+      },
+      {
+        "id": 2,
+        "text": "Lloyd's mother, Ursula Ward"
+      },
+      {
+        "id": 3,
+        "text": "court"
+      },
+      {
+        "id": 4,
+        "text": "the murder of Odin Lloyd in June 2013"
+      },
+      {
+        "id": 5,
+        "text": "argued"
+      },
+      {
+        "id": 6,
+        "text": "first"
+      },
+      {
+        "id": 7,
+        "text": "the Boston Bandits"
+      },
+      {
+        "id": 8,
+        "text": "two years"
+      },
+      {
+        "id": 9,
+        "text": "two"
+      },
+      {
+        "id": 10,
+        "text": "more than 35 hours"
+      }
+    ],
+    "relations": [
+      {
+        "head": 4,
+        "relation": "victim",
+        "tail": 1
+      },
+      {
+        "head": 1,
+        "relation": "mother",
+        "tail": 2
+      },
+      {
+        "head": 1,
+        "relation": "team",
+        "tail": 7
+      },
+      {
+        "head": 0,
+        "relation": "convictedOf",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "sentence",
+        "tail": 6
+      }
+    ]
+  },
+  {
+    "document_id": 205,
+    "ragtruth_id": "277",
+    "text": "Former pro-football player Aaron Hernandez was convicted of first degree murder and sentenced to life in prison for the killing of Odin Lloyd. Lloyd was described as the backbone of his family, a champion of family, a gifted athlete, and a hard worker with a sense of humor. His mother, sister, uncle, and cousin spoke in court, expressing their grief and the impact of losing Lloyd. They highlighted his positive qualities and the special moments they shared with him. Lloyd's mother mentioned that she constantly thinks about her son and has found strength in the act of forgiveness. The article ends by questioning what the future holds for Hernandez.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Odin Lloyd"
+      },
+      {
+        "id": 1,
+        "text": "His mother, sister, uncle, and cousin"
+      },
+      {
+        "id": 2,
+        "text": "the killing of Odin Lloyd"
+      },
+      {
+        "id": 3,
+        "text": "His mother"
+      },
+      {
+        "id": 4,
+        "text": "Former pro-football player Aaron Hernandez"
+      }
+    ],
+    "relations": [
+      {
+        "head": 2,
+        "relation": "victim",
+        "tail": 0
+      },
+      {
+        "head": 4,
+        "relation": "convictedFor",
+        "tail": 2
+      }
+    ]
+  },
+  {
+    "document_id": 206,
+    "ragtruth_id": "278",
+    "text": "Ursula Ward, the mother of Odin Lloyd, the 27-year-old victim of Aaron Hernandez's murder, gave a tearful testimony at Hernandez's trial. Ward spoke about the impact her son's death has had on her life, including the constant thoughts of him and the forgiveness she has found. Aaron Hernandez was convicted of first degree murder and sentenced to life in prison for the killing of Odin Lloyd, who was a former pro-football player and member of the Boston Bandits.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Aaron Hernandez's"
+      },
+      {
+        "id": 1,
+        "text": "Ursula Ward, the mother of Odin Lloyd, the 27-year-old victim of Aaron Hernandez's murder"
+      },
+      {
+        "id": 2,
+        "text": "Odin Lloyd, the 27-year-old victim of Aaron Hernandez's murder"
+      },
+      {
+        "id": 3,
+        "text": "Aaron Hernandez's murder"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "motherOf",
+        "tail": 2
+      },
+      {
+        "head": 3,
+        "relation": "victim",
+        "tail": 2
+      }
+    ]
+  },
+  {
+    "document_id": 207,
+    "ragtruth_id": "279",
+    "text": "Ursula Ward, the mother of Odin Lloyd, a 27-year-old man who was murdered in 2013, delivered an emotional statement in court as his killer, Aaron Hernandez, was sentenced to life in prison without parole. Ward spoke about the pain and grief she has endured since her son's death and expressed her forgiveness towards those involved in his murder. His sister, Olivia Thibou, also tearfully shared memories of her brother, including his prideful nature and kindness. The family members emphasized Odin's positive qualities and impact on their lives, while they also addressed the court to express their gratitude for the justice served. Meanwhile, Hernandez's fate is sealed, with no possibility of parole.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Odin Lloyd, a 27-year-old man who was murdered in 2013"
+      },
+      {
+        "id": 1,
+        "text": "Ursula Ward, the mother of Odin Lloyd, a 27-year-old man who was murdered in 2013"
+      },
+      {
+        "id": 2,
+        "text": "murdered"
+      },
+      {
+        "id": 3,
+        "text": "His sister, Olivia Thibou"
+      },
+      {
+        "id": 4,
+        "text": "The family members"
+      },
+      {
+        "id": 5,
+        "text": "court"
+      },
+      {
+        "id": 6,
+        "text": "his killer, Aaron Hernandez,"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "mother",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "sister",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "murderedIn",
+        "tail": 2
+      },
+      {
+        "head": 6,
+        "relation": "killerOf",
+        "tail": 0
+      },
+      {
+        "head": 1,
+        "relation": "spokeIn",
+        "tail": 5
+      },
+      {
+        "head": 4,
+        "relation": "addressed",
+        "tail": 5
+      }
+    ]
+  },
+  {
+    "document_id": 208,
+    "ragtruth_id": "280",
+    "text": "Ursula Ward, the mother of Odin Lloyd, spoke in court during the sentencing of her son's killer, Aaron Hernandez, expressing her grief and remembering her son as a kind and loving person. Odin was a hard worker and a gifted athlete who was taken from his family too soon. His loved ones described him as the backbone of the family and the man of the house. Ward expressed her forgiveness towards those involved in her son's murder and hopes that others will do the same. The judge sentenced Hernandez to life in prison without parole.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Ursula Ward, the mother of Odin Lloyd"
+      },
+      {
+        "id": 1,
+        "text": "Odin Lloyd"
+      },
+      {
+        "id": 2,
+        "text": "his family"
+      },
+      {
+        "id": 3,
+        "text": "her son's killer, Aaron Hernandez"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "motherOf",
+        "tail": 1
+      },
+      {
+        "head": 1,
+        "relation": "sonOf",
+        "tail": 0
+      }
+    ]
+  },
+  {
+    "document_id": 209,
+    "ragtruth_id": "281",
+    "text": "Ursula Ward, the mother of Odin Lloyd, spoke in court about her son's killing by Aaron Hernandez, who was convicted of first-degree murder and sentenced to life in prison. Ward described Lloyd as the \"backbone of the family\" and the \"man of the house,\" who was a gifted athlete and hard worker with a sense of humor. Lloyd's sister, uncle, and cousin also spoke about his positive qualities and the impact his death has had on their lives. Lloyd's mother and sister expressed their forgiveness towards those responsible for his murder, and Ward stated that she hopes others will also forgive them. As for Hernandez, he will serve life in prison without parole.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Ursula Ward, the mother of Odin Lloyd"
+      },
+      {
+        "id": 1,
+        "text": "Odin Lloyd"
+      },
+      {
+        "id": 2,
+        "text": "Lloyd's sister, uncle, and cousin"
+      },
+      {
+        "id": 3,
+        "text": "his death"
+      },
+      {
+        "id": 4,
+        "text": "those responsible for his murder"
+      },
+      {
+        "id": 5,
+        "text": "Aaron Hernandez, who was convicted of first-degree murder and sentenced to life in prison"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "mother",
+        "tail": 0
+      },
+      {
+        "head": 1,
+        "relation": "killedBy",
+        "tail": 5
+      },
+      {
+        "head": 5,
+        "relation": "convictedOf",
+        "tail": 3
+      }
+    ]
+  }
+]

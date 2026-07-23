@@ -1,0 +1,729 @@
+[
+  {
+    "document_id": 40,
+    "ragtruth_id": "52",
+    "text": "In November, Hong Kong police found two women dead in an upscale apartment, allegedly killed by 29-year-old British banker Rurik Jutting. The victims were a 25-year-old Indonesian woman and a 29-year-old woman from Indonesia. Jutting was charged with two counts of murder. The victims were reportedly found with cuts to their necks and buttocks, and one was stuffed inside a suitcase on the balcony. Jutting had lived in the apartment and worked as a trader at Bank of America Merrill Lynch. Police found a knife and other evidence during a search of the premises. The case has shocked the city and raised questions about the treatment of foreign domestic workers in Hong Kong.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "two women"
+      },
+      {
+        "id": 1,
+        "text": "29-year-old British banker Rurik Jutting"
+      },
+      {
+        "id": 2,
+        "text": "an upscale apartment"
+      },
+      {
+        "id": 3,
+        "text": "Hong Kong"
+      },
+      {
+        "id": 4,
+        "text": "November"
+      },
+      {
+        "id": 5,
+        "text": "25-year-old"
+      },
+      {
+        "id": 6,
+        "text": "Indonesian"
+      },
+      {
+        "id": 7,
+        "text": "29-year-old"
+      },
+      {
+        "id": 8,
+        "text": "Indonesia"
+      },
+      {
+        "id": 9,
+        "text": "two"
+      },
+      {
+        "id": 10,
+        "text": "Bank of America Merrill Lynch"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "livedIn",
+        "tail": 2
+      },
+      {
+        "head": 1,
+        "relation": "workedAt",
+        "tail": 10
+      },
+      {
+        "head": 0,
+        "relation": "foundIn",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "foundIn",
+        "tail": 3
+      },
+      {
+        "head": 1,
+        "relation": "chargedWith",
+        "tail": 9
+      }
+    ]
+  },
+  {
+    "document_id": 41,
+    "ragtruth_id": "53",
+    "text": "In November, a former banker named Rurik Jutting was charged with two counts of murder after police discovered two women's bodies in his upscale Hong Kong apartment. One victim, Seneng Mujiasih, was found on the floor with cuts to her neck and buttocks, while the other, Sumarti Ningsih, was found stuffed inside a suitcase on the balcony. Ningsih, a 25-year-old mother from Indonesia, had been visiting Hong Kong as a tourist and was due to fly back to Jakarta the day after her body was found. Mujiasih, also from Indonesia, had recently worked as a domestic worker in Hong Kong but had overstayed her visa. Jutting, a 29-year-old British citizen, was detained at the scene and later charged with two counts of murder. His trial was adjourned until May to allow for the analysis of over 200 pieces of forensic and DNA evidence.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "a former banker named Rurik Jutting"
+      },
+      {
+        "id": 1,
+        "text": "One victim, Seneng Mujiasih,"
+      },
+      {
+        "id": 2,
+        "text": "the other, Sumarti Ningsih,"
+      },
+      {
+        "id": 3,
+        "text": "Hong Kong"
+      },
+      {
+        "id": 4,
+        "text": "the other, Sumarti Ningsih"
+      },
+      {
+        "id": 5,
+        "text": "Indonesia"
+      },
+      {
+        "id": 6,
+        "text": "two counts of murder"
+      },
+      {
+        "id": 7,
+        "text": "November"
+      },
+      {
+        "id": 8,
+        "text": "two"
+      },
+      {
+        "id": 9,
+        "text": "Jakarta"
+      },
+      {
+        "id": 10,
+        "text": "the day"
+      },
+      {
+        "id": 11,
+        "text": "May"
+      },
+      {
+        "id": 12,
+        "text": "over 200"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "chargedWith",
+        "tail": 6
+      },
+      {
+        "head": 0,
+        "relation": "detainedIn",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "trialAdjournedUntil",
+        "tail": 11
+      },
+      {
+        "head": 2,
+        "relation": "from",
+        "tail": 5
+      },
+      {
+        "head": 2,
+        "relation": "dueToFlyBackTo",
+        "tail": 9
+      },
+      {
+        "head": 1,
+        "relation": "from",
+        "tail": 5
+      },
+      {
+        "head": 1,
+        "relation": "workedIn",
+        "tail": 3
+      }
+    ]
+  },
+  {
+    "document_id": 42,
+    "ragtruth_id": "60",
+    "text": "An explosion at a controversial chemical plant in Zhangzhou city, China, has injured six people and sparked a large fire. The plant produces paraxylene (PX), a reportedly carcinogenic chemical. The blast, which occurred at an oil storage facility, followed an oil leak. The fire is now under control, and five of the six injured people have been hospitalised for treatment.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "a controversial chemical plant in Zhangzhou city, China"
+      },
+      {
+        "id": 1,
+        "text": "An explosion at a controversial chemical plant in Zhangzhou city, China"
+      },
+      {
+        "id": 2,
+        "text": "a large fire"
+      },
+      {
+        "id": 3,
+        "text": "six people"
+      },
+      {
+        "id": 4,
+        "text": "PX"
+      },
+      {
+        "id": 5,
+        "text": "five"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "injured",
+        "tail": 3
+      },
+      {
+        "head": 1,
+        "relation": "sparked",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "produces",
+        "tail": 4
+      },
+      {
+        "head": 2,
+        "relation": "hospitalised",
+        "tail": 5
+      }
+    ]
+  },
+  {
+    "document_id": 43,
+    "ragtruth_id": "61",
+    "text": "An explosion at a chemical plant in China's Fujian province injured six people and caused a large fire. The plant produces a potentially carcinogenic chemical called paraxylene. The explosion occurred at an oil storage facility after an oil leak, but no toxic chemical spill has been reported. The fire has been brought under control, and those injured have been sent to the hospital. The plant had previously faced backlash and protests due to pollution concerns.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "a chemical plant in China's Fujian province"
+      },
+      {
+        "id": 1,
+        "text": "An explosion at a chemical plant in China's Fujian province"
+      },
+      {
+        "id": 2,
+        "text": "a large fire"
+      },
+      {
+        "id": 3,
+        "text": "six people"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "location",
+        "tail": 0
+      },
+      {
+        "head": 1,
+        "relation": "caused",
+        "tail": 2
+      },
+      {
+        "head": 1,
+        "relation": "injured",
+        "tail": 3
+      }
+    ]
+  },
+  {
+    "document_id": 44,
+    "ragtruth_id": "62",
+    "text": "An explosion at a chemical plant in China's southeastern Fujian province caused a fire and injured six people. The plant produces a reportedly carcinogenic chemical used in the production of polyester films and fabrics. The blast occurred after an oil leak and residents living nearby posted photos of the fire on social media. The plant has a history of explosions, though there were no previous reports of toxic leaks or casualties. Demonstrations against the construction of PX plants have sparked protests in several cities in recent years. The Zhangzhou plant was originally slated for Xiamen but was relocated due to pollution concerns.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "a chemical plant in China's southeastern Fujian province"
+      },
+      {
+        "id": 1,
+        "text": "An explosion at a chemical plant in China's southeastern Fujian province"
+      },
+      {
+        "id": 2,
+        "text": "a fire"
+      },
+      {
+        "id": 3,
+        "text": "six"
+      },
+      {
+        "id": 4,
+        "text": "PX"
+      },
+      {
+        "id": 5,
+        "text": "recent years"
+      },
+      {
+        "id": 6,
+        "text": "Xiamen"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "caused",
+        "tail": 2
+      },
+      {
+        "head": 1,
+        "relation": "injured",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "produces",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "originallySlatedFor",
+        "tail": 6
+      }
+    ]
+  },
+  {
+    "document_id": 45,
+    "ragtruth_id": "63",
+    "text": "Six people were injured in an explosion at a chemical plant in China's Fujian province, sparking a large fire. The plant produces paraxylene, a potentially carcinogenic chemical, and has been the site of previous protests over pollution concerns. The fire is now under control, but residents are concerned about the potential health impacts.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "a chemical plant in China's Fujian province"
+      },
+      {
+        "id": 1,
+        "text": "a large fire"
+      },
+      {
+        "id": 2,
+        "text": "Six"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "causedBy",
+        "tail": 0
+      },
+      {
+        "head": 0,
+        "relation": "injuredCount",
+        "tail": 2
+      }
+    ]
+  },
+  {
+    "document_id": 46,
+    "ragtruth_id": "64",
+    "text": "An explosion at a chemical plant in China's Fujian province injured 5 people and sparked a large fire. The plant produces paraxylene, a potentially carcinogenic chemical. The blast occurred after an oil leak and was extinguished with over 600 firefighters. Residents nearby reported hearing the explosion and feeling tremors. This is the second explosion at the plant in 6 years.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "a chemical plant in China's Fujian province"
+      },
+      {
+        "id": 1,
+        "text": "An explosion at a chemical plant in China's Fujian province"
+      },
+      {
+        "id": 2,
+        "text": "5"
+      },
+      {
+        "id": 3,
+        "text": "600"
+      },
+      {
+        "id": 4,
+        "text": "second"
+      },
+      {
+        "id": 5,
+        "text": "6 years"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "location",
+        "tail": 0
+      },
+      {
+        "head": 1,
+        "relation": "injuredCount",
+        "tail": 2
+      },
+      {
+        "head": 1,
+        "relation": "firefighterCount",
+        "tail": 3
+      },
+      {
+        "head": 1,
+        "relation": "ordinal",
+        "tail": 4
+      },
+      {
+        "head": 1,
+        "relation": "timeSpan",
+        "tail": 5
+      }
+    ]
+  },
+  {
+    "document_id": 47,
+    "ragtruth_id": "65",
+    "text": "Six people were injured after an explosion at a controversial chemical plant in China's Fujian province sparked a large fire. The plant produces paraxylene, a potentially carcinogenic chemical. The explosion was caused by an oil leak and resulted in broken glass injuring five people. Over 600 firefighters were deployed to contain the blaze, which is now under control. The plant has faced opposition from locals due to pollution concerns.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "a controversial chemical plant in China's Fujian province"
+      },
+      {
+        "id": 1,
+        "text": "an explosion at a controversial chemical plant in China's Fujian province"
+      },
+      {
+        "id": 2,
+        "text": "Six people"
+      },
+      {
+        "id": 3,
+        "text": "a large fire"
+      },
+      {
+        "id": 4,
+        "text": "Over 600"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "caused",
+        "tail": 3
+      },
+      {
+        "head": 1,
+        "relation": "causedBy",
+        "tail": 0
+      },
+      {
+        "head": 3,
+        "relation": "containedBy",
+        "tail": 4
+      }
+    ]
+  },
+  {
+    "document_id": 48,
+    "ragtruth_id": "72",
+    "text": "The final season of the TV series \"Mad Men\", about a 1960s advertising agency and its collision with changing times, begins this Sunday. The show has been part of the national fabric, though never a huge ratings hit, inspiring fashion lines, cocktails, museum exhibits, and even presidential references. The end of a TV series carries risk, the famous cut-to-black finale of \"The Sopranos\" divided fans, while \"Breaking Bad\" was praised for an almost perfect ending. The last season of Mad Men ended with the moon landing in July 1969, it's reasonable to assume the new season will pick up soon afterward. The show is generally about disintegration, reflective of the '60s themselves. Last season saw plenty of intra-office turmoil, thanks to the ill-fitting merger between Sterling Cooper and former rival Cutler Gleason and Chaough. The agency survived, but is now without Bert Cooper (Robert Morse) and under the ownership of (real-life) Madison Avenue titan McCann Erickson. It's likely that a number of longtime characters will look for an exit.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "a 1960s advertising agency"
+      },
+      {
+        "id": 1,
+        "text": "the TV series \"Mad Men\", about a 1960s advertising agency and its collision with changing times"
+      },
+      {
+        "id": 2,
+        "text": "1960s"
+      },
+      {
+        "id": 3,
+        "text": "The last season of Mad Men"
+      },
+      {
+        "id": 4,
+        "text": "The final season"
+      },
+      {
+        "id": 5,
+        "text": "this Sunday"
+      },
+      {
+        "id": 6,
+        "text": "The Sopranos"
+      },
+      {
+        "id": 7,
+        "text": "Breaking Bad"
+      },
+      {
+        "id": 8,
+        "text": "July 1969"
+      },
+      {
+        "id": 9,
+        "text": "the new season"
+      },
+      {
+        "id": 10,
+        "text": "Sterling Cooper"
+      },
+      {
+        "id": 11,
+        "text": "Cutler Gleason"
+      },
+      {
+        "id": 12,
+        "text": "Chaough"
+      },
+      {
+        "id": 13,
+        "text": "Bert Cooper"
+      },
+      {
+        "id": 14,
+        "text": "Robert Morse"
+      },
+      {
+        "id": 15,
+        "text": "Madison Avenue"
+      },
+      {
+        "id": 16,
+        "text": "McCann Erickson"
+      }
+    ],
+    "relations": [
+      {
+        "head": 4,
+        "relation": "partOfSeries",
+        "tail": 1
+      },
+      {
+        "head": 1,
+        "relation": "about",
+        "tail": 0
+      },
+      {
+        "head": 1,
+        "relation": "aboutTimePeriod",
+        "tail": 2
+      },
+      {
+        "head": 3,
+        "relation": "endedWith",
+        "tail": 8
+      },
+      {
+        "head": 9,
+        "relation": "follows",
+        "tail": 3
+      },
+      {
+        "head": 1,
+        "relation": "about",
+        "tail": 2
+      },
+      {
+        "head": 3,
+        "relation": "sawMergerBetween",
+        "tail": 10
+      },
+      {
+        "head": 0,
+        "relation": "ownedBy",
+        "tail": 16
+      },
+      {
+        "head": 0,
+        "relation": "without",
+        "tail": 13
+      }
+    ]
+  },
+  {
+    "document_id": 49,
+    "ragtruth_id": "73",
+    "text": "The popular TV series \"Mad Men\" is coming to an end after eight years. The show, set in the 1960s, has become a cultural phenomenon, inspiring fashion lines, cocktails, museum exhibits, and even presidential references. The show's creator, Matthew Weiner, has been tight-lipped about the final season, but it is expected to pick up shortly after the moon landing in July 1969. The show has always been about disintegration, reflecting the changing times of the 1960s. With the old orders falling apart, the characters navigate through events like the Manson murders, Woodstock, and the Vietnam War protests. The agency itself has gone through turmoil, with a merger and change in ownership. Some longtime characters, like Ken Cosgrove, Harry Crane, and possibly Joan Harris, are expected to leave. Roger Sterling may also have a sudden and shocking departure due to his health issues and reckless behavior. On the other hand, Peggy Olson's star continues to rise, and she may leave the agency to start her own. Don Draper's ex-wife, Betty, is struggling to find herself, and their daughter Sally is starting to rebel. The final season is expected to be set in April 1970, with Richard Nixon signing legislation banning cigarette ads on radio and television, reminiscent of the Lucky Strike campaign that started the series. Don Draper, as always, remains a complex and enigmatic character, unable to accept his past and alone.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "The popular TV series \"Mad Men\""
+      },
+      {
+        "id": 1,
+        "text": "the final season"
+      },
+      {
+        "id": 2,
+        "text": "the 1960s"
+      },
+      {
+        "id": 3,
+        "text": "The agency itself"
+      },
+      {
+        "id": 4,
+        "text": "Roger Sterling"
+      },
+      {
+        "id": 5,
+        "text": "Peggy Olson's"
+      },
+      {
+        "id": 6,
+        "text": "Don Draper's ex-wife, Betty"
+      },
+      {
+        "id": 7,
+        "text": "Don Draper's"
+      },
+      {
+        "id": 8,
+        "text": "an end after eight years"
+      },
+      {
+        "id": 9,
+        "text": "Matthew Weiner"
+      },
+      {
+        "id": 10,
+        "text": "July 1969"
+      },
+      {
+        "id": 11,
+        "text": "Manson"
+      },
+      {
+        "id": 12,
+        "text": "Woodstock"
+      },
+      {
+        "id": 13,
+        "text": "the Vietnam War"
+      },
+      {
+        "id": 14,
+        "text": "Ken Cosgrove"
+      },
+      {
+        "id": 15,
+        "text": "Harry Crane"
+      },
+      {
+        "id": 16,
+        "text": "Joan Harris"
+      },
+      {
+        "id": 17,
+        "text": "Sally"
+      },
+      {
+        "id": 18,
+        "text": "April 1970"
+      },
+      {
+        "id": 19,
+        "text": "Richard Nixon"
+      },
+      {
+        "id": 20,
+        "text": "Lucky Strike"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "creator",
+        "tail": 9
+      },
+      {
+        "head": 0,
+        "relation": "setIn",
+        "tail": 2
+      },
+      {
+        "head": 1,
+        "relation": "setIn",
+        "tail": 10
+      },
+      {
+        "head": 1,
+        "relation": "setIn",
+        "tail": 18
+      },
+      {
+        "head": 0,
+        "relation": "endsAfter",
+        "tail": 8
+      },
+      {
+        "head": 3,
+        "relation": "merger",
+        "tail": 3
+      },
+      {
+        "head": 3,
+        "relation": "ownershipChange",
+        "tail": 3
+      },
+      {
+        "head": 5,
+        "relation": "leave",
+        "tail": 3
+      },
+      {
+        "head": 7,
+        "relation": "exWife",
+        "tail": 6
+      },
+      {
+        "head": 7,
+        "relation": "daughter",
+        "tail": 17
+      },
+      {
+        "head": 1,
+        "relation": "about",
+        "tail": 20
+      }
+    ]
+  }
+]

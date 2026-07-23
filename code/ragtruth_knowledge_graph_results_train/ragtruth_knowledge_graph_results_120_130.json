@@ -1,0 +1,973 @@
+[
+  {
+    "document_id": 120,
+    "ragtruth_id": "162",
+    "text": "The framework of a nuclear deal with Iran has been confirmed, however, there are doubts over whether the deal will be effective due to previous failed attempts. President Obama has been accused of forgetting the reason Iran agreed to negotiate in the first place, which was because of US-imposed sanctions. The deal on the table merely gives Iran access to funds and allows them to keep their nuclear infrastructure, while the strictest limitations expire in ten years. The most concerning aspect of the deal is the lack of precautions to stop Iran from cheating, by preventing the International Atomic Energy Agency (IAEA) from inspecting military sites without notice. The agreement could replicate the 1994 deal with North Korea, which saw the country detonate its first nuclear bomb 12 years later. It is feared that Iran could do the same, especially as the country has not been honest about its history of secret weapons development. The Obama administration has been warned that if it is going to give billions of dollars to a regime like Iran’s, it has to be a better deal.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "a nuclear deal with Iran"
+      },
+      {
+        "id": 1,
+        "text": "Iran"
+      },
+      {
+        "id": 2,
+        "text": "North Korea"
+      },
+      {
+        "id": 3,
+        "text": "replicate"
+      },
+      {
+        "id": 4,
+        "text": "President Obama"
+      },
+      {
+        "id": 5,
+        "text": "The Obama administration"
+      },
+      {
+        "id": 6,
+        "text": "give"
+      },
+      {
+        "id": 7,
+        "text": "first"
+      },
+      {
+        "id": 8,
+        "text": "US"
+      },
+      {
+        "id": 9,
+        "text": "ten years"
+      },
+      {
+        "id": 10,
+        "text": "the International Atomic Energy Agency"
+      },
+      {
+        "id": 11,
+        "text": "IAEA"
+      },
+      {
+        "id": 12,
+        "text": "1994"
+      },
+      {
+        "id": 13,
+        "text": "first"
+      },
+      {
+        "id": 14,
+        "text": "12 years later"
+      },
+      {
+        "id": 15,
+        "text": "billions of dollars"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "involves",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "confirmed",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "expiresIn",
+        "tail": 9
+      },
+      {
+        "head": 0,
+        "relation": "inspectedBy",
+        "tail": 10
+      },
+      {
+        "head": 0,
+        "relation": "replicates",
+        "tail": 12
+      },
+      {
+        "head": 2,
+        "relation": "replicatedBy",
+        "tail": 0
+      },
+      {
+        "head": 2,
+        "relation": "nuclearBombDetonationTime",
+        "tail": 14
+      },
+      {
+        "head": 5,
+        "relation": "gives",
+        "tail": 15
+      },
+      {
+        "head": 5,
+        "relation": "givesTo",
+        "tail": 1
+      }
+    ]
+  },
+  {
+    "document_id": 121,
+    "ragtruth_id": "163",
+    "text": "The author expresses concern over the nuclear deal with Iran, stating that the US is giving up leverage that was gained through tough sanctions. They argue that Iran came to the negotiating table because of these sanctions, but the framework of the deal allows them to keep their nuclear infrastructure and receive billions of dollars in sanctions relief. The author believes that a bill proposing tougher sanctions on Iran would have been a better strategy. They point out that the current deal allows Iran to maintain an enrichment program, operate thousands of centrifuges, and continue research and development of nuclear technologies. The author also raises concerns about the lack of tough safeguards to prevent Iran from cheating and the ability of inspectors to conduct surprise inspections at military sites. They reference the case of North Korea, where a similar agreement failed to prevent them from developing nuclear weapons. The author also criticizes Iran's actions in the region, including support for Syrian dictator Bashar al Assad, funding of Hezbollah, and support for the Houthis in Yemen. They argue that if the US is going to give billions of dollars to a regime that behaves in this way, the deal should be better.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Iran"
+      },
+      {
+        "id": 1,
+        "text": "tough sanctions"
+      },
+      {
+        "id": 2,
+        "text": "the nuclear deal with Iran"
+      },
+      {
+        "id": 3,
+        "text": "The author"
+      },
+      {
+        "id": 4,
+        "text": "They"
+      },
+      {
+        "id": 5,
+        "text": "North Korea, where a similar agreement failed to prevent them from developing nuclear weapons"
+      },
+      {
+        "id": 6,
+        "text": "the US"
+      },
+      {
+        "id": 7,
+        "text": "billions of dollars"
+      },
+      {
+        "id": 8,
+        "text": "thousands"
+      },
+      {
+        "id": 9,
+        "text": "Syrian"
+      },
+      {
+        "id": 10,
+        "text": "Bashar al Assad"
+      },
+      {
+        "id": 11,
+        "text": "Hezbollah"
+      },
+      {
+        "id": 12,
+        "text": "Houthis"
+      },
+      {
+        "id": 13,
+        "text": "Yemen"
+      },
+      {
+        "id": 14,
+        "text": "billions of dollars"
+      }
+    ],
+    "relations": [
+      {
+        "head": 2,
+        "relation": "involves",
+        "tail": 0
+      },
+      {
+        "head": 6,
+        "relation": "givesUpLeverageThrough",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "cameToNegotiatingTableBecauseOf",
+        "tail": 1
+      },
+      {
+        "head": 2,
+        "relation": "allowsKeep",
+        "tail": 0
+      },
+      {
+        "head": 2,
+        "relation": "allowsReceive",
+        "tail": 7
+      },
+      {
+        "head": 2,
+        "relation": "allowsMaintain",
+        "tail": 0
+      },
+      {
+        "head": 2,
+        "relation": "allowsOperate",
+        "tail": 8
+      },
+      {
+        "head": 2,
+        "relation": "allowsContinueResearchAndDevelopmentOf",
+        "tail": 0
+      },
+      {
+        "head": 5,
+        "relation": "failedToPreventDeveloping",
+        "tail": 5
+      },
+      {
+        "head": 0,
+        "relation": "supports",
+        "tail": 10
+      },
+      {
+        "head": 0,
+        "relation": "funds",
+        "tail": 11
+      },
+      {
+        "head": 0,
+        "relation": "supports",
+        "tail": 12
+      },
+      {
+        "head": 12,
+        "relation": "locatedIn",
+        "tail": 13
+      }
+    ]
+  },
+  {
+    "document_id": 122,
+    "ragtruth_id": "164",
+    "text": "A possible nuclear deal with Iran has been outlined, but some critics argue that the U.S. is giving up too much leverage in exchange for allowing Iran to keep its nuclear infrastructure and receive sanctions relief. The deal allows Iran to maintain its enrichment program and research and development of nuclear technologies. The strictest restrictions on Iran's enrichment will expire in only 10 years, despite President Obama receiving a letter from 367 Members of Congress insisting that verifiable constraints on Iran's nuclear program must last for decades. The deal also does not include tough safeguards to stop Iran from cheating. Some argue that the lack of inspections at military sites could allow Iran to \"sneak out\" to a bomb, and remember that in 1994, President Clinton promised that a North Korea agreement would make the world safer but 12 years later, North Korea detonated its first nuclear bomb. Additionally, Iran has been actively supporting other countries and groups in the region, including Syrian dictator Bashar al-Assad, the terrorist group Hezbollah, and the Houthis in Yemen.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Iran"
+      },
+      {
+        "id": 1,
+        "text": "A possible nuclear deal with Iran"
+      },
+      {
+        "id": 2,
+        "text": "its enrichment program"
+      },
+      {
+        "id": 3,
+        "text": "North Korea"
+      },
+      {
+        "id": 4,
+        "text": "U.S."
+      },
+      {
+        "id": 5,
+        "text": "only 10 years"
+      },
+      {
+        "id": 6,
+        "text": "Obama"
+      },
+      {
+        "id": 7,
+        "text": "367"
+      },
+      {
+        "id": 8,
+        "text": "Congress"
+      },
+      {
+        "id": 9,
+        "text": "decades"
+      },
+      {
+        "id": 10,
+        "text": "1994"
+      },
+      {
+        "id": 11,
+        "text": "Clinton"
+      },
+      {
+        "id": 12,
+        "text": "12 years later"
+      },
+      {
+        "id": 13,
+        "text": "first"
+      },
+      {
+        "id": 14,
+        "text": "Syrian"
+      },
+      {
+        "id": 15,
+        "text": "Bashar al-Assad"
+      },
+      {
+        "id": 16,
+        "text": "Hezbollah"
+      },
+      {
+        "id": 17,
+        "text": "Houthis"
+      },
+      {
+        "id": 18,
+        "text": "Yemen"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "about",
+        "tail": 0
+      },
+      {
+        "head": 1,
+        "relation": "allows",
+        "tail": 0
+      },
+      {
+        "head": 1,
+        "relation": "includes",
+        "tail": 2
+      },
+      {
+        "head": 2,
+        "relation": "belongsTo",
+        "tail": 0
+      },
+      {
+        "head": 0,
+        "relation": "sanctionsRelief",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "supportedBy",
+        "tail": 15
+      },
+      {
+        "head": 0,
+        "relation": "supportedBy",
+        "tail": 16
+      },
+      {
+        "head": 0,
+        "relation": "supportedBy",
+        "tail": 17
+      },
+      {
+        "head": 17,
+        "relation": "locatedIn",
+        "tail": 18
+      },
+      {
+        "head": 1,
+        "relation": "expiresIn",
+        "tail": 5
+      },
+      {
+        "head": 2,
+        "relation": "expiresIn",
+        "tail": 9
+      },
+      {
+        "head": 6,
+        "relation": "receivedLetterFrom",
+        "tail": 8
+      },
+      {
+        "head": 6,
+        "relation": "receivedLetterCount",
+        "tail": 7
+      },
+      {
+        "head": 10,
+        "relation": "mentionedWith",
+        "tail": 12
+      },
+      {
+        "head": 11,
+        "relation": "promised",
+        "tail": 3
+      },
+      {
+        "head": 3,
+        "relation": "detonated",
+        "tail": 13
+      }
+    ]
+  },
+  {
+    "document_id": 123,
+    "ragtruth_id": "165",
+    "text": "The article discusses the concerns regarding the recently announced nuclear deal with Iran. The author argues that the deal gives away too much leverage to Iran and fails to address the issue of Iran's past deception and cheating. The author points out that Iran's Supreme Leader Ayatollah Khamenei has given his government rare permission to bargain with the US, but the deal announced last week looks like a win-win for Iran as it allows them to keep their nuclear infrastructure and receive billions of dollars in sanctions relief. The author also highlights the lack of tough safeguards to stop Iran from cheating, specifically the ability of inspectors to inspect military sites without warning. The author concludes that the deal currently on the table is not a good enough deal and that the US should have pushed for a better agreement.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "the recently announced nuclear deal with Iran"
+      },
+      {
+        "id": 1,
+        "text": "Iran"
+      },
+      {
+        "id": 2,
+        "text": "The author"
+      },
+      {
+        "id": 3,
+        "text": "Iran's Supreme Leader Ayatollah Khamenei"
+      },
+      {
+        "id": 4,
+        "text": "the US"
+      },
+      {
+        "id": 5,
+        "text": "billions of dollars"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "with",
+        "tail": 1
+      },
+      {
+        "head": 3,
+        "relation": "leaderOf",
+        "tail": 1
+      },
+      {
+        "head": 3,
+        "relation": "gavePermissionToBargainWith",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "benefits",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "includes",
+        "tail": 5
+      }
+    ]
+  },
+  {
+    "document_id": 124,
+    "ragtruth_id": "166",
+    "text": "The US and Iran have reached a nuclear deal, but there are concerns that the agreement is too lenient on Iran. Critics argue that the deal allows Iran to maintain its nuclear infrastructure and continues to permit enrichment activities, which could lead to the development of nuclear weapons. Additionally, the deal does not include robust inspection measures to prevent Iran from cheating, and there are concerns that Iran will use the sanctions relief to support terrorist activities in the region. Some lawmakers have called for tougher sanctions on Iran, but the deal was blocked in the Senate last year. The White House has defended the agreement, saying it is a better option than the alternative of military action.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "a nuclear deal"
+      },
+      {
+        "id": 1,
+        "text": "Iran"
+      },
+      {
+        "id": 2,
+        "text": "US"
+      },
+      {
+        "id": 3,
+        "text": "Senate"
+      },
+      {
+        "id": 4,
+        "text": "last year"
+      },
+      {
+        "id": 5,
+        "text": "The White House"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "between",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "between",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "blockedIn",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "blockedTime",
+        "tail": 4
+      },
+      {
+        "head": 5,
+        "relation": "defended",
+        "tail": 0
+      }
+    ]
+  },
+  {
+    "document_id": 125,
+    "ragtruth_id": "167",
+    "text": "The article discusses the concerns regarding the nuclear deal with Iran, which was outline by the US, Russia, China, Britain, France and Germany. The author argues that the deal does not do enough to limit Iran's nuclear program and allows them to maintain their infrastructure. They also argue that the inspection process is not stringent enough to prevent Iran from cheating and that the country has a history of deception. Furthermore, the author notes that Iran has continued to support terrorist groups and engage in destabilizing activities in the region while negotiations were taking place. The author believes that the deal is not tough enough and that it will allow Iran to eventually develop nuclear weapons.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "the nuclear deal with Iran, which was outline by the US, Russia, China, Britain, France and Germany"
+      },
+      {
+        "id": 1,
+        "text": "Iran"
+      },
+      {
+        "id": 2,
+        "text": "The author"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "involves",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "outlinedBy",
+        "tail": 2
+      }
+    ]
+  },
+  {
+    "document_id": 126,
+    "ragtruth_id": "168",
+    "text": "The funeral of Walter Scott, who was shot whilst running from Officer Michael Slager, took place in South Carolina on Saturday and was attended by hundreds of mourners. The service was open to the public and was held at W.O.R.D. Ministries Christian Center in Summerville, which has a capacity of about 300 people. The flag-draped casket of the U.S. Coast Guard veteran was wheeled inside the church as Scott's relatives and friends followed. Some dabbed tears; others embraced. Hundreds, including local officials, assembled inside the packed sanctuary -- in corridors, under an awning at the entrance, wherever they could stand. After the service, pallbearers gently lifted Scott's casket into the hearse. Crowds poured from the church. A slow-moving procession of black cars then made its way to Live Oak Memorial Gardens in Charleston for the private burial. Scott's death has sparked a national conversation about police behaviour, with his family's attorney describing the incident as a \"human issue\" rather than a race issue.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "The funeral of Walter Scott, who was shot whilst running from Officer Michael Slager"
+      },
+      {
+        "id": 1,
+        "text": "Walter Scott, who was shot whilst running from Officer Michael Slager"
+      },
+      {
+        "id": 2,
+        "text": "W.O.R.D. Ministries Christian Center in Summerville, which has a capacity of about 300 people"
+      },
+      {
+        "id": 3,
+        "text": "Hundreds, including local officials,"
+      },
+      {
+        "id": 4,
+        "text": "The flag-draped casket of the U.S. Coast Guard veteran"
+      },
+      {
+        "id": 5,
+        "text": "A slow-moving procession of black cars"
+      },
+      {
+        "id": 6,
+        "text": "shot"
+      },
+      {
+        "id": 7,
+        "text": "South Carolina"
+      },
+      {
+        "id": 8,
+        "text": "Saturday"
+      },
+      {
+        "id": 9,
+        "text": "hundreds"
+      },
+      {
+        "id": 10,
+        "text": "Live Oak Memorial Gardens"
+      },
+      {
+        "id": 11,
+        "text": "Charleston"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "location",
+        "tail": 7
+      },
+      {
+        "head": 0,
+        "relation": "date",
+        "tail": 8
+      },
+      {
+        "head": 0,
+        "relation": "venue",
+        "tail": 2
+      },
+      {
+        "head": 4,
+        "relation": "belongsTo",
+        "tail": 1
+      },
+      {
+        "head": 5,
+        "relation": "destination",
+        "tail": 10
+      },
+      {
+        "head": 10,
+        "relation": "location",
+        "tail": 11
+      }
+    ]
+  },
+  {
+    "document_id": 127,
+    "ragtruth_id": "169",
+    "text": "Hundreds of mourners gathered at the funeral service for Walter Scott in South Carolina on Saturday. Scott, a father of four, was fatally shot in the back by a police officer. The service, held at W.O.R.D. Ministries Christian Center, was open to the public and attracted an overflow crowd. Scott’s daughter, Samantha, read a poem dedicated to her father, and the head of the church, George Hamilton, spoke of the racial prejudice that led to Scott’s death. Hamilton made it clear that his remarks were not an indictment of law enforcement in general, but he did call the officer who killed Scott a “disgrace to the North Charleston Police Department.” The funeral procession then made its way to the burial site at Live Oak Memorial Gardens in Charleston for a private ceremony. Scott’s death has sparked a national conversation about police brutality and racial profiling. The officer who shot Scott, Michael Slager, has been charged with murder and could face life in prison or the death penalty if convicted. However, there are conflicting accounts of what happened leading up to the shooting. One witness claims to have seen a struggle between Scott and Slager before the shooting, while another witness who filmed the incident says he saw no signs of a struggle. The investigation is ongoing, and Scott’s family is hoping that his death will bring about positive change in the way society views and treats each other.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Walter Scott"
+      },
+      {
+        "id": 1,
+        "text": "the funeral service for Walter Scott in South Carolina"
+      },
+      {
+        "id": 2,
+        "text": "Scott’s daughter, Samantha,"
+      },
+      {
+        "id": 3,
+        "text": "W.O.R.D. Ministries Christian Center"
+      },
+      {
+        "id": 4,
+        "text": "the head of the church, George Hamilton"
+      },
+      {
+        "id": 5,
+        "text": "a police officer"
+      },
+      {
+        "id": 6,
+        "text": "The funeral procession"
+      },
+      {
+        "id": 7,
+        "text": "Scott’s death"
+      },
+      {
+        "id": 8,
+        "text": "shot"
+      },
+      {
+        "id": 9,
+        "text": "another witness who filmed the incident"
+      },
+      {
+        "id": 10,
+        "text": "Hundreds"
+      },
+      {
+        "id": 11,
+        "text": "Saturday"
+      },
+      {
+        "id": 12,
+        "text": "the North Charleston Police Department"
+      },
+      {
+        "id": 13,
+        "text": "Live Oak Memorial Gardens"
+      },
+      {
+        "id": 14,
+        "text": "Charleston"
+      },
+      {
+        "id": 15,
+        "text": "One"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "heldAt",
+        "tail": 3
+      },
+      {
+        "head": 1,
+        "relation": "date",
+        "tail": 11
+      },
+      {
+        "head": 0,
+        "relation": "child",
+        "tail": 2
+      },
+      {
+        "head": 4,
+        "relation": "speaksAt",
+        "tail": 1
+      },
+      {
+        "head": 4,
+        "relation": "headOf",
+        "tail": 3
+      },
+      {
+        "head": 7,
+        "relation": "causedBy",
+        "tail": 8
+      },
+      {
+        "head": 0,
+        "relation": "shotBy",
+        "tail": 5
+      },
+      {
+        "head": 5,
+        "relation": "memberOf",
+        "tail": 12
+      },
+      {
+        "head": 6,
+        "relation": "destination",
+        "tail": 13
+      },
+      {
+        "head": 13,
+        "relation": "locatedIn",
+        "tail": 14
+      },
+      {
+        "head": 9,
+        "relation": "witnessOf",
+        "tail": 8
+      }
+    ]
+  },
+  {
+    "document_id": 128,
+    "ragtruth_id": "170",
+    "text": "Hundreds of mourners gathered on Saturday for the funeral of Walter Scott, a U.S. Coast Guard veteran who was fatally shot by a North Charleston police officer during a traffic stop last week. The shooter, Officer Michael Slager, has been charged with murder and is facing trial. During the service, Scott's daughter Samantha read a poem dedicated to her father, while Anthony Scott spoke about his brother's legacy as a catalyst for change in America. Local officials, activists, and members of the community were present. Afterward, the casket was carried out of the church for a private burial, followed by a slow-moving procession of black cars. The incident has sparked protests and calls for justice, both locally and nationwide.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "the funeral of Walter Scott, a U.S. Coast Guard veteran who was fatally shot by a North Charleston police officer during a traffic stop last week"
+      },
+      {
+        "id": 1,
+        "text": "Walter Scott, a U.S. Coast Guard veteran who was fatally shot by a North Charleston police officer during a traffic stop last week"
+      },
+      {
+        "id": 2,
+        "text": "Scott's daughter Samantha"
+      },
+      {
+        "id": 3,
+        "text": "Anthony Scott"
+      },
+      {
+        "id": 4,
+        "text": "shot"
+      },
+      {
+        "id": 5,
+        "text": "Hundreds"
+      },
+      {
+        "id": 6,
+        "text": "Saturday"
+      },
+      {
+        "id": 7,
+        "text": "Michael Slager"
+      },
+      {
+        "id": 8,
+        "text": "America"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "funeralOf",
+        "tail": 1
+      },
+      {
+        "head": 1,
+        "relation": "deathCause",
+        "tail": 4
+      },
+      {
+        "head": 4,
+        "relation": "agent",
+        "tail": 7
+      },
+      {
+        "head": 0,
+        "relation": "date",
+        "tail": 6
+      },
+      {
+        "head": 2,
+        "relation": "father",
+        "tail": 1
+      },
+      {
+        "head": 3,
+        "relation": "brother",
+        "tail": 1
+      },
+      {
+        "head": 3,
+        "relation": "placeMentioned",
+        "tail": 8
+      }
+    ]
+  },
+  {
+    "document_id": 129,
+    "ragtruth_id": "171",
+    "text": "Walter Scott, a 50-year-old black man, was fatally shot by a white North Charleston, South Carolina police officer, Michael Slager, on April 4th. Scott was stopped for a broken tail light when the officer fired eight shots at him, striking him five times as he was running away. The shooting was captured on cell phone video and sparked immediate protests and calls for justice. The officer has been charged with murder, and the case has raised questions about racial bias in law enforcement. At Scott's funeral service, hundreds of mourners gathered to celebrate his life and call for change in America. The service included a eulogy by Scott's daughter, Samantha, who read a poem dedicated to her father, and a message from the Rev. Al Sharpton. The crowd also heard from Charleston Mayor Joe Riley, who expressed his condolences and called the shooting a \"heartbreaking tragedy.\" The officer who shot Scott, Michael Slager, has been fired and faces life in prison or the death penalty if convicted.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Walter Scott, a 50-year-old black man"
+      },
+      {
+        "id": 1,
+        "text": "a white North Charleston, South Carolina police officer, Michael Slager,"
+      },
+      {
+        "id": 2,
+        "text": "shot"
+      },
+      {
+        "id": 3,
+        "text": "Scott's funeral service"
+      },
+      {
+        "id": 4,
+        "text": "Scott's daughter, Samantha, who read a poem dedicated to her father"
+      },
+      {
+        "id": 5,
+        "text": "hundreds of mourners"
+      },
+      {
+        "id": 6,
+        "text": "Charleston Mayor Joe Riley, who expressed his condolences and called the shooting a \"heartbreaking tragedy"
+      },
+      {
+        "id": 7,
+        "text": "April 4th"
+      },
+      {
+        "id": 8,
+        "text": "eight"
+      },
+      {
+        "id": 9,
+        "text": "five"
+      },
+      {
+        "id": 10,
+        "text": "America"
+      },
+      {
+        "id": 11,
+        "text": "Al Sharpton"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "shotBy",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "date",
+        "tail": 7
+      },
+      {
+        "head": 2,
+        "relation": "shotTarget",
+        "tail": 0
+      },
+      {
+        "head": 2,
+        "relation": "numberOfShots",
+        "tail": 8
+      },
+      {
+        "head": 2,
+        "relation": "numberOfTimesHit",
+        "tail": 9
+      },
+      {
+        "head": 3,
+        "relation": "includedEulogyBy",
+        "tail": 4
+      },
+      {
+        "head": 3,
+        "relation": "includedMessageFrom",
+        "tail": 11
+      },
+      {
+        "head": 3,
+        "relation": "includedSpeaker",
+        "tail": 6
+      },
+      {
+        "head": 5,
+        "relation": "attended",
+        "tail": 3
+      },
+      {
+        "head": 4,
+        "relation": "daughterOf",
+        "tail": 0
+      },
+      {
+        "head": 4,
+        "relation": "dedicatedTo",
+        "tail": 0
+      }
+    ]
+  }
+]

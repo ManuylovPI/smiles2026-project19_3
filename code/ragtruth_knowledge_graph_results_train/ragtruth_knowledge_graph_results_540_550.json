@@ -1,0 +1,540 @@
+[
+  {
+    "document_id": 540,
+    "ragtruth_id": "738",
+    "text": "Chris Rock has highlighted the issue of 'driving while black', by posting a series of tweets documenting three traffic stops in seven weeks. He captioned a photo of the most recent stop with the words, \"Stopped by the cops again wish me luck\", along with a photo of him in his car. The tweets have sparked a debate about racial profiling by the police, with some users accusing Rock of race-baiting, and others praising him for documenting the stops. Blacks are 30% more likely to be pulled over by police than whites, according to figures reported by the Bureau of Justice Statistics in 2013.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Chris Rock"
+      },
+      {
+        "id": 1,
+        "text": "a series of tweets documenting three traffic stops in seven weeks"
+      },
+      {
+        "id": 2,
+        "text": "three traffic stops in seven weeks"
+      },
+      {
+        "id": 3,
+        "text": "30%"
+      },
+      {
+        "id": 4,
+        "text": "the Bureau of Justice Statistics"
+      },
+      {
+        "id": 5,
+        "text": "2013"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "posted",
+        "tail": 1
+      },
+      {
+        "head": 1,
+        "relation": "documents",
+        "tail": 2
+      },
+      {
+        "head": 4,
+        "relation": "reportedIn",
+        "tail": 5
+      }
+    ]
+  },
+  {
+    "document_id": 541,
+    "ragtruth_id": "739",
+    "text": "Comedian Chris Rock has been using Twitter to document his experiences with being pulled over by the police. This comes in the midst of ongoing conversations about racial profiling and police treatment of African-Americans. Rock's tweets have garnered support from some, while others accused him of race-baiting. Actor Isaiah Washington suggested that Rock should \"#Adapt\" to avoid racial profiling, which sparked controversy. In the past, Rock has addressed this issue in sketches on his show and even brought a white friend along during a car ride with Jerry Seinfeld to avoid being targeted by the police. The conversations surrounding these incidents highlight the ongoing racial disparities in police treatment.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Comedian Chris Rock"
+      },
+      {
+        "id": 1,
+        "text": "using"
+      },
+      {
+        "id": 2,
+        "text": "racial profiling, which sparked controversy"
+      },
+      {
+        "id": 3,
+        "text": "Twitter"
+      },
+      {
+        "id": 4,
+        "text": "African-Americans"
+      },
+      {
+        "id": 5,
+        "text": "Isaiah Washington"
+      },
+      {
+        "id": 6,
+        "text": "Adapt"
+      },
+      {
+        "id": 7,
+        "text": "Jerry Seinfeld"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "uses",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "addresses",
+        "tail": 2
+      },
+      {
+        "head": 5,
+        "relation": "suggested",
+        "tail": 6
+      },
+      {
+        "head": 0,
+        "relation": "associatedWith",
+        "tail": 7
+      }
+    ]
+  },
+  {
+    "document_id": 542,
+    "ragtruth_id": "740",
+    "text": "Comedian Chris Rock has stirred up controversy with a series of tweets documenting three traffic stops in seven weeks. The issue of \"driving while black\" has been a longstanding complaint among African Americans, who are more likely to be pulled over by police than whites. In the wake of high-profile deaths of Eric Garner and Michael Brown, the issue has become even more sensitive. While some applauded Rock's efforts to document the stops, others criticized him for race-baiting. Actor Isaiah Washington encouraged Rock to adapt to avoid racial profiling by suggesting that he should sell his expensive cars and buy Priuses instead. This suggestion was seen as a sell-out by some, who argued that Rock shouldn't have to take such measures to avoid being pulled over. Meanwhile, years ago, Rock filmed a sketch on his HBO show in which he detailed ways to avoid beatings from police, including bringing a white friend along for the ride. When Seinfeld and Rock were pulled over during a segment of \"Comedians in Cars Getting Coffee,\" Rock told Seinfeld that he wasn't scared if he wasn't with his friend.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "The issue of \"driving while black\""
+      },
+      {
+        "id": 1,
+        "text": "Comedian Chris Rock"
+      },
+      {
+        "id": 2,
+        "text": "three traffic stops in seven weeks"
+      },
+      {
+        "id": 3,
+        "text": "suggesting"
+      },
+      {
+        "id": 4,
+        "text": "Seinfeld"
+      },
+      {
+        "id": 5,
+        "text": "a white friend"
+      },
+      {
+        "id": 6,
+        "text": "African Americans"
+      },
+      {
+        "id": 7,
+        "text": "Eric Garner"
+      },
+      {
+        "id": 8,
+        "text": "Michael Brown"
+      },
+      {
+        "id": 9,
+        "text": "Isaiah Washington"
+      },
+      {
+        "id": 10,
+        "text": "years ago"
+      },
+      {
+        "id": 11,
+        "text": "HBO"
+      },
+      {
+        "id": 12,
+        "text": "Comedians in Cars Getting Coffee"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "documented",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "complaintAmong",
+        "tail": 6
+      },
+      {
+        "head": 0,
+        "relation": "becameMoreSensitiveAfterDeathsOf",
+        "tail": 7
+      },
+      {
+        "head": 0,
+        "relation": "becameMoreSensitiveAfterDeathsOf",
+        "tail": 8
+      },
+      {
+        "head": 1,
+        "relation": "suggestedBy",
+        "tail": 9
+      },
+      {
+        "head": 1,
+        "relation": "suggested",
+        "tail": 3
+      },
+      {
+        "head": 1,
+        "relation": "suggestedToAvoid",
+        "tail": 3
+      },
+      {
+        "head": 1,
+        "relation": "appearedOn",
+        "tail": 11
+      },
+      {
+        "head": 1,
+        "relation": "featuredIn",
+        "tail": 12
+      },
+      {
+        "head": 1,
+        "relation": "with",
+        "tail": 4
+      },
+      {
+        "head": 1,
+        "relation": "with",
+        "tail": 5
+      }
+    ]
+  },
+  {
+    "document_id": 543,
+    "ragtruth_id": "741",
+    "text": "Comedian Chris Rock has sparked controversy with a series of tweets documenting three recent interactions with police during traffic stops. In each instance, Rock was stopped by the police, but the outcomes were different due to his fame and wealth. While some praised him for highlighting the issue of racial profiling, others accused him of race-bating. Actor Isaiah Washington advised Rock to \"adapt\" to avoid being pulled over, suggesting he should change his behavior to avoid racial profiling. However, some criticized this approach, arguing that it unfairly burdens people of color with the responsibility of avoiding discrimination rather than addressing the systemic issues that lead to racial profiling.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Comedian Chris Rock"
+      },
+      {
+        "id": 1,
+        "text": "change"
+      },
+      {
+        "id": 2,
+        "text": "three"
+      },
+      {
+        "id": 3,
+        "text": "Isaiah Washington"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "numberOfInteractions",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "advisedBy",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "behaviorChangeSuggested",
+        "tail": 1
+      }
+    ]
+  },
+  {
+    "document_id": 544,
+    "ragtruth_id": "742",
+    "text": "Here is a summary of the article in 112 words:\n\nChris Rock has been stopped by the police three times in the past seven weeks, and he has taken to social media to share his experiences. Many African Americans have complained of being stopped by the police for no reason, a phenomenon known as \"driving while black.\" Rock has used humor to bring attention to the issue, including a sketch on his HBO show where he suggested ways to avoid being beaten by the police. However, some have accused him of race-baiting and selling out for suggesting that he had to change his behavior to avoid being pulled over.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Chris Rock"
+      },
+      {
+        "id": 1,
+        "text": "112"
+      },
+      {
+        "id": 2,
+        "text": "three"
+      },
+      {
+        "id": 3,
+        "text": "the past seven weeks"
+      },
+      {
+        "id": 4,
+        "text": "African Americans"
+      },
+      {
+        "id": 5,
+        "text": "HBO"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "stoppedByPolice",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "stoppedByPoliceTimeSpan",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "show",
+        "tail": 5
+      }
+    ]
+  },
+  {
+    "document_id": 545,
+    "ragtruth_id": "743",
+    "text": "Chris Rock is using social media to draw attention to racial disparities in policing. He has been stopped by the police three times in seven weeks, and has documented each stop on Twitter. Many African Americans have expressed support for Rock, citing their own experiences of being pulled over for no apparent reason. However, some have criticized Rock for suggesting that he should adapt to avoid racial profiling, such as by driving a less flashy car. Rock has not commented on the stops or the criticism.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Chris Rock"
+      },
+      {
+        "id": 1,
+        "text": "Many African Americans"
+      },
+      {
+        "id": 2,
+        "text": "stopped"
+      },
+      {
+        "id": 3,
+        "text": "three"
+      },
+      {
+        "id": 4,
+        "text": "seven weeks"
+      },
+      {
+        "id": 5,
+        "text": "Twitter"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "stoppedBy",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "count",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "timeSpan",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "documentedOn",
+        "tail": 5
+      }
+    ]
+  },
+  {
+    "document_id": 546,
+    "ragtruth_id": "744",
+    "text": "\"Arrested Development\" is set to return for a fifth season of 17 episodes, according to the show's executive producer Brian Grazer. It is currently unclear whether the full cast will return for the new season.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "\"Arrested Development\""
+      },
+      {
+        "id": 1,
+        "text": "a fifth season of 17 episodes"
+      },
+      {
+        "id": 2,
+        "text": "Brian Grazer"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "executiveProducer",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "season",
+        "tail": 1
+      }
+    ]
+  },
+  {
+    "document_id": 547,
+    "ragtruth_id": "745",
+    "text": "\"Arrested Development\" executive producer Brian Grazer confirmed that the show will return for a fifth season of 17 episodes. Netflix has not yet confirmed if the full cast will return.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "\"Arrested Development\""
+      },
+      {
+        "id": 1,
+        "text": "Brian Grazer"
+      },
+      {
+        "id": 2,
+        "text": "a fifth season"
+      },
+      {
+        "id": 3,
+        "text": "17"
+      },
+      {
+        "id": 4,
+        "text": "Netflix"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "executiveProducer",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "season",
+        "tail": 2
+      },
+      {
+        "head": 2,
+        "relation": "numberOfEpisodes",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "distributor",
+        "tail": 4
+      }
+    ]
+  },
+  {
+    "document_id": 548,
+    "ragtruth_id": "746",
+    "text": "\"Arrested Development\" will return for a fifth season of 17 episodes, according to executive producer Brian Grazer. The Hollywood mogul made the announcement on Bill Simmons' podcast, although Netflix had no comment. Fans can expect more of the quirky comedy, but the full cast is not yet confirmed.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "executive producer Brian Grazer"
+      },
+      {
+        "id": 1,
+        "text": "according"
+      },
+      {
+        "id": 2,
+        "text": "\"Arrested Development\""
+      },
+      {
+        "id": 3,
+        "text": "a fifth season"
+      },
+      {
+        "id": 4,
+        "text": "17"
+      },
+      {
+        "id": 5,
+        "text": "Bill Simmons'"
+      },
+      {
+        "id": 6,
+        "text": "Netflix"
+      }
+    ],
+    "relations": [
+      {
+        "head": 2,
+        "relation": "season",
+        "tail": 3
+      },
+      {
+        "head": 3,
+        "relation": "numberOfEpisodes",
+        "tail": 4
+      },
+      {
+        "head": 2,
+        "relation": "announcedBy",
+        "tail": 0
+      },
+      {
+        "head": 0,
+        "relation": "appearedOn",
+        "tail": 5
+      }
+    ]
+  },
+  {
+    "document_id": 549,
+    "ragtruth_id": "747",
+    "text": "Sure! Here is a summary of the news in 33 words or less:\n\nArrested Development will return for a fifth season of 17 episodes, according to executive producer Brian Grazer.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "33"
+      },
+      {
+        "id": 1,
+        "text": "a fifth season"
+      },
+      {
+        "id": 2,
+        "text": "17"
+      },
+      {
+        "id": 3,
+        "text": "Brian Grazer"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "numberOfEpisodes",
+        "tail": 2
+      },
+      {
+        "head": 1,
+        "relation": "producer",
+        "tail": 3
+      }
+    ]
+  }
+]

@@ -1,0 +1,696 @@
+[
+  {
+    "document_id": 560,
+    "ragtruth_id": "758",
+    "text": "Guilty Across the Board: Dzhokhar Tsarnaev Faces Death Penalty\nDzhokhar Tsarnaev was found guilty on 30 counts of terrorism in the Boston Marathon bombing. Seventeen of these charges are capital offenses, making him eligible for the death penalty. Jurors must now decide if Tsarnaev will receive the death sentence, which involves weighing his heinous actions against any mitigating factors, like his young age and family history. His lawyer, Judy Clarke, has been successful in getting other hateful criminals off death row. However, since there was evidence linking Tsarnaev's older brother, who died during the investigation, to the marathon bombing, Clarke may struggle to convince the jury that her client deserves leniency. Reactions among survivors include one man asking if the verdict will bring justice to those affected by the bombing.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Dzhokhar Tsarnaev"
+      },
+      {
+        "id": 1,
+        "text": "30 counts of terrorism"
+      },
+      {
+        "id": 2,
+        "text": "Death Penalty"
+      },
+      {
+        "id": 3,
+        "text": "the Boston Marathon bombing"
+      },
+      {
+        "id": 4,
+        "text": "His lawyer, Judy Clarke"
+      },
+      {
+        "id": 5,
+        "text": "Jurors"
+      },
+      {
+        "id": 6,
+        "text": "found"
+      },
+      {
+        "id": 7,
+        "text": "Guilty Across"
+      },
+      {
+        "id": 8,
+        "text": "Dzhokhar Tsarnaev Faces Death Penalty\n"
+      },
+      {
+        "id": 9,
+        "text": "Seventeen"
+      },
+      {
+        "id": 10,
+        "text": "one"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "chargedWith",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "eligibleFor",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "involvedIn",
+        "tail": 3
+      },
+      {
+        "head": 8,
+        "relation": "about",
+        "tail": 0
+      }
+    ]
+  },
+  {
+    "document_id": 561,
+    "ragtruth_id": "759",
+    "text": "Here is a summary of the article in 94 words:\n\nA jury found Dzhokhar Tsarnaev guilty of all 30 counts related to the Boston Marathon bombing, including 17 capital charges. The jury will now move on to the penalty phase, where they will consider aggravating and mitigating factors to determine if Tsarnaev should be executed. Tsarnaev's defense attorney, Judy Clarke, has an uphill battle ahead of her as she tries to convince the jury to spare her client's life by emphasizing his relative youth and lack of direct involvement in the planning of the attack. The verdict was met with mixed reactions from survivors and their families.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "A jury"
+      },
+      {
+        "id": 1,
+        "text": "Dzhokhar Tsarnaev"
+      },
+      {
+        "id": 2,
+        "text": "Tsarnaev's defense attorney, Judy Clarke"
+      },
+      {
+        "id": 3,
+        "text": "the Boston Marathon bombing"
+      },
+      {
+        "id": 4,
+        "text": "found"
+      },
+      {
+        "id": 5,
+        "text": "survivors"
+      },
+      {
+        "id": 6,
+        "text": "94"
+      },
+      {
+        "id": 7,
+        "text": "30"
+      },
+      {
+        "id": 8,
+        "text": "17"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "guiltyOf",
+        "tail": 3
+      },
+      {
+        "head": 1,
+        "relation": "count",
+        "tail": 7
+      },
+      {
+        "head": 1,
+        "relation": "capitalChargeCount",
+        "tail": 8
+      }
+    ]
+  },
+  {
+    "document_id": 562,
+    "ragtruth_id": "760",
+    "text": "Sure! Here's the summary within 94 words:\n\nDzhokhar Tsarnaev was found guilty on all 30 counts related to the Boston Marathon bombing, including 17 capital charges that make him eligible for the death penalty. The jury will now consider mitigating and aggravating factors in the penalty phase, with the defense focusing on sparing Tsarnaev's life. Legal experts say the defense faces an uphill battle given the nature of the attack and the fact that Tsarnaev was an alleged member of a military organization. Survivors of the attack reacted emotionally to the verdict.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Dzhokhar Tsarnaev"
+      },
+      {
+        "id": 1,
+        "text": "the defense"
+      },
+      {
+        "id": 2,
+        "text": "the Boston Marathon bombing"
+      },
+      {
+        "id": 3,
+        "text": "found"
+      },
+      {
+        "id": 4,
+        "text": "94"
+      },
+      {
+        "id": 5,
+        "text": "30"
+      },
+      {
+        "id": 6,
+        "text": "17"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "guiltyOnCounts",
+        "tail": 5
+      },
+      {
+        "head": 0,
+        "relation": "guiltyOf",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "capitalCharges",
+        "tail": 6
+      }
+    ]
+  },
+  {
+    "document_id": 563,
+    "ragtruth_id": "761",
+    "text": "Dzhokhar Tsarnaev has been found guilty on all 30 counts related to the Boston Marathon bombing. He is now eligible for the death penalty, and the trial will move into a penalty phase where the jury will decide his fate. His defense attorney, Judy Clarke, had argued that Tsarnaev's older brother was the mastermind behind the plot, but the prosecution presented a strong case, calling 92 witnesses. Legal experts say that Clarke faces an uphill battle in convincing the jury to spare Tsarnaev's life, given the severity of the crime and the evidence presented.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Dzhokhar Tsarnaev"
+      },
+      {
+        "id": 1,
+        "text": "the Boston Marathon bombing"
+      },
+      {
+        "id": 2,
+        "text": "His defense attorney, Judy Clarke"
+      },
+      {
+        "id": 3,
+        "text": "the jury"
+      },
+      {
+        "id": 4,
+        "text": "30"
+      },
+      {
+        "id": 5,
+        "text": "92"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "guiltyOnCounts",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "guiltyOf",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "defendedBy",
+        "tail": 2
+      },
+      {
+        "head": 3,
+        "relation": "decidesFateOf",
+        "tail": 0
+      }
+    ]
+  },
+  {
+    "document_id": 564,
+    "ragtruth_id": "762",
+    "text": "Beloved Turkish singer-songwriter Kayahan died of cancer last Friday, aged 66. Kayahan, who was first diagnosed with cancer in 1990, had a career spanning several decades, with his most popular album \"I Made a Vow\" released in 1991. The singer, known for his love songs, continued performing until recently, with his last performance in Istanbul on Valentine's Day. His death comes five days after his 66th birthday.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Beloved Turkish singer-songwriter Kayahan"
+      },
+      {
+        "id": 1,
+        "text": "died"
+      },
+      {
+        "id": 2,
+        "text": "last Friday"
+      },
+      {
+        "id": 3,
+        "text": "66"
+      },
+      {
+        "id": 4,
+        "text": "several decades"
+      },
+      {
+        "id": 5,
+        "text": "I Made a Vow"
+      },
+      {
+        "id": 6,
+        "text": "1991"
+      },
+      {
+        "id": 7,
+        "text": "Istanbul"
+      },
+      {
+        "id": 8,
+        "text": "Valentine"
+      },
+      {
+        "id": 9,
+        "text": "five days"
+      },
+      {
+        "id": 10,
+        "text": "66th"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "deathDate",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "age",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "diagnosisDate",
+        "tail": 6
+      },
+      {
+        "head": 0,
+        "relation": "album",
+        "tail": 5
+      },
+      {
+        "head": 5,
+        "relation": "releaseDate",
+        "tail": 6
+      },
+      {
+        "head": 0,
+        "relation": "lastPerformancePlace",
+        "tail": 7
+      },
+      {
+        "head": 0,
+        "relation": "lastPerformanceDate",
+        "tail": 8
+      },
+      {
+        "head": 0,
+        "relation": "deathOffset",
+        "tail": 9
+      },
+      {
+        "head": 0,
+        "relation": "birthdayAge",
+        "tail": 10
+      }
+    ]
+  },
+  {
+    "document_id": 565,
+    "ragtruth_id": "763",
+    "text": "Kayahan, a beloved singer and songwriter in Turkey, has passed away at the age of 66 after battling cancer. He was diagnosed with the disease in 1990, the same year he competed in the Eurovision Song Contest. Kayahan's cancer returned in 2005 and 2014. He died in a hospital in Istanbul, five days after his birthday. Prime Minister Ahmet Davutoglu expressed his condolences, highlighting Kayahan's contributions to Turkish music. Known for his love songs, Kayahan's most popular album was \"I Made a Vow.\"",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Kayahan, a beloved singer and songwriter in Turkey"
+      },
+      {
+        "id": 1,
+        "text": "cancer"
+      },
+      {
+        "id": 2,
+        "text": "Prime Minister Ahmet Davutoglu"
+      },
+      {
+        "id": 3,
+        "text": "the age of 66"
+      },
+      {
+        "id": 4,
+        "text": "1990"
+      },
+      {
+        "id": 5,
+        "text": "the same year"
+      },
+      {
+        "id": 6,
+        "text": "the Eurovision Song Contest"
+      },
+      {
+        "id": 7,
+        "text": "2005"
+      },
+      {
+        "id": 8,
+        "text": "2014"
+      },
+      {
+        "id": 9,
+        "text": "Istanbul"
+      },
+      {
+        "id": 10,
+        "text": "five days"
+      },
+      {
+        "id": 11,
+        "text": "Turkish"
+      },
+      {
+        "id": 12,
+        "text": "I Made a Vow"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "diedAge",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "disease",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "diagnosisDate",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "competedIn",
+        "tail": 6
+      },
+      {
+        "head": 0,
+        "relation": "deathPlace",
+        "tail": 9
+      },
+      {
+        "head": 0,
+        "relation": "deathOffset",
+        "tail": 10
+      },
+      {
+        "head": 0,
+        "relation": "nationality",
+        "tail": 11
+      },
+      {
+        "head": 0,
+        "relation": "album",
+        "tail": 12
+      }
+    ]
+  },
+  {
+    "document_id": 566,
+    "ragtruth_id": "764",
+    "text": "Turkish singer and songwriter Kayahan passed away due to cancer at the age of 66. Known for his love songs and successful album \"I Made a Vow\", he competed in the Eurovision Song Contest in 1990. His legacy is celebrated by many, including Turkish Prime Minister Ahmet Davutoglu.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Turkish singer and songwriter Kayahan"
+      },
+      {
+        "id": 1,
+        "text": "the age of 66"
+      },
+      {
+        "id": 2,
+        "text": "I Made a Vow"
+      },
+      {
+        "id": 3,
+        "text": "the Eurovision Song Contest"
+      },
+      {
+        "id": 4,
+        "text": "1990"
+      },
+      {
+        "id": 5,
+        "text": "Turkish"
+      },
+      {
+        "id": 6,
+        "text": "Ahmet Davutoglu"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "ageAtDeath",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "album",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "competition",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "competitionYear",
+        "tail": 4
+      },
+      {
+        "head": 6,
+        "relation": "nationality",
+        "tail": 5
+      }
+    ]
+  },
+  {
+    "document_id": 567,
+    "ragtruth_id": "765",
+    "text": "Here is a summary of the news in 65 words or less:\n\nTurkish singer and songwriter Kayahan has passed away at the age of 66 due to cancer. Known for his love songs, he was diagnosed with cancer in 1990 and fought the disease multiple times throughout his career. Despite his illness, he continued to perform until his death on Friday in Istanbul.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "\n\nTurkish singer and songwriter Kayahan"
+      },
+      {
+        "id": 1,
+        "text": "cancer"
+      },
+      {
+        "id": 2,
+        "text": "65"
+      },
+      {
+        "id": 3,
+        "text": "the age of"
+      },
+      {
+        "id": 4,
+        "text": "66"
+      },
+      {
+        "id": 5,
+        "text": "1990"
+      },
+      {
+        "id": 6,
+        "text": "Friday"
+      },
+      {
+        "id": 7,
+        "text": "Istanbul"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "age",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "causeOfDeath",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "diagnosedWith",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "diagnosisDate",
+        "tail": 5
+      },
+      {
+        "head": 0,
+        "relation": "deathDate",
+        "tail": 6
+      },
+      {
+        "head": 0,
+        "relation": "deathPlace",
+        "tail": 7
+      }
+    ]
+  },
+  {
+    "document_id": 568,
+    "ragtruth_id": "766",
+    "text": "Sure! Here is a summary of the news within 65 words:\n\nTurkish singer and songwriter Kayahan, known for his love songs and popular album \"I Made a Vow,\" died of cancer at 66. He had been diagnosed multiple times since 1990 and had performed until recently despite his illness. Prime Minister Ahmet Davutoglu mourned his loss, calling him a contributor to Turkish music.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Turkish singer and songwriter Kayahan, known for his love songs and popular album \"I Made a Vow"
+      },
+      {
+        "id": 1,
+        "text": "died"
+      },
+      {
+        "id": 2,
+        "text": "65"
+      },
+      {
+        "id": 3,
+        "text": "66"
+      },
+      {
+        "id": 4,
+        "text": "1990"
+      },
+      {
+        "id": 5,
+        "text": "Ahmet Davutoglu"
+      },
+      {
+        "id": 6,
+        "text": "Turkish"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "deathAge",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "diagnosedSince",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "mournedBy",
+        "tail": 5
+      },
+      {
+        "head": 0,
+        "relation": "contributorTo",
+        "tail": 6
+      }
+    ]
+  },
+  {
+    "document_id": 569,
+    "ragtruth_id": "767",
+    "text": "Kayahan, a renowned Turkish singer and songwriter, has passed away at the age of 66 after a long battle with cancer. He was known for his love songs and his energetic performances, and had been diagnosed with cancer three times throughout his life. He died on Friday in a hospital in Istanbul, just five days after his 66th birthday.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Kayahan, a renowned Turkish singer and songwriter"
+      },
+      {
+        "id": 1,
+        "text": "the age of 66"
+      },
+      {
+        "id": 2,
+        "text": "three"
+      },
+      {
+        "id": 3,
+        "text": "Friday"
+      },
+      {
+        "id": 4,
+        "text": "Istanbul"
+      },
+      {
+        "id": 5,
+        "text": "just five days"
+      },
+      {
+        "id": 6,
+        "text": "66th"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "ageAtDeath",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "deathDate",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "deathPlace",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "timeSinceBirthday",
+        "tail": 5
+      },
+      {
+        "head": 0,
+        "relation": "ageAtBirthday",
+        "tail": 6
+      },
+      {
+        "head": 0,
+        "relation": "numberOfCancerDiagnoses",
+        "tail": 2
+      }
+    ]
+  }
+]

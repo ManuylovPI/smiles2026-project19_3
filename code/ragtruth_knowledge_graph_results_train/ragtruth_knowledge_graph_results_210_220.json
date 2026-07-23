@@ -1,0 +1,1111 @@
+[
+  {
+    "document_id": 210,
+    "ragtruth_id": "282",
+    "text": "Arsenal kept their slim hopes of winning this season's English Premier League title alive by beating Burnley 1-0. The win came from a first half goal from Welsh international Aaron Ramsey, which was enough to secure Arsenal's hold on second place and put them within four points of first placed Chelsea. However, Chelsea have two games in hand and play Queens Park Rangers on Sunday. Arsenal have been in superb form since the start of the year, transforming what looked to be another mediocre season struggling to secure fourth place into one where they at least have a shot at winning the title.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Arsenal"
+      },
+      {
+        "id": 1,
+        "text": "beating"
+      },
+      {
+        "id": 2,
+        "text": "first placed Chelsea"
+      },
+      {
+        "id": 3,
+        "text": "this season's English Premier League title"
+      },
+      {
+        "id": 4,
+        "text": "Burnley 1-0"
+      },
+      {
+        "id": 5,
+        "text": "first"
+      },
+      {
+        "id": 6,
+        "text": "half"
+      },
+      {
+        "id": 7,
+        "text": "Welsh"
+      },
+      {
+        "id": 8,
+        "text": "Aaron Ramsey"
+      },
+      {
+        "id": 9,
+        "text": "second"
+      },
+      {
+        "id": 10,
+        "text": "four"
+      },
+      {
+        "id": 11,
+        "text": "two"
+      },
+      {
+        "id": 12,
+        "text": "Queens Park Rangers"
+      },
+      {
+        "id": 13,
+        "text": "Sunday"
+      },
+      {
+        "id": 14,
+        "text": "the start of the year"
+      },
+      {
+        "id": 15,
+        "text": "season"
+      },
+      {
+        "id": 16,
+        "text": "fourth"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "defeated",
+        "tail": 4
+      },
+      {
+        "head": 1,
+        "relation": "resultedIn",
+        "tail": 8
+      },
+      {
+        "head": 0,
+        "relation": "rank",
+        "tail": 9
+      },
+      {
+        "head": 0,
+        "relation": "pointsBehind",
+        "tail": 10
+      },
+      {
+        "head": 2,
+        "relation": "rank",
+        "tail": 5
+      },
+      {
+        "head": 2,
+        "relation": "gamesInHand",
+        "tail": 11
+      },
+      {
+        "head": 2,
+        "relation": "playsAgainst",
+        "tail": 12
+      },
+      {
+        "head": 2,
+        "relation": "playsOn",
+        "tail": 13
+      },
+      {
+        "head": 0,
+        "relation": "since",
+        "tail": 14
+      },
+      {
+        "head": 0,
+        "relation": "rank",
+        "tail": 16
+      }
+    ]
+  },
+  {
+    "document_id": 211,
+    "ragtruth_id": "283",
+    "text": "Arsenal kept their hopes of winning the English Premier League alive by defeating Burnley 1-0. Aaron Ramsey's first-half goal secured the win and narrowed the gap between Arsenal and first-placed Chelsea to four points. Arsenal has been in excellent form since the start of the year, transforming their season from a struggle for fourth place into a potential title challenge. The introduction of Francis Coquelin in a defensive midfield position has been instrumental in their success. Aston Villa also secured a 1-0 win over Tottenham, while West Brom suffered a 3-2 defeat against Leicester City. Sunderland had a disappointing day, losing 4-1 to Crystal Palace, with Yannick Bolasie scoring a hat trick.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Arsenal"
+      },
+      {
+        "id": 1,
+        "text": "defeating"
+      },
+      {
+        "id": 2,
+        "text": "English"
+      },
+      {
+        "id": 3,
+        "text": "Burnley 1-0"
+      },
+      {
+        "id": 4,
+        "text": "Aaron Ramsey's"
+      },
+      {
+        "id": 5,
+        "text": "first-half"
+      },
+      {
+        "id": 6,
+        "text": "first"
+      },
+      {
+        "id": 7,
+        "text": "Chelsea"
+      },
+      {
+        "id": 8,
+        "text": "four"
+      },
+      {
+        "id": 9,
+        "text": "the start of the year"
+      },
+      {
+        "id": 10,
+        "text": "fourth"
+      },
+      {
+        "id": 11,
+        "text": "Francis Coquelin"
+      },
+      {
+        "id": 12,
+        "text": "Aston Villa"
+      },
+      {
+        "id": 13,
+        "text": "1"
+      },
+      {
+        "id": 14,
+        "text": "Tottenham"
+      },
+      {
+        "id": 15,
+        "text": "West Brom"
+      },
+      {
+        "id": 16,
+        "text": "3"
+      },
+      {
+        "id": 17,
+        "text": "Leicester City"
+      },
+      {
+        "id": 18,
+        "text": "Sunderland"
+      },
+      {
+        "id": 19,
+        "text": "a disappointing day"
+      },
+      {
+        "id": 20,
+        "text": "4"
+      },
+      {
+        "id": 21,
+        "text": "Crystal Palace"
+      },
+      {
+        "id": 22,
+        "text": "Yannick Bolasie"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "defeated",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "narrowedGapTo",
+        "tail": 7
+      },
+      {
+        "head": 0,
+        "relation": "gap",
+        "tail": 8
+      },
+      {
+        "head": 0,
+        "relation": "since",
+        "tail": 9
+      },
+      {
+        "head": 0,
+        "relation": "position",
+        "tail": 10
+      },
+      {
+        "head": 0,
+        "relation": "instrumentalInSuccess",
+        "tail": 11
+      },
+      {
+        "head": 12,
+        "relation": "defeated",
+        "tail": 14
+      },
+      {
+        "head": 15,
+        "relation": "defeatedBy",
+        "tail": 17
+      },
+      {
+        "head": 18,
+        "relation": "defeatedBy",
+        "tail": 21
+      }
+    ]
+  },
+  {
+    "document_id": 212,
+    "ragtruth_id": "284",
+    "text": "Arsenal secured a hard-fought 1-0 victory over Burnley at Turf Moor on Saturday to remain in second place in the English Premier League. The winning goal came in the first half and left Burnley struggling to keep up. Meanwhile, Aston Villa continued their impressive run of form under new manager Tim Sherwood with a 1-0 victory over Tottenham Hotspur. However, West Bromwich Albion lost 3-2 to Leicester City and Sunderland suffered a 4-1 defeat at home to Crystal Palace.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Burnley"
+      },
+      {
+        "id": 1,
+        "text": "Aston Villa"
+      },
+      {
+        "id": 2,
+        "text": "1"
+      },
+      {
+        "id": 3,
+        "text": "Burnley at Turf Moor"
+      },
+      {
+        "id": 4,
+        "text": "Saturday"
+      },
+      {
+        "id": 5,
+        "text": "second"
+      },
+      {
+        "id": 6,
+        "text": "English"
+      },
+      {
+        "id": 7,
+        "text": "the first half"
+      },
+      {
+        "id": 8,
+        "text": "Tim Sherwood"
+      },
+      {
+        "id": 9,
+        "text": "1"
+      },
+      {
+        "id": 10,
+        "text": "Tottenham Hotspur"
+      },
+      {
+        "id": 11,
+        "text": "West Bromwich Albion"
+      },
+      {
+        "id": 12,
+        "text": "3"
+      },
+      {
+        "id": 13,
+        "text": "Leicester City"
+      },
+      {
+        "id": 14,
+        "text": "Sunderland"
+      },
+      {
+        "id": 15,
+        "text": "4"
+      },
+      {
+        "id": 16,
+        "text": "Crystal Palace"
+      }
+    ],
+    "relations": [
+      {
+        "head": 3,
+        "relation": "defeatedBy",
+        "tail": 2
+      },
+      {
+        "head": 1,
+        "relation": "manager",
+        "tail": 8
+      },
+      {
+        "head": 10,
+        "relation": "defeatedBy",
+        "tail": 9
+      },
+      {
+        "head": 11,
+        "relation": "defeatedBy",
+        "tail": 12
+      },
+      {
+        "head": 14,
+        "relation": "defeatedBy",
+        "tail": 15
+      }
+    ]
+  },
+  {
+    "document_id": 213,
+    "ragtruth_id": "285",
+    "text": "Arsenal beat Burnley 1-0 to stay in the running for the Premier League title, with Aaron Ramsey scoring the only goal. The win moved Arsenal within four points of leaders Chelsea, who have two games in hand. Meanwhile, relegation-threatened teams Aston Villa, West Brom, and Sunderland all secured valuable points in their respective matches. Villa won 1-0 against Tottenham, while West Brom conceded an injury-time goal in a 3-2 loss to Leicester City. Sunderland's former manager Dick Advocaat suffered a heavy defeat as his team lost 4-1 to Crystal Palace, who were inspired by Yannick Bolasie's hat-trick.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "beat"
+      },
+      {
+        "id": 1,
+        "text": "Arsenal"
+      },
+      {
+        "id": 2,
+        "text": "relegation-threatened teams Aston Villa, West Brom, and Sunderland"
+      },
+      {
+        "id": 3,
+        "text": "Aston Villa"
+      },
+      {
+        "id": 4,
+        "text": "West Brom"
+      },
+      {
+        "id": 5,
+        "text": "Sunderland"
+      },
+      {
+        "id": 6,
+        "text": "Sunderland's former manager Dick Advocaat"
+      },
+      {
+        "id": 7,
+        "text": "Burnley 1-0"
+      },
+      {
+        "id": 8,
+        "text": "Premier League"
+      },
+      {
+        "id": 9,
+        "text": "Aaron Ramsey"
+      },
+      {
+        "id": 10,
+        "text": "four"
+      },
+      {
+        "id": 11,
+        "text": "Chelsea"
+      },
+      {
+        "id": 12,
+        "text": "two"
+      },
+      {
+        "id": 13,
+        "text": "1"
+      },
+      {
+        "id": 14,
+        "text": "Tottenham"
+      },
+      {
+        "id": 15,
+        "text": "3"
+      },
+      {
+        "id": 16,
+        "text": "Leicester City"
+      },
+      {
+        "id": 17,
+        "text": "4"
+      },
+      {
+        "id": 18,
+        "text": "Crystal Palace"
+      },
+      {
+        "id": 19,
+        "text": "Yannick Bolasie's"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "defeated",
+        "tail": 7
+      },
+      {
+        "head": 1,
+        "relation": "competition",
+        "tail": 8
+      },
+      {
+        "head": 1,
+        "relation": "scorer",
+        "tail": 9
+      },
+      {
+        "head": 1,
+        "relation": "pointsBehind",
+        "tail": 10
+      },
+      {
+        "head": 3,
+        "relation": "defeated",
+        "tail": 14
+      },
+      {
+        "head": 4,
+        "relation": "defeatedBy",
+        "tail": 16
+      },
+      {
+        "head": 5,
+        "relation": "defeatedBy",
+        "tail": 18
+      },
+      {
+        "head": 6,
+        "relation": "managerOf",
+        "tail": 5
+      }
+    ]
+  },
+  {
+    "document_id": 214,
+    "ragtruth_id": "286",
+    "text": "Arsenal kept their slim title hopes alive with a 1-0 win over Burnley, thanks to Aaron Ramsey's first-half goal. The win moved them within four points of leaders Chelsea, who have two games in hand. Arsenal have been in excellent form since the turn of the year, thanks to the midfield pragmatism of players like Francis Coquelin. Meanwhile, Aston Villa's win over Tottenham lifted them away from the relegation zone, while West Brom lost to Leicester City. Crystal Palace secured an easy victory over Sunderland with Yannick Bolasie scoring a hat-trick.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Arsenal"
+      },
+      {
+        "id": 1,
+        "text": "a 1-0 win over Burnley"
+      },
+      {
+        "id": 2,
+        "text": "Aston Villa's"
+      },
+      {
+        "id": 3,
+        "text": "Aaron Ramsey's"
+      },
+      {
+        "id": 4,
+        "text": "first-half"
+      },
+      {
+        "id": 5,
+        "text": "four"
+      },
+      {
+        "id": 6,
+        "text": "Chelsea"
+      },
+      {
+        "id": 7,
+        "text": "two"
+      },
+      {
+        "id": 8,
+        "text": "the turn of the year"
+      },
+      {
+        "id": 9,
+        "text": "Francis Coquelin"
+      },
+      {
+        "id": 10,
+        "text": "Tottenham"
+      },
+      {
+        "id": 11,
+        "text": "West Brom"
+      },
+      {
+        "id": 12,
+        "text": "Leicester City"
+      },
+      {
+        "id": 13,
+        "text": "Crystal Palace"
+      },
+      {
+        "id": 14,
+        "text": "Sunderland"
+      },
+      {
+        "id": 15,
+        "text": "Yannick Bolasie"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "wonAgainst",
+        "tail": 1
+      },
+      {
+        "head": 1,
+        "relation": "defeated",
+        "tail": 14
+      },
+      {
+        "head": 2,
+        "relation": "wonAgainst",
+        "tail": 10
+      },
+      {
+        "head": 11,
+        "relation": "lostTo",
+        "tail": 12
+      },
+      {
+        "head": 13,
+        "relation": "wonAgainst",
+        "tail": 14
+      }
+    ]
+  },
+  {
+    "document_id": 215,
+    "ragtruth_id": "287",
+    "text": "Arsenal beat Burnley 1-0 to keep their slim hopes of winning the Premier League title alive. The win took them to within four points of leaders Chelsea, who have two games in hand. Arsenal have been in excellent form since the start of the year, with young French midfielder Francis Coquelin playing a key role in their defensive solidity. The result also helped struggling Aston Villa, who won 1-0 against Tottenham, and Crystal Palace, who thrashed Sunderland 4-1. However, West Brom lost 3-2 to bottom club Leicester City.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Arsenal"
+      },
+      {
+        "id": 1,
+        "text": "beat"
+      },
+      {
+        "id": 2,
+        "text": "Burnley 1-0"
+      },
+      {
+        "id": 3,
+        "text": "Premier League"
+      },
+      {
+        "id": 4,
+        "text": "four"
+      },
+      {
+        "id": 5,
+        "text": "Chelsea"
+      },
+      {
+        "id": 6,
+        "text": "two"
+      },
+      {
+        "id": 7,
+        "text": "the start of the year"
+      },
+      {
+        "id": 8,
+        "text": "French"
+      },
+      {
+        "id": 9,
+        "text": "Francis Coquelin"
+      },
+      {
+        "id": 10,
+        "text": "Aston Villa"
+      },
+      {
+        "id": 11,
+        "text": "1"
+      },
+      {
+        "id": 12,
+        "text": "Tottenham"
+      },
+      {
+        "id": 13,
+        "text": "Crystal Palace"
+      },
+      {
+        "id": 14,
+        "text": "Sunderland 4-1"
+      },
+      {
+        "id": 15,
+        "text": "West Brom"
+      },
+      {
+        "id": 16,
+        "text": "3"
+      },
+      {
+        "id": 17,
+        "text": "Leicester City"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "defeated",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "pointsBehind",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "behindLeader",
+        "tail": 5
+      },
+      {
+        "head": 0,
+        "relation": "formSince",
+        "tail": 7
+      },
+      {
+        "head": 0,
+        "relation": "player",
+        "tail": 9
+      },
+      {
+        "head": 10,
+        "relation": "defeated",
+        "tail": 12
+      },
+      {
+        "head": 13,
+        "relation": "defeated",
+        "tail": 14
+      },
+      {
+        "head": 15,
+        "relation": "defeatedBy",
+        "tail": 17
+      }
+    ]
+  },
+  {
+    "document_id": 216,
+    "ragtruth_id": "288",
+    "text": "Cynthia Lennon, the first wife of John Lennon and mother of Julian Lennon, died on Wednesday 1st April following a short but brave battle with cancer. Her son, Julian, announced the news on his website, stating that she passed away at her home in Mallorca, Spain. Cynthia Lennon was 75. John and Cynthia met at art school and were married for six years, from 1962 to 1968. The couple divorced in 1968, by which time John was in a relationship with Yoko Ono. Cynthia Lennon married three more times after John and wrote two books about her marriage to the Beatle, \"A Twist of Lennon\" and \"John.\"",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Cynthia Lennon, the first wife of John Lennon and mother of Julian Lennon"
+      },
+      {
+        "id": 1,
+        "text": "Julian Lennon"
+      },
+      {
+        "id": 2,
+        "text": "died"
+      },
+      {
+        "id": 3,
+        "text": "John Lennon"
+      },
+      {
+        "id": 4,
+        "text": "John and Cynthia"
+      },
+      {
+        "id": 5,
+        "text": "1968"
+      },
+      {
+        "id": 6,
+        "text": "Wednesday 1st April"
+      },
+      {
+        "id": 7,
+        "text": "Mallorca"
+      },
+      {
+        "id": 8,
+        "text": "Spain"
+      },
+      {
+        "id": 9,
+        "text": "75"
+      },
+      {
+        "id": 10,
+        "text": "six years"
+      },
+      {
+        "id": 11,
+        "text": "1962 to 1968"
+      },
+      {
+        "id": 12,
+        "text": "Yoko Ono"
+      },
+      {
+        "id": 13,
+        "text": "three"
+      },
+      {
+        "id": 14,
+        "text": "two"
+      },
+      {
+        "id": 15,
+        "text": "A Twist of Lennon"
+      },
+      {
+        "id": 16,
+        "text": "John"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "spouse",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "parentOf",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "deathDate",
+        "tail": 6
+      },
+      {
+        "head": 0,
+        "relation": "deathPlace",
+        "tail": 7
+      },
+      {
+        "head": 0,
+        "relation": "deathPlace",
+        "tail": 8
+      },
+      {
+        "head": 0,
+        "relation": "age",
+        "tail": 9
+      },
+      {
+        "head": 0,
+        "relation": "marriageStartDate",
+        "tail": 11
+      },
+      {
+        "head": 0,
+        "relation": "marriageEndDate",
+        "tail": 5
+      },
+      {
+        "head": 0,
+        "relation": "spouse",
+        "tail": 12
+      }
+    ]
+  },
+  {
+    "document_id": 217,
+    "ragtruth_id": "289",
+    "text": "Cynthia Lennon, the first wife of John Lennon, passed away at the age of 75 after battling cancer. She was married to John Lennon from 1962 to 1968 and they had a son, Julian Lennon, together. Cynthia was a stabilizing force for John, who had lost his mother at a young age. However, their marriage faced challenges due to John's overwhelming fame and his relationship with Yoko Ono. Cynthia went on to write two books about her marriage to John and had no contact with the surviving members of the Beatles until 2006. Despite the difficulties, Cynthia described her life with John as amazing and wonderful. She is survived by her son, Julian.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Cynthia Lennon, the first wife of John Lennon"
+      },
+      {
+        "id": 1,
+        "text": "John Lennon"
+      },
+      {
+        "id": 2,
+        "text": "they"
+      },
+      {
+        "id": 3,
+        "text": "their marriage"
+      },
+      {
+        "id": 4,
+        "text": "a son, Julian Lennon"
+      },
+      {
+        "id": 5,
+        "text": "the age of 75"
+      },
+      {
+        "id": 6,
+        "text": "1962 to"
+      },
+      {
+        "id": 7,
+        "text": "1968"
+      },
+      {
+        "id": 8,
+        "text": "Yoko Ono"
+      },
+      {
+        "id": 9,
+        "text": "two"
+      },
+      {
+        "id": 10,
+        "text": "2006"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "spouse",
+        "tail": 1
+      },
+      {
+        "head": 3,
+        "relation": "spouse",
+        "tail": 1
+      },
+      {
+        "head": 3,
+        "relation": "spouse",
+        "tail": 0
+      },
+      {
+        "head": 0,
+        "relation": "child",
+        "tail": 4
+      },
+      {
+        "head": 1,
+        "relation": "child",
+        "tail": 4
+      },
+      {
+        "head": 3,
+        "relation": "startDate",
+        "tail": 6
+      },
+      {
+        "head": 3,
+        "relation": "endDate",
+        "tail": 7
+      },
+      {
+        "head": 0,
+        "relation": "age",
+        "tail": 5
+      },
+      {
+        "head": 0,
+        "relation": "numberOfBooks",
+        "tail": 9
+      }
+    ]
+  },
+  {
+    "document_id": 218,
+    "ragtruth_id": "290",
+    "text": "Cynthia Lennon, who was married to John Lennon during his rise to fame with the Beatles, has died at the age of 75. She met John at art school and was there for his struggles, including the loss of his mother and his turbulent fame. The couple divorced in 1968, but later reconciled and attended the 2006 Las Vegas premiere of \"The Beatles Love.\" Cynthia Lennon wrote two books about her marriage to John and is survived by her son, Julian.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "John Lennon"
+      },
+      {
+        "id": 1,
+        "text": "Cynthia Lennon, who was married to John Lennon during his rise to fame with the Beatles"
+      },
+      {
+        "id": 2,
+        "text": "married"
+      },
+      {
+        "id": 3,
+        "text": "the age of 75"
+      },
+      {
+        "id": 4,
+        "text": "1968"
+      },
+      {
+        "id": 5,
+        "text": "2006"
+      },
+      {
+        "id": 6,
+        "text": "Las Vegas"
+      },
+      {
+        "id": 7,
+        "text": "The Beatles Love"
+      },
+      {
+        "id": 8,
+        "text": "two"
+      },
+      {
+        "id": 9,
+        "text": "Julian"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "spouse",
+        "tail": 0
+      },
+      {
+        "head": 1,
+        "relation": "deathAge",
+        "tail": 3
+      },
+      {
+        "head": 1,
+        "relation": "divorceDate",
+        "tail": 4
+      },
+      {
+        "head": 1,
+        "relation": "attendedEventDate",
+        "tail": 5
+      },
+      {
+        "head": 1,
+        "relation": "attendedEventPlace",
+        "tail": 6
+      },
+      {
+        "head": 1,
+        "relation": "attendedEvent",
+        "tail": 7
+      },
+      {
+        "head": 1,
+        "relation": "numberOfBooks",
+        "tail": 8
+      },
+      {
+        "head": 1,
+        "relation": "child",
+        "tail": 9
+      }
+    ]
+  },
+  {
+    "document_id": 219,
+    "ragtruth_id": "291",
+    "text": "Cynthia Lennon, the first wife of John Lennon and mother of Julian Lennon, has died at the age of 75 after a brief battle with cancer. She was a stabilizing force for John during his rise to fame with the Beatles, but their marriage ended in divorce in 1968. Despite the challenges of fame and her husband's infidelities, Cynthia remained loyal to John and wrote two books about their marriage. She is survived by her son Julian and her fourth husband Noel Charles, who passed away in 2013.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Cynthia Lennon, the first wife of John Lennon and mother of Julian Lennon"
+      },
+      {
+        "id": 1,
+        "text": "John Lennon"
+      },
+      {
+        "id": 2,
+        "text": "their"
+      },
+      {
+        "id": 3,
+        "text": "their marriage"
+      },
+      {
+        "id": 4,
+        "text": "Julian Lennon"
+      },
+      {
+        "id": 5,
+        "text": "the age of 75"
+      },
+      {
+        "id": 6,
+        "text": "Beatles"
+      },
+      {
+        "id": 7,
+        "text": "1968"
+      },
+      {
+        "id": 8,
+        "text": "two"
+      },
+      {
+        "id": 9,
+        "text": "fourth"
+      },
+      {
+        "id": 10,
+        "text": "Noel Charles"
+      },
+      {
+        "id": 11,
+        "text": "2013"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "spouse",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "parent",
+        "tail": 4
+      },
+      {
+        "head": 3,
+        "relation": "endDate",
+        "tail": 7
+      },
+      {
+        "head": 0,
+        "relation": "spouse",
+        "tail": 10
+      }
+    ]
+  }
+]

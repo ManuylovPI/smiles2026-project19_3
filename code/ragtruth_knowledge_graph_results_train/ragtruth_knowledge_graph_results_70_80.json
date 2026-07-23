@@ -1,0 +1,546 @@
+[
+  {
+    "document_id": 70,
+    "ragtruth_id": "94",
+    "text": "Former Chinese security czar Zhou Yongkang has been charged with accepting bribes, abusing power, and leaking state secrets. He is the highest-ranking official to face corruption charges and could receive a suspended death sentence. Zhou controlled police forces and spy agencies during his political career and is accused of using his power to seek personal benefits and amass wealth. His downfall is seen as a significant moment in Chinese politics and a testament to President Xi Jinping's anti-corruption campaign.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Former Chinese security czar Zhou Yongkang"
+      },
+      {
+        "id": 1,
+        "text": "Chinese"
+      },
+      {
+        "id": 2,
+        "text": "Xi Jinping's"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "nationality",
+        "tail": 1
+      }
+    ]
+  },
+  {
+    "document_id": 71,
+    "ragtruth_id": "95",
+    "text": "China's former security chief, Zhou Yongkang, has been formally charged with corruption, becoming the highest-ranking official to face such charges. Zhou, who retired in 2012, is accused of accepting bribes, abusing power, and leaking state secrets. Prosecutors say he used his position to seek benefits for others and harm national interests. Zhou's case will be tried in Tianjin, and his lawyer's views have been heard. Observers see his downfall as a sign of President Xi Jinping's power and determination to tackle corruption. Zhou's patronage of Bo Xilai, a former leader sentenced to life in prison, has also been noted. Political analysts predict a suspended death sentence for Zhou.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "China's former security chief, Zhou Yongkang,"
+      },
+      {
+        "id": 1,
+        "text": "Tianjin"
+      },
+      {
+        "id": 2,
+        "text": "Xi Jinping's"
+      },
+      {
+        "id": 3,
+        "text": "Bo Xilai"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "trialPlace",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "patronOf",
+        "tail": 3
+      }
+    ]
+  },
+  {
+    "document_id": 72,
+    "ragtruth_id": "96",
+    "text": "A massive fire broke out at the General Electric Appliance Park in Louisville, Kentucky, on Friday morning. No injuries were reported. The cause of the fire is unknown. This park is a significant part of GE's efforts to revitalize US manufacturing.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "A massive fire"
+      },
+      {
+        "id": 1,
+        "text": "the General Electric Appliance Park in Louisville, Kentucky"
+      },
+      {
+        "id": 2,
+        "text": "Friday"
+      },
+      {
+        "id": 3,
+        "text": "morning"
+      },
+      {
+        "id": 4,
+        "text": "GE"
+      },
+      {
+        "id": 5,
+        "text": "US"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "location",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "date",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "timeOfDay",
+        "tail": 3
+      },
+      {
+        "head": 1,
+        "relation": "partOf",
+        "tail": 4
+      },
+      {
+        "head": 1,
+        "relation": "locatedIn",
+        "tail": 5
+      }
+    ]
+  },
+  {
+    "document_id": 73,
+    "ragtruth_id": "97",
+    "text": "A massive fire erupted at General Electric Appliance Park in Louisville, Kentucky, causing thick smoke and bright orange flames. Firefighters worked to control the blaze, and there were no reports of injuries or trapped individuals. The cause of the fire is unknown.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "A massive fire"
+      },
+      {
+        "id": 1,
+        "text": "General Electric Appliance Park"
+      },
+      {
+        "id": 2,
+        "text": "Louisville"
+      },
+      {
+        "id": 3,
+        "text": "Kentucky"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "location",
+        "tail": 1
+      },
+      {
+        "head": 1,
+        "relation": "locatedIn",
+        "tail": 2
+      },
+      {
+        "head": 2,
+        "relation": "locatedIn",
+        "tail": 3
+      }
+    ]
+  },
+  {
+    "document_id": 74,
+    "ragtruth_id": "98",
+    "text": "A massive fire broke out Friday morning in a Kentucky industrial park, causing thick smoke and sending video footage of flames and smoke. The blaze occurred at the General Electric Appliance Park in Louisville, causing concern for nearby residents and businesses. Authorities are investigating the cause of the fire, which has gone to four alarms.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "A massive fire"
+      },
+      {
+        "id": 1,
+        "text": "a Kentucky industrial park"
+      },
+      {
+        "id": 2,
+        "text": "Friday"
+      },
+      {
+        "id": 3,
+        "text": "morning"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "occurredIn",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "time",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "timeOfDay",
+        "tail": 3
+      }
+    ]
+  },
+  {
+    "document_id": 75,
+    "ragtruth_id": "99",
+    "text": "A massive fire broke out at an industrial park in Kentucky, sending thick smoke into the air and engulfing multiple buildings. No injuries have been reported, but the cause remains unknown.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Kentucky"
+      }
+    ],
+    "relations": []
+  },
+  {
+    "document_id": 76,
+    "ragtruth_id": "100",
+    "text": "A massive fire broke out at General Electric's Appliance Park in Louisville, Kentucky, sending thick smoke into the air and prompting a multi-alarm response. No injuries were reported, but the cause of the blaze remains unknown.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "A massive fire"
+      },
+      {
+        "id": 1,
+        "text": "General Electric's"
+      },
+      {
+        "id": 2,
+        "text": "Louisville"
+      },
+      {
+        "id": 3,
+        "text": "Kentucky"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "location",
+        "tail": 2
+      },
+      {
+        "head": 2,
+        "relation": "locatedIn",
+        "tail": 3
+      }
+    ]
+  },
+  {
+    "document_id": 77,
+    "ragtruth_id": "101",
+    "text": "A massive fire broke out at General Electric Appliance Park in Louisville, KY, sending thick smoke into the air and prompting a four-alarm response from firefighters. No injuries or traps reported. Cause unknown.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "General Electric Appliance Park"
+      },
+      {
+        "id": 1,
+        "text": "Louisville"
+      },
+      {
+        "id": 2,
+        "text": "four"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "locatedIn",
+        "tail": 1
+      }
+    ]
+  },
+  {
+    "document_id": 78,
+    "ragtruth_id": "102",
+    "text": "On Thursday, a series of tornadoes ripped through the rural midwest of America, with one person confirmed dead in Fairdale, Illinois; this was the only reported death in two days of tornado touchdowns. Debris was so thick on the roads in nearby Kirkland that emergency responders could not yet assess the damage or injuries, according to fire officials. A video of a massive tornado surfaced on YouTube, showing it barely missing farmhouses and barns. On Wednesday, eight tornadoes were reported in Oklahoma, Kansas and Missouri. Hailstones the size of tennis balls fell on Ashton, Illinois, and there was severe tornado damage on a path not far from the densely populated cities of Chicago and Rockford. One tornado cut a 22-mile path through Ogle County. Sheriff Brian VanVickle reported that, aside from some easily treatable injuries, the tornado had spared life in Ogle County, but had destroyed 20 homes, one of which was his own and caused significant damage to 50-100 houses.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "one person"
+      },
+      {
+        "id": 1,
+        "text": "a massive tornado"
+      },
+      {
+        "id": 2,
+        "text": "Illinois"
+      },
+      {
+        "id": 3,
+        "text": "One tornado"
+      },
+      {
+        "id": 4,
+        "text": "Ogle County"
+      },
+      {
+        "id": 5,
+        "text": "Sheriff Brian VanVickle"
+      },
+      {
+        "id": 6,
+        "text": "Thursday"
+      },
+      {
+        "id": 7,
+        "text": "America"
+      },
+      {
+        "id": 8,
+        "text": "Fairdale"
+      },
+      {
+        "id": 9,
+        "text": "two days"
+      },
+      {
+        "id": 10,
+        "text": "Debris"
+      },
+      {
+        "id": 11,
+        "text": "Kirkland"
+      },
+      {
+        "id": 12,
+        "text": "YouTube"
+      },
+      {
+        "id": 13,
+        "text": "Wednesday"
+      },
+      {
+        "id": 14,
+        "text": "eight"
+      },
+      {
+        "id": 15,
+        "text": "Oklahoma"
+      },
+      {
+        "id": 16,
+        "text": "Kansas"
+      },
+      {
+        "id": 17,
+        "text": "Missouri"
+      },
+      {
+        "id": 18,
+        "text": "Ashton"
+      },
+      {
+        "id": 19,
+        "text": "Chicago"
+      },
+      {
+        "id": 20,
+        "text": "Rockford"
+      },
+      {
+        "id": 21,
+        "text": "22-mile"
+      },
+      {
+        "id": 22,
+        "text": "20"
+      },
+      {
+        "id": 23,
+        "text": "one"
+      },
+      {
+        "id": 24,
+        "text": "50-100"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "deathPlace",
+        "tail": 8
+      },
+      {
+        "head": 1,
+        "relation": "publishedOn",
+        "tail": 12
+      },
+      {
+        "head": 3,
+        "relation": "pathLength",
+        "tail": 21
+      },
+      {
+        "head": 3,
+        "relation": "location",
+        "tail": 4
+      },
+      {
+        "head": 3,
+        "relation": "destroyedHomes",
+        "tail": 22
+      },
+      {
+        "head": 3,
+        "relation": "damagedHouses",
+        "tail": 24
+      },
+      {
+        "head": 5,
+        "relation": "ownedHomeDestroyed",
+        "tail": 23
+      }
+    ]
+  },
+  {
+    "document_id": 79,
+    "ragtruth_id": "103",
+    "text": "Multiple tornadoes tore through the rural Midwest on Thursday, causing destruction and leaving one person dead. The storms hit areas in Illinois, Iowa, and Missouri, with hail stones the size of tennis balls falling in Ashton, Illinois. In Rochelle, Illinois, a large tornado flattened several homes, while in nearby Kirkland, responders were unable to assess the damage due to debris on the roads. A video of a massive twister narrowly missing farmhouses and barns surfaced on YouTube. The storms also caused significant damage in Ogle County, where dozens of homes were destroyed and only foundations remained. The newly elected sheriff of Rochelle, Brian VanVickle, lost his house in the storm but expressed gratitude that his family was safe. The National Weather Service had issued warnings of a \"particularly dangerous situation,\" potentially saving lives. Tornado watches were set to expire early Friday.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Multiple tornadoes"
+      },
+      {
+        "id": 1,
+        "text": "Illinois"
+      },
+      {
+        "id": 2,
+        "text": "Rochelle, Illinois"
+      },
+      {
+        "id": 3,
+        "text": "The newly elected sheriff of Rochelle, Brian VanVickle"
+      },
+      {
+        "id": 4,
+        "text": "Midwest"
+      },
+      {
+        "id": 5,
+        "text": "Thursday"
+      },
+      {
+        "id": 6,
+        "text": "one"
+      },
+      {
+        "id": 7,
+        "text": "Iowa"
+      },
+      {
+        "id": 8,
+        "text": "Missouri"
+      },
+      {
+        "id": 9,
+        "text": "Ashton"
+      },
+      {
+        "id": 10,
+        "text": "Kirkland"
+      },
+      {
+        "id": 11,
+        "text": "YouTube"
+      },
+      {
+        "id": 12,
+        "text": "Ogle County"
+      },
+      {
+        "id": 13,
+        "text": "dozens"
+      },
+      {
+        "id": 14,
+        "text": "The National Weather Service"
+      },
+      {
+        "id": 15,
+        "text": "early Friday"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "locatedIn",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "date",
+        "tail": 5
+      },
+      {
+        "head": 0,
+        "relation": "locatedIn",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "locatedIn",
+        "tail": 7
+      },
+      {
+        "head": 0,
+        "relation": "locatedIn",
+        "tail": 8
+      },
+      {
+        "head": 0,
+        "relation": "locatedIn",
+        "tail": 9
+      },
+      {
+        "head": 0,
+        "relation": "locatedIn",
+        "tail": 12
+      },
+      {
+        "head": 3,
+        "relation": "locatedIn",
+        "tail": 2
+      },
+      {
+        "head": 3,
+        "relation": "lostHouseIn",
+        "tail": 0
+      },
+      {
+        "head": 14,
+        "relation": "issuedWarningsFor",
+        "tail": 0
+      },
+      {
+        "head": 0,
+        "relation": "endsOn",
+        "tail": 15
+      }
+    ]
+  }
+]

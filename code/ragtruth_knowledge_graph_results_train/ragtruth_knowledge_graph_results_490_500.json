@@ -1,0 +1,536 @@
+[
+  {
+    "document_id": 490,
+    "ragtruth_id": "670",
+    "text": "Sure! Here's the summary within 91 words:\n\nA Duke University student admitted to hanging a noose made of rope from a tree near a student union, prompting an investigation and outcry from students and faculty. The student is no longer on campus and will face conduct review, but criminal investigations continue. The incident is the latest in a series of racist events on college campuses nationwide, including a fraternity at the University of Oklahoma having its charter revoked last month. Duke officials called the noose incident a \"cowardly act\" and emphasized that it will not be tolerated.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "A Duke University student"
+      },
+      {
+        "id": 1,
+        "text": "a fraternity at the University of Oklahoma having its charter revoked last month"
+      },
+      {
+        "id": 2,
+        "text": "Duke University"
+      },
+      {
+        "id": 3,
+        "text": "The incident"
+      },
+      {
+        "id": 4,
+        "text": "91"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "studentOf",
+        "tail": 2
+      },
+      {
+        "head": 3,
+        "relation": "calledBy",
+        "tail": 2
+      }
+    ]
+  },
+  {
+    "document_id": 491,
+    "ragtruth_id": "671",
+    "text": "A Duke University student has admitted to hanging a noose made of rope from a tree near a student union. The student is no longer on campus and will face a student conduct review. The incident is being investigated as a possible hate crime and is one of several recent racist incidents on college campuses.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "A Duke University student"
+      },
+      {
+        "id": 1,
+        "text": "hanging"
+      },
+      {
+        "id": 2,
+        "text": "one"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "admittedTo",
+        "tail": 1
+      }
+    ]
+  },
+  {
+    "document_id": 492,
+    "ragtruth_id": "672",
+    "text": "A dog in Washington State, US, has survived being hit by a car, an attempted mercy killing and a burial. The black and white bully breed mix, named Theia, was found emaciated and covered in dirt four days after she was buried. She was taken in by resident Sara Mellado who said: \"She's a true miracle dog and she deserves a good life\". Theia, who is just a year old, suffered a dislocated jaw, leg injuries and a caved-in sinus cavity. A fundraising page set up to help pay for her medical care has already surpassed its $10,000 target.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "A dog in Washington State, US"
+      },
+      {
+        "id": 1,
+        "text": "A fundraising page set up to help pay for her medical care"
+      },
+      {
+        "id": 2,
+        "text": "four days"
+      },
+      {
+        "id": 3,
+        "text": "Sara Mellado"
+      },
+      {
+        "id": 4,
+        "text": "10,000"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "foundAfter",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "rescuedBy",
+        "tail": 3
+      },
+      {
+        "head": 1,
+        "relation": "targetAmount",
+        "tail": 4
+      }
+    ]
+  },
+  {
+    "document_id": 493,
+    "ragtruth_id": "673",
+    "text": "A stray dog in Washington State has miraculously survived after being hit by a car, hit on the head with a hammer, and buried in a field. The dog, now named Theia, managed to stagger to a nearby farm four days after her apparent death, where she was found by a worker and taken to a vet for help. Theia suffered from a dislocated jaw, leg injuries, and a caved-in sinus cavity. She still requires surgery to help her breathe. The community has rallied together and exceeded the $10,000 fundraising target set to cover the dog's medical expenses. Theia's story has inspired many and donations will be used to help other animals in need. Another animal, a cat in Tampa, Florida, also miraculously survived after being hit by a car and buried by its owner.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "A stray dog in Washington State"
+      },
+      {
+        "id": 1,
+        "text": "a car"
+      },
+      {
+        "id": 2,
+        "text": "Another animal, a cat in Tampa, Florida,"
+      },
+      {
+        "id": 3,
+        "text": "four days"
+      },
+      {
+        "id": 4,
+        "text": "10,000"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "hitBy",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "timeToReachFarm",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "fundraisingTarget",
+        "tail": 4
+      },
+      {
+        "head": 2,
+        "relation": "hitBy",
+        "tail": 1
+      }
+    ]
+  },
+  {
+    "document_id": 494,
+    "ragtruth_id": "674",
+    "text": "A stray dog named Theia in Washington State has miraculously survived after being hit by a car, having her head slammed with a hammer, and being buried in a field. She sustained injuries including a dislocated jaw, leg injuries, and a caved-in sinus cavity. Despite these challenges, Theia has remained kind and loving and is currently receiving care at Washington State University Veterinary Teaching Hospital. An online fundraising campaign has been launched to help cover the costs of her medical treatment, which are expected to reach over $30,000.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "A stray dog named Theia in Washington State"
+      },
+      {
+        "id": 1,
+        "text": "injuries including a dislocated jaw, leg injuries, and a caved-in sinus cavity"
+      },
+      {
+        "id": 2,
+        "text": "Washington State University"
+      },
+      {
+        "id": 3,
+        "text": "over $30,000"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "injuries",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "receivingCareAt",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "medicalTreatmentCost",
+        "tail": 3
+      }
+    ]
+  },
+  {
+    "document_id": 495,
+    "ragtruth_id": "675",
+    "text": "A dog named Theia in Washington State survived a series of near-death experiences, including being hit by a car, bludgeoned with a hammer, and buried in a field. Despite suffering severe injuries, including a dislocated jaw, broken leg, and caved-in sinus cavity, Theia miraculously stumbled into a nearby farm four days after her alleged demise. The dog is now undergoing treatment at a local veterinary hospital, but remains in critical condition. A fundraising page has been set up to cover the remainder of her medical expenses, which have already exceeded $10,000. Theia's remarkable story has captured the hearts of many, inspiring donors to contribute to her recovery.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "A dog named Theia in Washington State"
+      },
+      {
+        "id": 1,
+        "text": "four days"
+      },
+      {
+        "id": 2,
+        "text": "10,000"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "timeElapsed",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "medicalExpenses",
+        "tail": 2
+      }
+    ]
+  },
+  {
+    "document_id": 496,
+    "ragtruth_id": "676",
+    "text": "Sure! Here's the summary in 102 words:\n\nA stray dog in Washington state survived being hit by a car, being hammered, and being buried in a field. After four days, she staggered to a farm where she was found and taken to a vet. Despite severe injuries, including a dislocated jaw and caved-in sinus cavity, the dog named Theia is receiving care and has inspired a fundraising campaign to cover her medical expenses.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "A stray dog in Washington state"
+      },
+      {
+        "id": 1,
+        "text": "102"
+      },
+      {
+        "id": 2,
+        "text": "four days"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "location",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "timeElapsed",
+        "tail": 2
+      }
+    ]
+  },
+  {
+    "document_id": 497,
+    "ragtruth_id": "677",
+    "text": "A dog named Theia in Washington State has survived multiple traumatic events, including being hit by a car, being struck on the head with a hammer, and being buried alive. She was found by a farm worker and taken to a veterinary hospital, where she received treatment for her injuries, including a dislocated jaw and leg injuries. Despite her ordeal, Theia is friendly and loving, and her story has inspired donations to help pay for her medical care. A Facebook page has been set up to keep supporters updated on her progress. Additional funds raised will be used to help other animals in need.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "A dog named Theia in Washington State"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "locatedIn",
+        "tail": 0
+      }
+    ]
+  },
+  {
+    "document_id": 498,
+    "ragtruth_id": "678",
+    "text": "As the world watches the development of the Iran nuclear deal, the Iranian Foreign Minister Mohammad Javad Zarif has become a crucial figure. Zarif has been Secretary of State John Kerry's opposite number in negotiating a nuclear deal that could lead to an end to sanctions on Iran. Zarif has developed a reputation for being 'polished' and 'jovial', and has been hailed as the man who could bring Iran back into the international community. However, there are less well-known aspects to Zarif's career, including his tweet to mark the Jewish New Year in 2013, a move which triggered a discussion about Iran's Holocaust denial. Zarif was also nominated as Foreign Minister by the successor to the notorious former Iranian President Mahmoud Ahmadinejad. Zarif's own background includes a period of study in the US, where he earned an undergraduate degree from San Francisco State University and a doctorate from the University of Denver. Zarif is also reportedly under investigation by US authorities over his alleged role in controlling a charitable organization accused of money laundering.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "the Iranian Foreign Minister Mohammad Javad Zarif"
+      },
+      {
+        "id": 1,
+        "text": "the Iran nuclear deal"
+      },
+      {
+        "id": 2,
+        "text": "Iran"
+      },
+      {
+        "id": 3,
+        "text": "his tweet to mark the Jewish New Year in 2013, a move which triggered a discussion about Iran's Holocaust denial"
+      },
+      {
+        "id": 4,
+        "text": "State"
+      },
+      {
+        "id": 5,
+        "text": "John Kerry's"
+      },
+      {
+        "id": 6,
+        "text": "Iranian"
+      },
+      {
+        "id": 7,
+        "text": "Mahmoud Ahmadinejad"
+      },
+      {
+        "id": 8,
+        "text": "US"
+      },
+      {
+        "id": 9,
+        "text": "San Francisco State University"
+      },
+      {
+        "id": 10,
+        "text": "the University of Denver"
+      },
+      {
+        "id": 11,
+        "text": "US"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "negotiator",
+        "tail": 1
+      },
+      {
+        "head": 1,
+        "relation": "about",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "tweet",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "nominatedBy",
+        "tail": 7
+      },
+      {
+        "head": 0,
+        "relation": "studiedIn",
+        "tail": 8
+      },
+      {
+        "head": 0,
+        "relation": "undergraduateDegreeFrom",
+        "tail": 9
+      },
+      {
+        "head": 0,
+        "relation": "doctorateFrom",
+        "tail": 10
+      },
+      {
+        "head": 0,
+        "relation": "investigatedBy",
+        "tail": 11
+      }
+    ]
+  },
+  {
+    "document_id": 499,
+    "ragtruth_id": "679",
+    "text": "Mohammad Javad Zarif, the Iranian foreign minister, has been instrumental in securing a breakthrough in nuclear discussions with the US that could lead to an end to sanctions against Iran. Zarif received a hero's welcome upon his return to Iran and is seen as a key figure in bringing Iran back into the international community. However, there are some lesser-known facts about Zarif. In 2013, he tweeted \"Happy Rosh Hashanah\" to mark the Jewish New Year, prompting a response from Christine Pelosi, daughter of House Minority Leader Nancy Pelosi, asking him to end Iran's Holocaust denial. Zarif replied that Iran never denied the Holocaust and referred to the former Iranian President, Mahmoud Ahmadinejad, who had left office the previous month. Zarif was nominated as foreign minister by Ahmadinejad's successor, Hassan Rouhami. Zarif left Iran in 1977 and studied in the US, receiving his undergraduate degree from San Francisco State University and his master's and doctorate from the University of Denver. He has been investigated by the US Justice Department in relation to the Alavi Foundation, but his name was not mentioned in the settlement. Zarif has spent more time with US Secretary of State John Kerry than any other foreign minister, as they work towards finalizing the nuclear agreement by June 30.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Mohammad Javad Zarif, the Iranian foreign minister"
+      },
+      {
+        "id": 1,
+        "text": "Iran"
+      },
+      {
+        "id": 2,
+        "text": "Holocaust"
+      },
+      {
+        "id": 3,
+        "text": "the former Iranian President, Mahmoud Ahmadinejad, who had left office the previous month"
+      },
+      {
+        "id": 4,
+        "text": "the US"
+      },
+      {
+        "id": 5,
+        "text": "2013"
+      },
+      {
+        "id": 6,
+        "text": "the Jewish New Year"
+      },
+      {
+        "id": 7,
+        "text": "Christine Pelosi"
+      },
+      {
+        "id": 8,
+        "text": "House"
+      },
+      {
+        "id": 9,
+        "text": "Nancy Pelosi"
+      },
+      {
+        "id": 10,
+        "text": "Hassan Rouhami"
+      },
+      {
+        "id": 11,
+        "text": "1977"
+      },
+      {
+        "id": 12,
+        "text": "San Francisco State University"
+      },
+      {
+        "id": 13,
+        "text": "the University of Denver"
+      },
+      {
+        "id": 14,
+        "text": "the US Justice Department"
+      },
+      {
+        "id": 15,
+        "text": "the Alavi Foundation"
+      },
+      {
+        "id": 16,
+        "text": "US"
+      },
+      {
+        "id": 17,
+        "text": "State"
+      },
+      {
+        "id": 18,
+        "text": "John Kerry"
+      },
+      {
+        "id": 19,
+        "text": "June 30"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "nationality",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "position",
+        "tail": 0
+      },
+      {
+        "head": 0,
+        "relation": "tweetedIn",
+        "tail": 5
+      },
+      {
+        "head": 0,
+        "relation": "tweetedAbout",
+        "tail": 6
+      },
+      {
+        "head": 7,
+        "relation": "parent",
+        "tail": 9
+      },
+      {
+        "head": 0,
+        "relation": "nominatedBy",
+        "tail": 10
+      },
+      {
+        "head": 0,
+        "relation": "leftCountryIn",
+        "tail": 11
+      },
+      {
+        "head": 0,
+        "relation": "studiedIn",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "undergraduateDegreeFrom",
+        "tail": 12
+      },
+      {
+        "head": 0,
+        "relation": "mastersAndDoctorateFrom",
+        "tail": 13
+      },
+      {
+        "head": 0,
+        "relation": "investigatedBy",
+        "tail": 14
+      },
+      {
+        "head": 0,
+        "relation": "investigatedInRelationTo",
+        "tail": 15
+      },
+      {
+        "head": 0,
+        "relation": "workedWith",
+        "tail": 18
+      },
+      {
+        "head": 0,
+        "relation": "agreementDeadline",
+        "tail": 19
+      }
+    ]
+  }
+]

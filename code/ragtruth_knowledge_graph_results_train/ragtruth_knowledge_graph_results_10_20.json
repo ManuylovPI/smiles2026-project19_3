@@ -1,0 +1,788 @@
+[
+  {
+    "document_id": 10,
+    "ragtruth_id": "10",
+    "text": "Andrew Getty, an heir to the Getty oil fortune, died of natural causes, the LA Police Department says. He was found dead at home with some medication present, but no foul play is suspected. Getty had filed for a restraining order against an ex-girlfriend, citing health concerns. His net worth was estimated to be $2.1 billion.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Andrew Getty, an heir to the Getty oil fortune"
+      },
+      {
+        "id": 1,
+        "text": "the LA Police Department"
+      },
+      {
+        "id": 2,
+        "text": "$2.1 billion"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "netWorth",
+        "tail": 2
+      }
+    ]
+  },
+  {
+    "document_id": 11,
+    "ragtruth_id": "11",
+    "text": "Andrew Getty, an heir to the Getty oil fortune, has died at the age of 47. The Los Angeles Police Department has stated that there is no criminal investigation into his death, which is believed to have been due to natural causes. Getty had several health issues and medication was found at his home, although it is unclear whether he was taking it or what his medical history was. His parents, Ann and Gordon Getty, have requested privacy.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Andrew Getty, an heir to the Getty oil fortune"
+      },
+      {
+        "id": 1,
+        "text": "died"
+      },
+      {
+        "id": 2,
+        "text": "medication"
+      },
+      {
+        "id": 3,
+        "text": "the age of 47"
+      },
+      {
+        "id": 4,
+        "text": "The Los Angeles Police Department"
+      },
+      {
+        "id": 5,
+        "text": "Ann"
+      },
+      {
+        "id": 6,
+        "text": "Gordon Getty"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "deathAge",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "deathInvestigationStatus",
+        "tail": 4
+      }
+    ]
+  },
+  {
+    "document_id": 12,
+    "ragtruth_id": "12",
+    "text": "Iran is set to lift its ban on women attending sports events. Deputy Sports Minister Abdolhamid Ahmadi has said that a plan to allow \"women and families\" to enter sports stadiums will come into effect next year. It remains unclear which games women will be permitted to attend. Following the Islamic Revolution in 1979, Iranian authorities banned women from attending men's sports events, deeming mixed crowds to be un-Islamic. The ban was briefly lifted for volleyball matches under the moderate President Mohammad Khatami, but was reinstated in 2005.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Iran"
+      },
+      {
+        "id": 1,
+        "text": "its ban on women attending sports events"
+      },
+      {
+        "id": 2,
+        "text": "Abdolhamid Ahmadi"
+      },
+      {
+        "id": 3,
+        "text": "next year"
+      },
+      {
+        "id": 4,
+        "text": "the Islamic Revolution"
+      },
+      {
+        "id": 5,
+        "text": "1979"
+      },
+      {
+        "id": 6,
+        "text": "Iranian"
+      },
+      {
+        "id": 7,
+        "text": "un-Islamic"
+      },
+      {
+        "id": 8,
+        "text": "Mohammad Khatami"
+      },
+      {
+        "id": 9,
+        "text": "2005"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "liftedIn",
+        "tail": 8
+      },
+      {
+        "head": 1,
+        "relation": "reinstatedIn",
+        "tail": 9
+      },
+      {
+        "head": 1,
+        "relation": "liftedIn",
+        "tail": 3
+      },
+      {
+        "head": 1,
+        "relation": "bannedBy",
+        "tail": 6
+      },
+      {
+        "head": 1,
+        "relation": "after",
+        "tail": 4
+      },
+      {
+        "head": 4,
+        "relation": "date",
+        "tail": 5
+      }
+    ]
+  },
+  {
+    "document_id": 13,
+    "ragtruth_id": "13",
+    "text": "The ban on women attending sports events in Iran is set to be lifted for some indoor events, according to a top Iranian sports official. Deputy Sports Minister Abdolhamid Ahmadi announced the plan, which will come into effect in the next year, stating that \"women and families\" will be allowed to enter sports stadiums. However, it is unclear which specific games women will be able to attend. The ban on women attending men's sports events was imposed after the Islamic Revolution in 1979. The restrictions have faced criticism from international sports officials, including FIFA President Sepp Blatter.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "a top Iranian sports official"
+      },
+      {
+        "id": 1,
+        "text": "The ban on women attending sports events in Iran"
+      },
+      {
+        "id": 2,
+        "text": "the next year"
+      },
+      {
+        "id": 3,
+        "text": "the Islamic Revolution"
+      },
+      {
+        "id": 4,
+        "text": "1979"
+      },
+      {
+        "id": 5,
+        "text": "FIFA"
+      },
+      {
+        "id": 6,
+        "text": "Sepp Blatter"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "liftedFor",
+        "tail": 2
+      },
+      {
+        "head": 1,
+        "relation": "imposedAfter",
+        "tail": 3
+      },
+      {
+        "head": 1,
+        "relation": "imposedIn",
+        "tail": 4
+      },
+      {
+        "head": 1,
+        "relation": "criticizedBy",
+        "tail": 5
+      },
+      {
+        "head": 1,
+        "relation": "criticizedBy",
+        "tail": 6
+      }
+    ]
+  },
+  {
+    "document_id": 14,
+    "ragtruth_id": "14",
+    "text": "Iran is planning to lift its ban on women attending sports stadiums for some events. The ban has been in place since the Islamic Revolution in 1979 and has only been lifted briefly during the rule of moderate President Mohammad Khatami. Women will only be allowed to attend indoor sports events, and the restrictions won't change for all matches. The lifting of the ban comes under pressure from international sports officials, including FIFA President Sepp Blatter, who called on Iran to end its \"intolerable\" ban on women attending soccer matches. Iran was in the running to host the 2019 Asian Cup, but was ultimately awarded the tournament to the United Arab Emirates. The ban on women attending matches was widely seen as a major impediment to Iran's chances of securing the event. The ban on women attending matches has been widely criticized by human rights organizations and international leaders.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Iran"
+      },
+      {
+        "id": 1,
+        "text": "its ban on women attending sports stadiums for some events"
+      },
+      {
+        "id": 2,
+        "text": "lift"
+      },
+      {
+        "id": 3,
+        "text": "the 2019 Asian Cup"
+      },
+      {
+        "id": 4,
+        "text": "the Islamic Revolution"
+      },
+      {
+        "id": 5,
+        "text": "1979"
+      },
+      {
+        "id": 6,
+        "text": "Mohammad Khatami"
+      },
+      {
+        "id": 7,
+        "text": "FIFA"
+      },
+      {
+        "id": 8,
+        "text": "Sepp Blatter"
+      },
+      {
+        "id": 9,
+        "text": "the United Arab Emirates"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "inPlaceSince",
+        "tail": 4
+      },
+      {
+        "head": 1,
+        "relation": "inPlaceSince",
+        "tail": 5
+      },
+      {
+        "head": 1,
+        "relation": "liftedDuringRuleOf",
+        "tail": 6
+      },
+      {
+        "head": 0,
+        "relation": "planningToLift",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "calledOnBy",
+        "tail": 8
+      },
+      {
+        "head": 3,
+        "relation": "awardedTo",
+        "tail": 9
+      }
+    ]
+  },
+  {
+    "document_id": 15,
+    "ragtruth_id": "15",
+    "text": "In an effort to improve Iran's chances of hosting future international sports events, the country's deputy sports minister announced plans to lift the ban on women attending men's sports events. However, it is unclear which specific games women will be allowed to attend. The ban was implemented after the 1979 Islamic Revolution due to concerns about mixed crowds being un-Islamic. International sports officials have criticized the ban, and Iran faced pressure to end it during their bid to host the 2019 Asian Cup soccer tournament.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Iran's"
+      },
+      {
+        "id": 1,
+        "text": "the ban on women attending men's sports events"
+      },
+      {
+        "id": 2,
+        "text": "1979"
+      },
+      {
+        "id": 3,
+        "text": "un-Islamic"
+      },
+      {
+        "id": 4,
+        "text": "2019"
+      },
+      {
+        "id": 5,
+        "text": "Asian Cup"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "implementedAfter",
+        "tail": 2
+      },
+      {
+        "head": 1,
+        "relation": "reason",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "subjectOfPressureToEnd",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "bidFor",
+        "tail": 5
+      },
+      {
+        "head": 5,
+        "relation": "year",
+        "tail": 4
+      }
+    ]
+  },
+  {
+    "document_id": 16,
+    "ragtruth_id": "16",
+    "text": "Iran may lift its decades-old ban on women attending men's sports events. Deputy Sports Minister Abdolhamid Ahmadi announced a plan to allow \"women and families\" to enter sports stadiums within the next year. The exact games that will be included are unclear, but indoor sports events may be exempt from the ban. The move comes under pressure from international sports officials and human rights activists.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Iran"
+      },
+      {
+        "id": 1,
+        "text": "its decades-old ban on women attending men's sports events"
+      },
+      {
+        "id": 2,
+        "text": "lift"
+      },
+      {
+        "id": 3,
+        "text": "Abdolhamid Ahmadi"
+      },
+      {
+        "id": 4,
+        "text": "the next year"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "lift",
+        "tail": 1
+      },
+      {
+        "head": 3,
+        "relation": "announced",
+        "tail": 4
+      }
+    ]
+  },
+  {
+    "document_id": 17,
+    "ragtruth_id": "17",
+    "text": "Iran is planning to lift its ban on women attending men's sports events, starting with indoor sports, according to Deputy Sports Minister Abdolhamid Ahmadi. The ban has been in place since the 1979 Islamic Revolution, with few exceptions. International sports officials, including FIFA President Sepp Blatter, have pressured Iran to end the ban, which was seen as a major obstacle to the country hosting the 2019 Asian Cup. The issue gained attention during the recent Asian Cup in Australia, where Iranian women watched their team play without restriction.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Iran"
+      },
+      {
+        "id": 1,
+        "text": "its ban on women attending men's sports events, starting with indoor sports"
+      },
+      {
+        "id": 2,
+        "text": "Iranian women"
+      },
+      {
+        "id": 3,
+        "text": "Abdolhamid Ahmadi"
+      },
+      {
+        "id": 4,
+        "text": "1979"
+      },
+      {
+        "id": 5,
+        "text": "FIFA"
+      },
+      {
+        "id": 6,
+        "text": "Sepp Blatter"
+      },
+      {
+        "id": 7,
+        "text": "Asian Cup"
+      },
+      {
+        "id": 8,
+        "text": "Australia"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "banOn",
+        "tail": 1
+      },
+      {
+        "head": 1,
+        "relation": "startDate",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "pressureFrom",
+        "tail": 5
+      },
+      {
+        "head": 0,
+        "relation": "pressureFrom",
+        "tail": 6
+      },
+      {
+        "head": 0,
+        "relation": "hostCountryOf",
+        "tail": 7
+      },
+      {
+        "head": 7,
+        "relation": "location",
+        "tail": 8
+      }
+    ]
+  },
+  {
+    "document_id": 18,
+    "ragtruth_id": "18",
+    "text": "Survival stories at sea are not just for Hollywood, they happen in real life too, and they are usually incredible tales of human endurance, ingenuity, resourcefulness, and often, luck. For example, Louis Jordan set off on his 35-foot sailboat from South Carolina in late January, and was found 200 miles off the North Carolina coast by the Houston Express, a German-flagged container ship. He survived by rationing water and using laundry to trap and scoop up fish. Jose Salvador Alvarenga claims he survived a year adrift in the Pacific Ocean by eating raw birds, sea turtles and drinking rainwater, and when it wasn't available, his own urine. Ron Ingraham, a fisherman from Hawaii, survived 12 days at sea after his 25-foot sailboat was hit by a storm, surviving on what he could catch from the sea. Adrian Vasquez, 18, was adrift for 26 days, after the engine of his small boat died. He survived by eating raw fish and drinking rainwater. Hiromitsu Shinkawa survived the 2011 tsunami in Japan by clinging to the roof of his house, which was swept nine miles out to sea. He was eventually spotted waving a self-made red flag.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Survival stories at sea"
+      },
+      {
+        "id": 1,
+        "text": "Louis Jordan"
+      },
+      {
+        "id": 2,
+        "text": "Jose Salvador Alvarenga"
+      },
+      {
+        "id": 3,
+        "text": "rainwater"
+      },
+      {
+        "id": 4,
+        "text": "Ron Ingraham, a fisherman from Hawaii"
+      },
+      {
+        "id": 5,
+        "text": "Adrian Vasquez, 18"
+      },
+      {
+        "id": 6,
+        "text": "Hiromitsu Shinkawa"
+      },
+      {
+        "id": 7,
+        "text": "Hollywood"
+      },
+      {
+        "id": 8,
+        "text": "35-foot"
+      },
+      {
+        "id": 9,
+        "text": "South Carolina"
+      },
+      {
+        "id": 10,
+        "text": "late January"
+      },
+      {
+        "id": 11,
+        "text": "200 miles"
+      },
+      {
+        "id": 12,
+        "text": "North Carolina"
+      },
+      {
+        "id": 13,
+        "text": "the Houston Express"
+      },
+      {
+        "id": 14,
+        "text": "German"
+      },
+      {
+        "id": 15,
+        "text": "the Pacific Ocean"
+      },
+      {
+        "id": 16,
+        "text": "12 days"
+      },
+      {
+        "id": 17,
+        "text": "25-foot"
+      },
+      {
+        "id": 18,
+        "text": "26 days"
+      },
+      {
+        "id": 19,
+        "text": "2011"
+      },
+      {
+        "id": 20,
+        "text": "Japan"
+      },
+      {
+        "id": 21,
+        "text": "nine miles"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "departureLocation",
+        "tail": 9
+      },
+      {
+        "head": 1,
+        "relation": "departureDate",
+        "tail": 10
+      },
+      {
+        "head": 1,
+        "relation": "foundBy",
+        "tail": 13
+      },
+      {
+        "head": 1,
+        "relation": "foundDistanceOffCoast",
+        "tail": 11
+      },
+      {
+        "head": 1,
+        "relation": "foundOffCoastOf",
+        "tail": 12
+      },
+      {
+        "head": 13,
+        "relation": "flag",
+        "tail": 14
+      },
+      {
+        "head": 2,
+        "relation": "survivedIn",
+        "tail": 15
+      },
+      {
+        "head": 2,
+        "relation": "usedToDrink",
+        "tail": 3
+      },
+      {
+        "head": 4,
+        "relation": "survivalDuration",
+        "tail": 16
+      },
+      {
+        "head": 5,
+        "relation": "survivalDuration",
+        "tail": 18
+      },
+      {
+        "head": 6,
+        "relation": "survivedIn",
+        "tail": 20
+      },
+      {
+        "head": 6,
+        "relation": "eventDate",
+        "tail": 19
+      },
+      {
+        "head": 6,
+        "relation": "driftDistance",
+        "tail": 21
+      }
+    ]
+  },
+  {
+    "document_id": 19,
+    "ragtruth_id": "19",
+    "text": "The news article discusses several incredible stories of individuals who were stranded at sea for extended periods of time and managed to survive against all odds. These stories resemble the plot of movies like \"All Is Lost\" and \"Life of Pi,\" but they are real-life accounts of survival.\n\nOne of the stories is about Louis Jordan, who set off on his sailboat in late January from South Carolina. His boat capsized, and he suffered injuries, but he managed to survive by rationing water and catching fish. After being stranded for several weeks, he was rescued by crew members on a German-flagged container ship.\n\nAnother story is about Jose Salvador Alvarenga, who disappeared after setting off from Mexico's Pacific coast in late 2012. He survived over a year adrift in the Pacific Ocean, drinking rainwater and eating sea turtles. He eventually arrived at a remote atoll in the Marshall Islands and was rescued.\n\nThe article also mentions Ron Ingraham, a fisherman from Hawaii, who was stranded at sea for 12 days after his sailboat was damaged in bad weather. He was eventually found weak and dehydrated but alive.\n\nAdditionally, the article discusses Adrian Vasquez, who was stranded at sea for 26 days after his boat's engine died. His two companions died during the ordeal, and he survived by eating raw fish and drinking rainwater. He was rescued by fishermen near the Galapagos Islands.\n\nLastly, the article mentions Hiromitsu Shinkawa, who survived the devastating tsunami that struck Japan in 2011. He was swept away by the tsunami but managed to hold onto the roof of a floating house. He was eventually rescued by a Japanese Maritime Self-Defense Force destroyer.\n\nThese stories highlight the incredible resilience and resourcefulness of individuals who find themselves in life-threatening situations at sea. Despite the challenges and hardships they face, these survivors manage to overcome adversity and make it back to land.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "several incredible stories of individuals who were stranded at sea for extended periods of time and managed to survive against all odds"
+      },
+      {
+        "id": 1,
+        "text": "Louis Jordan, who set off on his sailboat in late January from South Carolina"
+      },
+      {
+        "id": 2,
+        "text": "his sailboat"
+      },
+      {
+        "id": 3,
+        "text": "Jose Salvador Alvarenga, who disappeared after setting off from Mexico's Pacific coast in late 2012"
+      },
+      {
+        "id": 4,
+        "text": "The news article"
+      },
+      {
+        "id": 5,
+        "text": "Ron Ingraham, a fisherman from Hawaii, who was stranded at sea for 12 days after his sailboat was damaged in bad weather"
+      },
+      {
+        "id": 6,
+        "text": "Adrian Vasquez, who was stranded at sea for 26 days after his boat's engine died"
+      },
+      {
+        "id": 7,
+        "text": "Hiromitsu Shinkawa, who survived the devastating tsunami that struck Japan in 2011"
+      },
+      {
+        "id": 8,
+        "text": "the devastating tsunami that struck Japan in 2011"
+      },
+      {
+        "id": 9,
+        "text": "individuals who find themselves in life-threatening situations at sea"
+      },
+      {
+        "id": 10,
+        "text": "All Is Lost"
+      },
+      {
+        "id": 11,
+        "text": "\"Life of Pi"
+      },
+      {
+        "id": 12,
+        "text": "One"
+      },
+      {
+        "id": 13,
+        "text": "several weeks"
+      },
+      {
+        "id": 14,
+        "text": "German"
+      },
+      {
+        "id": 15,
+        "text": "the Pacific Ocean"
+      },
+      {
+        "id": 16,
+        "text": "the Marshall Islands"
+      },
+      {
+        "id": 17,
+        "text": "two"
+      },
+      {
+        "id": 18,
+        "text": "the Galapagos Islands"
+      },
+      {
+        "id": 19,
+        "text": "Japanese"
+      }
+    ],
+    "relations": [
+      {
+        "head": 4,
+        "relation": "discusses",
+        "tail": 0
+      },
+      {
+        "head": 0,
+        "relation": "resembles",
+        "tail": 10
+      },
+      {
+        "head": 0,
+        "relation": "resembles",
+        "tail": 11
+      },
+      {
+        "head": 1,
+        "relation": "hasSailboat",
+        "tail": 2
+      },
+      {
+        "head": 1,
+        "relation": "strandedFor",
+        "tail": 13
+      },
+      {
+        "head": 1,
+        "relation": "rescuedBy",
+        "tail": 14
+      },
+      {
+        "head": 3,
+        "relation": "survivedIn",
+        "tail": 15
+      },
+      {
+        "head": 3,
+        "relation": "arrivedAt",
+        "tail": 16
+      },
+      {
+        "head": 5,
+        "relation": "from",
+        "tail": 9
+      },
+      {
+        "head": 5,
+        "relation": "strandedFor",
+        "tail": 12
+      },
+      {
+        "head": 6,
+        "relation": "strandedFor",
+        "tail": 17
+      },
+      {
+        "head": 6,
+        "relation": "rescuedBy",
+        "tail": 18
+      },
+      {
+        "head": 7,
+        "relation": "survived",
+        "tail": 8
+      },
+      {
+        "head": 7,
+        "relation": "rescuedBy",
+        "tail": 19
+      }
+    ]
+  }
+]

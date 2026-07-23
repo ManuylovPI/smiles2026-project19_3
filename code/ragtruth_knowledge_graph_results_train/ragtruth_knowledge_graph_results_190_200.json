@@ -1,0 +1,821 @@
+[
+  {
+    "document_id": 190,
+    "ragtruth_id": "256",
+    "text": "Hillary Clinton's candidacy for the 2016 presidential election will serve as a barometer for gender equality in the US. Her potential victory would be a significant step forward for women's political inclusion, but it could also lead to complacency and a lack of progress on issues like pay equity and sexual assault. A loss would perpetuate the notion that women cannot win big elections and could discourage other potential female candidates from running. The author argues that extrapolating from Clinton's experience to all women in politics is flawed, as she is a unique candidate with both high name recognition and well-publicized baggage. Furthermore, party polarization is a greater determinant of success in presidential elections than gender. The author anticipates that sexist comments and misogynistic behaviors will surface during the campaign, but these will not be the determining factors in Clinton's success or failure. Ultimately, the author argues that Clinton's candidacy should not be seen as a litmus test for true gender equality, and that progress on these issues will require more than just one woman in the White House.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Hillary Clinton's"
+      },
+      {
+        "id": 1,
+        "text": "Her potential victory"
+      },
+      {
+        "id": 2,
+        "text": "The author"
+      },
+      {
+        "id": 3,
+        "text": "sexist comments and misogynistic behaviors"
+      },
+      {
+        "id": 4,
+        "text": "Hillary Clinton's candidacy for the 2016 presidential election"
+      },
+      {
+        "id": 5,
+        "text": "issues like pay equity and sexual assault"
+      },
+      {
+        "id": 6,
+        "text": "US"
+      },
+      {
+        "id": 7,
+        "text": "the White House"
+      }
+    ],
+    "relations": [
+      {
+        "head": 4,
+        "relation": "inCountry",
+        "tail": 6
+      },
+      {
+        "head": 1,
+        "relation": "refersTo",
+        "tail": 4
+      },
+      {
+        "head": 1,
+        "relation": "relatedTo",
+        "tail": 5
+      },
+      {
+        "head": 4,
+        "relation": "relatedTo",
+        "tail": 5
+      },
+      {
+        "head": 4,
+        "relation": "relatedTo",
+        "tail": 7
+      }
+    ]
+  },
+  {
+    "document_id": 191,
+    "ragtruth_id": "257",
+    "text": "Hillary Clinton's announcement of her presidential candidacy has brought attention to the issue of gender equality in the US. Her candidacy will be seen as a benchmark for women's political inclusion, and her win or loss will have implications for women's representation in politics. A win would be a significant step forward, but it may also lead to complacency and a lack of progress in addressing remaining gender disparities. A loss would perpetuate the notion that women cannot win big elections and face inherent bias and discrimination. Clinton's candidacy is unique due to her high profile and long history in politics, which may influence voters' perceptions of her. However, presidential politics is primarily a partisan affair, and party affiliation is a stronger predictor of voting patterns than gender. Sexism and misogyny still exist, but they are not the main factor in determining election outcomes. The author argues that it is unfair to place too much emphasis on Clinton's candidacy as a measure of gender equality, as it is a complex issue that extends beyond one person's experiences.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Hillary Clinton's"
+      },
+      {
+        "id": 1,
+        "text": "her presidential candidacy"
+      },
+      {
+        "id": 2,
+        "text": "A win"
+      },
+      {
+        "id": 3,
+        "text": "Sexism and misogyny"
+      },
+      {
+        "id": 4,
+        "text": "gender equality"
+      },
+      {
+        "id": 5,
+        "text": "US"
+      },
+      {
+        "id": 6,
+        "text": "one"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "associatedWith",
+        "tail": 4
+      },
+      {
+        "head": 1,
+        "relation": "locatedIn",
+        "tail": 5
+      }
+    ]
+  },
+  {
+    "document_id": 192,
+    "ragtruth_id": "258",
+    "text": "After two days of deliberation, Dzhokhar Tsarnaev was found guilty on all counts in the Boston Marathon bombing. The verdict isn't surprising. What might be, however, is the answer to how we prevent this kind of violence from happening again. Because there could be other more young men just like him, which means the lessons we take from Boston will affect whether we can keep America and Americans safer. Today, nearly 1 out of 4 people in the world are Muslim. By 2050, Pew reports, that will be some 1 out of 3. By 2070? Well, I'll quote the all-caps headline reprinted by the Drudge Report: \"Muslims to outnumber Christians!\" Many Americans read such numbers and worry: Will this mean more Dzhokhar Tsarnaevs? But that's only if you believe Islam causes extremism, which many have argued. And that's wrong, of course. On the other hand, there are people who claim Islam has nothing to do with terrorism. Which is true — and false. Sure, the Islamic faith forbids murder, but there's a small but significant minority of Muslims murdering people in terrible ways, and in Islam's name.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "found"
+      },
+      {
+        "id": 1,
+        "text": "Dzhokhar Tsarnaev"
+      },
+      {
+        "id": 2,
+        "text": "the Boston Marathon bombing"
+      },
+      {
+        "id": 3,
+        "text": "nearly 1 out of 4 people in the world"
+      },
+      {
+        "id": 4,
+        "text": "believe"
+      },
+      {
+        "id": 5,
+        "text": "Islam"
+      },
+      {
+        "id": 6,
+        "text": "two days"
+      },
+      {
+        "id": 7,
+        "text": "America"
+      },
+      {
+        "id": 8,
+        "text": "Americans"
+      },
+      {
+        "id": 9,
+        "text": "Today"
+      },
+      {
+        "id": 10,
+        "text": "Muslim"
+      },
+      {
+        "id": 11,
+        "text": "2050"
+      },
+      {
+        "id": 12,
+        "text": "3"
+      },
+      {
+        "id": 13,
+        "text": "2070"
+      },
+      {
+        "id": 14,
+        "text": "Muslims"
+      },
+      {
+        "id": 15,
+        "text": "Christians"
+      },
+      {
+        "id": 16,
+        "text": "Americans"
+      },
+      {
+        "id": 17,
+        "text": "Dzhokhar Tsarnaevs"
+      },
+      {
+        "id": 18,
+        "text": "Muslims"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "guiltyIn",
+        "tail": 2
+      },
+      {
+        "head": 3,
+        "relation": "is",
+        "tail": 10
+      },
+      {
+        "head": 3,
+        "relation": "projectedRatioByYear",
+        "tail": 11
+      },
+      {
+        "head": 14,
+        "relation": "outnumber",
+        "tail": 15
+      }
+    ]
+  },
+  {
+    "document_id": 193,
+    "ragtruth_id": "259",
+    "text": "Jurors have found Dzhokhar Tsarnaev guilty on all counts in the Boston Marathon bombing. The focus now shifts to preventing such violence in the future. The fear of an increasing Muslim population contributing to more incidents like this is a concern for many Americans, but the assumption that Islam causes extremism is incorrect. While the Islamic faith forbids murder, a small minority of Muslims commit acts of violence in the name of Islam. Understanding what leads young Muslims like Tsarnaev down a dangerous path requires understanding radicalization. Radical Islam began at the intersection of politics, religion, and religious identity. Muslims feel a sense of community and when they perceive their community under attack, some may turn to violence with good intentions. The tragedies that have befallen Muslims in various parts of the world have created a sense of helplessness and anger. Extremists offer an enticing solution - take up arms and kill. However, to combat extremism, it is not necessary to reform Islam. Instead, young Muslims need to be shown that extremism harms their own community rather than helping it. Building an engaged American Muslim community that works with others and uses its resources to help those in need is a way to counter radicalism. Social media can play a role in spreading this message to the growing Muslim population. It is important to address the real grievances of Muslims worldwide, such as dictatorships, corruption, foreign intervention, religious illiteracy, and lack of economic opportunity, as these are often exploited by radicals. By offering young Muslims an alternative to violence and emphasizing the importance of helping their fellow believers, extremism can be fought effectively.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "the Boston Marathon bombing"
+      },
+      {
+        "id": 1,
+        "text": "Islam"
+      },
+      {
+        "id": 2,
+        "text": "Dzhokhar Tsarnaev"
+      },
+      {
+        "id": 3,
+        "text": "Muslims"
+      },
+      {
+        "id": 4,
+        "text": "young Muslims"
+      },
+      {
+        "id": 5,
+        "text": "their own community"
+      },
+      {
+        "id": 6,
+        "text": "an engaged American Muslim community that works with others and uses its resources to help those in need"
+      },
+      {
+        "id": 7,
+        "text": "the real grievances of Muslims worldwide, such as dictatorships, corruption, foreign intervention, religious illiteracy, and lack of economic opportunity"
+      },
+      {
+        "id": 8,
+        "text": "young Muslims"
+      },
+      {
+        "id": 9,
+        "text": "Muslim"
+      },
+      {
+        "id": 10,
+        "text": "Americans"
+      },
+      {
+        "id": 11,
+        "text": "Muslims"
+      },
+      {
+        "id": 12,
+        "text": "Muslims"
+      },
+      {
+        "id": 13,
+        "text": "Muslims"
+      },
+      {
+        "id": 14,
+        "text": "Muslim"
+      }
+    ],
+    "relations": [
+      {
+        "head": 2,
+        "relation": "guiltyOf",
+        "tail": 0
+      },
+      {
+        "head": 11,
+        "relation": "commitViolenceInNameOf",
+        "tail": 1
+      },
+      {
+        "head": 4,
+        "relation": "partOf",
+        "tail": 5
+      },
+      {
+        "head": 6,
+        "relation": "worksWith",
+        "tail": 10
+      }
+    ]
+  },
+  {
+    "document_id": 194,
+    "ragtruth_id": "260",
+    "text": "Dzhokhar Tsarnaev was found guilty of the Boston Marathon bombing on all counts by a jury. This verdict is not surprising, as the evidence presented clearly shows that Tsarnaev was responsible for the attack. However, the case raises important questions about how to prevent similar violence from occurring in the future. While there are no easy answers, one thing is clear: the global rise of Islamophobia and anti-Muslim sentiment is contributing to the radicalization of young Muslims like Tsarnaev.\n\nTo understand why Tsarnaev committed the Boston Marathon bombing, we must first understand the concept of radicalization. Radicalization is a complex process that occurs when individuals become disillusioned with their communities and seek alternative sources of meaning and purpose. In the case of Tsarnaev, this disillusionment stemmed from a combination of factors, including poverty, unemployment, and a sense of exclusion from mainstream American society.\n\nRadical Islam is a major contributor to this phenomenon, as it offers a distorted and violent interpretation of the Islamic faith that appeals to individuals who feel marginalized and powerless. To combat this problem, it is essential to promote greater understanding and tolerance between different religious groups, as well as to address the underlying socioeconomic and political factors that contribute to radicalization. By working together, we can create a more inclusive and peaceful world for all.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "found"
+      },
+      {
+        "id": 1,
+        "text": "Dzhokhar Tsarnaev"
+      },
+      {
+        "id": 2,
+        "text": "the Boston Marathon bombing"
+      },
+      {
+        "id": 3,
+        "text": "Boston Marathon"
+      },
+      {
+        "id": 4,
+        "text": "individuals"
+      },
+      {
+        "id": 5,
+        "text": "the case"
+      },
+      {
+        "id": 6,
+        "text": "Radicalization"
+      },
+      {
+        "id": 7,
+        "text": "Radical Islam"
+      },
+      {
+        "id": 8,
+        "text": "one"
+      },
+      {
+        "id": 9,
+        "text": "Islamophobia"
+      },
+      {
+        "id": 10,
+        "text": "anti-Muslim"
+      },
+      {
+        "id": 11,
+        "text": "Muslims"
+      },
+      {
+        "id": 12,
+        "text": "first"
+      },
+      {
+        "id": 13,
+        "text": "American"
+      },
+      {
+        "id": 14,
+        "text": "Islamic"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "guiltyOf",
+        "tail": 2
+      },
+      {
+        "head": 1,
+        "relation": "responsibleFor",
+        "tail": 2
+      },
+      {
+        "head": 6,
+        "relation": "contributor",
+        "tail": 7
+      },
+      {
+        "head": 6,
+        "relation": "contributor",
+        "tail": 9
+      },
+      {
+        "head": 6,
+        "relation": "contributor",
+        "tail": 10
+      }
+    ]
+  },
+  {
+    "document_id": 195,
+    "ragtruth_id": "261",
+    "text": "After two days of deliberation, the jury found Dzhokhar Tsarnaev guilty of all charges related to the Boston Marathon bombing. While the verdict may not come as a surprise, the question remains of how to prevent similar acts of violence in the future. One issue is the growing number of young Muslims, with nearly one-third of the global population expected to be Muslim by 2050. However, it is important to recognize that Islam does not inherently promote extremism, and that the actions of a small minority of radicals should not be used to stereotype and stigmatize an entire religious community. Instead, understanding the root causes of radicalization is key, including political, social, and economic factors.\n\nThe author argues that the solution to fighting extremism is not to reform Islam, but rather to show young Muslims that violence is not the answer. This can be achieved by highlighting the positive impact that Muslims can have on the world through community engagement, compromise, and working together to address common issues. By posing the question to young Muslims of whether they want to help their brothers and sisters in faith, it is possible to counter the narrative of extremist groups and promote a more peaceful and constructive approach to addressing global problems. Ultimately, it is important to recognize that the battle against extremism is not a struggle between religions or cultures, but rather a struggle for the hearts and minds of individuals who are seeking a sense of purpose and meaning in a complex and often chaotic world.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "found"
+      },
+      {
+        "id": 1,
+        "text": "Islam"
+      },
+      {
+        "id": 2,
+        "text": "show"
+      },
+      {
+        "id": 3,
+        "text": "young Muslims"
+      },
+      {
+        "id": 4,
+        "text": "two days"
+      },
+      {
+        "id": 5,
+        "text": "Dzhokhar Tsarnaev"
+      },
+      {
+        "id": 6,
+        "text": "One"
+      },
+      {
+        "id": 7,
+        "text": "Muslims"
+      },
+      {
+        "id": 8,
+        "text": "nearly one-third"
+      },
+      {
+        "id": 9,
+        "text": "Muslim"
+      },
+      {
+        "id": 10,
+        "text": "2050"
+      },
+      {
+        "id": 11,
+        "text": "Muslims"
+      },
+      {
+        "id": 12,
+        "text": "Muslims"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "foundGuiltyOf",
+        "tail": 5
+      },
+      {
+        "head": 9,
+        "relation": "populationShare",
+        "tail": 8
+      },
+      {
+        "head": 9,
+        "relation": "date",
+        "tail": 10
+      },
+      {
+        "head": 2,
+        "relation": "targetAudience",
+        "tail": 11
+      }
+    ]
+  },
+  {
+    "document_id": 196,
+    "ragtruth_id": "262",
+    "text": "The Boston Marathon bomber, Dzhokhar Tsarnaev, has been found guilty on all charges. However, the real challenge lies in understanding what leads young Muslims like him down a dangerous path. It's not necessarily Islam itself, but rather the intersection of politics, religion, and religious identity that can radicalize individuals. The tragedy of modern Islam is the endless sequence of tragedies that have affected Muslims, from the Soviet invasion of Afghanistan to the ongoing occupation of Palestinian territories. These events can create a sense of injustice and hopelessness, which extremists exploit to recruit young Muslims. To combat extremism, it's important to address the root causes of these grievances and show young Muslims that violence is not the solution. Instead, we need to offer them a third way that involves working with others, compromising, and getting things done. By engaging with the global Muslim community and addressing their real grievances, we can create a more inclusive and peaceful society for all.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "The Boston Marathon bomber, Dzhokhar Tsarnaev"
+      },
+      {
+        "id": 1,
+        "text": "Islam itself"
+      },
+      {
+        "id": 2,
+        "text": "the endless sequence of tragedies that have affected Muslims, from the Soviet invasion of Afghanistan to the ongoing occupation of Palestinian territories"
+      },
+      {
+        "id": 3,
+        "text": "young Muslims"
+      },
+      {
+        "id": 4,
+        "text": "Muslims"
+      },
+      {
+        "id": 5,
+        "text": "Islam"
+      },
+      {
+        "id": 6,
+        "text": "Muslims"
+      },
+      {
+        "id": 7,
+        "text": "third"
+      },
+      {
+        "id": 8,
+        "text": "Muslim"
+      }
+    ],
+    "relations": [
+      {
+        "head": 5,
+        "relation": "tragedyOf",
+        "tail": 2
+      },
+      {
+        "head": 2,
+        "relation": "affects",
+        "tail": 6
+      },
+      {
+        "head": 2,
+        "relation": "affects",
+        "tail": 3
+      }
+    ]
+  },
+  {
+    "document_id": 197,
+    "ragtruth_id": "263",
+    "text": "The article discusses the issue of radicalization of young Muslims and the need to understand the root causes of extremism in order to prevent it. The author argues that the common belief that Islam is the cause of extremism is wrong, and that instead, it is the intersection of politics, religion, and religious identity that leads to radicalization. The article highlights the sequence of tragedies that have affected Muslims around the world, such as the Soviet invasion of Afghanistan, the war in Bosnia, and the ongoing occupation of Palestinian territories, which have created a sense of injustice and frustration among young Muslims. The author suggests that extremists offer a simple and tempting solution to these problems, but one that ultimately harms Muslims rather than helping them.\n\nThe article also mentions Ayaan Hirsi Ali's book \"Heretic: Why Islam Needs a Reformation Now,\" which argues that extremism is caused by Islam itself, rather than political circumstances. However, the author disagrees with this view and suggests that the solution to extremism lies in showing young Muslims that violence is not the answer and that there are other ways to help their communities. The author notes that many young Muslims are turning away from extremism and embracing a more peaceful and inclusive form of Islam. The article concludes by emphasizing the need for a more nuanced understanding of Islam and the importance of engaging with young Muslims to prevent further radicalization.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "extremism"
+      },
+      {
+        "id": 1,
+        "text": "The article"
+      },
+      {
+        "id": 2,
+        "text": "The author"
+      },
+      {
+        "id": 3,
+        "text": "Muslims"
+      },
+      {
+        "id": 4,
+        "text": "Islam"
+      },
+      {
+        "id": 5,
+        "text": "argues"
+      },
+      {
+        "id": 6,
+        "text": "young Muslims"
+      },
+      {
+        "id": 7,
+        "text": "Muslims"
+      },
+      {
+        "id": 8,
+        "text": "Muslims"
+      },
+      {
+        "id": 9,
+        "text": "Soviet"
+      },
+      {
+        "id": 10,
+        "text": "Afghanistan"
+      },
+      {
+        "id": 11,
+        "text": "Bosnia"
+      },
+      {
+        "id": 12,
+        "text": "Palestinian"
+      },
+      {
+        "id": 13,
+        "text": "Muslims"
+      },
+      {
+        "id": 14,
+        "text": "Ayaan Hirsi Ali's"
+      },
+      {
+        "id": 15,
+        "text": "Heretic: Why Islam Needs a Reformation Now"
+      },
+      {
+        "id": 16,
+        "text": "Muslims"
+      },
+      {
+        "id": 17,
+        "text": "Muslims"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "discusses",
+        "tail": 0
+      },
+      {
+        "head": 1,
+        "relation": "discusses",
+        "tail": 7
+      },
+      {
+        "head": 1,
+        "relation": "discusses",
+        "tail": 4
+      },
+      {
+        "head": 1,
+        "relation": "mentions",
+        "tail": 14
+      },
+      {
+        "head": 1,
+        "relation": "mentions",
+        "tail": 15
+      },
+      {
+        "head": 15,
+        "relation": "author",
+        "tail": 14
+      },
+      {
+        "head": 5,
+        "relation": "claimsCause",
+        "tail": 4
+      },
+      {
+        "head": 2,
+        "relation": "disagreesWith",
+        "tail": 5
+      },
+      {
+        "head": 2,
+        "relation": "suggests",
+        "tail": 6
+      },
+      {
+        "head": 2,
+        "relation": "notes",
+        "tail": 16
+      },
+      {
+        "head": 1,
+        "relation": "concludesWith",
+        "tail": 4
+      },
+      {
+        "head": 1,
+        "relation": "emphasizes",
+        "tail": 17
+      }
+    ]
+  },
+  {
+    "document_id": 198,
+    "ragtruth_id": "264",
+    "text": "Apple has released a new version of its mobile operating system that includes a diverse range of emojis. These include a range of different skin tones, as well as gay and lesbian couple emojis. The release follows increasing demands for diversity in the digital space, and has been met with both praise and criticism. For many, the new emojis are seen as recognition of their own ethnicity, sexual orientation, and race. Despite the move, Apple has been criticised for not including emojis for certain groups, such as redheads. Apple's decision to include a Palestinian flag emoji, despite some refusing to recognise Palestine as a state, has also been noted. However, some have questioned why it took Apple so long to introduce diverse emojis. The company's move reflects changing demographics in America, and the importance of representation in the digital age.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Apple"
+      },
+      {
+        "id": 1,
+        "text": "a diverse range of emojis"
+      },
+      {
+        "id": 2,
+        "text": "released"
+      },
+      {
+        "id": 3,
+        "text": "many"
+      },
+      {
+        "id": 4,
+        "text": "the move"
+      },
+      {
+        "id": 5,
+        "text": "lesbian couple"
+      },
+      {
+        "id": 6,
+        "text": "Palestinian"
+      },
+      {
+        "id": 7,
+        "text": "emoji"
+      },
+      {
+        "id": 8,
+        "text": "Palestine"
+      },
+      {
+        "id": 9,
+        "text": "America"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "released",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "includes",
+        "tail": 1
+      },
+      {
+        "head": 1,
+        "relation": "includes",
+        "tail": 5
+      },
+      {
+        "head": 0,
+        "relation": "includes",
+        "tail": 7
+      },
+      {
+        "head": 7,
+        "relation": "depicts",
+        "tail": 6
+      },
+      {
+        "head": 4,
+        "relation": "reflects",
+        "tail": 9
+      }
+    ]
+  },
+  {
+    "document_id": 199,
+    "ragtruth_id": "265",
+    "text": "Apple has released a new version of its mobile operating system, which includes more diverse emojis. This update features a range of skin tones, including yellow, brown, and black. It also introduces emojis representing same-sex couples kissing with a heart above their heads. The reaction to these new emojis has been mixed, with some celebrating the inclusivity and recognition of different ethnicities, sexual orientations, and races, while others have expressed concerns about religious liberty and the potential influence on children. Some minority groups, such as redheads, are upset about the lack of representation for their hair color and have started a petition for a redheaded emoji. Additionally, Apple has expanded the flags represented by emojis, but this has caused controversy, with Armenians feeling left out. Overall, this update is seen as a step towards embracing diversity, although some question why it took Apple so long to introduce these changes.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Apple"
+      },
+      {
+        "id": 1,
+        "text": "a new version of its mobile operating system, which includes more diverse emojis"
+      },
+      {
+        "id": 2,
+        "text": "same-sex couples kissing with a heart above their heads"
+      },
+      {
+        "id": 3,
+        "text": "emojis representing same-sex couples kissing with a heart above their heads"
+      },
+      {
+        "id": 4,
+        "text": "Some minority groups, such as redheads"
+      },
+      {
+        "id": 5,
+        "text": "expanded"
+      },
+      {
+        "id": 6,
+        "text": "Armenians"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "includes",
+        "tail": 3
+      },
+      {
+        "head": 3,
+        "relation": "represents",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "released",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "expanded",
+        "tail": 5
+      }
+    ]
+  }
+]

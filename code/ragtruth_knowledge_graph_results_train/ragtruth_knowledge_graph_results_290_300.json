@@ -1,0 +1,619 @@
+[
+  {
+    "document_id": 290,
+    "ragtruth_id": "386",
+    "text": "A man named Jason Warnock noticed a fallen tree on a road in Lewiston, Idaho while driving. As he looked up, he saw an SUV hanging off a cliff with only a chain-link fence holding it up. He quickly parked his car and climbed up the hill to the SUV. With a Snap-on multi-tool, he struck the passenger-side window three times until it shattered. He then reached inside and pulled the driver out to safety. The driver, Matthew Sitko, was taken to the hospital with minor injuries. The Lewiston Police Department thanked Warnock for his quick actions. Warnock said he doesn't want any attention and would rather be fishing than reading about himself.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "A man named Jason Warnock"
+      },
+      {
+        "id": 1,
+        "text": "an SUV"
+      },
+      {
+        "id": 2,
+        "text": "the passenger-side window"
+      },
+      {
+        "id": 3,
+        "text": "the driver"
+      },
+      {
+        "id": 4,
+        "text": "Lewiston"
+      },
+      {
+        "id": 5,
+        "text": "Idaho"
+      },
+      {
+        "id": 6,
+        "text": "three"
+      },
+      {
+        "id": 7,
+        "text": "The Lewiston Police Department"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "location",
+        "tail": 4
+      },
+      {
+        "head": 4,
+        "relation": "locatedIn",
+        "tail": 5
+      },
+      {
+        "head": 1,
+        "relation": "heldBy",
+        "tail": 2
+      },
+      {
+        "head": 3,
+        "relation": "name",
+        "tail": 0
+      },
+      {
+        "head": 7,
+        "relation": "thanked",
+        "tail": 0
+      }
+    ]
+  },
+  {
+    "document_id": 291,
+    "ragtruth_id": "387",
+    "text": "A man named Jason Warnock saved a driver whose SUV was dangling over a cliff in Lewiston, Idaho, after a tree fell on the roadway. Warnock saw the vehicle and rushed to help, using a multi-tool to break the window and pull the driver to safety. Despite being hailed as a hero, Warnock prefers to remain anonymous and returned to fishing after the incident.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "A man named Jason Warnock"
+      },
+      {
+        "id": 1,
+        "text": "Lewiston"
+      },
+      {
+        "id": 2,
+        "text": "Idaho"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "locatedIn",
+        "tail": 2
+      }
+    ]
+  },
+  {
+    "document_id": 292,
+    "ragtruth_id": "388",
+    "text": "Jason Warnock rescued a man dangling from a cliff in Lewiston, Idaho after seeing a fallen tree in the road. He climbed up and broke the window with his multi-tool, pulling the driver to safety. Despite the dramatic rescue, Warnock remains humble and uncredited, saying he would rather be fishing than receiving attention.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Jason Warnock"
+      },
+      {
+        "id": 1,
+        "text": "rescued"
+      },
+      {
+        "id": 2,
+        "text": "Lewiston"
+      },
+      {
+        "id": 3,
+        "text": "Idaho"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "location",
+        "tail": 2
+      },
+      {
+        "head": 2,
+        "relation": "locatedIn",
+        "tail": 3
+      }
+    ]
+  },
+  {
+    "document_id": 293,
+    "ragtruth_id": "389",
+    "text": "Jason Warnock was driving through a canyon in Lewiston, Idaho when he saw an SUV dangling over a cliff. He rushed to the scene and used a multi-tool to break the passenger-side window, pulling the driver to safety. Warnock then disappeared before his identity was revealed through a newspaper photo of the rescue. The driver, Matthew Sitko, sustained minor injuries, and the Lewiston Police Department praised Warnock for his heroic actions.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Jason Warnock"
+      },
+      {
+        "id": 1,
+        "text": "the driver"
+      },
+      {
+        "id": 2,
+        "text": "Lewiston"
+      },
+      {
+        "id": 3,
+        "text": "Idaho"
+      },
+      {
+        "id": 4,
+        "text": "the Lewiston Police Department"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "rescued",
+        "tail": 1
+      },
+      {
+        "head": 4,
+        "relation": "praised",
+        "tail": 0
+      },
+      {
+        "head": 2,
+        "relation": "locatedIn",
+        "tail": 3
+      }
+    ]
+  },
+  {
+    "document_id": 294,
+    "ragtruth_id": "390",
+    "text": "Joy Womack, the American ballet dancer who left the Bolshoi Ballet under a cloud in 2013, currently dances at the Kremlin Ballet Theatre where, aged 20, she is a principal ballerina. Womack says she is paid around $240 a month, an amount which has fallen as the Russian ruble has weakened due to a low oil price and international sanctions imposed over Russia's annexation of Crimea last year. The dancer says that, although she is treated well in the ballet world, things are different outside of it: \"It's extremely difficult to watch the deteriorating relationships between the United States and Russia... the general tendency tends to be more nationalistic and they unfortunately judge foreigners by their cover\". Despite the political situation, Womack says she is \"very loyal\" to the Kremlin Ballet Theatre and has no plans to leave Russia.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Joy Womack, the American ballet dancer who left the Bolshoi Ballet under a cloud in 2013"
+      },
+      {
+        "id": 1,
+        "text": "the ballet world"
+      },
+      {
+        "id": 2,
+        "text": "Russia's"
+      },
+      {
+        "id": 3,
+        "text": "the United States and Russia"
+      },
+      {
+        "id": 4,
+        "text": "foreigners"
+      },
+      {
+        "id": 5,
+        "text": "the Kremlin Ballet Theatre where, aged 20, she is a principal ballerina"
+      },
+      {
+        "id": 6,
+        "text": "around $240"
+      },
+      {
+        "id": 7,
+        "text": "Russian"
+      },
+      {
+        "id": 8,
+        "text": "Crimea"
+      },
+      {
+        "id": 9,
+        "text": "last year"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "dancesAt",
+        "tail": 5
+      },
+      {
+        "head": 0,
+        "relation": "paid",
+        "tail": 6
+      },
+      {
+        "head": 7,
+        "relation": "nationality",
+        "tail": 2
+      },
+      {
+        "head": 2,
+        "relation": "annexed",
+        "tail": 8
+      },
+      {
+        "head": 2,
+        "relation": "annexationDate",
+        "tail": 9
+      },
+      {
+        "head": 3,
+        "relation": "deterioratingRelationshipsWith",
+        "tail": 2
+      }
+    ]
+  },
+  {
+    "document_id": 295,
+    "ragtruth_id": "391",
+    "text": "Joy Womack, an American ballet dancer, is facing financial struggles in her career at the Kremlin Ballet Theatre in Moscow. Womack left her family in the US at the age of 15 to study at the Bolshoi Ballet Academy and later joined the Bolshoi Ballet company. However, in 2013, she left the Bolshoi under controversial circumstances, alleging that she was asked to pay $10,000 for small roles. Womack then joined the Kremlin Ballet Theatre, where she works as a principal ballerina. Despite the opulent surroundings, her salary is only around $240 a month, which has been affected by the weakened Russian ruble due to low oil prices and international sanctions. Womack relies on stretching her income and taking on extra roles or participating in events abroad to make ends meet. She expresses loyalty to the Kremlin Ballet Theatre and the Russian system, despite the difficulties she faces as a foreigner in Russia's current political climate.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Joy Womack, an American ballet dancer"
+      },
+      {
+        "id": 1,
+        "text": "the Bolshoi Ballet company"
+      },
+      {
+        "id": 2,
+        "text": "the Kremlin Ballet Theatre in Moscow"
+      },
+      {
+        "id": 3,
+        "text": "US"
+      },
+      {
+        "id": 4,
+        "text": "the age of 15"
+      },
+      {
+        "id": 5,
+        "text": "the Bolshoi Ballet Academy"
+      },
+      {
+        "id": 6,
+        "text": "2013"
+      },
+      {
+        "id": 7,
+        "text": "10,000"
+      },
+      {
+        "id": 8,
+        "text": "240"
+      },
+      {
+        "id": 9,
+        "text": "Russian"
+      },
+      {
+        "id": 10,
+        "text": "Russian"
+      },
+      {
+        "id": 11,
+        "text": "Russia"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "studiedAt",
+        "tail": 5
+      },
+      {
+        "head": 0,
+        "relation": "joined",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "left",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "joined",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "worksAt",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "leftCountry",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "age",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "date",
+        "tail": 6
+      },
+      {
+        "head": 0,
+        "relation": "salary",
+        "tail": 8
+      },
+      {
+        "head": 0,
+        "relation": "country",
+        "tail": 11
+      }
+    ]
+  },
+  {
+    "document_id": 296,
+    "ragtruth_id": "392",
+    "text": "Joy Womack, an American dancer who moved to Russia to pursue her passion for ballet, faced controversy earlier this week after she posted a video on social media showing her being subjected to harassment while walking down the street. In the video, a group of men can be seen following and taunting Womack, making lewd comments and asking if she would perform for them. Womack, who is currently studying at the Bolshoi Ballet Academy, described the incident as \"humiliating and traumatic.\" She also shared the video on Twitter, where it quickly went viral and sparked outrage. Many people expressed support for Womack, calling the behavior disgusting and unacceptable. The police have since opened an investigation into the incident, and Womack has vowed to continue fighting against sexual harassment and assault in the dance community.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Joy Womack, an American dancer who moved to Russia to pursue her passion for ballet"
+      },
+      {
+        "id": 1,
+        "text": "a video"
+      },
+      {
+        "id": 2,
+        "text": "a group of men"
+      },
+      {
+        "id": 3,
+        "text": "the incident"
+      },
+      {
+        "id": 4,
+        "text": "earlier this week"
+      },
+      {
+        "id": 5,
+        "text": "Twitter"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "studiesAt",
+        "tail": 0
+      },
+      {
+        "head": 1,
+        "relation": "sharedOn",
+        "tail": 5
+      },
+      {
+        "head": 3,
+        "relation": "investigatedBy",
+        "tail": 0
+      }
+    ]
+  },
+  {
+    "document_id": 297,
+    "ragtruth_id": "393",
+    "text": "Joy Womack, a 20-year-old principal ballerina at the Kremlin Ballet Theatre, earns around $8 per day ($240 monthly) despite being one of the first Americans accepted into the prestigious Bolshoi Ballet Academy. Her salary has decreased due to the weakening of the Russian ruble. Despite the challenges, Womack remains loyal to the Kremlin Ballet Theatre and believes that Russia has \"a lot to offer\" as a place to build a career in dance. However, she notes that as a foreigner, she faces discrimination and nationalism outside of the ballet world.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Joy Womack, a 20-year-old principal ballerina at the Kremlin Ballet Theatre"
+      },
+      {
+        "id": 1,
+        "text": "the Kremlin Ballet Theatre"
+      },
+      {
+        "id": 2,
+        "text": "around $8 per day"
+      },
+      {
+        "id": 3,
+        "text": "240"
+      },
+      {
+        "id": 4,
+        "text": "monthly"
+      },
+      {
+        "id": 5,
+        "text": "one"
+      },
+      {
+        "id": 6,
+        "text": "first"
+      },
+      {
+        "id": 7,
+        "text": "Americans"
+      },
+      {
+        "id": 8,
+        "text": "Bolshoi Ballet Academy"
+      },
+      {
+        "id": 9,
+        "text": "Russian"
+      },
+      {
+        "id": 10,
+        "text": "Russia"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "worksAt",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "salary",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "salaryAmount",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "salaryFrequency",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "nationality",
+        "tail": 7
+      },
+      {
+        "head": 0,
+        "relation": "educatedAt",
+        "tail": 8
+      },
+      {
+        "head": 0,
+        "relation": "locatedIn",
+        "tail": 10
+      }
+    ]
+  },
+  {
+    "document_id": 298,
+    "ragtruth_id": "394",
+    "text": "American ballerina Joy Womack, 20, dances as a principal dancer at the Kremlin Ballet Theatre in Moscow, earning $240 per month. She left the Bolshoi Ballet Company in 2013 amid allegations of corruption and now earns less due to the weakened Russian ruble. Despite the low pay, Womack is loyal to the Kremlin Ballet Theatre and appreciates the cultural value of her work. She faces challenges as a foreigner in Russia, particularly in light of the deteriorating US-Russia relations.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "American ballerina Joy Womack, 20"
+      },
+      {
+        "id": 1,
+        "text": "$240 per month"
+      },
+      {
+        "id": 2,
+        "text": "the Kremlin Ballet Theatre in Moscow"
+      },
+      {
+        "id": 3,
+        "text": "Russia"
+      },
+      {
+        "id": 4,
+        "text": "the Bolshoi Ballet Company"
+      },
+      {
+        "id": 5,
+        "text": "2013"
+      },
+      {
+        "id": 6,
+        "text": "Russian"
+      },
+      {
+        "id": 7,
+        "text": "US"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "worksAt",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "salary",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "left",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "leftDate",
+        "tail": 5
+      },
+      {
+        "head": 0,
+        "relation": "locatedIn",
+        "tail": 3
+      }
+    ]
+  },
+  {
+    "document_id": 299,
+    "ragtruth_id": "395",
+    "text": "Joy Womack, a 20-year-old American ballet dancer, is a principal dancer at the Kremlin Ballet Theatre in Moscow. Despite her talent and dedication, she is paid only $240 a month, which is significantly lower than what other principal dancers earn. Womack has to make the money stretch to buy food and relies on her friend for accommodation. She says that the falling value of the Russian ruble has made it difficult for her to afford living expenses. Womack joined the Kremlin Ballet Theatre after leaving the Bolshoi Ballet Academy, where she was one of the first Americans to be accepted into the company. However, she left the Bolshoi under a cloud after suggesting that she was asked to pay a bribe to secure roles. Despite the challenges, Womack remains loyal to the Kremlin Ballet Theatre and appreciates the opportunity to work in Russia, which she believes offers a unique cultural experience and the chance to create art.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Joy Womack, a 20-year-old American ballet dancer"
+      },
+      {
+        "id": 1,
+        "text": "the Kremlin Ballet Theatre in Moscow"
+      },
+      {
+        "id": 2,
+        "text": "the Bolshoi Ballet Academy, where she was one of the first Americans to be accepted into the company"
+      },
+      {
+        "id": 3,
+        "text": "only $240"
+      },
+      {
+        "id": 4,
+        "text": "Russian"
+      },
+      {
+        "id": 5,
+        "text": "Russia"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "principalDancerAt",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "salary",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "joined",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "left",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "worksIn",
+        "tail": 5
+      }
+    ]
+  }
+]

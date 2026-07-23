@@ -1,0 +1,750 @@
+[
+  {
+    "document_id": 680,
+    "ragtruth_id": "920",
+    "text": "The Summit of the Americas in Panama marks the first time that Cuba has been allowed to participate in since 1962. This diplomatic breakthrough came about due to a concerted effort by Cuba to build alliances with other regional countries and insisting on their attendance at the event. However, tensions between Cuba and Venezuela, a key U.S. ally in the region, still remain high over issues such as Venezuela's human rights record and its continued supply of oil to Cuba. Despite these concerns, the U.S. has expressed its willingness to engage in discussions with Cuba and explore ways to move past their differences. This summit presents an opportunity for both the U.S. and Cuba to work towards repairing their relationship and potentially opening new channels of communication and cooperation in the future.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "marks"
+      },
+      {
+        "id": 1,
+        "text": "Cuba"
+      },
+      {
+        "id": 2,
+        "text": "The Summit of the Americas in Panama"
+      },
+      {
+        "id": 3,
+        "text": "Venezuela, a key U.S. ally in the region"
+      },
+      {
+        "id": 4,
+        "text": "tensions between Cuba and Venezuela, a key U.S. ally in the region"
+      },
+      {
+        "id": 5,
+        "text": "the U.S."
+      },
+      {
+        "id": 6,
+        "text": "Cuba and Venezuela, a key U.S. ally in the region"
+      },
+      {
+        "id": 7,
+        "text": "first"
+      },
+      {
+        "id": 8,
+        "text": "1962"
+      }
+    ],
+    "relations": [
+      {
+        "head": 2,
+        "relation": "firstParticipationSince",
+        "tail": 8
+      },
+      {
+        "head": 4,
+        "relation": "between",
+        "tail": 6
+      },
+      {
+        "head": 4,
+        "relation": "between",
+        "tail": 3
+      },
+      {
+        "head": 3,
+        "relation": "supplyOfOilTo",
+        "tail": 1
+      },
+      {
+        "head": 2,
+        "relation": "opportunityForRepairingRelationshipBetween",
+        "tail": 6
+      }
+    ]
+  },
+  {
+    "document_id": 681,
+    "ragtruth_id": "921",
+    "text": "The Summit of the Americas in Panama has brought together representatives from various Latin American countries, including Cuba and the United States. This meeting comes after a significant thawing in relations between the two countries, with the US removing Cuba from its list of states sponsors of terrorism. However, tensions remain between the two nations, particularly regarding Venezuela. Despite this, the US and Cuba are working towards re-establishing formal relations and reopening embassies. The US has also expressed a desire to address pressing issues with Cuba, such as human rights and economic development. Meanwhile, Cuban officials have faced criticism from the US over their support for Venezuela, with some calling for greater aid to help defend against US threats. A recent poll of 1,200 Cubans found that 97% of respondents supported improved US-Cuban relations.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "The Summit of the Americas in Panama"
+      },
+      {
+        "id": 1,
+        "text": "Cuba and the United States"
+      },
+      {
+        "id": 2,
+        "text": "the United States"
+      },
+      {
+        "id": 3,
+        "text": "Cuba"
+      },
+      {
+        "id": 4,
+        "text": "remain"
+      },
+      {
+        "id": 5,
+        "text": "Cuban officials"
+      },
+      {
+        "id": 6,
+        "text": "Venezuela"
+      },
+      {
+        "id": 7,
+        "text": "Latin American"
+      },
+      {
+        "id": 8,
+        "text": "US"
+      },
+      {
+        "id": 9,
+        "text": "1,200"
+      },
+      {
+        "id": 10,
+        "text": "Cubans"
+      },
+      {
+        "id": 11,
+        "text": "97%"
+      },
+      {
+        "id": 12,
+        "text": "US"
+      },
+      {
+        "id": 13,
+        "text": "Cuban"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "location",
+        "tail": 7
+      },
+      {
+        "head": 2,
+        "relation": "removedFromTerrorismList",
+        "tail": 3
+      },
+      {
+        "head": 1,
+        "relation": "relationStatus",
+        "tail": 4
+      },
+      {
+        "head": 1,
+        "relation": "workingTowards",
+        "tail": 4
+      },
+      {
+        "head": 2,
+        "relation": "wantsToAddressIssuesWith",
+        "tail": 3
+      },
+      {
+        "head": 5,
+        "relation": "criticizedBy",
+        "tail": 2
+      },
+      {
+        "head": 5,
+        "relation": "supportFor",
+        "tail": 6
+      },
+      {
+        "head": 10,
+        "relation": "supports",
+        "tail": 4
+      }
+    ]
+  },
+  {
+    "document_id": 682,
+    "ragtruth_id": "922",
+    "text": "Here is a summary of the article in 200 words or less:\n\nThe Summit of the Americas in Panama brought together leaders from across the Americas, including the US and Cuba, for the first time since the two countries restored diplomatic relations. Cuba is looking to rebrand itself as an open and diverse society, but a brawl between government supporters and dissidents in the streets of Panama highlighted the challenges the country still faces. Despite this, the US and Cuba are set to hold discussions on key issues such as re-establishing formal relations and re-opening embassies. The US is also considering removing Cuba from its list of state sponsors of terrorism, which could pave the way for further normalization of relations. However, Venezuela's participation in the summit is expected to be contentious, as the US has declared the country a national security threat due to its alleged support for terrorism.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "the US and Cuba"
+      },
+      {
+        "id": 1,
+        "text": "Cuba"
+      },
+      {
+        "id": 2,
+        "text": "Panama"
+      },
+      {
+        "id": 3,
+        "text": "the challenges the country still faces"
+      },
+      {
+        "id": 4,
+        "text": "the US"
+      },
+      {
+        "id": 5,
+        "text": "The Summit of the Americas in Panama"
+      },
+      {
+        "id": 6,
+        "text": "Venezuela's"
+      },
+      {
+        "id": 7,
+        "text": "200"
+      },
+      {
+        "id": 8,
+        "text": "Americas"
+      },
+      {
+        "id": 9,
+        "text": "first"
+      }
+    ],
+    "relations": [
+      {
+        "head": 5,
+        "relation": "location",
+        "tail": 2
+      },
+      {
+        "head": 5,
+        "relation": "participants",
+        "tail": 8
+      },
+      {
+        "head": 5,
+        "relation": "participants",
+        "tail": 0
+      },
+      {
+        "head": 5,
+        "relation": "participants",
+        "tail": 4
+      },
+      {
+        "head": 5,
+        "relation": "participants",
+        "tail": 1
+      },
+      {
+        "head": 5,
+        "relation": "firstSince",
+        "tail": 9
+      },
+      {
+        "head": 0,
+        "relation": "restoredDiplomaticRelations",
+        "tail": 1
+      },
+      {
+        "head": 4,
+        "relation": "consideringRemovingFromList",
+        "tail": 1
+      },
+      {
+        "head": 4,
+        "relation": "declaredNationalSecurityThreat",
+        "tail": 6
+      }
+    ]
+  },
+  {
+    "document_id": 683,
+    "ragtruth_id": "923",
+    "text": "The United States and Cuba are set to make history at the Summit of the Americas in Panama, where they will engage in diplomatic talks for the first time since 1962. Cuba's presence at the summit is seen as a major diplomatic coup, with the country marshaling support from other regional nations to pressure the US into lifting its blockade. The US has announced its intention to re-establish diplomatic relations with Cuba and open embassies in both countries. However, Cuban officials have stated that they cannot imagine full restoration of diplomatic ties until Cuba is removed from the US State Department's list of countries that support terrorism. The US has indicated that it is considering removing Cuba from the list, which carries financial sanctions. The development comes as the US and Cuba engage in talks to normalize relations, with the US seeking to resolve issues such as the return of Guantanamo Bay and the extradition of fugitives. The Cuban government has been critical of US policy towards Venezuela, which is a key ally of Cuba, but it remains to be seen how far Cuba will go to support Venezuela. A recent poll found that 97% of Cubans support improved US-Cuban relations.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "The United States and Cuba"
+      },
+      {
+        "id": 1,
+        "text": "Cuba"
+      },
+      {
+        "id": 2,
+        "text": "the Summit of the Americas in Panama, where they will engage in diplomatic talks for the first time since 1962"
+      },
+      {
+        "id": 3,
+        "text": "The United States"
+      },
+      {
+        "id": 4,
+        "text": "Cuban officials"
+      },
+      {
+        "id": 5,
+        "text": "the US State Department's list of countries that support terrorism"
+      },
+      {
+        "id": 6,
+        "text": "Venezuela, which is a key ally of Cuba"
+      },
+      {
+        "id": 7,
+        "text": "Guantanamo Bay"
+      },
+      {
+        "id": 8,
+        "text": "US"
+      },
+      {
+        "id": 9,
+        "text": "97%"
+      },
+      {
+        "id": 10,
+        "text": "Cubans"
+      },
+      {
+        "id": 11,
+        "text": "US"
+      },
+      {
+        "id": 12,
+        "text": "Cuban"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "participatesIn",
+        "tail": 2
+      },
+      {
+        "head": 1,
+        "relation": "participatesIn",
+        "tail": 2
+      },
+      {
+        "head": 3,
+        "relation": "intendsToReestablishDiplomaticRelationsWith",
+        "tail": 1
+      },
+      {
+        "head": 3,
+        "relation": "consideringRemovingFromList",
+        "tail": 1
+      },
+      {
+        "head": 1,
+        "relation": "listedOn",
+        "tail": 5
+      },
+      {
+        "head": 1,
+        "relation": "keyAlly",
+        "tail": 6
+      },
+      {
+        "head": 10,
+        "relation": "supports",
+        "tail": 11
+      }
+    ]
+  },
+  {
+    "document_id": 684,
+    "ragtruth_id": "930",
+    "text": "Jill Duggar Dillard, from the reality show \"19 Kids and Counting,\" has given birth to her first child, a son named Israel David. Jill, who is a student midwife, was prepared for the baby to go over his due date, which he did by over a week.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Jill Duggar Dillard, from the reality show \"19 Kids and Counting"
+      },
+      {
+        "id": 1,
+        "text": "her first child, a son named Israel David"
+      },
+      {
+        "id": 2,
+        "text": "over a week"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "childOf",
+        "tail": 0
+      },
+      {
+        "head": 1,
+        "relation": "birthParent",
+        "tail": 0
+      },
+      {
+        "head": 1,
+        "relation": "lateBy",
+        "tail": 2
+      }
+    ]
+  },
+  {
+    "document_id": 685,
+    "ragtruth_id": "931",
+    "text": "Jill Duggar, from the reality show \"19 Kids and Counting,\" gave birth to a 9-pound, 10-ounce son named Israel David. Her parents, Jim Bob and Michelle Duggar, shared a video of the new family on their Facebook page. Jill, a student midwife, was prepared for the baby to be overdue. Her brother, Josh, already has three children and his wife is expecting their fourth.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Jill Duggar, from the reality show \"19 Kids and Counting"
+      },
+      {
+        "id": 1,
+        "text": "Her parents, Jim Bob and Michelle Duggar"
+      },
+      {
+        "id": 2,
+        "text": "a 9-pound, 10-ounce son named Israel David"
+      },
+      {
+        "id": 3,
+        "text": "Her brother, Josh"
+      },
+      {
+        "id": 4,
+        "text": "three"
+      },
+      {
+        "id": 5,
+        "text": "fourth"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "gaveBirthTo",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "parent",
+        "tail": 1
+      },
+      {
+        "head": 3,
+        "relation": "sibling",
+        "tail": 0
+      },
+      {
+        "head": 3,
+        "relation": "hasChildren",
+        "tail": 4
+      },
+      {
+        "head": 3,
+        "relation": "expectingChild",
+        "tail": 5
+      }
+    ]
+  },
+  {
+    "document_id": 686,
+    "ragtruth_id": "932",
+    "text": "Jill Duggar Dillard, the first daughter from the popular reality show \"19 Kids and Counting,\" has given birth to a son named Israel David. The baby, who was a week late, weighed 9 pounds and 10 ounces. Jill, who is a student midwife, delivered the baby at home with the help of her husband Derick and two other female midwives. Jill’s parents, Jim Bob and Michelle Duggar, posted a video of the new family on their official Facebook page. Jill’s older brother, Josh Duggar, is already the father of three children, and his wife, Anna, is expecting their fourth child in July.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "a son named Israel David"
+      },
+      {
+        "id": 1,
+        "text": "Jill, who is a student midwife"
+      },
+      {
+        "id": 2,
+        "text": "Jill’s parents, Jim Bob and Michelle Duggar"
+      },
+      {
+        "id": 3,
+        "text": "Jill’s older brother, Josh Duggar"
+      },
+      {
+        "id": 4,
+        "text": "Jill Duggar Dillard"
+      },
+      {
+        "id": 5,
+        "text": "first"
+      },
+      {
+        "id": 6,
+        "text": "19"
+      },
+      {
+        "id": 7,
+        "text": "Kids and Counting"
+      },
+      {
+        "id": 8,
+        "text": "9 pounds"
+      },
+      {
+        "id": 9,
+        "text": "10 ounces"
+      },
+      {
+        "id": 10,
+        "text": "Derick"
+      },
+      {
+        "id": 11,
+        "text": "two"
+      },
+      {
+        "id": 12,
+        "text": "three"
+      },
+      {
+        "id": 13,
+        "text": "Anna"
+      },
+      {
+        "id": 14,
+        "text": "fourth"
+      },
+      {
+        "id": 15,
+        "text": "July"
+      }
+    ],
+    "relations": [
+      {
+        "head": 4,
+        "relation": "child",
+        "tail": 0
+      },
+      {
+        "head": 0,
+        "relation": "weight",
+        "tail": 8
+      },
+      {
+        "head": 0,
+        "relation": "weight",
+        "tail": 9
+      },
+      {
+        "head": 1,
+        "relation": "spouse",
+        "tail": 10
+      },
+      {
+        "head": 2,
+        "relation": "parentOf",
+        "tail": 1
+      },
+      {
+        "head": 3,
+        "relation": "spouse",
+        "tail": 13
+      },
+      {
+        "head": 3,
+        "relation": "childCount",
+        "tail": 12
+      },
+      {
+        "head": 13,
+        "relation": "expectedChildCount",
+        "tail": 14
+      },
+      {
+        "head": 13,
+        "relation": "expectedBirthDate",
+        "tail": 15
+      }
+    ]
+  },
+  {
+    "document_id": 687,
+    "ragtruth_id": "933",
+    "text": "Sure! Here's a summary of the news in 49 words:\n\nJill Duggar, the first daughter to be married from the reality show \"19 Kids and Counting,\" has given birth to a 9-pound, 10-ounce son named Israel David. She and her husband Derick welcomed their baby boy past his due date, but Jill remained calm and patient as a student midwife.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Jill Duggar, the first daughter to be married from the reality show \"19 Kids and Counting"
+      },
+      {
+        "id": 1,
+        "text": "She and her husband Derick"
+      },
+      {
+        "id": 2,
+        "text": "a 9-pound, 10-ounce son named Israel David"
+      },
+      {
+        "id": 3,
+        "text": "49"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "gaveBirthTo",
+        "tail": 2
+      }
+    ]
+  },
+  {
+    "document_id": 688,
+    "ragtruth_id": "934",
+    "text": "Sure! Here's the summary within 49 words:\n\nJill Duggar, star of \"19 Kids and Counting,\" has given birth to her first child, a 9-pound boy named Israel David. She and her husband Derick waited a week past her due date, with Jill joking that first-time moms often go overdue. This is the first grandchild for Jim Bob and Michelle Duggar, whose TLC show has documented the family's large brood.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Jill Duggar, star of \"19 Kids and Counting"
+      },
+      {
+        "id": 1,
+        "text": "her first child, a 9-pound boy named Israel David"
+      },
+      {
+        "id": 2,
+        "text": "49"
+      },
+      {
+        "id": 3,
+        "text": "Derick"
+      },
+      {
+        "id": 4,
+        "text": "a week past"
+      },
+      {
+        "id": 5,
+        "text": "first"
+      },
+      {
+        "id": 6,
+        "text": "first"
+      },
+      {
+        "id": 7,
+        "text": "Jim Bob"
+      },
+      {
+        "id": 8,
+        "text": "Michelle Duggar"
+      },
+      {
+        "id": 9,
+        "text": "TLC"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "childOf",
+        "tail": 0
+      },
+      {
+        "head": 0,
+        "relation": "spouse",
+        "tail": 3
+      },
+      {
+        "head": 1,
+        "relation": "birthOrder",
+        "tail": 5
+      },
+      {
+        "head": 1,
+        "relation": "grandchildOf",
+        "tail": 7
+      },
+      {
+        "head": 1,
+        "relation": "grandchildOf",
+        "tail": 8
+      },
+      {
+        "head": 0,
+        "relation": "starOf",
+        "tail": 9
+      }
+    ]
+  },
+  {
+    "document_id": 689,
+    "ragtruth_id": "935",
+    "text": "Jill (Duggar) Dillard, star of \"19 Kids and Counting,\" has given birth to a 9-pound, 10-ounce son named Israel David, becoming the first mother in the family.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Jill"
+      },
+      {
+        "id": 1,
+        "text": "19"
+      },
+      {
+        "id": 2,
+        "text": "Kids and Counting"
+      },
+      {
+        "id": 3,
+        "text": "9-pound"
+      },
+      {
+        "id": 4,
+        "text": "10-ounce"
+      },
+      {
+        "id": 5,
+        "text": "Israel David"
+      },
+      {
+        "id": 6,
+        "text": "first"
+      }
+    ],
+    "relations": [
+      {
+        "head": 5,
+        "relation": "childOf",
+        "tail": 0
+      },
+      {
+        "head": 0,
+        "relation": "starOf",
+        "tail": 2
+      },
+      {
+        "head": 5,
+        "relation": "weight",
+        "tail": 3
+      },
+      {
+        "head": 5,
+        "relation": "weight",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "firstMother",
+        "tail": 6
+      }
+    ]
+  }
+]

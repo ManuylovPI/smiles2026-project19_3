@@ -1,0 +1,939 @@
+[
+  {
+    "document_id": 420,
+    "ragtruth_id": "552",
+    "text": "Scott Kelley, 50, a fugitive accused of kidnapping that was featured on CNN's \"The Hunt\" has been arrested by Federal marshals. He was taken into custody at the Atlanta airport after arriving on a flight from Costa Rica. Kelley had been wanted since 2004, for noncustodial kidnapping and unlawful flight to avoid prosecution. His wife, Genevieve Kelley, who is charged with the same crimes, turned herself in to authorities last year, a few months after the case was featured on CNN's \"The Hunt.\" The couple is accused of kidnapping Genevieve Kelley's daughter, Mary Nunes, when she was 8 years old and her father had full custody rights. They then began a life on the run. The search for the three spanned the United States, Canada and Central and South America. It ended when Scott Kelley and Mary Nunes entered the US Consulate in Costa Rica and requested passports to return to the United States.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Scott Kelley, 50, a fugitive accused of kidnapping that was featured on CNN's \"The Hunt\""
+      },
+      {
+        "id": 1,
+        "text": "noncustodial kidnapping and unlawful flight to avoid prosecution"
+      },
+      {
+        "id": 2,
+        "text": "His wife, Genevieve Kelley, who is charged with the same crimes"
+      },
+      {
+        "id": 3,
+        "text": "CNN's"
+      },
+      {
+        "id": 4,
+        "text": "CNN's \"The Hunt\""
+      },
+      {
+        "id": 5,
+        "text": "Genevieve Kelley's daughter, Mary Nunes"
+      },
+      {
+        "id": 6,
+        "text": "The couple"
+      },
+      {
+        "id": 7,
+        "text": "The search for the three"
+      },
+      {
+        "id": 8,
+        "text": "Costa Rica"
+      },
+      {
+        "id": 9,
+        "text": "the United States"
+      },
+      {
+        "id": 10,
+        "text": "Atlanta"
+      },
+      {
+        "id": 11,
+        "text": "since 2004"
+      },
+      {
+        "id": 12,
+        "text": "last year"
+      },
+      {
+        "id": 13,
+        "text": "a few months"
+      },
+      {
+        "id": 14,
+        "text": "8 years old"
+      },
+      {
+        "id": 15,
+        "text": "Canada"
+      },
+      {
+        "id": 16,
+        "text": "Central and South America"
+      },
+      {
+        "id": 17,
+        "text": "the US Consulate"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "featuredOn",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "arrestedAt",
+        "tail": 10
+      },
+      {
+        "head": 0,
+        "relation": "arrivedFrom",
+        "tail": 8
+      },
+      {
+        "head": 0,
+        "relation": "wantedSince",
+        "tail": 11
+      },
+      {
+        "head": 2,
+        "relation": "chargedWith",
+        "tail": 1
+      },
+      {
+        "head": 2,
+        "relation": "turnedIn",
+        "tail": 12
+      },
+      {
+        "head": 6,
+        "relation": "accusedOf",
+        "tail": 1
+      },
+      {
+        "head": 5,
+        "relation": "age",
+        "tail": 14
+      },
+      {
+        "head": 7,
+        "relation": "spanned",
+        "tail": 9
+      },
+      {
+        "head": 7,
+        "relation": "spanned",
+        "tail": 15
+      },
+      {
+        "head": 7,
+        "relation": "spanned",
+        "tail": 16
+      },
+      {
+        "head": 6,
+        "relation": "entered",
+        "tail": 17
+      },
+      {
+        "head": 6,
+        "relation": "entered",
+        "tail": 8
+      },
+      {
+        "head": 6,
+        "relation": "requestedReturnTo",
+        "tail": 9
+      }
+    ]
+  },
+  {
+    "document_id": 421,
+    "ragtruth_id": "553",
+    "text": "Scott Kelley, a fugitive accused of kidnapping, has been arrested by federal marshals at the Atlanta airport. Kelley, who was featured on CNN's \"The Hunt,\" was taken into custody after arriving on a flight from Costa Rica. He has been wanted since 2004 for noncustodial kidnapping and unlawful flight to avoid prosecution. Kelley's wife, Genevieve Kelley, who is also charged with the same crimes, turned herself in last year. The couple is accused of kidnapping Genevieve Kelley's daughter and fleeing New Hampshire when she was 8 years old. The search for them spanned multiple countries and ended when they entered the U.S. Consulate in Costa Rica and requested passports. Mary Nunes, now 19, was interviewed by investigators at the Atlanta airport and allowed to continue to her final destination. She plans to testify at her mother's trial. Kelley's attorney did not comment on the arrest. In unrelated cases, other fugitives featured on \"The Hunt\" have been found or confirmed deceased.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "arrested"
+      },
+      {
+        "id": 1,
+        "text": "Scott Kelley, a fugitive accused of kidnapping"
+      },
+      {
+        "id": 2,
+        "text": "noncustodial kidnapping and unlawful flight to avoid prosecution"
+      },
+      {
+        "id": 3,
+        "text": "Kelley's wife, Genevieve Kelley, who is also charged with the same crimes"
+      },
+      {
+        "id": 4,
+        "text": "Genevieve Kelley's daughter"
+      },
+      {
+        "id": 5,
+        "text": "The couple"
+      },
+      {
+        "id": 6,
+        "text": "Costa Rica"
+      },
+      {
+        "id": 7,
+        "text": "the Atlanta airport"
+      },
+      {
+        "id": 8,
+        "text": "Atlanta"
+      },
+      {
+        "id": 9,
+        "text": "Mary Nunes, now 19,"
+      },
+      {
+        "id": 10,
+        "text": "CNN's \"The Hunt"
+      },
+      {
+        "id": 11,
+        "text": "Kelley"
+      },
+      {
+        "id": 12,
+        "text": "since 2004"
+      },
+      {
+        "id": 13,
+        "text": "last year"
+      },
+      {
+        "id": 14,
+        "text": "New Hampshire"
+      },
+      {
+        "id": 15,
+        "text": "8 years old"
+      },
+      {
+        "id": 16,
+        "text": "the U.S. Consulate"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "arrestedAt",
+        "tail": 7
+      },
+      {
+        "head": 1,
+        "relation": "arrestedIn",
+        "tail": 6
+      },
+      {
+        "head": 1,
+        "relation": "wantedSince",
+        "tail": 12
+      },
+      {
+        "head": 1,
+        "relation": "chargedWith",
+        "tail": 2
+      },
+      {
+        "head": 3,
+        "relation": "chargedWith",
+        "tail": 2
+      },
+      {
+        "head": 3,
+        "relation": "turnedIn",
+        "tail": 13
+      },
+      {
+        "head": 5,
+        "relation": "accusedOf",
+        "tail": 4
+      },
+      {
+        "head": 5,
+        "relation": "fledFrom",
+        "tail": 14
+      },
+      {
+        "head": 5,
+        "relation": "entered",
+        "tail": 16
+      },
+      {
+        "head": 9,
+        "relation": "interviewedAt",
+        "tail": 7
+      }
+    ]
+  },
+  {
+    "document_id": 422,
+    "ragtruth_id": "554",
+    "text": "Federal marshals have arrested Scott Kelley, a fugitive accused of kidnapping who was featured on CNN's \"The Hunt.\" Kelley, 50, returned to the United States on a flight from Costa Rica and was taken into custody at the Atlanta airport. He and his wife, Genevieve Kelley, have been accused of kidnapping and unlawful flight to avoid prosecution since 2004. Their daughter, Mary Nunes, was also kidnapped and is now 19. The family's disappearance spanned the United States, Canada, and Central and South America. They have been arrested and are facing trial.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Scott Kelley, a fugitive accused of kidnapping who was featured on CNN's \"The Hunt"
+      },
+      {
+        "id": 1,
+        "text": "He and his wife, Genevieve Kelley,"
+      },
+      {
+        "id": 2,
+        "text": "the United States"
+      },
+      {
+        "id": 3,
+        "text": "Costa Rica"
+      },
+      {
+        "id": 4,
+        "text": "Atlanta"
+      },
+      {
+        "id": 5,
+        "text": "2004"
+      },
+      {
+        "id": 6,
+        "text": "Mary Nunes"
+      },
+      {
+        "id": 7,
+        "text": "19"
+      },
+      {
+        "id": 8,
+        "text": "Canada"
+      },
+      {
+        "id": 9,
+        "text": "Central and South America"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "returnedTo",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "returnedFrom",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "arrestedAt",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "accusedSince",
+        "tail": 5
+      },
+      {
+        "head": 6,
+        "relation": "age",
+        "tail": 7
+      }
+    ]
+  },
+  {
+    "document_id": 423,
+    "ragtruth_id": "555",
+    "text": "Federal marshals have arrested Scott Kelley, a fugitive accused of kidnapping, at the Atlanta airport after he returned to the United States from Costa Rica. Kelley, 50, had been wanted since 2004 and was featured on CNN's \"The Hunt\" along with his wife, Genevieve Kelley, who turned herself in last year. Their daughter, Mary Nunes, who was kidnapped when she was 8 years old, was also located and interviewed by investigators at the airport. Kelley's attorney did not comment, but his wife's supporters say she acted out of concern for her daughter's safety. Genevieve Kelley is scheduled to go on trial next month.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Scott Kelley, a fugitive accused of kidnapping"
+      },
+      {
+        "id": 1,
+        "text": "his wife, Genevieve Kelley, who turned herself in last year"
+      },
+      {
+        "id": 2,
+        "text": "Their daughter, Mary Nunes, who was kidnapped when she was 8 years old"
+      },
+      {
+        "id": 3,
+        "text": "the Atlanta airport"
+      },
+      {
+        "id": 4,
+        "text": "the United States"
+      },
+      {
+        "id": 5,
+        "text": "Costa Rica"
+      },
+      {
+        "id": 6,
+        "text": "since 2004"
+      },
+      {
+        "id": 7,
+        "text": "CNN"
+      },
+      {
+        "id": 8,
+        "text": "next month"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "arrestedAt",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "returnedTo",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "returnedFrom",
+        "tail": 5
+      },
+      {
+        "head": 0,
+        "relation": "wantedSince",
+        "tail": 6
+      },
+      {
+        "head": 0,
+        "relation": "featuredOn",
+        "tail": 7
+      },
+      {
+        "head": 1,
+        "relation": "spouse",
+        "tail": 0
+      },
+      {
+        "head": 2,
+        "relation": "daughterOf",
+        "tail": 0
+      },
+      {
+        "head": 2,
+        "relation": "daughterOf",
+        "tail": 1
+      },
+      {
+        "head": 2,
+        "relation": "locatedAt",
+        "tail": 3
+      },
+      {
+        "head": 1,
+        "relation": "trialDate",
+        "tail": 8
+      }
+    ]
+  },
+  {
+    "document_id": 424,
+    "ragtruth_id": "556",
+    "text": "Scott Kelley, a fugitive accused of kidnapping his daughter and fleeing the country with her, was arrested at Atlanta's airport after returning from Costa Rica. Kelley and his daughter, Mary Nunes, now 19, were taken into custody by federal marshals. Kelley's wife, Genevieve Kelley, was arrested last year and is set to go on trial next month. The family had been on the run for over 15 years, with the father, Mark Nunes, having full custody of their daughter before she was taken. Mary is expected to testify against her parents. The case gained national attention after it was featured on CNN's \"The Hunt.\"",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Scott Kelley, a fugitive accused of kidnapping his daughter and fleeing the country with her"
+      },
+      {
+        "id": 1,
+        "text": "his daughter"
+      },
+      {
+        "id": 2,
+        "text": "The family"
+      },
+      {
+        "id": 3,
+        "text": "The case"
+      },
+      {
+        "id": 4,
+        "text": "Atlanta"
+      },
+      {
+        "id": 5,
+        "text": "Costa Rica"
+      },
+      {
+        "id": 6,
+        "text": "Genevieve Kelley"
+      },
+      {
+        "id": 7,
+        "text": "last year"
+      },
+      {
+        "id": 8,
+        "text": "next month"
+      },
+      {
+        "id": 9,
+        "text": "over 15 years"
+      },
+      {
+        "id": 10,
+        "text": "Mark Nunes"
+      },
+      {
+        "id": 11,
+        "text": "CNN"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "arrestedAt",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "returnedFrom",
+        "tail": 5
+      },
+      {
+        "head": 6,
+        "relation": "arrestedTime",
+        "tail": 7
+      },
+      {
+        "head": 6,
+        "relation": "trialTime",
+        "tail": 8
+      },
+      {
+        "head": 2,
+        "relation": "duration",
+        "tail": 9
+      },
+      {
+        "head": 1,
+        "relation": "custodyBy",
+        "tail": 10
+      },
+      {
+        "head": 3,
+        "relation": "featuredOn",
+        "tail": 11
+      }
+    ]
+  },
+  {
+    "document_id": 425,
+    "ragtruth_id": "557",
+    "text": "Federal marshals have arrested Scott Kelley, a fugitive accused of kidnapping his own daughter, after he returned to the US from Costa Rica. Kelley and his wife, Genevieve, are accused of kidnapping their daughter, Mary, when she was 8 years old, and fleeing the country. They were both featured on CNN's \"The Hunt.\" Genevieve turned herself in last year, and her trial is set to begin next month. Scott Kelley's arrest came after he and Mary entered a US consulate in Costa Rica and asked for passports to return to the US. Authorities were notified, and Kelley was taken into custody at the Atlanta airport. Mary, who is now 19, was interviewed by investigators and then allowed to continue to her final destination. Her father, Mark Nunes, has expressed relief that she is safe and well. Kelley's attorney has not commented.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Scott Kelley, a fugitive accused of kidnapping his own daughter"
+      },
+      {
+        "id": 1,
+        "text": "Kelley and his wife, Genevieve"
+      },
+      {
+        "id": 2,
+        "text": "his own daughter"
+      },
+      {
+        "id": 3,
+        "text": "the US"
+      },
+      {
+        "id": 4,
+        "text": "his wife, Genevieve"
+      },
+      {
+        "id": 5,
+        "text": "arrested"
+      },
+      {
+        "id": 6,
+        "text": "Costa Rica"
+      },
+      {
+        "id": 7,
+        "text": "8 years old"
+      },
+      {
+        "id": 8,
+        "text": "CNN"
+      },
+      {
+        "id": 9,
+        "text": "last year"
+      },
+      {
+        "id": 10,
+        "text": "next month"
+      },
+      {
+        "id": 11,
+        "text": "US"
+      },
+      {
+        "id": 12,
+        "text": "Atlanta"
+      },
+      {
+        "id": 13,
+        "text": "Mark Nunes"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "arrestedBy",
+        "tail": 5
+      },
+      {
+        "head": 0,
+        "relation": "returnedTo",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "from",
+        "tail": 6
+      },
+      {
+        "head": 1,
+        "relation": "featuredOn",
+        "tail": 8
+      },
+      {
+        "head": 4,
+        "relation": "turnedIn",
+        "tail": 9
+      },
+      {
+        "head": 4,
+        "relation": "trialStart",
+        "tail": 10
+      },
+      {
+        "head": 0,
+        "relation": "takenIntoCustodyAt",
+        "tail": 12
+      },
+      {
+        "head": 2,
+        "relation": "father",
+        "tail": 13
+      }
+    ]
+  },
+  {
+    "document_id": 426,
+    "ragtruth_id": "558",
+    "text": "The jury in the trial of the Boston Marathon bomber, Dzhokhar Tsarnaev, continues to hear the harrowing stories of those who survived the bombings, as well as from the friends and relatives of those who were killed. The jury must decide whether Tsarnaev, who has been convicted on all charges relating to the bombing, should live or die for his crimes. Testimony has been heard from those who watched their loved ones die, and from those who thought they were about to die themselves. The prosecution is expected to rest its case on Friday, at which point the defence will take over. The defence will most likely present evidence in mitigation, and call on experts to suggest that Tsarnaev was under the influence of his older brother, Tamerlan Tsarnaev, who died in the aftermath of the bombings.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "The jury in the trial of the Boston Marathon bomber, Dzhokhar Tsarnaev"
+      },
+      {
+        "id": 1,
+        "text": "the Boston Marathon bomber, Dzhokhar Tsarnaev"
+      },
+      {
+        "id": 2,
+        "text": "the bombings"
+      },
+      {
+        "id": 3,
+        "text": "those who watched their loved ones die"
+      },
+      {
+        "id": 4,
+        "text": "those who were killed"
+      },
+      {
+        "id": 5,
+        "text": "those who thought they were about to die themselves"
+      },
+      {
+        "id": 6,
+        "text": "The prosecution"
+      },
+      {
+        "id": 7,
+        "text": "the defence"
+      },
+      {
+        "id": 8,
+        "text": "Friday"
+      },
+      {
+        "id": 9,
+        "text": "Tamerlan Tsarnaev"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "trialOf",
+        "tail": 1
+      },
+      {
+        "head": 1,
+        "relation": "convictedFor",
+        "tail": 2
+      },
+      {
+        "head": 3,
+        "relation": "watchedDie",
+        "tail": 4
+      },
+      {
+        "head": 1,
+        "relation": "influencedBy",
+        "tail": 9
+      }
+    ]
+  },
+  {
+    "document_id": 427,
+    "ragtruth_id": "559",
+    "text": "The Boston jury is hearing testimonies from survivors and families of those affected by the Boston Marathon bombing, in order to determine whether bomber Dzhokhar Tsarnaev should receive the death penalty. One survivor, Adrianne Haslet-Davis, recalled the day of the bombing when she and her husband were standing near the finish line. She described the force of the blast and her immediate realization that it was a terrorist attack. Haslet-Davis, a ballroom dancer, later had her left leg amputated below the knee. Her husband was also injured and has since admitted himself to a mental facility at the VA hospital. Another witness, Jinyan Zhao, spoke about her niece, Lingzi Lu, who was a graduate student killed in the bombing. The family buried her in Boston, where she had been studying, and placed personal items in her casket. The brother and stepfather of Sean Collier, the MIT police officer who was shot and killed by the Tsarnaev brothers, also testified. Collier had always wanted to be a police officer and his death has had a lasting impact on his family and the MIT police department. The prosecution is expected to rest on Friday. A recent poll shows that 53% of people believe Tsarnaev should face the death penalty.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "the Boston Marathon bombing"
+      },
+      {
+        "id": 1,
+        "text": "One survivor, Adrianne Haslet-Davis,"
+      },
+      {
+        "id": 2,
+        "text": "her husband"
+      },
+      {
+        "id": 3,
+        "text": "Another witness, Jinyan Zhao"
+      },
+      {
+        "id": 4,
+        "text": "her niece, Lingzi Lu, who was a graduate student killed in the bombing"
+      },
+      {
+        "id": 5,
+        "text": "Boston"
+      },
+      {
+        "id": 6,
+        "text": "Sean Collier, the MIT police officer who was shot and killed by the Tsarnaev brothers"
+      },
+      {
+        "id": 7,
+        "text": "MIT"
+      },
+      {
+        "id": 8,
+        "text": "bomber Dzhokhar Tsarnaev"
+      },
+      {
+        "id": 9,
+        "text": "the death penalty"
+      },
+      {
+        "id": 10,
+        "text": "the day"
+      },
+      {
+        "id": 11,
+        "text": "VA"
+      },
+      {
+        "id": 12,
+        "text": "Friday"
+      },
+      {
+        "id": 13,
+        "text": "53%"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "survivorOf",
+        "tail": 0
+      },
+      {
+        "head": 1,
+        "relation": "spouse",
+        "tail": 2
+      },
+      {
+        "head": 4,
+        "relation": "killedIn",
+        "tail": 0
+      },
+      {
+        "head": 4,
+        "relation": "buriedIn",
+        "tail": 5
+      },
+      {
+        "head": 6,
+        "relation": "employedBy",
+        "tail": 7
+      },
+      {
+        "head": 6,
+        "relation": "killedBy",
+        "tail": 8
+      }
+    ]
+  },
+  {
+    "document_id": 428,
+    "ragtruth_id": "560",
+    "text": "Boston Marathon Bombing Survivor Testifies: \"I Thought I Was Dead\"\n\nOn Wednesday, Adrianne Haslet-Davis, a survivor of the Boston Marathon bombing, took the stand and recounted the harrowing experience of being near the finish line when the bombs detonated. She described the force of the explosion, how she thought she was dead, and how her husband, Adam Davis, also suffered injuries. Haslet-Davis, who had just returned from a tour in Afghanistan with the Air Force, lost her left leg as a result of the explosion. She begged for whiskey to alleviate the pain and screamed for help. Meanwhile, the jury continues to hear emotional testimonies from survivors and families of those killed by bomber Dzhokhar Tsarnaev. The case is ongoing, and the outcome remains uncertain.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Boston Marathon Bombing Survivor"
+      },
+      {
+        "id": 1,
+        "text": "Boston Marathon"
+      },
+      {
+        "id": 2,
+        "text": "the Boston Marathon bombing"
+      },
+      {
+        "id": 3,
+        "text": "I Thought I Was Dead"
+      },
+      {
+        "id": 4,
+        "text": "Wednesday"
+      },
+      {
+        "id": 5,
+        "text": "Adam Davis"
+      },
+      {
+        "id": 6,
+        "text": "Dzhokhar Tsarnaev"
+      }
+    ],
+    "relations": [
+      {
+        "head": 2,
+        "relation": "survivor",
+        "tail": 0
+      },
+      {
+        "head": 0,
+        "relation": "spouse",
+        "tail": 5
+      },
+      {
+        "head": 2,
+        "relation": "occurredAt",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "testifiedOn",
+        "tail": 4
+      },
+      {
+        "head": 2,
+        "relation": "causedInjuryTo",
+        "tail": 0
+      },
+      {
+        "head": 6,
+        "relation": "bombed",
+        "tail": 2
+      }
+    ]
+  },
+  {
+    "document_id": 429,
+    "ragtruth_id": "561",
+    "text": "Adrianne Haslet-Davis, a ballroom dancer, testified at the trial of Dzhokhar Tsarnaev, the man accused of carrying out the Boston Marathon bombing in 2013. Haslet-Davis and her husband, Adam Davis, were present at the finish line when the bombs went off, and she suffered injuries to her feet. Haslet-Davis described how she crawled through broken glass and debris to reach the Forum, where she found her husband unconscious and bleeding. She also recounted how Tsarnaev, who was captured days after the bombing, had apologized to her husband during his hospitalization. The prosecution presented security footage of Tsarnaev giving the middle finger during his arraignment, which the defense argued was taken out of context. The jury also heard testimony from the relatives of victims, including Jinyan Zhao, who spoke about her niece Lingzi Lu, a graduate student at Boston University who was killed in the bombing. The prosecution is expected to rest its case on Friday.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Adrianne Haslet-Davis, a ballroom dancer,"
+      },
+      {
+        "id": 1,
+        "text": "her husband, Adam Davis,"
+      },
+      {
+        "id": 2,
+        "text": "Dzhokhar Tsarnaev, the man accused of carrying out the Boston Marathon bombing in 2013"
+      },
+      {
+        "id": 3,
+        "text": "the Boston Marathon bombing in 2013"
+      },
+      {
+        "id": 4,
+        "text": "Jinyan Zhao, who spoke about her niece Lingzi Lu, a graduate student at Boston University who was killed in the bombing"
+      },
+      {
+        "id": 5,
+        "text": "The prosecution"
+      },
+      {
+        "id": 6,
+        "text": "Friday"
+      }
+    ],
+    "relations": [
+      {
+        "head": 3,
+        "relation": "perpetrator",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "spouse",
+        "tail": 1
+      },
+      {
+        "head": 4,
+        "relation": "niece",
+        "tail": 1
+      },
+      {
+        "head": 4,
+        "relation": "relativeOfVictim",
+        "tail": 1
+      },
+      {
+        "head": 3,
+        "relation": "victim",
+        "tail": 1
+      }
+    ]
+  }
+]

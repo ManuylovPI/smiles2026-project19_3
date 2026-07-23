@@ -1,0 +1,587 @@
+[
+  {
+    "document_id": 470,
+    "ragtruth_id": "638",
+    "text": "A prominent Pakistani activist and politician, Sabeen Mahmud, was shot and killed in Karachi while leaving her cafe late Friday night. She had just finished leading a discussion group on a controversial topic before being shot by two gunmen. Mahmud, known for her advocacy of human rights and progressive values, had faced death threats in the past for speaking openly about topics such as Balochistan, a region where separatists have waged an insurgency for years. The cafe, located in a dusty industrial area, was known for its vibrant atmosphere and discussions on various topics. It had become a hub for intellectual discourse in a country where free speech is often suppressed. Her death sparked widespread grief and tributes on social media, with many praising her courage and bravery.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "A prominent Pakistani activist and politician, Sabeen Mahmud"
+      },
+      {
+        "id": 1,
+        "text": "her cafe"
+      },
+      {
+        "id": 2,
+        "text": "killed"
+      },
+      {
+        "id": 3,
+        "text": "Karachi"
+      },
+      {
+        "id": 4,
+        "text": "late Friday night"
+      },
+      {
+        "id": 5,
+        "text": "two"
+      },
+      {
+        "id": 6,
+        "text": "Balochistan"
+      },
+      {
+        "id": 7,
+        "text": "years"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "deathPlace",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "deathTime",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "killedBy",
+        "tail": 5
+      }
+    ]
+  },
+  {
+    "document_id": 471,
+    "ragtruth_id": "639",
+    "text": "Activist and cafe owner Sabeen Mahmud was shot dead in Karachi, Pakistan after leading a discussion on the sensitive topic of Balochistan, where separatists have been fighting an insurgency for years. Despite receiving death threats, Mahmud refused to cancel the event and continued to advocate for free speech and open discussion. Her cafe, The Second Floor (T2F), became a hub for progressive thinkers and a symbol of hope for a fair and just society. Mahmud's killing has sparked grief and outrage across Pakistan, with many expressing their gratitude for her work and courage. An artist has even created a tribute mural of Mahmud riding a Vespa scooter, boldly displaying her hair and legs in a satirical take on Marilyn Monroe's iconic image.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Activist and cafe owner Sabeen Mahmud"
+      },
+      {
+        "id": 1,
+        "text": "a discussion on the sensitive topic of Balochistan, where separatists have been fighting an insurgency for years"
+      },
+      {
+        "id": 2,
+        "text": "shot"
+      },
+      {
+        "id": 3,
+        "text": "Pakistan"
+      },
+      {
+        "id": 4,
+        "text": "many"
+      },
+      {
+        "id": 5,
+        "text": "Karachi"
+      },
+      {
+        "id": 6,
+        "text": "The Second Floor"
+      },
+      {
+        "id": 7,
+        "text": "Vespa"
+      },
+      {
+        "id": 8,
+        "text": "Marilyn Monroe's"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "killedBy",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "deathPlace",
+        "tail": 5
+      },
+      {
+        "head": 0,
+        "relation": "deathPlace",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "ownerOf",
+        "tail": 6
+      },
+      {
+        "head": 0,
+        "relation": "led",
+        "tail": 1
+      }
+    ]
+  },
+  {
+    "document_id": 472,
+    "ragtruth_id": "640",
+    "text": "Sabeen Mahmud, a Pakistani activist and owner of a cafe called The Second Floor (T2F), was shot dead in Karachi on Friday. She was known for speaking out on human rights and women's empowerment, and had received death threats in the past. Mahmud had just led a discussion on enforced disappearances in Balochistan when she was attacked. Her death has sparked an outpouring of grief and tributes on social media, with many praising her courage and commitment to free speech. The cafe, which was decorated with graffiti and hosted discussions on various topics, was a hub for progressive voices in Pakistan.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Sabeen Mahmud, a Pakistani activist and owner of a cafe called The Second Floor (T2F)"
+      },
+      {
+        "id": 1,
+        "text": "shot"
+      },
+      {
+        "id": 2,
+        "text": "a cafe called The Second Floor (T2F)"
+      },
+      {
+        "id": 3,
+        "text": "Karachi"
+      },
+      {
+        "id": 4,
+        "text": "Friday"
+      },
+      {
+        "id": 5,
+        "text": "Balochistan"
+      },
+      {
+        "id": 6,
+        "text": "Pakistan"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "owner",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "deathPlace",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "deathDate",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "ledDiscussionIn",
+        "tail": 5
+      },
+      {
+        "head": 2,
+        "relation": "locatedIn",
+        "tail": 6
+      }
+    ]
+  },
+  {
+    "document_id": 473,
+    "ragtruth_id": "641",
+    "text": "Sabeen Mahmud, a Pakistani activist and cafe owner, was shot dead by two gunmen in Karachi on Friday. She was known for promoting free speech, human rights, and women's entrepreneurship at her cafe, The Second Floor. Mahmud had received death threats in the past for her activism, but continued to speak out against injustices. Her killing has sparked grief and outrage across Pakistan, with many seeing her as a symbol of hope for a more tolerant and inclusive society. The motive behind the killing is unknown, but it is believed to be related to her activism.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Sabeen Mahmud, a Pakistani activist and cafe owner"
+      },
+      {
+        "id": 1,
+        "text": "shot"
+      },
+      {
+        "id": 2,
+        "text": "The motive behind the killing"
+      },
+      {
+        "id": 3,
+        "text": "her activism"
+      },
+      {
+        "id": 4,
+        "text": "two"
+      },
+      {
+        "id": 5,
+        "text": "Karachi"
+      },
+      {
+        "id": 6,
+        "text": "Friday"
+      },
+      {
+        "id": 7,
+        "text": "The Second Floor"
+      },
+      {
+        "id": 8,
+        "text": "Pakistan"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "occupation",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "ownerOf",
+        "tail": 7
+      },
+      {
+        "head": 0,
+        "relation": "deathPlace",
+        "tail": 5
+      },
+      {
+        "head": 0,
+        "relation": "deathDate",
+        "tail": 6
+      },
+      {
+        "head": 0,
+        "relation": "killedBy",
+        "tail": 4
+      },
+      {
+        "head": 2,
+        "relation": "relatedTo",
+        "tail": 3
+      }
+    ]
+  },
+  {
+    "document_id": 474,
+    "ragtruth_id": "648",
+    "text": "Trey Moses, a star player on Eastern High School's basketball team in Kentucky, asked Ellie Meredith, a high school freshman with Down syndrome, to be his prom date. Trey, who will play college basketball at Ball State next year, was originally going to take his girlfriend to the prom. However, he decided to invite Ellie instead because he said she's easy to talk to. The invitation, which was made in the gym during Ellie's P.E. class, included flowers and a poster that read \"Let's Party Like it's 1989,\" a reference to the latest album by Taylor Swift, Ellie's favorite singer. The story has gone viral on Twitter and both Trey and Ellie's parents have expressed their excitement and support for the prom proposal.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Trey Moses, a star player on Eastern High School's basketball team in Kentucky"
+      },
+      {
+        "id": 1,
+        "text": "Ellie Meredith, a high school freshman with Down syndrome"
+      },
+      {
+        "id": 2,
+        "text": "asked"
+      },
+      {
+        "id": 3,
+        "text": "both Trey and Ellie's parents"
+      },
+      {
+        "id": 4,
+        "text": "1989"
+      },
+      {
+        "id": 5,
+        "text": "Taylor Swift"
+      },
+      {
+        "id": 6,
+        "text": "Twitter"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "asked",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "promDate",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "playedAt",
+        "tail": 4
+      },
+      {
+        "head": 1,
+        "relation": "favoriteSinger",
+        "tail": 5
+      },
+      {
+        "head": 2,
+        "relation": "postedOn",
+        "tail": 6
+      }
+    ]
+  },
+  {
+    "document_id": 475,
+    "ragtruth_id": "649",
+    "text": "Trey Moses, a college basketball recruit, surprised everyone when he asked Ellie Meredith, a high school freshman with Down syndrome, to be his prom date. Originally planning to go with his girlfriend, Trey changed his mind because he found Ellie to be a great listener and easy to talk to. The prom-posal took place in the gym during Ellie's P.E. class, and photos of the event went viral on Twitter. Trey had the support of Ellie's parents and used Taylor Swift, Ellie's favorite singer, as inspiration for his prom-posal. Both Trey and Ellie are excited about prom and are making plans for the big night.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Trey Moses, a college basketball recruit"
+      },
+      {
+        "id": 1,
+        "text": "Ellie Meredith, a high school freshman with Down syndrome"
+      },
+      {
+        "id": 2,
+        "text": "The prom-posal"
+      },
+      {
+        "id": 3,
+        "text": "prom"
+      },
+      {
+        "id": 4,
+        "text": "P.E."
+      },
+      {
+        "id": 5,
+        "text": "Twitter"
+      },
+      {
+        "id": 6,
+        "text": "Taylor Swift"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "promDate",
+        "tail": 1
+      },
+      {
+        "head": 2,
+        "relation": "tookPlaceIn",
+        "tail": 4
+      },
+      {
+        "head": 2,
+        "relation": "wentViralOn",
+        "tail": 5
+      },
+      {
+        "head": 2,
+        "relation": "inspiredBy",
+        "tail": 6
+      },
+      {
+        "head": 1,
+        "relation": "favoriteSinger",
+        "tail": 6
+      }
+    ]
+  },
+  {
+    "document_id": 476,
+    "ragtruth_id": "650",
+    "text": "A high school basketball player named Trey Moses asked a high school freshman with Down syndrome named Ellie Meredith to be his prom date. The two students are vastly different, but Trey found Ellie to be great company and invited her to be his date after realizing that his original girlfriend wasn't interested in attending prom. The prom-proposal went viral on social media, with many praising Trey's actions. The two students now have to plan their prom outfits and attend prom together.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "A high school basketball player named Trey Moses"
+      },
+      {
+        "id": 1,
+        "text": "a high school freshman with Down syndrome named Ellie Meredith"
+      },
+      {
+        "id": 2,
+        "text": "asked"
+      },
+      {
+        "id": 3,
+        "text": "The two students"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "askedToBePromDate",
+        "tail": 1
+      },
+      {
+        "head": 3,
+        "relation": "includes",
+        "tail": 0
+      },
+      {
+        "head": 3,
+        "relation": "includes",
+        "tail": 1
+      }
+    ]
+  },
+  {
+    "document_id": 477,
+    "ragtruth_id": "651",
+    "text": "College basketball star Trey Moses asked high school freshman Ellie Meredith, who has Down syndrome, to be his prom date. Despite their differences, Trey was drawn to Ellie's kindness and ease of conversation. He made the prom-posal in front of Ellie's PE class and gained her parents' approval through a text message. The school's teacher and principal are supportive of the pair's friendship, and Trey plans to study special education in college. Ellie is excited for prom and looks forward to dress shopping with her new date.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "College basketball star Trey Moses"
+      },
+      {
+        "id": 1,
+        "text": "high school freshman Ellie Meredith, who has Down syndrome"
+      },
+      {
+        "id": 2,
+        "text": "their"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "promDate",
+        "tail": 1
+      }
+    ]
+  },
+  {
+    "document_id": 478,
+    "ragtruth_id": "652",
+    "text": "Sure! Here's the summary in 109 words:\n\nTrey Moses, a top college basketball recruit, asked Ellie Meredith, a high school freshman with Down syndrome, to be his prom date. Despite their differences, Trey and Ellie have become close friends through the Best Buddies program at their school. Trey's selfless act has brought awareness to inclusivity and Special Education. Both Trey and Ellie are excited for prom, with Trey considering a career in special education and Ellie looking forward to dress shopping.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Trey Moses, a top college basketball recruit"
+      },
+      {
+        "id": 1,
+        "text": "their"
+      },
+      {
+        "id": 2,
+        "text": "Ellie Meredith, a high school freshman with Down syndrome"
+      },
+      {
+        "id": 3,
+        "text": "asked"
+      },
+      {
+        "id": 4,
+        "text": "109"
+      },
+      {
+        "id": 5,
+        "text": "Best Buddies"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "asked",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "friend",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "program",
+        "tail": 5
+      },
+      {
+        "head": 2,
+        "relation": "program",
+        "tail": 5
+      }
+    ]
+  },
+  {
+    "document_id": 479,
+    "ragtruth_id": "653",
+    "text": "Star basketball player Trey Moses asked Ellie Meredith, a high school freshman with Down syndrome, to be his prom date. Trey, who is heading to play college basketball at Ball State, was originally going to take his girlfriend to prom, but decided to ask Ellie instead. He entered the gym armed with flowers and a poster that read \"Let's Party Like it's 1989,\" a reference to Taylor Swift's album, which is Ellie's favorite. Trey got the okay from Ellie's parents the night before and surprised her during her P.E. class. Ellie's mom, Darla Meredith, expressed her gratitude, stating that raising a special needs child can be challenging, and that this moment was particularly touching. Trey's future coach, James Whitford, praised Trey's action, saying that he often works with other kids. Trey's mother, Shelly Moses, was also proud of her son, mentioning that he has worked hard and is a good son. Both Trey and Ellie are excited to plan their prom night and dress shopping.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Star basketball player Trey Moses"
+      },
+      {
+        "id": 1,
+        "text": "Ellie Meredith, a high school freshman with Down syndrome"
+      },
+      {
+        "id": 2,
+        "text": "Ellie's mom, Darla Meredith"
+      },
+      {
+        "id": 3,
+        "text": "Trey's mother, Shelly Moses"
+      },
+      {
+        "id": 4,
+        "text": "Both Trey and Ellie"
+      },
+      {
+        "id": 5,
+        "text": "1989"
+      },
+      {
+        "id": 6,
+        "text": "Taylor Swift's"
+      },
+      {
+        "id": 7,
+        "text": "the night"
+      },
+      {
+        "id": 8,
+        "text": "P.E."
+      },
+      {
+        "id": 9,
+        "text": "James Whitford"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "promDate",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "headingToPlayAt",
+        "tail": 5
+      },
+      {
+        "head": 1,
+        "relation": "favoriteAlbum",
+        "tail": 5
+      },
+      {
+        "head": 2,
+        "relation": "motherOf",
+        "tail": 1
+      },
+      {
+        "head": 3,
+        "relation": "motherOf",
+        "tail": 0
+      },
+      {
+        "head": 0,
+        "relation": "futureCoach",
+        "tail": 9
+      }
+    ]
+  }
+]

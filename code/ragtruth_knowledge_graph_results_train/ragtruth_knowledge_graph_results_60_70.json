@@ -1,0 +1,610 @@
+[
+  {
+    "document_id": 60,
+    "ragtruth_id": "84",
+    "text": "Nine British citizens, including four children, were arrested in Turkey on Wednesday, suspected of trying to cross illegally into Syria. The British Foreign Office has confirmed it is aware of the reports and is seeking information from Turkish authorities. It remains unclear why the group was attempting to enter Syria.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "The British Foreign Office"
+      },
+      {
+        "id": 1,
+        "text": "Nine British citizens, including four children"
+      },
+      {
+        "id": 2,
+        "text": "Syria"
+      },
+      {
+        "id": 3,
+        "text": "Turkey"
+      },
+      {
+        "id": 4,
+        "text": "Wednesday"
+      },
+      {
+        "id": 5,
+        "text": "Turkish"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "arrestedIn",
+        "tail": 3
+      },
+      {
+        "head": 1,
+        "relation": "attemptedToEnter",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "seekingInformationFrom",
+        "tail": 5
+      }
+    ]
+  },
+  {
+    "document_id": 61,
+    "ragtruth_id": "85",
+    "text": "Nine British citizens, including four children, were arrested in Turkey while trying to cross illegally into Syria. The reason for their attempt is unknown. The group had British passports and is suspected of being recruited by ISIS. The British Foreign Office is seeking information about the incident.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Nine British citizens, including four children"
+      },
+      {
+        "id": 1,
+        "text": "trying"
+      },
+      {
+        "id": 2,
+        "text": "Turkey"
+      },
+      {
+        "id": 3,
+        "text": "Syria"
+      },
+      {
+        "id": 4,
+        "text": "British"
+      },
+      {
+        "id": 5,
+        "text": "ISIS"
+      },
+      {
+        "id": 6,
+        "text": "The British Foreign Office"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "arrestedIn",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "crossingDestination",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "nationality",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "suspectedRecruiter",
+        "tail": 5
+      },
+      {
+        "head": 6,
+        "relation": "seekingInformationAbout",
+        "tail": 1
+      }
+    ]
+  },
+  {
+    "document_id": 62,
+    "ragtruth_id": "86",
+    "text": "Nine British citizens, including four children, were arrested in Turkey for attempting to illegally enter Syria. The group consisted of five men and four women, all of whom held British passports. The Turkish military did not disclose the reason for their alleged attempt to enter Syria.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Nine British citizens, including four children"
+      },
+      {
+        "id": 1,
+        "text": "attempting"
+      },
+      {
+        "id": 2,
+        "text": "Syria"
+      },
+      {
+        "id": 3,
+        "text": "Turkey"
+      },
+      {
+        "id": 4,
+        "text": "five"
+      },
+      {
+        "id": 5,
+        "text": "four"
+      },
+      {
+        "id": 6,
+        "text": "British"
+      },
+      {
+        "id": 7,
+        "text": "Turkish"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "arrestedIn",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "attemptedToEnter",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "nationality",
+        "tail": 6
+      }
+    ]
+  },
+  {
+    "document_id": 63,
+    "ragtruth_id": "87",
+    "text": "Nine British citizens, including four children aged 10 or 11 and the youngest born in 2013, were arrested in Turkey while attempting to cross the border into Syria. The group had British passports and was believed to be linked to Islamic State (ISIS) extremists.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Nine"
+      },
+      {
+        "id": 1,
+        "text": "British"
+      },
+      {
+        "id": 2,
+        "text": "four"
+      },
+      {
+        "id": 3,
+        "text": "10 or 11"
+      },
+      {
+        "id": 4,
+        "text": "2013"
+      },
+      {
+        "id": 5,
+        "text": "Turkey"
+      },
+      {
+        "id": 6,
+        "text": "Syria"
+      },
+      {
+        "id": 7,
+        "text": "British"
+      },
+      {
+        "id": 8,
+        "text": "Islamic State"
+      },
+      {
+        "id": 9,
+        "text": "ISIS"
+      }
+    ],
+    "relations": [
+      {
+        "head": 8,
+        "relation": "alias",
+        "tail": 9
+      },
+      {
+        "head": 0,
+        "relation": "nationality",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "arrestedIn",
+        "tail": 5
+      },
+      {
+        "head": 0,
+        "relation": "attemptedCrossInto",
+        "tail": 6
+      },
+      {
+        "head": 0,
+        "relation": "passportNationality",
+        "tail": 7
+      }
+    ]
+  },
+  {
+    "document_id": 64,
+    "ragtruth_id": "88",
+    "text": "Nine British citizens, including four children, were arrested in Turkey while attempting to cross into Syria, where they allegedly planned to join ISIS. The group had British passports and were arrested at the Turkey-Syria border. The UK Foreign Office is investigating the incident.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Nine British citizens, including four children"
+      },
+      {
+        "id": 1,
+        "text": "arrested"
+      },
+      {
+        "id": 2,
+        "text": "Turkey"
+      },
+      {
+        "id": 3,
+        "text": "Syria, where they allegedly planned to join ISIS"
+      },
+      {
+        "id": 4,
+        "text": "British"
+      },
+      {
+        "id": 5,
+        "text": "The UK Foreign Office"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "arrestedIn",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "arrestedAt",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "nationality",
+        "tail": 4
+      }
+    ]
+  },
+  {
+    "document_id": 65,
+    "ragtruth_id": "89",
+    "text": "Nine British citizens, including four children, were arrested in Turkey while attempting to enter Syria. They were charged with terrorism offenses and are believed to have been recruited by ISIS.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Nine British citizens, including four children"
+      },
+      {
+        "id": 1,
+        "text": "Turkey"
+      },
+      {
+        "id": 2,
+        "text": "Syria"
+      },
+      {
+        "id": 3,
+        "text": "ISIS"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "arrestedIn",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "attemptedToEnter",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "recruitedBy",
+        "tail": 3
+      }
+    ]
+  },
+  {
+    "document_id": 66,
+    "ragtruth_id": "90",
+    "text": "China's state prosecutors have formally charged Zhou Yongkang, the country's former security czar, with accepting bribes, abuse of power and leaking state secrets. Zhou was once part of the ruling Communist Party's Politburo Standing Committee, which is China's top decision-making body, and one of nine men who effectively ruled China. At the height of his power, Zhou controlled police forces, spy agencies, court systems and prosecution offices across China. Now, prosecutors have accused Zhou of \"taking advantage of his posts to seek benefits for others and illegally accepting huge amounts of money\" during his long political career. His alleged actions have caused heavy losses to public assets and greatly harmed national interests, they added. His case will be tried in Tianjin, a city near the Chinese capital, Beijing. Zhou was expelled from the Communist Party and arrested last December.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "China's"
+      },
+      {
+        "id": 1,
+        "text": "Zhou Yongkang, the country's former security czar,"
+      },
+      {
+        "id": 2,
+        "text": "prosecutors"
+      },
+      {
+        "id": 3,
+        "text": "the ruling Communist Party's"
+      },
+      {
+        "id": 4,
+        "text": "Politburo Standing Committee"
+      },
+      {
+        "id": 5,
+        "text": "one"
+      },
+      {
+        "id": 6,
+        "text": "nine"
+      },
+      {
+        "id": 7,
+        "text": "Tianjin"
+      },
+      {
+        "id": 8,
+        "text": "Chinese"
+      },
+      {
+        "id": 9,
+        "text": "Beijing"
+      },
+      {
+        "id": 10,
+        "text": "last December"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "memberOf",
+        "tail": 4
+      },
+      {
+        "head": 4,
+        "relation": "partOf",
+        "tail": 3
+      },
+      {
+        "head": 4,
+        "relation": "locatedIn",
+        "tail": 0
+      },
+      {
+        "head": 4,
+        "relation": "memberCount",
+        "tail": 6
+      },
+      {
+        "head": 1,
+        "relation": "trialPlace",
+        "tail": 7
+      },
+      {
+        "head": 7,
+        "relation": "locatedNear",
+        "tail": 9
+      },
+      {
+        "head": 1,
+        "relation": "expelledFrom",
+        "tail": 3
+      },
+      {
+        "head": 1,
+        "relation": "arrestDate",
+        "tail": 10
+      }
+    ]
+  },
+  {
+    "document_id": 67,
+    "ragtruth_id": "91",
+    "text": "China's former security czar, Zhou Yongkang, has been formally charged with accepting bribes, abuse of power, and leaking state secrets. Zhou, who was a member of the Communist Party's Politburo Standing Committee, is the highest-ranking official to face corruption charges in China. He controlled various key institutions, including the police, spy agencies, and prosecution offices. Prosecutors have accused Zhou of using his position for personal gain and causing significant losses to public assets. His case will be tried in Tianjin, and there are expectations for an \"open\" trial, although the charge of leaking state secrets may allow some proceedings to be shielded from public view. Zhou's downfall is seen as a watershed moment in Chinese politics and a demonstration of President Xi Jinping's determination to tackle corruption. Zhou's patronage of another fallen Communist leader, Bo Xilai, has also been highlighted.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "China's"
+      },
+      {
+        "id": 1,
+        "text": "China's former security czar, Zhou Yongkang,"
+      },
+      {
+        "id": 2,
+        "text": "charged"
+      },
+      {
+        "id": 3,
+        "text": "Zhou"
+      },
+      {
+        "id": 4,
+        "text": "the Communist Party's"
+      },
+      {
+        "id": 5,
+        "text": "Politburo Standing Committee"
+      },
+      {
+        "id": 6,
+        "text": "Tianjin"
+      },
+      {
+        "id": 7,
+        "text": "Chinese"
+      },
+      {
+        "id": 8,
+        "text": "Xi Jinping's"
+      },
+      {
+        "id": 9,
+        "text": "Communist"
+      },
+      {
+        "id": 10,
+        "text": "Bo Xilai"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "chargedWith",
+        "tail": 2
+      },
+      {
+        "head": 3,
+        "relation": "memberOf",
+        "tail": 5
+      },
+      {
+        "head": 1,
+        "relation": "triedIn",
+        "tail": 6
+      },
+      {
+        "head": 1,
+        "relation": "patronOf",
+        "tail": 10
+      }
+    ]
+  },
+  {
+    "document_id": 68,
+    "ragtruth_id": "92",
+    "text": "China's former security czar, Zhou Yongkang, has been formally charged with accepting bribes, abuse of power, and leaking state secrets. This makes him the highest-ranking Chinese Communist Party official ever to face corruption charges. During his political career, Zhou controlled police forces, spy agencies, court systems, and prosecution offices across China. He was accused of taking advantage of his positions to seek benefits for others and illegally accepting large sums of money. Prosecutors claim that his actions caused heavy losses to public assets and greatly harmed national interests. Zhou's case will be tried in Tianjin, and the president of China's supreme court has stated that there will be open trials for accused former leaders. However, the charge of leaking state secrets may allow authorities to shield certain legal proceedings from public view in Zhou's case. Zhou was expelled from the Communist Party and arrested last December after his power structure crumbled. His downfall is seen as a watershed moment in the secretive world of Chinese politics, ruled by President Xi Jinping, who has been spearheading a massive anti-corruption campaign.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "charged"
+      },
+      {
+        "id": 1,
+        "text": "China's former security czar, Zhou Yongkang"
+      },
+      {
+        "id": 2,
+        "text": "China's"
+      },
+      {
+        "id": 3,
+        "text": "Zhou's case"
+      },
+      {
+        "id": 4,
+        "text": "Chinese Communist Party"
+      },
+      {
+        "id": 5,
+        "text": "Tianjin"
+      },
+      {
+        "id": 6,
+        "text": "supreme court"
+      },
+      {
+        "id": 7,
+        "text": "last December"
+      },
+      {
+        "id": 8,
+        "text": "Chinese"
+      },
+      {
+        "id": 9,
+        "text": "Xi Jinping"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "chargedWith",
+        "tail": 0
+      },
+      {
+        "head": 1,
+        "relation": "memberOf",
+        "tail": 4
+      },
+      {
+        "head": 3,
+        "relation": "trialLocation",
+        "tail": 5
+      },
+      {
+        "head": 1,
+        "relation": "expelledFrom",
+        "tail": 4
+      },
+      {
+        "head": 1,
+        "relation": "arrestDate",
+        "tail": 7
+      }
+    ]
+  },
+  {
+    "document_id": 69,
+    "ragtruth_id": "93",
+    "text": "China's former security chief Zhou Yongkang has been formally charged with accepting bribes, abusing power, and leaking state secrets. He is the highest-ranking Chinese Communist Party official to face corruption charges. Zhou, who controlled various security agencies, was accused of using his positions to seek benefits for himself and others and illegally accepting large sums of money. His alleged actions have resulted in significant losses to public assets and harm to national interests. Zhou has not been seen in public since his arrest in December 2012 and is expected to receive a suspended death sentence. This case marks a major victory for President Xi Jinping's anti-corruption campaign, which has targeted both high-ranking and low-level officials.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "China's former security chief Zhou Yongkang"
+      },
+      {
+        "id": 1,
+        "text": "Chinese Communist Party"
+      },
+      {
+        "id": 2,
+        "text": "December 2012"
+      },
+      {
+        "id": 3,
+        "text": "Xi Jinping's"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "memberOf",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "arrestDate",
+        "tail": 2
+      },
+      {
+        "head": 3,
+        "relation": "campaignTarget",
+        "tail": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,765 @@
+[
+  {
+    "document_id": 600,
+    "ragtruth_id": "804",
+    "text": "Vijay Chokalingam, brother of American actress Mindy Kaling, has revealed that he pretended to be African-American to gain admission into a top medical school. He accomplished this by shaving his head, trimming his eyelashes, and selecting “black” in the optional race/ethnicity declaration of the application. Chokalingam believes he was able to receive invitations for interviews at 11 of the 14 schools he applied to because of the racial advantage. He claims that the results of his experiment prove that African-Americans have privileges which are unavailable to whites or Asians. However, he received only one admission offer, to St. Louis University's School of Medicine, which ranks between 57 and 67 in national rankings. He was rejected by all of the top-ranking schools he applied to. In addition, Chokalingam experienced racial discrimination while pretending to be African-American, such as being accused of shoplifting and being pulled over by police for no reason. Now that the statute of limitations on his act of fraud has expired, Chokalingam plans to write a book about his experiences called “Almost Black: The True Story of an Indian American Who Got Into Medical School Pretending to Be an African American”.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Vijay Chokalingam, brother of American actress Mindy Kaling"
+      },
+      {
+        "id": 1,
+        "text": "pretended"
+      },
+      {
+        "id": 2,
+        "text": "African-American"
+      },
+      {
+        "id": 3,
+        "text": "11"
+      },
+      {
+        "id": 4,
+        "text": "14"
+      },
+      {
+        "id": 5,
+        "text": "African-Americans"
+      },
+      {
+        "id": 6,
+        "text": "Asians"
+      },
+      {
+        "id": 7,
+        "text": "only one"
+      },
+      {
+        "id": 8,
+        "text": "St. Louis University's School of Medicine"
+      },
+      {
+        "id": 9,
+        "text": "between 57 and 67"
+      },
+      {
+        "id": 10,
+        "text": "African-American"
+      },
+      {
+        "id": 11,
+        "text": "Almost Black: The True Story of an Indian American Who Got Into Medical School Pretending to Be an African American"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "pretendedToBe",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "receivedAdmissionOfferFrom",
+        "tail": 8
+      },
+      {
+        "head": 8,
+        "relation": "rankedBetween",
+        "tail": 9
+      },
+      {
+        "head": 0,
+        "relation": "wroteAbout",
+        "tail": 11
+      }
+    ]
+  },
+  {
+    "document_id": 601,
+    "ragtruth_id": "805",
+    "text": "Mindy Kaling's brother, Vijay Chokalingam, recently revealed that he posed as an African-American to gain admission to medical school. Chokalingam, who had mediocre grades and test scores, realized that minority applicants were more likely to be accepted to prestigious schools than Indian-Americans with similar qualifications. To prove his point about the unfair advantage given to underrepresented minorities, he shaved his head, checked \"black\" on his application, and submitted it under the name \"JoJo.\" Chokalingam received interview invitations from 11 out of the 14 schools he applied to and ultimately was admitted to St. Louis University's School of Medicine.\n\nChokalingam's revelation has sparked a debate about affirmative action and the privileges associated with being a minority candidate. Critics argue that Chokalingam's experience actually disproves his claim that African-Americans receive special treatment, as he was only admitted to a lower-ranked school despite posing as black. Additionally, Chokalingam faced real instances of prejudice and discrimination while pretending to be black, such as being accused of shoplifting and being harassed by the police.\n\nThe lack of diversity in the medical field is a concern, as minority practitioners are more likely to serve their own communities. Affirmative action programs aim to address this issue by considering race and ethnicity in admissions decisions. However, Chokalingam's case raises questions about the effectiveness and fairness of these programs.\n\nFurthermore, the article highlights the underrepresentation of Asians in industries like entertainment and media. Mindy Kaling's success in Hollywood is seen as a breakthrough and an example of the positive impact of diversity initiatives, such as NBC's Diversity Writers Program.\n\nIn conclusion, Chokalingam's decision to pose as a black applicant has sparked a larger conversation about affirmative action, diversity, and the challenges faced by underrepresented communities in various fields.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Mindy Kaling's brother, Vijay Chokalingam"
+      },
+      {
+        "id": 1,
+        "text": "his application"
+      },
+      {
+        "id": 2,
+        "text": "revealed"
+      },
+      {
+        "id": 3,
+        "text": "minority practitioners"
+      },
+      {
+        "id": 4,
+        "text": "The lack of diversity in the medical field"
+      },
+      {
+        "id": 5,
+        "text": "Affirmative action programs"
+      },
+      {
+        "id": 6,
+        "text": "Mindy Kaling's"
+      },
+      {
+        "id": 7,
+        "text": "African-American"
+      },
+      {
+        "id": 8,
+        "text": "Indian-Americans"
+      },
+      {
+        "id": 9,
+        "text": "JoJo"
+      },
+      {
+        "id": 10,
+        "text": "11"
+      },
+      {
+        "id": 11,
+        "text": "14"
+      },
+      {
+        "id": 12,
+        "text": "St. Louis University's School of Medicine"
+      },
+      {
+        "id": 13,
+        "text": "African-Americans"
+      },
+      {
+        "id": 14,
+        "text": "Asians"
+      },
+      {
+        "id": 15,
+        "text": "Hollywood"
+      },
+      {
+        "id": 16,
+        "text": "NBC"
+      },
+      {
+        "id": 17,
+        "text": "Diversity Writers Program"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "posedAs",
+        "tail": 7
+      },
+      {
+        "head": 0,
+        "relation": "applicationName",
+        "tail": 9
+      },
+      {
+        "head": 0,
+        "relation": "admittedTo",
+        "tail": 12
+      },
+      {
+        "head": 5,
+        "relation": "aimsToAddress",
+        "tail": 4
+      },
+      {
+        "head": 3,
+        "relation": "serve",
+        "tail": 3
+      },
+      {
+        "head": 6,
+        "relation": "successIn",
+        "tail": 15
+      },
+      {
+        "head": 17,
+        "relation": "partOf",
+        "tail": 16
+      }
+    ]
+  },
+  {
+    "document_id": 602,
+    "ragtruth_id": "806",
+    "text": "Mindy Kaling, known for her hit Fox TV show \"The Mindy Project,\" has a brother named Vijay Chokalingam who has gained attention for his own project. Chokalingam, while attending the University of Chicago, revealed that he engaged in a controversial scam, claiming to be African-American when applying to medical school. After receiving invitations for in-person interviews at 11 schools, he now plans to write a book about his experiences titled \"Almost Black: The True Story of an Indian American Who Got Into Medical School Pretending to Be an African American.\" Despite his claims of unfair privilege for African-Americans, several prestigious schools rejected him. This incident highlights the ongoing debate surrounding affirmative action and its impact on fairness and equality.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Mindy Kaling, known for her hit Fox TV show \"The Mindy Project"
+      },
+      {
+        "id": 1,
+        "text": "a brother named Vijay Chokalingam who has gained attention for his own project"
+      },
+      {
+        "id": 2,
+        "text": "rejected"
+      },
+      {
+        "id": 3,
+        "text": "affirmative action"
+      },
+      {
+        "id": 4,
+        "text": "the University of Chicago"
+      },
+      {
+        "id": 5,
+        "text": "African-American"
+      },
+      {
+        "id": 6,
+        "text": "11"
+      },
+      {
+        "id": 7,
+        "text": "Almost Black: The True Story of an Indian American Who Got Into Medical School Pretending to Be an African American"
+      },
+      {
+        "id": 8,
+        "text": "African-Americans"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "attended",
+        "tail": 4
+      },
+      {
+        "head": 1,
+        "relation": "claimedIdentityAs",
+        "tail": 5
+      },
+      {
+        "head": 1,
+        "relation": "appliedToNumberOfSchools",
+        "tail": 6
+      },
+      {
+        "head": 1,
+        "relation": "plansToWrite",
+        "tail": 7
+      },
+      {
+        "head": 1,
+        "relation": "rejectedBy",
+        "tail": 2
+      }
+    ]
+  },
+  {
+    "document_id": 603,
+    "ragtruth_id": "807",
+    "text": "Mindy Kaling's brother Vijay Chokalingam has sparked controversy by revealing that he posed as an African-American student to gain admission into medical school. Chokalingam, who is Indian-American, applied to 14 schools using his childhood nickname \"JoJo\" and shaved his hair to darken his appearance. He received invitations for in-person interviews at 11 schools, despite having mediocre grades and MCAT scores. Chokalingam claims that this proves that affirmative action policies give unfair advantages to black, Hispanic, and Native American candidates. However, he faced disadvantages while pretending to be black, such as being accused of shoplifting and harassed by police. Critics argue that Chokalingam's actions undermine the reality of racial discrimination faced by black and Hispanic individuals, and that his attempt to capitalize on his sister's success in the entertainment industry perpetuates a problematic narrative of cultural appropriation.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Mindy Kaling's brother Vijay Chokalingam"
+      },
+      {
+        "id": 1,
+        "text": "Mindy Kaling's"
+      },
+      {
+        "id": 2,
+        "text": "African-American"
+      },
+      {
+        "id": 3,
+        "text": "14"
+      },
+      {
+        "id": 4,
+        "text": "JoJo"
+      },
+      {
+        "id": 5,
+        "text": "11"
+      },
+      {
+        "id": 6,
+        "text": "MCAT"
+      },
+      {
+        "id": 7,
+        "text": "Hispanic"
+      },
+      {
+        "id": 8,
+        "text": "Native American"
+      },
+      {
+        "id": 9,
+        "text": "Hispanic"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "nickname",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "appliedTo",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "receivedInterviewsAt",
+        "tail": 5
+      }
+    ]
+  },
+  {
+    "document_id": 604,
+    "ragtruth_id": "808",
+    "text": "Here is a summary of the article in 200 words or less:\n\nVijay Chokalingam, the brother of actress Mindy Kaling, has sparked controversy by revealing that he posed as an African American to get into medical school. Chokalingam, who is of Indian descent, shaved his hair and changed his appearance to pass as black and was accepted into several medical schools despite his mediocre grades. He claims that his experience supports the idea that affirmative action gives unfair advantages to minority groups, but critics argue that his actions were a form of fraud and that his experience does not accurately represent the challenges faced by black and other minority students. The controversy highlights the complex issues surrounding affirmative action and the importance of diversity in higher education.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Vijay Chokalingam, the brother of actress Mindy Kaling"
+      },
+      {
+        "id": 1,
+        "text": "his experience"
+      },
+      {
+        "id": 2,
+        "text": "controversy"
+      },
+      {
+        "id": 3,
+        "text": "200"
+      },
+      {
+        "id": 4,
+        "text": "an African"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "brotherOf",
+        "tail": 0
+      }
+    ]
+  },
+  {
+    "document_id": 605,
+    "ragtruth_id": "809",
+    "text": "Mindy Kaling's brother, Vijay Chokalingam, recently revealed that he pretended to be African American to get into medical school. He changed his appearance, name, and ethnicity on his application to 14 schools, and received 11 interview offers. He claims this supports his belief that blacks and other underrepresented minorities have an unfair advantage in admissions. However, he was only offered admission to one school, which is ranked lower than the prestigious schools he applied to. He also experienced discrimination while posing as black, such as being accused of shoplifting and being stopped by police. Despite this, Chokalingam still believes that affirmative action is unfair. His actions have sparked controversy and criticism, with some saying that he is trying to profit from his fraudulent behavior by writing a book about it.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Mindy Kaling's brother, Vijay Chokalingam"
+      },
+      {
+        "id": 1,
+        "text": "changed"
+      },
+      {
+        "id": 2,
+        "text": "his fraudulent behavior"
+      },
+      {
+        "id": 3,
+        "text": "African American"
+      },
+      {
+        "id": 4,
+        "text": "14"
+      },
+      {
+        "id": 5,
+        "text": "11"
+      },
+      {
+        "id": 6,
+        "text": "one"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "pretendedToBe",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "appliedTo",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "receivedInterviewOffers",
+        "tail": 5
+      },
+      {
+        "head": 0,
+        "relation": "offeredAdmissionTo",
+        "tail": 6
+      }
+    ]
+  },
+  {
+    "document_id": 606,
+    "ragtruth_id": "810",
+    "text": "Liana Barrientos, who has been married 10 times to different men without divorcing her first husband, is facing two criminal counts for offering a false instrument for filing in the first degree. This refers to her false statements on a 2010 marriage license application where she claimed it was her first and only marriage. Prosecutors suggest the marriages were part of an immigration scam, with some husbands filing for permanent residence shortly after marriage. Seven of the men are from 'red-flagged' countries. Barrientos could face up to four years in prison if convicted.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "a false instrument for filing in the first degree"
+      },
+      {
+        "id": 1,
+        "text": "her"
+      },
+      {
+        "id": 2,
+        "text": "married"
+      },
+      {
+        "id": 3,
+        "text": "different men"
+      },
+      {
+        "id": 4,
+        "text": "Liana Barrientos"
+      },
+      {
+        "id": 5,
+        "text": "10"
+      },
+      {
+        "id": 6,
+        "text": "first"
+      },
+      {
+        "id": 7,
+        "text": "two"
+      },
+      {
+        "id": 8,
+        "text": "2010"
+      },
+      {
+        "id": 9,
+        "text": "first"
+      },
+      {
+        "id": 10,
+        "text": "Seven"
+      },
+      {
+        "id": 11,
+        "text": "up to four years"
+      }
+    ],
+    "relations": [
+      {
+        "head": 4,
+        "relation": "marriedCount",
+        "tail": 5
+      },
+      {
+        "head": 4,
+        "relation": "marriedTo",
+        "tail": 3
+      },
+      {
+        "head": 4,
+        "relation": "criminalCount",
+        "tail": 7
+      },
+      {
+        "head": 4,
+        "relation": "chargedWith",
+        "tail": 0
+      },
+      {
+        "head": 0,
+        "relation": "refersTo",
+        "tail": 1
+      },
+      {
+        "head": 1,
+        "relation": "statementDate",
+        "tail": 8
+      },
+      {
+        "head": 1,
+        "relation": "claimedMarriageCount",
+        "tail": 9
+      },
+      {
+        "head": 4,
+        "relation": "possiblePrisonSentence",
+        "tail": 11
+      }
+    ]
+  },
+  {
+    "document_id": 607,
+    "ragtruth_id": "811",
+    "text": "Liana Barrientos, a 39-year-old woman from New York, is facing charges for marrying 10 different men, with nine of the marriages happening between 1999 and 2002. Prosecutors believe these marriages were part of an immigration scam, as some of the husbands filed for permanent residence status after getting married. Barrientos is still believed to be married to four men and was once married to eight men simultaneously. She has pleaded not guilty to the charges. The case was referred to the Bronx District Attorney's Office by Immigration and Customs Enforcement and the Department of Homeland Security. If convicted, Barrientos could face up to four years in prison.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "marrying"
+      },
+      {
+        "id": 1,
+        "text": "Liana Barrientos, a 39-year-old woman from New York"
+      },
+      {
+        "id": 2,
+        "text": "charges"
+      },
+      {
+        "id": 3,
+        "text": "10"
+      },
+      {
+        "id": 4,
+        "text": "nine"
+      },
+      {
+        "id": 5,
+        "text": "between 1999 and 2002"
+      },
+      {
+        "id": 6,
+        "text": "four"
+      },
+      {
+        "id": 7,
+        "text": "eight"
+      },
+      {
+        "id": 8,
+        "text": "Bronx"
+      },
+      {
+        "id": 9,
+        "text": "Office by Immigration and Customs Enforcement"
+      },
+      {
+        "id": 10,
+        "text": "the Department of Homeland Security"
+      },
+      {
+        "id": 11,
+        "text": "up to four years"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "charges",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "count",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "count",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "timePeriod",
+        "tail": 5
+      },
+      {
+        "head": 1,
+        "relation": "marriedToCount",
+        "tail": 6
+      },
+      {
+        "head": 1,
+        "relation": "marriedToCount",
+        "tail": 7
+      },
+      {
+        "head": 1,
+        "relation": "possibleSentence",
+        "tail": 11
+      },
+      {
+        "head": 9,
+        "relation": "locatedIn",
+        "tail": 8
+      },
+      {
+        "head": 9,
+        "relation": "referredBy",
+        "tail": 10
+      }
+    ]
+  },
+  {
+    "document_id": 608,
+    "ragtruth_id": "812",
+    "text": "A woman named Liana Barrientos is accused of marrying ten men and committing fraud. She claims that all her marriages were her \"first and only\", but court documents allege that she got married to four different men consecutively between 2010 and 2002. These marriages were reportedly part of an immigration scam. Barrientos has pleaded not guilty to two criminal counts related to her false marriage license application, and also faces charges of stealing and trespassing. Barrientos' next court hearing is on May 18.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "A woman named Liana Barrientos"
+      },
+      {
+        "id": 1,
+        "text": "all her marriages"
+      },
+      {
+        "id": 2,
+        "text": "ten"
+      },
+      {
+        "id": 3,
+        "text": "first"
+      },
+      {
+        "id": 4,
+        "text": "four"
+      },
+      {
+        "id": 5,
+        "text": "between 2010 and 2002"
+      },
+      {
+        "id": 6,
+        "text": "two"
+      },
+      {
+        "id": 7,
+        "text": "May 18"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "numberOfMarriages",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "numberOfMarriages",
+        "tail": 4
+      },
+      {
+        "head": 1,
+        "relation": "description",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "courtHearingDate",
+        "tail": 7
+      }
+    ]
+  },
+  {
+    "document_id": 609,
+    "ragtruth_id": "813",
+    "text": "Liana Barrientos, 39, was arrested and charged with 10 counts of fraud after marrying 10 different men in New York between 1999 and 2002 as part of an immigration scam. She faces up to 4 years in prison if convicted. Barrientos, who is currently married to 4 men, had previously declared \"I do\" 5 more times, sometimes within 2 weeks of each other. The men involved in the scam filed for permanent residence status shortly after their marriages, and any divorces occurred only after their applications were approved.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Liana Barrientos, 39,"
+      },
+      {
+        "id": 1,
+        "text": "10 different men"
+      },
+      {
+        "id": 2,
+        "text": "an immigration scam"
+      },
+      {
+        "id": 3,
+        "text": "10"
+      },
+      {
+        "id": 4,
+        "text": "New York"
+      },
+      {
+        "id": 5,
+        "text": "between 1999 and 2002"
+      },
+      {
+        "id": 6,
+        "text": "up to 4 years"
+      },
+      {
+        "id": 7,
+        "text": "5"
+      },
+      {
+        "id": 8,
+        "text": "2 weeks"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "chargedWith",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "marriedTo",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "location",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "timePeriod",
+        "tail": 5
+      },
+      {
+        "head": 0,
+        "relation": "partOf",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "sentence",
+        "tail": 6
+      },
+      {
+        "head": 0,
+        "relation": "marriedTo",
+        "tail": 7
+      },
+      {
+        "head": 0,
+        "relation": "timeInterval",
+        "tail": 8
+      }
+    ]
+  }
+]

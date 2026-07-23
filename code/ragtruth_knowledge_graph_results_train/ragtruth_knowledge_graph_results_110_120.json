@@ -1,0 +1,497 @@
+[
+  {
+    "document_id": 110,
+    "ragtruth_id": "152",
+    "text": "Katie, a 7-foot-tall giraffe at the Dallas Zoo, gave birth to a 6-foot-tall calf in an hour-long live broadcast on Animal Planet. The birth was captured by 10 cameras and watched by thousands online. Katie held up well under the spotlight, despite being a bit of a diva among her herd of 12 giraffes.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "birth"
+      },
+      {
+        "id": 1,
+        "text": "Katie, a 7-foot-tall giraffe at the Dallas Zoo"
+      },
+      {
+        "id": 2,
+        "text": "6-foot-tall"
+      },
+      {
+        "id": 3,
+        "text": "hour"
+      },
+      {
+        "id": 4,
+        "text": "Animal Planet"
+      },
+      {
+        "id": 5,
+        "text": "10"
+      },
+      {
+        "id": 6,
+        "text": "thousands"
+      },
+      {
+        "id": 7,
+        "text": "12"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "broadcastOn",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "duration",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "numberOfCameras",
+        "tail": 5
+      }
+    ]
+  },
+  {
+    "document_id": 111,
+    "ragtruth_id": "153",
+    "text": "Sure! Here's a summary of the article in 72 words:\n\nKatie, a giraffe at the Dallas Zoo, gave birth to a baby giraffe live on camera during an hour-long labor streamed by Animal Planet. The baby's gender and condition are unknown, but the newborn was seen moving its ears, standing, and nursing from its mother. Katie held up well under the spotlight, even impressing fellow giraffes in an adjacent barn.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "a baby giraffe"
+      },
+      {
+        "id": 1,
+        "text": "Katie, a giraffe at the Dallas Zoo"
+      },
+      {
+        "id": 2,
+        "text": "72"
+      },
+      {
+        "id": 3,
+        "text": "Animal Planet"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "mother",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "streamedBy",
+        "tail": 3
+      }
+    ]
+  },
+  {
+    "document_id": 112,
+    "ragtruth_id": "154",
+    "text": "Katie, a giraffe at the Dallas Zoo, gave birth to a 6-foot tall baby after an hour-long labor live-streamed on Animal Planet. The newborn's gender and condition are unknown, but it's doing well and nursing from its mother. Katie's diva personality and ability to stick out her tongue made the delivery a unique experience for viewers.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "a 6-foot tall baby"
+      },
+      {
+        "id": 1,
+        "text": "Katie, a giraffe at the Dallas Zoo"
+      },
+      {
+        "id": 2,
+        "text": "gave"
+      },
+      {
+        "id": 3,
+        "text": "Animal Planet"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "mother",
+        "tail": 1
+      },
+      {
+        "head": 2,
+        "relation": "broadcastOn",
+        "tail": 3
+      }
+    ]
+  },
+  {
+    "document_id": 113,
+    "ragtruth_id": "155",
+    "text": "Katie, a giraffe at the Dallas Zoo, gave birth to a 6-foot tall calf during a live broadcast on Animal Planet. The hour-long labor was captured by 10 cameras and streamed live online. The newborn's gender and condition were not immediately known, but it was seen moving, standing, and nursing from its mother. Katie, described as a \"diva\" by the zoo, handled the process well, impressing viewers and animal experts alike.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "gave"
+      },
+      {
+        "id": 1,
+        "text": "a 6-foot tall calf"
+      },
+      {
+        "id": 2,
+        "text": "Katie, a giraffe at the Dallas Zoo"
+      },
+      {
+        "id": 3,
+        "text": "the Dallas Zoo"
+      },
+      {
+        "id": 4,
+        "text": "Animal Planet"
+      },
+      {
+        "id": 5,
+        "text": "10"
+      },
+      {
+        "id": 6,
+        "text": "Katie"
+      }
+    ],
+    "relations": [
+      {
+        "head": 2,
+        "relation": "locatedAt",
+        "tail": 3
+      },
+      {
+        "head": 2,
+        "relation": "gaveBirthTo",
+        "tail": 1
+      },
+      {
+        "head": 1,
+        "relation": "broadcastOn",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "capturedBy",
+        "tail": 5
+      },
+      {
+        "head": 6,
+        "relation": "describedBy",
+        "tail": 3
+      }
+    ]
+  },
+  {
+    "document_id": 114,
+    "ragtruth_id": "156",
+    "text": "Two connected shootings occurred in Washington on Thursday, one at the U.S. Census Bureau's headquarters and another in a busy restaurant area. The incidents began with a suspected domestic kidnapping. A guard was critically injured at the Census Bureau after approaching a vehicle in which two people were arguing. Following a police chase and shootout, an officer and the suspect were wounded. The kidnap victim was found in good condition.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Two connected shootings"
+      },
+      {
+        "id": 1,
+        "text": "the U.S. Census Bureau's"
+      },
+      {
+        "id": 2,
+        "text": "Washington"
+      },
+      {
+        "id": 3,
+        "text": "Thursday"
+      },
+      {
+        "id": 4,
+        "text": "two"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "occurredIn",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "occurredOn",
+        "tail": 3
+      }
+    ]
+  },
+  {
+    "document_id": 115,
+    "ragtruth_id": "157",
+    "text": "Two shootings occurred in Washington, D.C., with authorities stating they were connected. The shootings started with a domestic kidnapping incident, and a guard at the U.S. Census Bureau was shot when approaching the suspect's vehicle. The suspect fled and a chase ensued, ending in a shootout and leaving an officer and the suspect injured. The police chief believes the same car and person were involved in the kidnapping. The victim was found and in good condition. The identities of those involved were not disclosed.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Two shootings"
+      },
+      {
+        "id": 1,
+        "text": "the suspect's"
+      },
+      {
+        "id": 2,
+        "text": "a domestic kidnapping incident"
+      },
+      {
+        "id": 3,
+        "text": "Washington"
+      },
+      {
+        "id": 4,
+        "text": "D.C."
+      },
+      {
+        "id": 5,
+        "text": "the U.S. Census Bureau"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "occurredIn",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "occurredIn",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "connectedTo",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "involved",
+        "tail": 1
+      },
+      {
+        "head": 2,
+        "relation": "involved",
+        "tail": 1
+      },
+      {
+        "head": 2,
+        "relation": "involvedOrganization",
+        "tail": 5
+      }
+    ]
+  },
+  {
+    "document_id": 116,
+    "ragtruth_id": "158",
+    "text": "Two shootings occurred in Washington, DC on Thursday night - one near the US Census Bureau headquarters and the other in a popular area filled with restaurants. The shootings are believed to be related and started with a domestic kidnapping incident. One guard was critically injured and an officer and suspect were also wounded. The police chief stated that the suspect's vehicle was seen outside the census bureau and the chase ended in a crash on H street. The kidnapping victim has been found and is in good condition.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Two shootings"
+      },
+      {
+        "id": 1,
+        "text": "suspect"
+      },
+      {
+        "id": 2,
+        "text": "US Census Bureau"
+      },
+      {
+        "id": 3,
+        "text": "Washington, DC"
+      },
+      {
+        "id": 4,
+        "text": "Thursday"
+      },
+      {
+        "id": 5,
+        "text": "the US Census Bureau"
+      },
+      {
+        "id": 6,
+        "text": "One"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "occurredIn",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "occurredOn",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "near",
+        "tail": 5
+      },
+      {
+        "head": 1,
+        "relation": "vehicleSeenOutside",
+        "tail": 2
+      }
+    ]
+  },
+  {
+    "document_id": 117,
+    "ragtruth_id": "159",
+    "text": "Here is a summary of the news in 63 words or less:\n\nMultiple shootings occurred in Washington D.C. late Thursday, including one at the US Census Bureau headquarters and another in a crowded area. A guard was shot and critically injured at the Census Bureau, and the suspect fled the scene before being involved in a crash and shootout with police. The suspect and an officer were injured, but their conditions are unknown. The kidnapping victim was found and is safe.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "US Census Bureau"
+      },
+      {
+        "id": 1,
+        "text": "the suspect"
+      },
+      {
+        "id": 2,
+        "text": "The suspect and an officer"
+      },
+      {
+        "id": 3,
+        "text": "63"
+      },
+      {
+        "id": 4,
+        "text": "Washington D.C."
+      },
+      {
+        "id": 5,
+        "text": "late Thursday"
+      },
+      {
+        "id": 6,
+        "text": "the US Census Bureau"
+      }
+    ],
+    "relations": [
+      {
+        "head": 6,
+        "relation": "locatedIn",
+        "tail": 4
+      },
+      {
+        "head": 1,
+        "relation": "injuredIn",
+        "tail": 2
+      }
+    ]
+  },
+  {
+    "document_id": 118,
+    "ragtruth_id": "160",
+    "text": "A shooting occurred at the US Census Bureau's headquarters in Washington DC, followed by a chase and shootout that injured an officer and the suspect. The incident started as a possible domestic kidnapping and the suspect's vehicle was found abandoned at the scene. The victim was located safe and the suspect is in custody.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "A shooting"
+      },
+      {
+        "id": 1,
+        "text": "the suspect"
+      },
+      {
+        "id": 2,
+        "text": "the US Census Bureau's"
+      },
+      {
+        "id": 3,
+        "text": "Washington DC"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "location",
+        "tail": 3
+      }
+    ]
+  },
+  {
+    "document_id": 119,
+    "ragtruth_id": "161",
+    "text": "A shooting at the US Census Bureau headquarters in Maryland and a subsequent chase and shootout in Washington, DC, have left several people injured, including a security guard, a police officer, and the suspect. The suspect's vehicle was spotted outside the Census Bureau, and a guard was shot while approaching the vehicle. The suspect fled, leading to a chase and multiple shootouts, ending in a crash and shootout on H Street in Washington. The kidnapping victim was found safe.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "the suspect"
+      },
+      {
+        "id": 1,
+        "text": "US Census Bureau"
+      },
+      {
+        "id": 2,
+        "text": "a security guard"
+      },
+      {
+        "id": 3,
+        "text": "The suspect's vehicle"
+      },
+      {
+        "id": 4,
+        "text": "Washington, DC"
+      },
+      {
+        "id": 5,
+        "text": "the US Census Bureau"
+      },
+      {
+        "id": 6,
+        "text": "Maryland"
+      },
+      {
+        "id": 7,
+        "text": "H Street"
+      }
+    ],
+    "relations": [
+      {
+        "head": 5,
+        "relation": "locatedIn",
+        "tail": 6
+      },
+      {
+        "head": 5,
+        "relation": "locatedIn",
+        "tail": 4
+      },
+      {
+        "head": 3,
+        "relation": "ownedBy",
+        "tail": 0
+      },
+      {
+        "head": 2,
+        "relation": "shotAt",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "endedIn",
+        "tail": 7
+      },
+      {
+        "head": 7,
+        "relation": "locatedIn",
+        "tail": 4
+      }
+    ]
+  }
+]

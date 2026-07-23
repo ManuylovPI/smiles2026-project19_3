@@ -1,0 +1,785 @@
+[
+  {
+    "document_id": 440,
+    "ragtruth_id": "572",
+    "text": "Robert Bates, 73, shot and killed a man named Eric Harris while playing a game of \"cops and robbers\" with real police. Bates was a reserve deputy sheriff who volunteered his time and worked full time in the community. He had taken part in over 100 operations with the violent crimes task force and had donated money and resources to the department. On the day of the shooting, Bates thought he was using a Taser on Harris, but instead fired his gun and killed him. The police department has 130 reserve deputies, many of whom are wealthy and donate to the department. The shooting raises questions about the role of volunteer police officers and the potential dangers of giving special access to \"real\" policing. The department has since ended its relationship with Bates and is reviewing its policies regarding reserve deputies.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Robert Bates, 73,"
+      },
+      {
+        "id": 1,
+        "text": "shot"
+      },
+      {
+        "id": 2,
+        "text": "a man named Eric Harris"
+      },
+      {
+        "id": 3,
+        "text": "the department"
+      },
+      {
+        "id": 4,
+        "text": "over 100"
+      },
+      {
+        "id": 5,
+        "text": "the day"
+      },
+      {
+        "id": 6,
+        "text": "130"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "killed",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "workedWith",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "donatedTo",
+        "tail": 3
+      },
+      {
+        "head": 3,
+        "relation": "endedRelationshipWith",
+        "tail": 0
+      }
+    ]
+  },
+  {
+    "document_id": 441,
+    "ragtruth_id": "573",
+    "text": "Robert Bates, a 73-year-old reserve deputy sheriff in Tulsa, Oklahoma, accidentally shot and killed a man during a training exercise. Bates, an insurance company CEO, was participating in a \"cops and robbers\" game with real police officers when he mistakenly grabbed his gun instead of a Taser. The man, Eric Harris, was tackled by deputies after selling an undercover officer a gun, but Bates claimed he thought Harris was running away and posed a threat. However, video footage showed Harris was not running and did not appear to be a danger to anyone. Bates' actions have raised questions about his qualifications and the use of volunteer police officers. While some departments have auxiliary programs that allow volunteers to assist with non-enforcement activities, Bates' involvement in a high-level training exercise raises concerns about the level of supervision and oversight of these volunteers.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Robert Bates, a 73-year-old reserve deputy sheriff in Tulsa, Oklahoma,"
+      },
+      {
+        "id": 1,
+        "text": "a man"
+      },
+      {
+        "id": 2,
+        "text": "volunteers"
+      },
+      {
+        "id": 3,
+        "text": "Bates"
+      },
+      {
+        "id": 4,
+        "text": "Taser"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "alias",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "mistakenlyGrabbedInsteadOf",
+        "tail": 4
+      }
+    ]
+  },
+  {
+    "document_id": 442,
+    "ragtruth_id": "574",
+    "text": "A 73-year-old reserve deputy sheriff named Robert Bates fatally shot an unarmed man named Eric Harris while playing cops and robbers with real police officers. Bates, who was a wealthy insurance executive, had donated to the sheriff's campaign and had been involved in over 100 operations with the violent crimes task force. The shooting raises questions about the use of volunteer police officers and the lack of proper training and oversight. While some cities have successful auxiliary police programs, the incident in Tulsa County highlights the risks of allowing civilians to participate in high-stakes police work.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "A 73-year-old reserve deputy sheriff named Robert Bates"
+      },
+      {
+        "id": 1,
+        "text": "shot"
+      },
+      {
+        "id": 2,
+        "text": "Eric Harris"
+      },
+      {
+        "id": 3,
+        "text": "over 100"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "victim",
+        "tail": 2
+      }
+    ]
+  },
+  {
+    "document_id": 443,
+    "ragtruth_id": "575",
+    "text": "Robert Bates, a 73-year-old reserve deputy sheriff, shot and killed a man while playing cops and robbers with real police. Bates had taken part in over 100 operations with the violent crimes task force and was on scene with deputies who tackled a man who had sold an undercover officer a gun and ran. Bates thought he was using a Taser but instead fired a fatal shot. The victim, Eric Harris, was not posing a threat and was running away, raising questions about why Bates, a wealthy donor to the sheriff's department, was involved in the operation. The incident highlights the issue of wealthy individuals buying their way into policing, which undermines professionalism and raises safety concerns. While some volunteer police officers are helpful, departments must ensure that those involved in policing are properly trained and equipped, and that there are clear lines between volunteers and sworn officers.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Robert Bates, a 73-year-old reserve deputy sheriff,"
+      },
+      {
+        "id": 1,
+        "text": "a man"
+      },
+      {
+        "id": 2,
+        "text": "wealthy individuals"
+      },
+      {
+        "id": 3,
+        "text": "over 100"
+      },
+      {
+        "id": 4,
+        "text": "Taser"
+      },
+      {
+        "id": 5,
+        "text": "Bates"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "shotAndKilled",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "participatedIn",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "used",
+        "tail": 4
+      }
+    ]
+  },
+  {
+    "document_id": 444,
+    "ragtruth_id": "576",
+    "text": "The Metropolitan Police Service (MPS) has confirmed that it was notified of a burglar alarm at the Hatton Garden Safe Deposit Company on 3rd April, but did not respond. Acknowledging in a statement that the alarm call was registered on its computer-aided dispatch system, MPS said an investigation was underway to determine why the call was classified as not requiring a police response. Detectives are still identifying the owners of the ransacked safe deposit boxes and trying to contact them to learn what had been lost. The actual value of the stolen items has yet to be confirmed, but estimates run from several hundred thousand to £200m ($300m). Meanwhile, the Daily Mirror claims to have obtained CCTV footage of the robbery, which it says shows at least six people were involved in the heist. The police have not confirmed the veracity of the video and say they have not released any footage of the burglary.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "The Metropolitan Police Service (MPS)"
+      },
+      {
+        "id": 1,
+        "text": "a burglar alarm at the Hatton Garden Safe Deposit Company"
+      },
+      {
+        "id": 2,
+        "text": "the owners of the ransacked safe deposit boxes"
+      },
+      {
+        "id": 3,
+        "text": "the Daily Mirror"
+      },
+      {
+        "id": 4,
+        "text": "the robbery"
+      },
+      {
+        "id": 5,
+        "text": "CCTV footage of the robbery, which it says shows at least six people were involved in the heist"
+      },
+      {
+        "id": 6,
+        "text": "The police"
+      },
+      {
+        "id": 7,
+        "text": "3rd April"
+      },
+      {
+        "id": 8,
+        "text": "several hundred thousand to £200"
+      },
+      {
+        "id": 9,
+        "text": "300"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "notifiedOf",
+        "tail": 1
+      },
+      {
+        "head": 1,
+        "relation": "date",
+        "tail": 7
+      },
+      {
+        "head": 3,
+        "relation": "obtained",
+        "tail": 5
+      },
+      {
+        "head": 6,
+        "relation": "notReleased",
+        "tail": 5
+      }
+    ]
+  },
+  {
+    "document_id": 445,
+    "ragtruth_id": "577",
+    "text": "British police are investigating a major heist that took place in London's jewelry district. The theft occurred at Hatton Garden Safe Deposit Ltd. over the Easter holiday and the value of what was stolen has yet to be determined. The police were alerted to the burglary alarm going off but did not respond as the call was deemed to not require police attention. The investigation is now looking into why this decision was made and whether it had any impact on the outcome of the incident. A former police official speculated that the loss could be as high as £200 million ($300 million), although other sources estimate it to be in the hundreds of thousands of pounds. The Daily Mirror claimed to have obtained CCTV footage of the robbery, showing individuals dressed as utility workers entering and leaving the building with large bags and what appeared to be drill equipment. The thieves may have had access to the vault for several days, as indicated by time-stamped images showing their presence on different occasions. The police have not released any video of the heist and cannot confirm the authenticity of the footage published by the Daily Mirror. The investigation is ongoing, with police attempting to identify the owners of the ransacked safe deposit boxes and determine the extent of the losses. The Hatton Garden area is renowned for its diamond trade and has been the center of London's jewelry industry for centuries.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "a major heist that took place in London's jewelry district"
+      },
+      {
+        "id": 1,
+        "text": "investigating"
+      },
+      {
+        "id": 2,
+        "text": "deemed"
+      },
+      {
+        "id": 3,
+        "text": "the value of what was stolen"
+      },
+      {
+        "id": 4,
+        "text": "Hatton Garden Safe Deposit Ltd."
+      },
+      {
+        "id": 5,
+        "text": "individuals dressed as utility workers"
+      },
+      {
+        "id": 6,
+        "text": "time-stamped images showing their presence on different occasions"
+      },
+      {
+        "id": 7,
+        "text": "The Daily Mirror"
+      },
+      {
+        "id": 8,
+        "text": "London's jewelry district"
+      },
+      {
+        "id": 9,
+        "text": "London's"
+      },
+      {
+        "id": 10,
+        "text": "British"
+      },
+      {
+        "id": 11,
+        "text": "the Easter holiday"
+      },
+      {
+        "id": 12,
+        "text": "£200 million"
+      },
+      {
+        "id": 13,
+        "text": "$300 million"
+      },
+      {
+        "id": 14,
+        "text": "the hundreds of thousands"
+      },
+      {
+        "id": 15,
+        "text": "CCTV"
+      },
+      {
+        "id": 16,
+        "text": "several days"
+      },
+      {
+        "id": 17,
+        "text": "centuries"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "location",
+        "tail": 8
+      },
+      {
+        "head": 0,
+        "relation": "occurredAt",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "time",
+        "tail": 11
+      },
+      {
+        "head": 1,
+        "relation": "investigates",
+        "tail": 0
+      },
+      {
+        "head": 0,
+        "relation": "value",
+        "tail": 12
+      },
+      {
+        "head": 0,
+        "relation": "value",
+        "tail": 13
+      },
+      {
+        "head": 0,
+        "relation": "value",
+        "tail": 14
+      },
+      {
+        "head": 0,
+        "relation": "reportedBy",
+        "tail": 7
+      },
+      {
+        "head": 0,
+        "relation": "hasEvidence",
+        "tail": 15
+      },
+      {
+        "head": 5,
+        "relation": "appearsIn",
+        "tail": 6
+      },
+      {
+        "head": 6,
+        "relation": "publishedBy",
+        "tail": 7
+      },
+      {
+        "head": 8,
+        "relation": "partOf",
+        "tail": 9
+      },
+      {
+        "head": 8,
+        "relation": "hasIndustry",
+        "tail": 9
+      },
+      {
+        "head": 8,
+        "relation": "duration",
+        "tail": 17
+      }
+    ]
+  },
+  {
+    "document_id": 446,
+    "ragtruth_id": "578",
+    "text": "British police are investigating a heist in London's jewelry district where a burglar alarm went off but no police response was deemed necessary. Thieves stole valuables worth millions from Hatton Garden Safe Deposit Ltd. over the four-day Easter holiday. The theft was so big that police haven't come up with a value for what was stolen. The British tabloid The Daily Mirror claims to have obtained closed-circuit TV footage that captures the robbery being carried out. The video shows people entering the building dressed like utility workers with their faces covered and carrying large bags, what looks like drill equipment, and other tools. The Daily Mirror also published time-stamped images it says show that the thieves had been in the vault for days.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "a heist in London's jewelry district where a burglar alarm went off"
+      },
+      {
+        "id": 1,
+        "text": "closed-circuit TV footage that captures the robbery being carried out"
+      },
+      {
+        "id": 2,
+        "text": "Hatton Garden Safe Deposit Ltd."
+      },
+      {
+        "id": 3,
+        "text": "people"
+      },
+      {
+        "id": 4,
+        "text": "The British tabloid The Daily Mirror"
+      },
+      {
+        "id": 5,
+        "text": "Thieves"
+      },
+      {
+        "id": 6,
+        "text": "British"
+      },
+      {
+        "id": 7,
+        "text": "millions"
+      },
+      {
+        "id": 8,
+        "text": "four-day Easter"
+      },
+      {
+        "id": 9,
+        "text": "days"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "location",
+        "tail": 6
+      },
+      {
+        "head": 0,
+        "relation": "stolenFrom",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "duration",
+        "tail": 8
+      },
+      {
+        "head": 1,
+        "relation": "captures",
+        "tail": 0
+      },
+      {
+        "head": 1,
+        "relation": "publishedBy",
+        "tail": 4
+      },
+      {
+        "head": 4,
+        "relation": "published",
+        "tail": 1
+      },
+      {
+        "head": 5,
+        "relation": "stoleFrom",
+        "tail": 2
+      },
+      {
+        "head": 5,
+        "relation": "amount",
+        "tail": 7
+      },
+      {
+        "head": 5,
+        "relation": "involvedIn",
+        "tail": 0
+      },
+      {
+        "head": 5,
+        "relation": "inVaultFor",
+        "tail": 9
+      }
+    ]
+  },
+  {
+    "document_id": 447,
+    "ragtruth_id": "579",
+    "text": "In London, a spectacular heist occurred at Hatton Garden Safe Deposit Ltd. over the Easter holiday. Thieves broke into the vault and ransacked the safe deposit boxes, stealing an estimated £200 million-£300 million worth of valuables. The theft was discovered on Tuesday morning when employees arrived at work, and police are investigating how the handling of the alarm call was mishandled. The thieves entered the building through the shaft of an elevator and drilled through a 6-foot thick wall to gain access to the vault. The heist remains unsophisticated, and detectives are trying to identify the owners of the ransacked safe deposit boxes and determine the value of the stolen items. The investigation is ongoing, and police have not released any video footage of the heist.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "a spectacular heist"
+      },
+      {
+        "id": 1,
+        "text": "Thieves"
+      },
+      {
+        "id": 2,
+        "text": "Hatton Garden Safe Deposit Ltd."
+      },
+      {
+        "id": 3,
+        "text": "the vault"
+      },
+      {
+        "id": 4,
+        "text": "the safe deposit boxes"
+      },
+      {
+        "id": 5,
+        "text": "an estimated £200 million-£300 million worth of valuables"
+      },
+      {
+        "id": 6,
+        "text": "investigating"
+      },
+      {
+        "id": 7,
+        "text": "London"
+      },
+      {
+        "id": 8,
+        "text": "the Easter holiday"
+      },
+      {
+        "id": 9,
+        "text": "Tuesday"
+      },
+      {
+        "id": 10,
+        "text": "morning"
+      },
+      {
+        "id": 11,
+        "text": "6-foot"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "location",
+        "tail": 7
+      },
+      {
+        "head": 0,
+        "relation": "occurredAt",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "time",
+        "tail": 8
+      },
+      {
+        "head": 0,
+        "relation": "discoveredOn",
+        "tail": 9
+      },
+      {
+        "head": 0,
+        "relation": "discoveredTime",
+        "tail": 10
+      },
+      {
+        "head": 1,
+        "relation": "brokeInto",
+        "tail": 3
+      },
+      {
+        "head": 1,
+        "relation": "ransacked",
+        "tail": 4
+      },
+      {
+        "head": 1,
+        "relation": "stole",
+        "tail": 5
+      },
+      {
+        "head": 1,
+        "relation": "enteredThrough",
+        "tail": 11
+      },
+      {
+        "head": 1,
+        "relation": "enteredBuilding",
+        "tail": 2
+      },
+      {
+        "head": 6,
+        "relation": "investigationOf",
+        "tail": 0
+      }
+    ]
+  },
+  {
+    "document_id": 448,
+    "ragtruth_id": "580",
+    "text": "A major heist occurred in London's jewelry district, with thieves breaking into the vault of Hatton Garden Safe Deposit Ltd. over the Easter holiday weekend. The theft is believed to have netted hundreds of thousands of pounds, possibly up to £200 million, and may have involved inside help. The burglar alarm was triggered, but the police did not respond, and the thieves were able to spend four days ransacking the vault. Closed-circuit TV footage has emerged showing the thieves entering and exiting the building, and police are reviewing the footage to determine the exact number of perpetrators and their movements. The investigation is ongoing, and detectives are working to identify the owners of the ransacked safe deposit boxes and learn what was lost.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "A major heist"
+      },
+      {
+        "id": 1,
+        "text": "thieves"
+      },
+      {
+        "id": 2,
+        "text": "the vault of Hatton Garden Safe Deposit Ltd."
+      },
+      {
+        "id": 3,
+        "text": "Hatton Garden Safe Deposit Ltd."
+      },
+      {
+        "id": 4,
+        "text": "Closed-circuit TV footage"
+      },
+      {
+        "id": 5,
+        "text": "perpetrators"
+      },
+      {
+        "id": 6,
+        "text": "London"
+      },
+      {
+        "id": 7,
+        "text": "the Easter holiday weekend"
+      },
+      {
+        "id": 8,
+        "text": "hundreds of thousands"
+      },
+      {
+        "id": 9,
+        "text": "up to £200 million"
+      },
+      {
+        "id": 10,
+        "text": "four days"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "occurredIn",
+        "tail": 6
+      },
+      {
+        "head": 0,
+        "relation": "occurredDuring",
+        "tail": 7
+      },
+      {
+        "head": 0,
+        "relation": "amount",
+        "tail": 8
+      },
+      {
+        "head": 0,
+        "relation": "amount",
+        "tail": 9
+      },
+      {
+        "head": 1,
+        "relation": "brokeInto",
+        "tail": 2
+      },
+      {
+        "head": 1,
+        "relation": "entered",
+        "tail": 3
+      },
+      {
+        "head": 1,
+        "relation": "exited",
+        "tail": 3
+      },
+      {
+        "head": 1,
+        "relation": "spent",
+        "tail": 10
+      },
+      {
+        "head": 4,
+        "relation": "shows",
+        "tail": 1
+      }
+    ]
+  },
+  {
+    "document_id": 449,
+    "ragtruth_id": "581",
+    "text": "Thieves broke into the Hatton Garden Safe Deposit Ltd. in London's jewelry district over the Easter weekend and made off with an estimated £200 million worth of valuables. The heist was discovered on Tuesday when employees arrived at work and found the vault had been broken into. The thieves entered the building by disabling the elevator and climbing down the shaft to the basement, where they used a drill to bore through a 6-foot thick wall and gain access to the vault. The police have launched an investigation and are reviewing CCTV footage, which shows several individuals entering and leaving the building over the course of several days. The footage also shows the thieves using trash bins to remove the loot from the building. Police have not confirmed the exact value of the stolen items, but it is believed to include cash, jewels, and other precious goods. The incident has raised questions about the security measures in place at the safe deposit facility and how the thieves were able to carry out such a large-scale heist without being detected.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Thieves"
+      },
+      {
+        "id": 1,
+        "text": "the Hatton Garden Safe Deposit Ltd. in London's jewelry district"
+      },
+      {
+        "id": 2,
+        "text": "the vault"
+      },
+      {
+        "id": 3,
+        "text": "CCTV footage, which shows several individuals entering and leaving the building over the course of several days"
+      },
+      {
+        "id": 4,
+        "text": "an estimated £200 million worth of valuables"
+      },
+      {
+        "id": 5,
+        "text": "The heist"
+      },
+      {
+        "id": 6,
+        "text": "the Easter weekend"
+      },
+      {
+        "id": 7,
+        "text": "Tuesday"
+      },
+      {
+        "id": 8,
+        "text": "6-foot"
+      }
+    ],
+    "relations": [
+      {
+        "head": 5,
+        "relation": "occurredAt",
+        "tail": 6
+      },
+      {
+        "head": 5,
+        "relation": "discoveredOn",
+        "tail": 7
+      },
+      {
+        "head": 0,
+        "relation": "brokeInto",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "brokeInto",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "stole",
+        "tail": 4
+      },
+      {
+        "head": 3,
+        "relation": "shows",
+        "tail": 0
+      },
+      {
+        "head": 3,
+        "relation": "shows",
+        "tail": 1
+      }
+    ]
+  }
+]

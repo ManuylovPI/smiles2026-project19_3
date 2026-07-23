@@ -1,0 +1,603 @@
+[
+  {
+    "document_id": 530,
+    "ragtruth_id": "716",
+    "text": "Deion Sanders scolded his son Deion Sanders Jr. on Twitter for eating \"hood doughnuts.\" The younger Sanders responded by reminding his father of his trust fund and successful ventures. Their exchange went viral, prompting a flood of comments from viewers.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Deion Sanders"
+      },
+      {
+        "id": 1,
+        "text": "his son Deion Sanders Jr."
+      },
+      {
+        "id": 2,
+        "text": "Twitter"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "father",
+        "tail": 0
+      },
+      {
+        "head": 0,
+        "relation": "onPlatform",
+        "tail": 2
+      }
+    ]
+  },
+  {
+    "document_id": 531,
+    "ragtruth_id": "717",
+    "text": "Deion Sanders slammed his son Deion Sanders Jr. on Twitter for only eating \"hood doughnuts\" despite having a trust fund and luxury items. The younger Sanders responded with a mix of humor and humility, retweeting his father's comments.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Deion Sanders"
+      },
+      {
+        "id": 1,
+        "text": "his son Deion Sanders Jr."
+      },
+      {
+        "id": 2,
+        "text": "Twitter"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "father",
+        "tail": 0
+      },
+      {
+        "head": 0,
+        "relation": "postedOn",
+        "tail": 2
+      }
+    ]
+  },
+  {
+    "document_id": 532,
+    "ragtruth_id": "718",
+    "text": "Sure! Here's the summary within 45 words:\n\nNFL legend Deion Sanders criticized his son Deion Sanders Jr. on Twitter for saying he only eats \"hood doughnuts.\" Sanders Sr. reminded his son of his wealth and trust fund, saying \"you're a Huxtable with a million $ trust fund. Stop the hood stuff!\"",
+    "entities": [
+      {
+        "id": 0,
+        "text": "NFL legend Deion Sanders"
+      },
+      {
+        "id": 1,
+        "text": "his son Deion Sanders Jr."
+      },
+      {
+        "id": 2,
+        "text": "his wealth and trust fund"
+      },
+      {
+        "id": 3,
+        "text": "45"
+      },
+      {
+        "id": 4,
+        "text": "Twitter"
+      },
+      {
+        "id": 5,
+        "text": "Huxtable"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "father",
+        "tail": 0
+      },
+      {
+        "head": 0,
+        "relation": "criticizedOn",
+        "tail": 4
+      },
+      {
+        "head": 1,
+        "relation": "hasWealthAndTrustFund",
+        "tail": 2
+      },
+      {
+        "head": 1,
+        "relation": "comparedTo",
+        "tail": 5
+      }
+    ]
+  },
+  {
+    "document_id": 533,
+    "ragtruth_id": "719",
+    "text": "Deion Sanders called out his son, Deion Sanders Jr., on Twitter for saying he only eats \"hood doughnuts.\" Sanders reminded his son that he has a trust fund, condo, and clothing line, and told him to stop pretending to be from the \"hood.\" Sanders Jr. took the criticism in stride and even retweeted his father's comments.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Deion Sanders"
+      },
+      {
+        "id": 1,
+        "text": "his son, Deion Sanders Jr.,"
+      },
+      {
+        "id": 2,
+        "text": "Twitter"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "father",
+        "tail": 0
+      },
+      {
+        "head": 0,
+        "relation": "calledOutOn",
+        "tail": 2
+      }
+    ]
+  },
+  {
+    "document_id": 534,
+    "ragtruth_id": "732",
+    "text": "Kenyans used social media to share the stories of those killed in one of the deadliest terrorist attacks in the nation. Using the hashtag #147notjustanumber, a reference to the number of people killed, Kenyans tweeted pictures and stories of the victims. The attack in Kenya killed 142 students, three security officers and two university security personnel, and was the nation's deadliest since the bombing of the U.S. Embassy in 1998. The gunmen separated Muslims from Christians and killed the latter.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "those killed in one of the deadliest terrorist attacks in the nation"
+      },
+      {
+        "id": 1,
+        "text": "one of the deadliest terrorist attacks in the nation"
+      },
+      {
+        "id": 2,
+        "text": "the nation"
+      },
+      {
+        "id": 3,
+        "text": "Kenyans"
+      },
+      {
+        "id": 4,
+        "text": "147notjustanumber"
+      },
+      {
+        "id": 5,
+        "text": "Kenyans"
+      },
+      {
+        "id": 6,
+        "text": "the U.S. Embassy"
+      },
+      {
+        "id": 7,
+        "text": "1998"
+      },
+      {
+        "id": 8,
+        "text": "Muslims"
+      },
+      {
+        "id": 9,
+        "text": "Christians"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "location",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "victimOf",
+        "tail": 1
+      },
+      {
+        "head": 1,
+        "relation": "deadliestSince",
+        "tail": 6
+      },
+      {
+        "head": 6,
+        "relation": "date",
+        "tail": 7
+      },
+      {
+        "head": 1,
+        "relation": "targetGroup",
+        "tail": 9
+      }
+    ]
+  },
+  {
+    "document_id": 535,
+    "ragtruth_id": "733",
+    "text": "Last week, Kenya experienced one of its deadliest terrorist attacks, with 147 people killed at Garissa University College. Kenyans took to social media using the hashtag #147notjustanumber to share the victims' stories and dreams. The posts revealed heartbreaking details, including a man who took a loan to educate his son at the university, only to have him killed by Al-Shabaab terrorists. Churches across the country mourned the victims during Easter services, and armed guards provided protection. The extremist group, based in Somalia, has targeted both Christians and Muslims in recent attacks.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Kenya"
+      },
+      {
+        "id": 1,
+        "text": "147 people"
+      },
+      {
+        "id": 2,
+        "text": "a man who took a loan to educate his son at the university, only to have him killed by Al-Shabaab terrorists"
+      },
+      {
+        "id": 3,
+        "text": "Garissa University College"
+      },
+      {
+        "id": 4,
+        "text": "his son"
+      },
+      {
+        "id": 5,
+        "text": "Al-Shabaab terrorists"
+      },
+      {
+        "id": 6,
+        "text": "Last week"
+      },
+      {
+        "id": 7,
+        "text": "one"
+      },
+      {
+        "id": 8,
+        "text": "Kenyans"
+      },
+      {
+        "id": 9,
+        "text": "147notjustanumber"
+      },
+      {
+        "id": 10,
+        "text": "Easter services"
+      },
+      {
+        "id": 11,
+        "text": "Christians"
+      },
+      {
+        "id": 12,
+        "text": "Muslims"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "killedAt",
+        "tail": 3
+      },
+      {
+        "head": 2,
+        "relation": "son",
+        "tail": 4
+      },
+      {
+        "head": 5,
+        "relation": "basedIn",
+        "tail": 0
+      },
+      {
+        "head": 5,
+        "relation": "targeted",
+        "tail": 11
+      },
+      {
+        "head": 5,
+        "relation": "targeted",
+        "tail": 12
+      }
+    ]
+  },
+  {
+    "document_id": 536,
+    "ragtruth_id": "734",
+    "text": "A wave of sorrow engulfed Kenya after last week's terrorist attack at Garissa University College left 147 people dead. Citizens mourned and shared heart-wrenching details about the victims' lives using social media. Kenyan authorities are yet to release a list of the victims. This is the country's deadliest attack since the bombing of the U.S. Embassy in 1998. The gunmen targeted non-Muslim students, killing 142 of them. The attack lasted for four hours and led to the death of three security officers and two university security personnel. The extremist group responsible for the attack is Al-Shabaab. The interior ministry has identified one of the attackers as the son of a government official. The group is based in Somalia and has carried out attacks in neighboring countries.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "147 people"
+      },
+      {
+        "id": 1,
+        "text": "last week's terrorist attack at Garissa University College"
+      },
+      {
+        "id": 2,
+        "text": "Kenya"
+      },
+      {
+        "id": 3,
+        "text": "non-Muslim students"
+      },
+      {
+        "id": 4,
+        "text": "The gunmen"
+      },
+      {
+        "id": 5,
+        "text": "The extremist group responsible for the attack"
+      },
+      {
+        "id": 6,
+        "text": "Kenyan"
+      },
+      {
+        "id": 7,
+        "text": "the U.S. Embassy"
+      },
+      {
+        "id": 8,
+        "text": "1998"
+      },
+      {
+        "id": 9,
+        "text": "142"
+      },
+      {
+        "id": 10,
+        "text": "four hours"
+      },
+      {
+        "id": 11,
+        "text": "three"
+      },
+      {
+        "id": 12,
+        "text": "two"
+      },
+      {
+        "id": 13,
+        "text": "Al-Shabaab"
+      },
+      {
+        "id": 14,
+        "text": "Somalia"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "location",
+        "tail": 2
+      },
+      {
+        "head": 1,
+        "relation": "deathToll",
+        "tail": 0
+      },
+      {
+        "head": 1,
+        "relation": "target",
+        "tail": 3
+      },
+      {
+        "head": 1,
+        "relation": "duration",
+        "tail": 10
+      },
+      {
+        "head": 1,
+        "relation": "responsibleGroup",
+        "tail": 13
+      },
+      {
+        "head": 5,
+        "relation": "basedIn",
+        "tail": 14
+      },
+      {
+        "head": 1,
+        "relation": "deadliestSince",
+        "tail": 7
+      },
+      {
+        "head": 1,
+        "relation": "deadliestSinceDate",
+        "tail": 8
+      },
+      {
+        "head": 4,
+        "relation": "killed",
+        "tail": 9
+      },
+      {
+        "head": 1,
+        "relation": "killed",
+        "tail": 11
+      },
+      {
+        "head": 1,
+        "relation": "killed",
+        "tail": 12
+      }
+    ]
+  },
+  {
+    "document_id": 537,
+    "ragtruth_id": "735",
+    "text": "Here is a summary of the article in 71 words or less:\n\nThe attack on Garissa University College in Kenya killed 147 people, mostly students, and left many more families affected. Citizens shared photos and stories of the victims on social media using the hashtag #147notjustanumber. The attack was the nation's deadliest since the bombing of the US Embassy in 1998, and the perpetrator was identified as the son of a government official.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "147 people, mostly students"
+      },
+      {
+        "id": 1,
+        "text": "The attack on Garissa University College in Kenya"
+      },
+      {
+        "id": 2,
+        "text": "Kenya"
+      },
+      {
+        "id": 3,
+        "text": "71"
+      },
+      {
+        "id": 4,
+        "text": "147notjustanumber"
+      },
+      {
+        "id": 5,
+        "text": "the US Embassy"
+      },
+      {
+        "id": 6,
+        "text": "1998"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "location",
+        "tail": 2
+      },
+      {
+        "head": 1,
+        "relation": "victims",
+        "tail": 0
+      },
+      {
+        "head": 1,
+        "relation": "hashtag",
+        "tail": 4
+      },
+      {
+        "head": 1,
+        "relation": "deadliestSince",
+        "tail": 6
+      }
+    ]
+  },
+  {
+    "document_id": 538,
+    "ragtruth_id": "736",
+    "text": "Sure! Here's the summary within 71 words:\n\nIn the deadliest terrorist attack in Kenya since 1998, 147 people were killed, mostly students, at Garissa University College. Citizens shared victims' stories and hopes on social media using the hashtag #147notjustanumber. Churches mourned the dead during Easter services, and the gunmen separated Muslims from Christians before killing the latter. The suspected terrorist was identified as the son of a government official.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "147 people"
+      },
+      {
+        "id": 1,
+        "text": "71"
+      },
+      {
+        "id": 2,
+        "text": "Kenya"
+      },
+      {
+        "id": 3,
+        "text": "1998"
+      },
+      {
+        "id": 4,
+        "text": "Garissa University College"
+      },
+      {
+        "id": 5,
+        "text": "Citizens"
+      },
+      {
+        "id": 6,
+        "text": "147notjustanumber"
+      },
+      {
+        "id": 7,
+        "text": "Easter services"
+      },
+      {
+        "id": 8,
+        "text": "Muslims"
+      },
+      {
+        "id": 9,
+        "text": "Christians"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "killedAt",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "locatedIn",
+        "tail": 2
+      },
+      {
+        "head": 2,
+        "relation": "since",
+        "tail": 3
+      },
+      {
+        "head": 5,
+        "relation": "usedHashtag",
+        "tail": 6
+      },
+      {
+        "head": 0,
+        "relation": "mournedDuring",
+        "tail": 7
+      },
+      {
+        "head": 8,
+        "relation": "separatedFrom",
+        "tail": 9
+      }
+    ]
+  },
+  {
+    "document_id": 539,
+    "ragtruth_id": "737",
+    "text": "Kenyans are mourning the deaths of 147 people, mostly students, killed in a terrorist attack at Garissa University College. Social media has been used to share stories and remember the victims, including an elderly man who had taken out a loan to fund his son's education. The attack, carried out by Al-Shabaab terrorists, has left families devastated and broken the hopes and dreams of many.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "an elderly man who had taken out a loan to fund his son's education"
+      },
+      {
+        "id": 1,
+        "text": "a terrorist attack at Garissa University College"
+      },
+      {
+        "id": 2,
+        "text": "Kenyans"
+      },
+      {
+        "id": 3,
+        "text": "147"
+      }
+    ],
+    "relations": [
+      {
+        "head": 2,
+        "relation": "mourningDeathsOf",
+        "tail": 3
+      },
+      {
+        "head": 1,
+        "relation": "carriedOutBy",
+        "tail": 1
+      }
+    ]
+  }
+]

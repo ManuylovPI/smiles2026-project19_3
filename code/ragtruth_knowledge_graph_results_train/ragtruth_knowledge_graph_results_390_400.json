@@ -1,0 +1,982 @@
+[
+  {
+    "document_id": 390,
+    "ragtruth_id": "516",
+    "text": "F1 championship leader, Lewis Hamilton, has taken pole position in the qualifying round for the Chinese Grand Prix, beating his Mercedes teammate and rival, Nico Rosberg, by 0.04 seconds. Rosberg, who was visibly annoyed by Hamilton's last minute victory, refused to shake Hamilton's hand. Fellow German driver, Sebastian Vettel, who recently won the Malaysian Grand Prix, will start in third place. Hamilton has always performed well at the Shanghai track and has a strong following there.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "F1 championship leader, Lewis Hamilton,"
+      },
+      {
+        "id": 1,
+        "text": "beating"
+      },
+      {
+        "id": 2,
+        "text": "the Chinese Grand Prix"
+      },
+      {
+        "id": 3,
+        "text": "Mercedes"
+      },
+      {
+        "id": 4,
+        "text": "Nico Rosberg"
+      },
+      {
+        "id": 5,
+        "text": "0.04 seconds"
+      },
+      {
+        "id": 6,
+        "text": "Rosberg"
+      },
+      {
+        "id": 7,
+        "text": "German"
+      },
+      {
+        "id": 8,
+        "text": "Sebastian Vettel"
+      },
+      {
+        "id": 9,
+        "text": "the Malaysian Grand Prix"
+      },
+      {
+        "id": 10,
+        "text": "third"
+      },
+      {
+        "id": 11,
+        "text": "Shanghai"
+      }
+    ],
+    "relations": [
+      {
+        "head": 2,
+        "relation": "polePositionWinner",
+        "tail": 0
+      },
+      {
+        "head": 0,
+        "relation": "beatBy",
+        "tail": 5
+      },
+      {
+        "head": 4,
+        "relation": "teammate",
+        "tail": 3
+      },
+      {
+        "head": 8,
+        "relation": "won",
+        "tail": 9
+      },
+      {
+        "head": 8,
+        "relation": "startPosition",
+        "tail": 10
+      },
+      {
+        "head": 0,
+        "relation": "performedWellAt",
+        "tail": 11
+      }
+    ]
+  },
+  {
+    "document_id": 391,
+    "ragtruth_id": "517",
+    "text": "Lewis Hamilton claimed pole position for the Chinese Grand Prix, narrowly beating his teammate Nico Rosberg by a margin of four hundredths of a second. The two drivers have a strained relationship since their falling out last season, and Rosberg showed his frustration by refusing to shake Hamilton's hand. However, Hamilton remains unfazed, stating that as long as he wins the race, he does not mind Rosberg having more pole positions. Ferrari driver Sebastian Vettel will start in third after his surprise victory in the previous race in Malaysia. Hamilton enjoys strong support in Shanghai and feels the track suits his driving style.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Lewis Hamilton"
+      },
+      {
+        "id": 1,
+        "text": "The two drivers"
+      },
+      {
+        "id": 2,
+        "text": "his teammate Nico Rosberg"
+      },
+      {
+        "id": 3,
+        "text": "the Chinese Grand Prix"
+      },
+      {
+        "id": 4,
+        "text": "Ferrari driver Sebastian Vettel"
+      },
+      {
+        "id": 5,
+        "text": "Shanghai"
+      },
+      {
+        "id": 6,
+        "text": "four"
+      },
+      {
+        "id": 7,
+        "text": "second"
+      },
+      {
+        "id": 8,
+        "text": "last season"
+      },
+      {
+        "id": 9,
+        "text": "third"
+      },
+      {
+        "id": 10,
+        "text": "Malaysia"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "polePositionAt",
+        "tail": 3
+      },
+      {
+        "head": 1,
+        "relation": "relationshipStatus",
+        "tail": 8
+      },
+      {
+        "head": 4,
+        "relation": "startingPosition",
+        "tail": 9
+      },
+      {
+        "head": 4,
+        "relation": "previousRaceLocation",
+        "tail": 10
+      },
+      {
+        "head": 0,
+        "relation": "supportedIn",
+        "tail": 5
+      }
+    ]
+  },
+  {
+    "document_id": 392,
+    "ragtruth_id": "518",
+    "text": "Mercedes driver Lewis Hamilton stole pole position for the Chinese Grand Prix from his teammate and rival, Nico Rosberg, with a last-minute burst of speed. Hamilton and Rosberg are known for their heated rivalry, and Hamilton's victory over Rosberg in China added another chapter to their ongoing feud. Despite being upset, Rosberg congratulated his fellow German driver, Sebastian Vettel, who will start in third. Meanwhile, Kimi Raikkonen and Vettel will share the second row, and Hamilton has expressed excitement about competing at the Shanghai circuit, where he has historically performed well.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Mercedes driver Lewis Hamilton"
+      },
+      {
+        "id": 1,
+        "text": "his teammate and rival, Nico Rosberg"
+      },
+      {
+        "id": 2,
+        "text": "Hamilton and Rosberg"
+      },
+      {
+        "id": 3,
+        "text": "their heated rivalry"
+      },
+      {
+        "id": 4,
+        "text": "his fellow German driver, Sebastian Vettel, who will start in third"
+      },
+      {
+        "id": 5,
+        "text": "the Chinese Grand Prix"
+      },
+      {
+        "id": 6,
+        "text": "last-minute"
+      },
+      {
+        "id": 7,
+        "text": "China"
+      },
+      {
+        "id": 8,
+        "text": "Kimi Raikkonen"
+      },
+      {
+        "id": 9,
+        "text": "second"
+      },
+      {
+        "id": 10,
+        "text": "Shanghai"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "teammate",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "rival",
+        "tail": 1
+      },
+      {
+        "head": 2,
+        "relation": "rivalry",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "victoryOver",
+        "tail": 1
+      },
+      {
+        "head": 4,
+        "relation": "startPosition",
+        "tail": 9
+      },
+      {
+        "head": 5,
+        "relation": "heldIn",
+        "tail": 7
+      },
+      {
+        "head": 0,
+        "relation": "competingAt",
+        "tail": 10
+      }
+    ]
+  },
+  {
+    "document_id": 393,
+    "ragtruth_id": "519",
+    "text": "Lewis Hamilton stole the pole position from his Mercedes teammate Nico Rosberg in the final moments of qualifying for the Chinese Grand Prix, with a margin of just four hundredths of a second. Despite their heated rivalry, Hamilton remained magnanimous in defeat, focusing on his ultimate goal of winning the race. Rosberg was visibly frustrated by the narrow loss, but maintained a more composed demeanor in the post-qualifying press conference. The top three drivers will be joined by Kimi Raikkonen and Sebastian Vettel on the second row, with Ferrari looking to build on their surprise win in Malaysia.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Lewis Hamilton"
+      },
+      {
+        "id": 1,
+        "text": "the Chinese Grand Prix"
+      },
+      {
+        "id": 2,
+        "text": "his Mercedes teammate Nico Rosberg"
+      },
+      {
+        "id": 3,
+        "text": "stole"
+      },
+      {
+        "id": 4,
+        "text": "Ferrari"
+      },
+      {
+        "id": 5,
+        "text": "just four hundredths"
+      },
+      {
+        "id": 6,
+        "text": "second"
+      },
+      {
+        "id": 7,
+        "text": "three"
+      },
+      {
+        "id": 8,
+        "text": "Kimi Raikkonen"
+      },
+      {
+        "id": 9,
+        "text": "Sebastian Vettel"
+      },
+      {
+        "id": 10,
+        "text": "the second row"
+      },
+      {
+        "id": 11,
+        "text": "Malaysia"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "teammate",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "margin",
+        "tail": 5
+      },
+      {
+        "head": 5,
+        "relation": "unit",
+        "tail": 6
+      },
+      {
+        "head": 0,
+        "relation": "goal",
+        "tail": 1
+      },
+      {
+        "head": 8,
+        "relation": "row",
+        "tail": 10
+      },
+      {
+        "head": 9,
+        "relation": "row",
+        "tail": 10
+      },
+      {
+        "head": 4,
+        "relation": "winIn",
+        "tail": 11
+      }
+    ]
+  },
+  {
+    "document_id": 394,
+    "ragtruth_id": "520",
+    "text": "Lewis Hamilton stole pole position from teammate Nico Rosberg in the Chinese Grand Prix qualifying, with a last-minute burst of speed. Rosberg was visibly upset and refused to shake Hamilton's hand. Hamilton will enjoy strong support in Shanghai, where he has always performed well. Ferrari's Sebastian Vettel will start in third place.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "teammate Nico Rosberg"
+      },
+      {
+        "id": 1,
+        "text": "Lewis Hamilton"
+      },
+      {
+        "id": 2,
+        "text": "the Chinese Grand Prix"
+      },
+      {
+        "id": 3,
+        "text": "last-minute"
+      },
+      {
+        "id": 4,
+        "text": "Shanghai"
+      },
+      {
+        "id": 5,
+        "text": "Ferrari"
+      },
+      {
+        "id": 6,
+        "text": "Sebastian Vettel"
+      },
+      {
+        "id": 7,
+        "text": "third"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "teammate",
+        "tail": 0
+      },
+      {
+        "head": 1,
+        "relation": "performedWellIn",
+        "tail": 4
+      },
+      {
+        "head": 6,
+        "relation": "team",
+        "tail": 5
+      },
+      {
+        "head": 6,
+        "relation": "startingPosition",
+        "tail": 7
+      }
+    ]
+  },
+  {
+    "document_id": 395,
+    "ragtruth_id": "521",
+    "text": "Lewis Hamilton stole pole position from teammate Nico Rosberg in a thrilling qualifying session for the Chinese Grand Prix. Hamilton took first place on the front row by a narrow margin of four hundredths of a second, leaving Rosberg frustrated. The two drivers have had a tense rivalry since falling out last season, and Rosberg refused to shake Hamilton's hand after the session. However, Hamilton remains confident, saying that he is focused on winning the race and has enjoyed strong support from fans in Shanghai.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Lewis Hamilton"
+      },
+      {
+        "id": 1,
+        "text": "teammate Nico Rosberg"
+      },
+      {
+        "id": 2,
+        "text": "a thrilling qualifying session for the Chinese Grand Prix"
+      },
+      {
+        "id": 3,
+        "text": "the Chinese Grand Prix"
+      },
+      {
+        "id": 4,
+        "text": "first"
+      },
+      {
+        "id": 5,
+        "text": "four"
+      },
+      {
+        "id": 6,
+        "text": "second"
+      },
+      {
+        "id": 7,
+        "text": "two"
+      },
+      {
+        "id": 8,
+        "text": "last season"
+      },
+      {
+        "id": 9,
+        "text": "Shanghai"
+      }
+    ],
+    "relations": [
+      {
+        "head": 2,
+        "relation": "partOf",
+        "tail": 3
+      },
+      {
+        "head": 2,
+        "relation": "winner",
+        "tail": 0
+      },
+      {
+        "head": 0,
+        "relation": "aheadOf",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "margin",
+        "tail": 5
+      },
+      {
+        "head": 0,
+        "relation": "marginUnit",
+        "tail": 6
+      },
+      {
+        "head": 0,
+        "relation": "supportedIn",
+        "tail": 9
+      }
+    ]
+  },
+  {
+    "document_id": 396,
+    "ragtruth_id": "522",
+    "text": "A Cambodian TV show has reunited members of 54 families shattered by the Khmer Rouge genocide. The show, “It’s Not a Dream,” has been on the air for five years and has received more than 1,500 requests for help. The Khmer Rouge regime resulted in the deaths of at least 1.7 million Cambodians, about a quarter of the country's population, over a four year period. The Khmer Rouge Tribunal, founded in 2006, has been investigating the crimes against humanity and bringing leading regime figures to justice. However, the tribunal has faced criticism for being too slow to prosecute and for being subject to political interference from the Cambodian government. The regime's crimes were seldom spoken about for many years due to fear and a lack of understanding of the atrocities that had occurred. Even today, young Cambodians are not taught about the genocide in high school. The space for discussing, redressing and healing from the genocide only began to open up in the past decade.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "A Cambodian TV show"
+      },
+      {
+        "id": 1,
+        "text": "The Khmer Rouge Tribunal, founded in 2006"
+      },
+      {
+        "id": 2,
+        "text": "the country's"
+      },
+      {
+        "id": 3,
+        "text": "The Khmer Rouge regime"
+      },
+      {
+        "id": 4,
+        "text": "the crimes against humanity"
+      },
+      {
+        "id": 5,
+        "text": "the Khmer Rouge genocide"
+      },
+      {
+        "id": 6,
+        "text": "54"
+      },
+      {
+        "id": 7,
+        "text": "five years"
+      },
+      {
+        "id": 8,
+        "text": "more than 1,500"
+      },
+      {
+        "id": 9,
+        "text": "at least 1.7 million"
+      },
+      {
+        "id": 10,
+        "text": "Cambodians"
+      },
+      {
+        "id": 11,
+        "text": "about a quarter"
+      },
+      {
+        "id": 12,
+        "text": "four year"
+      },
+      {
+        "id": 13,
+        "text": "many years"
+      },
+      {
+        "id": 14,
+        "text": "today"
+      },
+      {
+        "id": 15,
+        "text": "Cambodians"
+      },
+      {
+        "id": 16,
+        "text": "the past decade"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "reunitedMembersOf",
+        "tail": 6
+      },
+      {
+        "head": 0,
+        "relation": "relatedTo",
+        "tail": 5
+      },
+      {
+        "head": 0,
+        "relation": "duration",
+        "tail": 7
+      },
+      {
+        "head": 0,
+        "relation": "receivedRequests",
+        "tail": 8
+      },
+      {
+        "head": 3,
+        "relation": "causedDeaths",
+        "tail": 9
+      },
+      {
+        "head": 3,
+        "relation": "causedDeaths",
+        "tail": 10
+      },
+      {
+        "head": 3,
+        "relation": "deathShare",
+        "tail": 11
+      },
+      {
+        "head": 3,
+        "relation": "deathPeriod",
+        "tail": 12
+      },
+      {
+        "head": 1,
+        "relation": "investigates",
+        "tail": 4
+      },
+      {
+        "head": 1,
+        "relation": "criticizedFor",
+        "tail": 2
+      },
+      {
+        "head": 4,
+        "relation": "belongTo",
+        "tail": 3
+      },
+      {
+        "head": 4,
+        "relation": "spokenAboutFor",
+        "tail": 13
+      },
+      {
+        "head": 5,
+        "relation": "notTaughtTo",
+        "tail": 15
+      },
+      {
+        "head": 5,
+        "relation": "beganToOpenUpIn",
+        "tail": 16
+      }
+    ]
+  },
+  {
+    "document_id": 397,
+    "ragtruth_id": "523",
+    "text": "The news article discusses the ongoing struggle for justice and healing in Cambodia, 40 years after the Khmer Rouge regime's genocide. The Khmer Rouge, led by Pol Pot, took control of Cambodia in 1975 and implemented a radical social engineering program that resulted in the deaths of at least 1.7 million Cambodians. The regime aimed to create an agrarian utopia by exterminating educated classes and forcing the population into labor camps.\n\nFor decades, discussing and seeking redress for the Khmer Rouge's crimes was taboo in Cambodia, partly due to fear and lack of vocabulary to process the magnitude of the crimes. However, in recent years, there has been a slow opening up of discussions and efforts to heal and seek justice. The establishment of the Khmer Rouge Tribunal in 2006 was a significant step in this process, although its progress has been slow and marred by accusations of political interference.\n\nThe article highlights the story of Ly Sivhong, a survivor who was separated from her family during the genocide. She appeared on a television show called \"It's Not A Dream,\" which aims to reunite families torn apart by the genocide. This show has helped reunite 54 Cambodian families, providing some healing and closure.\n\nDespite the slow progress of the tribunal and the challenges faced, there have been positive changes in Cambodian society. People are now more willing to talk about the genocide, and even former Khmer Rouge members have published memoirs sharing their perspectives. These developments, while bittersweet for survivors, offer some hope for healing and justice.\n\nThe article concludes with an emotional reunion between Ly, her long-lost sister, and their mother, who they had believed to be dead. It highlights the pain and suffering experienced by survivors but also the possibility of finding solace and closure through the process of reckoning with Cambodia's tragic history.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Cambodia"
+      },
+      {
+        "id": 1,
+        "text": "the Khmer Rouge regime's"
+      },
+      {
+        "id": 2,
+        "text": "the Khmer Rouge's crimes"
+      },
+      {
+        "id": 3,
+        "text": "a slow opening up of discussions and efforts to heal and seek justice"
+      },
+      {
+        "id": 4,
+        "text": "the Khmer Rouge Tribunal"
+      },
+      {
+        "id": 5,
+        "text": "The news article"
+      },
+      {
+        "id": 6,
+        "text": "Ly Sivhong, a survivor who was separated from her family during the genocide"
+      },
+      {
+        "id": 7,
+        "text": "the Khmer Rouge regime's genocide"
+      },
+      {
+        "id": 8,
+        "text": "a television show called \"It's Not A Dream,\" which aims to reunite families torn apart by the genocide"
+      },
+      {
+        "id": 9,
+        "text": "even former Khmer Rouge members"
+      },
+      {
+        "id": 10,
+        "text": "Ly, her long-lost sister, and their mother, who they had believed to be dead"
+      },
+      {
+        "id": 11,
+        "text": "40 years"
+      },
+      {
+        "id": 12,
+        "text": "The Khmer Rouge"
+      },
+      {
+        "id": 13,
+        "text": "Pol Pot"
+      },
+      {
+        "id": 14,
+        "text": "1975"
+      },
+      {
+        "id": 15,
+        "text": "at least 1.7 million"
+      },
+      {
+        "id": 16,
+        "text": "Cambodians"
+      },
+      {
+        "id": 17,
+        "text": "decades"
+      },
+      {
+        "id": 18,
+        "text": "recent years"
+      },
+      {
+        "id": 19,
+        "text": "2006"
+      },
+      {
+        "id": 20,
+        "text": "54"
+      },
+      {
+        "id": 21,
+        "text": "Cambodian"
+      },
+      {
+        "id": 22,
+        "text": "Cambodian"
+      }
+    ],
+    "relations": [
+      {
+        "head": 12,
+        "relation": "leader",
+        "tail": 13
+      },
+      {
+        "head": 12,
+        "relation": "tookControlOf",
+        "tail": 0
+      },
+      {
+        "head": 12,
+        "relation": "tookControlIn",
+        "tail": 14
+      },
+      {
+        "head": 12,
+        "relation": "causedDeathsOf",
+        "tail": 15
+      },
+      {
+        "head": 15,
+        "relation": "of",
+        "tail": 16
+      },
+      {
+        "head": 4,
+        "relation": "establishedIn",
+        "tail": 19
+      },
+      {
+        "head": 8,
+        "relation": "aimsToReunite",
+        "tail": 10
+      },
+      {
+        "head": 8,
+        "relation": "helpedReunite",
+        "tail": 20
+      },
+      {
+        "head": 20,
+        "relation": "of",
+        "tail": 21
+      }
+    ]
+  },
+  {
+    "document_id": 398,
+    "ragtruth_id": "524",
+    "text": "On April 17th, 1975, the city of Phnom Penh fell to the Khmer Rouge regime, shattering the lives of millions of people. Over 20,000 people died during the forced evacuation and another 1.7 million perished during the regime's four-year reign of terror. The Cambodian genocide left the country with a traumatic legacy that continues to affect its people today. Despite the passage of time, many families still search for missing loved ones and try to make sense of the horrors they endured. The Khmer Rouge's policies of social engineering and the destruction of institutions led to a breakdown in the country's social fabric and left many communities divided. The legacy of the genocide is felt throughout Cambodia, and the country continues to grapple with the trauma and consequences of this dark chapter in its history.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "the Khmer Rouge regime"
+      },
+      {
+        "id": 1,
+        "text": "the country"
+      },
+      {
+        "id": 2,
+        "text": "missing loved ones"
+      },
+      {
+        "id": 3,
+        "text": "a traumatic legacy that continues to affect its people today"
+      },
+      {
+        "id": 4,
+        "text": "The Cambodian genocide"
+      },
+      {
+        "id": 5,
+        "text": "April 17th, 1975"
+      },
+      {
+        "id": 6,
+        "text": "Phnom Penh"
+      },
+      {
+        "id": 7,
+        "text": "millions"
+      },
+      {
+        "id": 8,
+        "text": "Over 20,000"
+      },
+      {
+        "id": 9,
+        "text": "another 1.7 million"
+      },
+      {
+        "id": 10,
+        "text": "four-year"
+      }
+    ],
+    "relations": [
+      {
+        "head": 6,
+        "relation": "fellTo",
+        "tail": 0
+      },
+      {
+        "head": 0,
+        "relation": "date",
+        "tail": 5
+      },
+      {
+        "head": 0,
+        "relation": "reignDuration",
+        "tail": 10
+      },
+      {
+        "head": 4,
+        "relation": "leftLegacy",
+        "tail": 3
+      },
+      {
+        "head": 4,
+        "relation": "affectedCountry",
+        "tail": 1
+      }
+    ]
+  },
+  {
+    "document_id": 399,
+    "ragtruth_id": "525",
+    "text": "On April 17, 1975, Ly Sivhong's life changed forever when the Khmer Rouge regime took control of Phnom Penh, separating her from her mother and two sisters. Over the next four years, an estimated 1.7 million Cambodians died due to the regime's genocidal policies, including forced labor, starvation, and executions. Ly's father was killed in front of her eyes in 1979, and she was left alone to search for her missing sister. After 30 years, Ly finally found her sister Bo on a television show called \"It's Not A Dream,\" which has helped reunite 54 Cambodian families affected by the genocide. The show has sparked a larger conversation about the need for justice and healing in Cambodia, where the trauma of the Khmer Rouge regime continues to affect society. While progress has been slow at the Extraordinary Chambers in the Courts of Cambodia, a hybrid tribunal established to investigate Khmer Rouge crimes, some victims and experts remain optimistic that justice will be served. However, the legacy of the genocide remains a challenge for Cambodia's young people, who are more focused on economic development than historical accountability.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Ly Sivhong's"
+      },
+      {
+        "id": 1,
+        "text": "the Khmer Rouge regime"
+      },
+      {
+        "id": 2,
+        "text": "a television show called \"It's Not A Dream,\" which has helped reunite 54 Cambodian families affected by the genocide"
+      },
+      {
+        "id": 3,
+        "text": "the genocide"
+      },
+      {
+        "id": 4,
+        "text": "Cambodia, where the trauma of the Khmer Rouge regime continues to affect society"
+      },
+      {
+        "id": 5,
+        "text": "April 17, 1975"
+      },
+      {
+        "id": 6,
+        "text": "Phnom Penh"
+      },
+      {
+        "id": 7,
+        "text": "two"
+      },
+      {
+        "id": 8,
+        "text": "the next four years"
+      },
+      {
+        "id": 9,
+        "text": "an estimated 1.7 million"
+      },
+      {
+        "id": 10,
+        "text": "Cambodians"
+      },
+      {
+        "id": 11,
+        "text": "1979"
+      },
+      {
+        "id": 12,
+        "text": "30 years"
+      },
+      {
+        "id": 13,
+        "text": "the Extraordinary Chambers"
+      },
+      {
+        "id": 14,
+        "text": "the Courts of Cambodia"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "tookControlOf",
+        "tail": 6
+      },
+      {
+        "head": 0,
+        "relation": "separatedFromMother",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "separatedFromSisters",
+        "tail": 7
+      },
+      {
+        "head": 10,
+        "relation": "diedDueTo",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "fatherKilledIn",
+        "tail": 11
+      },
+      {
+        "head": 0,
+        "relation": "foundSisterOn",
+        "tail": 2
+      },
+      {
+        "head": 2,
+        "relation": "helpedReunite",
+        "tail": 10
+      },
+      {
+        "head": 2,
+        "relation": "affectedBy",
+        "tail": 3
+      },
+      {
+        "head": 4,
+        "relation": "traumaOf",
+        "tail": 1
+      },
+      {
+        "head": 13,
+        "relation": "locatedIn",
+        "tail": 14
+      },
+      {
+        "head": 13,
+        "relation": "establishedToInvestigate",
+        "tail": 1
+      }
+    ]
+  }
+]

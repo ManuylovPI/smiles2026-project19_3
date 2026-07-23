@@ -1,0 +1,881 @@
+[
+  {
+    "document_id": 310,
+    "ragtruth_id": "406",
+    "text": "In Florida and Arizona, lawmakers are encroaching on the patient-doctor relationship by passing laws that restrict doctors' ability to ask about sensitive topics such as gun ownership and abortion. These laws, which were passed under the guise of \"free speech,\" threaten the integrity of medical practice and could endanger patients' lives. Doctors are speaking out against these laws, but the state medical associations have been largely silent, leaving it to specialty groups such as the American Academy of Pediatrics and the American College of Obstetricians and Gynecologists to carry the fight. The American Medical Association (AMA) has so far failed to take a strong stance against these laws, despite the potential harm they pose to the medical profession and patient care. The issue is not just about free speech, but also about the ability of doctors to provide safe and effective care. The Surgeon General, Dr. Vivek Murthy, should prioritize this issue and protect the patient-doctor relationship.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "laws that restrict doctors' ability to ask about sensitive topics such as gun ownership and abortion"
+      },
+      {
+        "id": 1,
+        "text": "The issue"
+      },
+      {
+        "id": 2,
+        "text": "the patient-doctor relationship"
+      },
+      {
+        "id": 3,
+        "text": "Florida"
+      },
+      {
+        "id": 4,
+        "text": "Arizona"
+      },
+      {
+        "id": 5,
+        "text": "the American Academy of Pediatrics"
+      },
+      {
+        "id": 6,
+        "text": "the American College of Obstetricians"
+      },
+      {
+        "id": 7,
+        "text": "The American Medical Association"
+      },
+      {
+        "id": 8,
+        "text": "AMA"
+      },
+      {
+        "id": 9,
+        "text": "The Surgeon General"
+      },
+      {
+        "id": 10,
+        "text": "Vivek Murthy"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "encroachesOn",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "passedIn",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "passedIn",
+        "tail": 4
+      },
+      {
+        "head": 7,
+        "relation": "abbreviation",
+        "tail": 8
+      },
+      {
+        "head": 9,
+        "relation": "personName",
+        "tail": 10
+      }
+    ]
+  },
+  {
+    "document_id": 311,
+    "ragtruth_id": "407",
+    "text": "There are two ways to become a doctor in the US: the traditional way by passing national exams and training as a resident physician, or by getting elected to a state legislature. In Florida and Arizona, lawmakers are trying to control medical practice by passing laws that restrict what doctors can say to their patients. In Florida, a law called the Firearm Owners' Privacy Act prohibits doctors from asking patients about gun ownership and safety, even though it's a proven health risk. In Arizona, a new law requires doctors to tell patients that the abortion pill RU-486 is reversible, which is not supported by scientific evidence. Doctors are pushing back against these laws, saying they interfere with the patient-doctor relationship and violate their free speech. The American Medical Association (AMA) has not taken a strong stance on these laws, but the Massachusetts Medical Society has dedicated \"Doctor's Day\" to raising awareness about the issue of physician free speech. The author hopes that the Surgeon General, Vivek Murthy, will focus on protecting the patient-doctor relationship and ensuring that doctors can communicate freely with their patients.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "doctors"
+      },
+      {
+        "id": 1,
+        "text": "Florida"
+      },
+      {
+        "id": 2,
+        "text": "gun ownership and safety"
+      },
+      {
+        "id": 3,
+        "text": "Arizona"
+      },
+      {
+        "id": 4,
+        "text": "these laws"
+      },
+      {
+        "id": 5,
+        "text": "Doctors"
+      },
+      {
+        "id": 6,
+        "text": "doctors"
+      },
+      {
+        "id": 7,
+        "text": "two"
+      },
+      {
+        "id": 8,
+        "text": "US"
+      },
+      {
+        "id": 9,
+        "text": "the Firearm Owners' Privacy Act"
+      },
+      {
+        "id": 10,
+        "text": "The American Medical Association"
+      },
+      {
+        "id": 11,
+        "text": "AMA"
+      },
+      {
+        "id": 12,
+        "text": "the Massachusetts Medical Society"
+      },
+      {
+        "id": 13,
+        "text": "the Surgeon General"
+      },
+      {
+        "id": 14,
+        "text": "Vivek Murthy"
+      }
+    ],
+    "relations": [
+      {
+        "head": 9,
+        "relation": "prohibits",
+        "tail": 2
+      },
+      {
+        "head": 4,
+        "relation": "appliesIn",
+        "tail": 1
+      },
+      {
+        "head": 4,
+        "relation": "appliesIn",
+        "tail": 3
+      },
+      {
+        "head": 12,
+        "relation": "dedicatedTo",
+        "tail": 4
+      },
+      {
+        "head": 13,
+        "relation": "sameAs",
+        "tail": 14
+      }
+    ]
+  },
+  {
+    "document_id": 312,
+    "ragtruth_id": "414",
+    "text": "A car bomb exploded at a restaurant near the presidential palace in Mogadishu, Somalia, killing at least 10 people, including a woman and a boy. Islamist militant group Al-Shabaab, which has been battling the Somali government for years in a bid to establish a fundamentalist Islamic state, claimed responsibility for the attack. The group's spokesman said the attack targeted Somali intelligence agents. However, a police spokesman contradicted this, saying that no government officials or soldiers had been killed.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Somalia"
+      },
+      {
+        "id": 1,
+        "text": "exploded"
+      },
+      {
+        "id": 2,
+        "text": "Islamist militant group Al-Shabaab, which has been battling the Somali government for years in a bid to establish a fundamentalist Islamic state"
+      },
+      {
+        "id": 3,
+        "text": "said"
+      },
+      {
+        "id": 4,
+        "text": "Mogadishu"
+      },
+      {
+        "id": 5,
+        "text": "at least 10"
+      },
+      {
+        "id": 6,
+        "text": "Somali"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "location",
+        "tail": 4
+      },
+      {
+        "head": 1,
+        "relation": "location",
+        "tail": 0
+      },
+      {
+        "head": 2,
+        "relation": "claimedResponsibilityFor",
+        "tail": 1
+      },
+      {
+        "head": 1,
+        "relation": "targeted",
+        "tail": 6
+      }
+    ]
+  },
+  {
+    "document_id": 313,
+    "ragtruth_id": "415",
+    "text": "A car bomb exploded near the presidential palace in Mogadishu, Somalia, killing at least 10 people, including a woman and a boy. Islamist militant group Al-Shabaab claimed responsibility for the attack, targeting Somali intelligence agents. The restaurant where the explosion occurred is located near the Central Hotel, which was previously targeted by Al-Shabaab in February. The blast caused extensive damage to nearby buildings and vehicles. This is the third high-profile attack in the area since February, with previous attacks targeting hotels in Mogadishu.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "exploded"
+      },
+      {
+        "id": 1,
+        "text": "Islamist militant group Al-Shabaab"
+      },
+      {
+        "id": 2,
+        "text": "February"
+      },
+      {
+        "id": 3,
+        "text": "Mogadishu, Somalia"
+      },
+      {
+        "id": 4,
+        "text": "at least 10"
+      },
+      {
+        "id": 5,
+        "text": "Somali"
+      },
+      {
+        "id": 6,
+        "text": "the Central Hotel"
+      },
+      {
+        "id": 7,
+        "text": "third"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "location",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "responsibleParty",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "target",
+        "tail": 5
+      },
+      {
+        "head": 6,
+        "relation": "targetedBy",
+        "tail": 1
+      },
+      {
+        "head": 6,
+        "relation": "location",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "time",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "count",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "ordinal",
+        "tail": 7
+      }
+    ]
+  },
+  {
+    "document_id": 314,
+    "ragtruth_id": "416",
+    "text": "A car bomb exploded near the presidential palace in Mogadishu, Somalia, killing at least 10 people, including a woman and a boy. The Islamist militant group Al-Shabaab claimed responsibility for the attack. The group said it targeted and killed several Somali intelligence agents. The area is not a new target for Al-Shabaab, which has been fighting against the Somali government for years with the goal of establishing an Islamic state. This is the third high-profile attack near or at a Mogadishu hotel since February.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "exploded"
+      },
+      {
+        "id": 1,
+        "text": "The Islamist militant group Al-Shabaab"
+      },
+      {
+        "id": 2,
+        "text": "Somalia"
+      },
+      {
+        "id": 3,
+        "text": "Mogadishu, Somalia"
+      },
+      {
+        "id": 4,
+        "text": "at least 10"
+      },
+      {
+        "id": 5,
+        "text": "Somali"
+      },
+      {
+        "id": 6,
+        "text": "third"
+      },
+      {
+        "id": 7,
+        "text": "February"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "location",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "claimedBy",
+        "tail": 1
+      },
+      {
+        "head": 1,
+        "relation": "fightingAgainst",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "deathToll",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "ordinal",
+        "tail": 6
+      },
+      {
+        "head": 0,
+        "relation": "since",
+        "tail": 7
+      }
+    ]
+  },
+  {
+    "document_id": 315,
+    "ragtruth_id": "417",
+    "text": "At least 10 people, including a woman and a child, were killed in a car bomb explosion near Somalia's presidential palace in Mogadishu. The Islamist militant group Al-Shabaab claimed responsibility for the attack, which targeted Somali intelligence agents. The blast also damaged nearby buildings and vehicles, and injured many others. This is the third high-profile attack near a Mogadishu hotel since February, highlighting the ongoing violence and instability in the country.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "a car bomb explosion near Somalia's presidential palace in Mogadishu"
+      },
+      {
+        "id": 1,
+        "text": "Mogadishu"
+      },
+      {
+        "id": 2,
+        "text": "Somalia's"
+      },
+      {
+        "id": 3,
+        "text": "At least 10"
+      },
+      {
+        "id": 4,
+        "text": "Islamist"
+      },
+      {
+        "id": 5,
+        "text": "Al-Shabaab"
+      },
+      {
+        "id": 6,
+        "text": "third"
+      },
+      {
+        "id": 7,
+        "text": "February"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "location",
+        "tail": 1
+      },
+      {
+        "head": 5,
+        "relation": "claimedResponsibilityFor",
+        "tail": 0
+      },
+      {
+        "head": 0,
+        "relation": "targeted",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "numberOfDeaths",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "ordinal",
+        "tail": 6
+      },
+      {
+        "head": 0,
+        "relation": "since",
+        "tail": 7
+      }
+    ]
+  },
+  {
+    "document_id": 316,
+    "ragtruth_id": "418",
+    "text": "A car bomb exploded in Mogadishu, Somalia, killing at least 10 people, including a boy, and injuring many more. Al-Shabaab claimed responsibility for the attack, which targeted government officials but instead killed civilians, including a shoe shiner. This is the third high-profile attack near a Mogadishu hotel since February, with the militant group claiming responsibility for each one.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "exploded"
+      },
+      {
+        "id": 1,
+        "text": "Mogadishu, Somalia"
+      },
+      {
+        "id": 2,
+        "text": "Al-Shabaab"
+      },
+      {
+        "id": 3,
+        "text": "at least 10"
+      },
+      {
+        "id": 4,
+        "text": "third"
+      },
+      {
+        "id": 5,
+        "text": "February"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "location",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "claimedResponsibilityBy",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "deathToll",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "ordinal",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "time",
+        "tail": 5
+      }
+    ]
+  },
+  {
+    "document_id": 317,
+    "ragtruth_id": "419",
+    "text": "A car bomb exploded at a restaurant near the presidential palace in Mogadishu, Somalia, killing at least 10 people, including a woman and a boy. Al-Shabaab, an Islamist militant group, claimed responsibility for the attack. The blast damaged nearby buildings and vehicles, and ambulances took wounded people to a nearby hospital. This is the third high-profile attack near a Mogadishu hotel since February, with Al-Shabaab claiming responsibility for all three attacks.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "exploded"
+      },
+      {
+        "id": 1,
+        "text": "Mogadishu, Somalia"
+      },
+      {
+        "id": 2,
+        "text": "Al-Shabaab, an Islamist militant group,"
+      },
+      {
+        "id": 3,
+        "text": "at least 10"
+      },
+      {
+        "id": 4,
+        "text": "third"
+      },
+      {
+        "id": 5,
+        "text": "February"
+      },
+      {
+        "id": 6,
+        "text": "three"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "location",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "responsibleParty",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "count",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "ordinal",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "time",
+        "tail": 5
+      },
+      {
+        "head": 0,
+        "relation": "count",
+        "tail": 6
+      }
+    ]
+  },
+  {
+    "document_id": 318,
+    "ragtruth_id": "420",
+    "text": "The Italian government announced the end of \"Mare Nostrum\" on 31 October 2014. Mare Nostrum was a naval mission that rescued migrants attempting to cross the Mediterranean to seek security and a new life in Europe. In the operation's year-long existence, the Italian Navy and Coastguard rescued an estimated 100,000 people. The operation was expensive and politically contentious, and without European support, the Italian government cut back the naval assets dedicated to rescuing migrants. Mare Nostrum was replaced by the more modest \"Operation Triton,\" under the auspices of the European Union's border agency, Frontex. Triton has about one-third of the funding of Mare Nostrum, with just six ships and patrol boats, two planes and one helicopter. It was designed as a policing rather than a humanitarian mission. At its inception, Klaus Rosler, operations director for Frontex, said \"Triton is not a replacement for Mare Nostrum.\" Six months later, the argument about how to handle unprecedented numbers of desperate people heading for Europe continues unabated.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "\"Mare Nostrum\""
+      },
+      {
+        "id": 1,
+        "text": "The Italian government"
+      },
+      {
+        "id": 2,
+        "text": "the more modest \"Operation Triton"
+      },
+      {
+        "id": 3,
+        "text": "the European Union's border agency, Frontex"
+      },
+      {
+        "id": 4,
+        "text": "Europe"
+      },
+      {
+        "id": 5,
+        "text": "31 October 2014"
+      },
+      {
+        "id": 6,
+        "text": "Mediterranean"
+      },
+      {
+        "id": 7,
+        "text": "year-long"
+      },
+      {
+        "id": 8,
+        "text": "the Italian Navy"
+      },
+      {
+        "id": 9,
+        "text": "Coastguard"
+      },
+      {
+        "id": 10,
+        "text": "an estimated 100,000"
+      },
+      {
+        "id": 11,
+        "text": "European"
+      },
+      {
+        "id": 12,
+        "text": "about one-third"
+      },
+      {
+        "id": 13,
+        "text": "six"
+      },
+      {
+        "id": 14,
+        "text": "two"
+      },
+      {
+        "id": 15,
+        "text": "one"
+      },
+      {
+        "id": 16,
+        "text": "Klaus Rosler"
+      },
+      {
+        "id": 17,
+        "text": "Six months later"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "endDate",
+        "tail": 5
+      },
+      {
+        "head": 0,
+        "relation": "location",
+        "tail": 6
+      },
+      {
+        "head": 0,
+        "relation": "location",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "duration",
+        "tail": 7
+      },
+      {
+        "head": 0,
+        "relation": "rescuedBy",
+        "tail": 8
+      },
+      {
+        "head": 0,
+        "relation": "rescuedBy",
+        "tail": 9
+      },
+      {
+        "head": 0,
+        "relation": "rescuedNumber",
+        "tail": 10
+      },
+      {
+        "head": 0,
+        "relation": "replacedBy",
+        "tail": 2
+      },
+      {
+        "head": 2,
+        "relation": "partOf",
+        "tail": 3
+      },
+      {
+        "head": 2,
+        "relation": "funding",
+        "tail": 12
+      },
+      {
+        "head": 2,
+        "relation": "ships",
+        "tail": 13
+      },
+      {
+        "head": 2,
+        "relation": "planes",
+        "tail": 14
+      },
+      {
+        "head": 2,
+        "relation": "helicopters",
+        "tail": 15
+      },
+      {
+        "head": 2,
+        "relation": "describedAs",
+        "tail": 11
+      },
+      {
+        "head": 16,
+        "relation": "position",
+        "tail": 3
+      }
+    ]
+  },
+  {
+    "document_id": 319,
+    "ragtruth_id": "421",
+    "text": "The Italian government announced the end of the naval mission \"Mare Nostrum\" on October 31, 2014. The operation had rescued an estimated 100,000 migrants trying to cross the Mediterranean to seek security and a new life in Europe. However, the mission proved expensive and politically contentious, and Europe was not willing to help Italy shoulder the burden. As a result, the Italian government reduced the naval assets dedicated to rescuing migrants and replaced Mare Nostrum with the more modest \"Operation Triton\" under the European Union's border agency, Frontex. Triton had significantly less funding and was more focused on policing than humanitarian efforts.\n\nThe argument about how to handle the increasing number of migrants heading for Europe continues. Some countries, like Britain, argue that search and rescue operations in international waters encourage more migrants to attempt the dangerous journey, leading to more deaths. Others, like Italy, bear the brunt of the task of rescuing and providing assistance to migrants. In 2014, 170,000 migrants arrived in Italy by sea, and the influx continues.\n\nItalian Prime Minister Matteo Renzi has called for international help and has also led calls for an international peacekeeping mission to restore stability in Libya, a major departure point for migrants. However, the European Union has been slow to take bold action, with the current budget of Frontex deemed insufficient to protect Europe's borders.\n\nThe debate within the EU is likely to focus on priorities, with some countries advocating for cracking down on people smugglers and others seeking more concerted action in handling and funding the influx. While the discussions continue, migrants continue to risk their lives on overcrowded and unseaworthy boats, oblivious to the political debates surrounding their plight.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "the naval mission \"Mare Nostrum\""
+      },
+      {
+        "id": 1,
+        "text": "Europe"
+      },
+      {
+        "id": 2,
+        "text": "The Italian government"
+      },
+      {
+        "id": 3,
+        "text": "the more modest \"Operation Triton\""
+      },
+      {
+        "id": 4,
+        "text": "2014"
+      },
+      {
+        "id": 5,
+        "text": "the European Union's"
+      },
+      {
+        "id": 6,
+        "text": "the European Union's border agency, Frontex"
+      },
+      {
+        "id": 7,
+        "text": "the influx"
+      },
+      {
+        "id": 8,
+        "text": "migrants"
+      },
+      {
+        "id": 9,
+        "text": "October 31, 2014"
+      },
+      {
+        "id": 10,
+        "text": "an estimated 100,000"
+      },
+      {
+        "id": 11,
+        "text": "Mediterranean"
+      },
+      {
+        "id": 12,
+        "text": "Britain"
+      },
+      {
+        "id": 13,
+        "text": "170,000"
+      },
+      {
+        "id": 14,
+        "text": "Italian"
+      },
+      {
+        "id": 15,
+        "text": "Matteo Renzi"
+      },
+      {
+        "id": 16,
+        "text": "Libya"
+      },
+      {
+        "id": 17,
+        "text": "unseaworthy boats"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "endedOn",
+        "tail": 9
+      },
+      {
+        "head": 0,
+        "relation": "rescued",
+        "tail": 10
+      },
+      {
+        "head": 0,
+        "relation": "crossingArea",
+        "tail": 11
+      },
+      {
+        "head": 0,
+        "relation": "destination",
+        "tail": 1
+      },
+      {
+        "head": 2,
+        "relation": "replaced",
+        "tail": 0
+      },
+      {
+        "head": 3,
+        "relation": "underAgency",
+        "tail": 6
+      },
+      {
+        "head": 3,
+        "relation": "partOf",
+        "tail": 5
+      },
+      {
+        "head": 3,
+        "relation": "successorOf",
+        "tail": 0
+      },
+      {
+        "head": 2,
+        "relation": "arrivedIn",
+        "tail": 13
+      },
+      {
+        "head": 15,
+        "relation": "callsFor",
+        "tail": 7
+      },
+      {
+        "head": 15,
+        "relation": "callsFor",
+        "tail": 16
+      },
+      {
+        "head": 6,
+        "relation": "budget",
+        "tail": 13
+      },
+      {
+        "head": 8,
+        "relation": "uses",
+        "tail": 17
+      }
+    ]
+  }
+]

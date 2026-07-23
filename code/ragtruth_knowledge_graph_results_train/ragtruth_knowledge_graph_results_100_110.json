@@ -1,0 +1,767 @@
+[
+  {
+    "document_id": 100,
+    "ragtruth_id": "130",
+    "text": "On April 8th, \"Lost\" fans celebrated a significant date, but it was also \"Rex Manning Day\" honoring the film Empire Records. Other notable dates from movies include April 14th (Titanic), April 25th (Miss Congeniality), October 3rd (Mean Girls), and October 21st (Back to the Future Part II).",
+    "entities": [
+      {
+        "id": 0,
+        "text": "a significant date"
+      },
+      {
+        "id": 1,
+        "text": "April 8th"
+      },
+      {
+        "id": 2,
+        "text": "Rex Manning Day"
+      },
+      {
+        "id": 3,
+        "text": "Empire Records"
+      },
+      {
+        "id": 4,
+        "text": "April 14th"
+      },
+      {
+        "id": 5,
+        "text": "April 25th"
+      },
+      {
+        "id": 6,
+        "text": "October 3rd"
+      },
+      {
+        "id": 7,
+        "text": "October 21st"
+      },
+      {
+        "id": 8,
+        "text": "the Future Part II"
+      }
+    ],
+    "relations": [
+      {
+        "head": 2,
+        "relation": "honors",
+        "tail": 3
+      }
+    ]
+  },
+  {
+    "document_id": 101,
+    "ragtruth_id": "131",
+    "text": "Here are some dates made famous by movies: April 8 is \"Rex Manning Day\" from the movie Empire Records and also the date of the Titanic's doomed voyage in 1912. April 14 is the date of Jack's sketch of Rose in Titanic. April 25 is the \"perfect date\" from Miss Congeniality. October 3 is \"Mean Girls Day\" because of a line from the movie. October 21, 2015, is the future date Marty McFly visits in Back to the Future Part II.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "the Titanic's"
+      },
+      {
+        "id": 1,
+        "text": "Mean Girls"
+      },
+      {
+        "id": 2,
+        "text": "April 8"
+      },
+      {
+        "id": 3,
+        "text": "Rex Manning Day"
+      },
+      {
+        "id": 4,
+        "text": "Empire Records"
+      },
+      {
+        "id": 5,
+        "text": "1912"
+      },
+      {
+        "id": 6,
+        "text": "April 14"
+      },
+      {
+        "id": 7,
+        "text": "Jack"
+      },
+      {
+        "id": 8,
+        "text": "April 25"
+      },
+      {
+        "id": 9,
+        "text": "October 3"
+      },
+      {
+        "id": 10,
+        "text": "Mean Girls Day"
+      },
+      {
+        "id": 11,
+        "text": "October 21, 2015"
+      },
+      {
+        "id": 12,
+        "text": "Marty McFly"
+      },
+      {
+        "id": 13,
+        "text": "the Future Part II"
+      }
+    ],
+    "relations": [
+      {
+        "head": 2,
+        "relation": "isDateOf",
+        "tail": 3
+      },
+      {
+        "head": 4,
+        "relation": "hasDate",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "hasDate",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "hasDate",
+        "tail": 6
+      },
+      {
+        "head": 7,
+        "relation": "depictedOnDate",
+        "tail": 6
+      },
+      {
+        "head": 1,
+        "relation": "isDateOf",
+        "tail": 10
+      },
+      {
+        "head": 9,
+        "relation": "isDateOf",
+        "tail": 10
+      },
+      {
+        "head": 12,
+        "relation": "visitsDate",
+        "tail": 11
+      },
+      {
+        "head": 13,
+        "relation": "hasFutureDate",
+        "tail": 11
+      }
+    ]
+  },
+  {
+    "document_id": 102,
+    "ragtruth_id": "132",
+    "text": "The original manuscript for Don McLean's \"American Pie\" has sold at auction for $1.2m, achieving the third highest auction price for an American literary manuscript. The 16-page draft includes 237 lines of manuscript and 26 lines of typed text, some of which didn't make it to the final song and extensive notes. McLean, who turns 70 this year, said that it was time to part with the manuscript to benefit his wife and two children as none of them have the \"mercantile instinct\".",
+    "entities": [
+      {
+        "id": 0,
+        "text": "The original manuscript for Don McLean's \"American Pie\""
+      },
+      {
+        "id": 1,
+        "text": "Don McLean's"
+      },
+      {
+        "id": 2,
+        "text": "his wife and two children"
+      },
+      {
+        "id": 3,
+        "text": "1.2"
+      },
+      {
+        "id": 4,
+        "text": "third"
+      },
+      {
+        "id": 5,
+        "text": "American"
+      },
+      {
+        "id": 6,
+        "text": "237"
+      },
+      {
+        "id": 7,
+        "text": "26"
+      },
+      {
+        "id": 8,
+        "text": "McLean"
+      },
+      {
+        "id": 9,
+        "text": "70 this year"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "auctionPrice",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "auctionRank",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "nationality",
+        "tail": 5
+      },
+      {
+        "head": 0,
+        "relation": "manuscriptLines",
+        "tail": 6
+      },
+      {
+        "head": 0,
+        "relation": "typedTextLines",
+        "tail": 7
+      },
+      {
+        "head": 8,
+        "relation": "age",
+        "tail": 9
+      }
+    ]
+  },
+  {
+    "document_id": 103,
+    "ragtruth_id": "133",
+    "text": "The lyrics to Don McLean's iconic song \"American Pie\" were sold for $1.2 million at an auction held by Christie's. The manuscript achieved the third highest auction price for an American literary manuscript. McLean, who is turning 70 this year, decided to part with the manuscript to secure a good deal for his family. The song, which has been analyzed extensively, was inspired by the death of Buddy Holly, but the meaning behind the rest of the lyrics has been subject to interpretation. The auctioned draft includes lines that didn't make the final version and extensive notes. The record for a popular music manuscript is held by Bob Dylan's \"Like a Rolling Stone.\"",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Don McLean's"
+      },
+      {
+        "id": 1,
+        "text": "The manuscript"
+      },
+      {
+        "id": 2,
+        "text": "The lyrics to Don McLean's iconic song \"American Pie\""
+      },
+      {
+        "id": 3,
+        "text": "$1.2 million"
+      },
+      {
+        "id": 4,
+        "text": "Christie's"
+      },
+      {
+        "id": 5,
+        "text": "third"
+      },
+      {
+        "id": 6,
+        "text": "American"
+      },
+      {
+        "id": 7,
+        "text": "Buddy Holly"
+      },
+      {
+        "id": 8,
+        "text": "Bob Dylan's"
+      },
+      {
+        "id": 9,
+        "text": "Like a Rolling Stone"
+      }
+    ],
+    "relations": [
+      {
+        "head": 2,
+        "relation": "soldFor",
+        "tail": 3
+      },
+      {
+        "head": 2,
+        "relation": "auctionedBy",
+        "tail": 4
+      },
+      {
+        "head": 1,
+        "relation": "auctionedBy",
+        "tail": 4
+      },
+      {
+        "head": 1,
+        "relation": "auctionPriceRank",
+        "tail": 5
+      },
+      {
+        "head": 1,
+        "relation": "manuscriptType",
+        "tail": 6
+      },
+      {
+        "head": 2,
+        "relation": "inspiredByDeathOf",
+        "tail": 7
+      },
+      {
+        "head": 9,
+        "relation": "recordHeldBy",
+        "tail": 8
+      }
+    ]
+  },
+  {
+    "document_id": 104,
+    "ragtruth_id": "134",
+    "text": "The lyrics to Don McLean's hit song \"American Pie\" sold for $1.2 million at an auction held by Christie's. The manuscript of the song achieved the third-highest auction price for an American literary manuscript. McLean told Rolling Stone that he wanted to sell the manuscript because he was turning 70 and wanted to get the best deal for his family. Over the years, \"American Pie\" has become one of the most analyzed and debated songs in the pop music canon, with many people trying to interpret the symbols in the 8-minute, 33-second opus. The song was written by McLean and became a hit in 1972. The manuscript that was auctioned included lines that didn't make the final version as well as extensive notes. The record for a popular music manuscript is held by Bob Dylan's \"Like a Rolling Stone,\" which sold for $2 million in June.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Don McLean's hit song \"American Pie\""
+      },
+      {
+        "id": 1,
+        "text": "Don McLean's"
+      },
+      {
+        "id": 2,
+        "text": "The manuscript of the song"
+      },
+      {
+        "id": 3,
+        "text": "$1.2 million"
+      },
+      {
+        "id": 4,
+        "text": "Christie's"
+      },
+      {
+        "id": 5,
+        "text": "third"
+      },
+      {
+        "id": 6,
+        "text": "American"
+      },
+      {
+        "id": 7,
+        "text": "Rolling Stone"
+      },
+      {
+        "id": 8,
+        "text": "70"
+      },
+      {
+        "id": 9,
+        "text": "the years"
+      },
+      {
+        "id": 10,
+        "text": "1972"
+      },
+      {
+        "id": 11,
+        "text": "Bob Dylan's"
+      },
+      {
+        "id": 12,
+        "text": "Like a Rolling Stone"
+      },
+      {
+        "id": 13,
+        "text": "$2 million"
+      },
+      {
+        "id": 14,
+        "text": "June"
+      }
+    ],
+    "relations": [
+      {
+        "head": 2,
+        "relation": "soldFor",
+        "tail": 3
+      },
+      {
+        "head": 2,
+        "relation": "auctionHouse",
+        "tail": 4
+      },
+      {
+        "head": 2,
+        "relation": "auctionRank",
+        "tail": 5
+      },
+      {
+        "head": 0,
+        "relation": "writtenBy",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "releaseYear",
+        "tail": 10
+      },
+      {
+        "head": 12,
+        "relation": "soldFor",
+        "tail": 13
+      },
+      {
+        "head": 12,
+        "relation": "recordHeldBy",
+        "tail": 11
+      }
+    ]
+  },
+  {
+    "document_id": 105,
+    "ragtruth_id": "135",
+    "text": "Sure! Here's a summary of the article in 92 words:\n\nDon McLean's handwritten manuscript of \"American Pie\" sold for $1.2 million at auction, becoming the third most valuable American literary manuscript ever sold. The song's cryptic lyrics have been interpreted in many ways over the years, but McLean says he only intended to capture something ephemeral. The manuscript includes unused lines and notes, offering insight into the songwriting process. The sale sets a new record for a popular music manuscript, surpassing Bob Dylan's \"Like a Rolling Stone.\"",
+    "entities": [
+      {
+        "id": 0,
+        "text": "American Pie"
+      },
+      {
+        "id": 1,
+        "text": "Don McLean's"
+      },
+      {
+        "id": 2,
+        "text": "Don McLean's handwritten manuscript of \"American Pie\""
+      },
+      {
+        "id": 3,
+        "text": "sold"
+      },
+      {
+        "id": 4,
+        "text": "92"
+      },
+      {
+        "id": 5,
+        "text": "$1.2 million"
+      },
+      {
+        "id": 6,
+        "text": "third"
+      },
+      {
+        "id": 7,
+        "text": "American"
+      },
+      {
+        "id": 8,
+        "text": "the years"
+      },
+      {
+        "id": 9,
+        "text": "Bob Dylan"
+      },
+      {
+        "id": 10,
+        "text": "Like a Rolling Stone"
+      }
+    ],
+    "relations": [
+      {
+        "head": 2,
+        "relation": "work",
+        "tail": 0
+      },
+      {
+        "head": 2,
+        "relation": "soldFor",
+        "tail": 5
+      },
+      {
+        "head": 2,
+        "relation": "soldAt",
+        "tail": 3
+      },
+      {
+        "head": 2,
+        "relation": "rank",
+        "tail": 6
+      },
+      {
+        "head": 2,
+        "relation": "nationality",
+        "tail": 7
+      },
+      {
+        "head": 0,
+        "relation": "creator",
+        "tail": 1
+      },
+      {
+        "head": 3,
+        "relation": "surpasses",
+        "tail": 10
+      }
+    ]
+  },
+  {
+    "document_id": 106,
+    "ragtruth_id": "136",
+    "text": "The original manuscript of Don McLean's iconic song \"American Pie\" sold for $1.2 million at an auction. The 16-page document includes unpublished lines and notes, offering insight into the creative process behind the 8-minute opus. The song, released in 1972, catapulted McLean to headliner status and remains one of the most analyzed and debated songs in pop music history.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "The original manuscript of Don McLean's iconic song \"American Pie\""
+      },
+      {
+        "id": 1,
+        "text": "Don McLean's iconic song \"American Pie\""
+      },
+      {
+        "id": 2,
+        "text": "Don McLean's"
+      },
+      {
+        "id": 3,
+        "text": "$1.2 million"
+      },
+      {
+        "id": 4,
+        "text": "one"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "soldFor",
+        "tail": 3
+      },
+      {
+        "head": 1,
+        "relation": "creator",
+        "tail": 2
+      }
+    ]
+  },
+  {
+    "document_id": 107,
+    "ragtruth_id": "137",
+    "text": "The original manuscript of Don McLean's iconic song \"American Pie\" was auctioned off for $1.2 million at Christie's. The 16-page draft includes handwritten lyrics, typed text, and notes. The sale set the third-highest auction price for an American literary manuscript. McLean, who said he wants to get the best deal for his family, revealed that the song was inspired by Buddy Holly's death, but the rest of the symbols and references have been subject to interpretation. Despite its length, the song reached number one in 1972 and propelled McLean to stardom.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "The original manuscript of Don McLean's iconic song \"American Pie\""
+      },
+      {
+        "id": 1,
+        "text": "auctioned"
+      },
+      {
+        "id": 2,
+        "text": "Don McLean's"
+      },
+      {
+        "id": 3,
+        "text": "Don McLean's iconic song \"American Pie\""
+      },
+      {
+        "id": 4,
+        "text": "$1.2 million"
+      },
+      {
+        "id": 5,
+        "text": "Christie's"
+      },
+      {
+        "id": 6,
+        "text": "third"
+      },
+      {
+        "id": 7,
+        "text": "American"
+      },
+      {
+        "id": 8,
+        "text": "Buddy Holly's"
+      },
+      {
+        "id": 9,
+        "text": "one"
+      },
+      {
+        "id": 10,
+        "text": "1972"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "auctionedFor",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "auctionedAt",
+        "tail": 5
+      },
+      {
+        "head": 1,
+        "relation": "priceRank",
+        "tail": 6
+      },
+      {
+        "head": 3,
+        "relation": "inspiredBy",
+        "tail": 8
+      },
+      {
+        "head": 3,
+        "relation": "chartPosition",
+        "tail": 9
+      },
+      {
+        "head": 3,
+        "relation": "chartYear",
+        "tail": 10
+      }
+    ]
+  },
+  {
+    "document_id": 108,
+    "ragtruth_id": "150",
+    "text": "A giraffe named Katie from the Dallas Zoo gave birth to a 6-foot tall calf, streamed live by Animal Planet. Details of the newborn's gender or condition were not immediately available, but initial signs indicated good health. The newborn joins a 4-year-old sister, Jamie. Katie's labor was watched by fellow giraffes from a nearby barn, including her best friend, Jade. The Dallas Zoo refers to Katie as the \"diva\" among the zoo's 12 giraffes.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "a 6-foot tall calf"
+      },
+      {
+        "id": 1,
+        "text": "A giraffe named Katie from the Dallas Zoo"
+      },
+      {
+        "id": 2,
+        "text": "the Dallas Zoo"
+      },
+      {
+        "id": 3,
+        "text": "Animal Planet"
+      },
+      {
+        "id": 4,
+        "text": "4-year-old"
+      },
+      {
+        "id": 5,
+        "text": "Jamie"
+      },
+      {
+        "id": 6,
+        "text": "Jade"
+      },
+      {
+        "id": 7,
+        "text": "12"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "livesIn",
+        "tail": 2
+      },
+      {
+        "head": 1,
+        "relation": "gaveBirthTo",
+        "tail": 0
+      },
+      {
+        "head": 0,
+        "relation": "streamedBy",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "hasSibling",
+        "tail": 5
+      },
+      {
+        "head": 1,
+        "relation": "bestFriend",
+        "tail": 6
+      },
+      {
+        "head": 2,
+        "relation": "hasNumberOfGiraffes",
+        "tail": 7
+      }
+    ]
+  },
+  {
+    "document_id": 109,
+    "ragtruth_id": "151",
+    "text": "Katie, a giraffe at the Dallas Zoo, gave birth to a baby giraffe in an hour-long labor captured on live stream. The birth was witnessed by viewers on Animal Planet and the Dallas Zoo's Twitter feed. The baby's gender and condition were not immediately known, but there were positive signs of movement and nursing. Katie's gestation period lasted 15 months, and the new arrival joins a 4-year-old sister. Katie, known as the \"diva\" of the herd, handled the spotlight well.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "gave"
+      },
+      {
+        "id": 1,
+        "text": "the Dallas Zoo"
+      },
+      {
+        "id": 2,
+        "text": "a baby giraffe"
+      },
+      {
+        "id": 3,
+        "text": "Katie, a giraffe at the Dallas Zoo"
+      },
+      {
+        "id": 4,
+        "text": "Animal Planet"
+      },
+      {
+        "id": 5,
+        "text": "15 months"
+      },
+      {
+        "id": 6,
+        "text": "4-year-old"
+      }
+    ],
+    "relations": [
+      {
+        "head": 3,
+        "relation": "gaveBirthTo",
+        "tail": 2
+      },
+      {
+        "head": 2,
+        "relation": "witnessedBy",
+        "tail": 4
+      },
+      {
+        "head": 3,
+        "relation": "gestationPeriod",
+        "tail": 5
+      },
+      {
+        "head": 2,
+        "relation": "hasSister",
+        "tail": 6
+      }
+    ]
+  }
+]

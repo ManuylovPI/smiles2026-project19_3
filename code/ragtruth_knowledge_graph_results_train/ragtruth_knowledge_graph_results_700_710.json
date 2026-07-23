@@ -1,0 +1,581 @@
+[
+  {
+    "document_id": 700,
+    "ragtruth_id": "946",
+    "text": "Here is a summary of the news in 48 words:\n\nDesperate migrants from Africa and the Middle East continue to head to Europe, with 978 rescued on Friday in the Mediterranean. Many are from West Africa, Somalia, and Syria, and most are asylum seekers, victims of trafficking, or pregnant women. At least 480 have died so far this year due to bad weather and overcrowded smuggler vessels.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "48"
+      },
+      {
+        "id": 1,
+        "text": "Africa"
+      },
+      {
+        "id": 2,
+        "text": "the Middle East"
+      },
+      {
+        "id": 3,
+        "text": "Europe"
+      },
+      {
+        "id": 4,
+        "text": "978"
+      },
+      {
+        "id": 5,
+        "text": "Friday"
+      },
+      {
+        "id": 6,
+        "text": "Mediterranean"
+      },
+      {
+        "id": 7,
+        "text": "West Africa"
+      },
+      {
+        "id": 8,
+        "text": "Somalia"
+      },
+      {
+        "id": 9,
+        "text": "Syria"
+      },
+      {
+        "id": 10,
+        "text": "At least 480"
+      },
+      {
+        "id": 11,
+        "text": "this year"
+      }
+    ],
+    "relations": [
+      {
+        "head": 4,
+        "relation": "rescuedOn",
+        "tail": 5
+      },
+      {
+        "head": 4,
+        "relation": "rescuedIn",
+        "tail": 6
+      },
+      {
+        "head": 10,
+        "relation": "time",
+        "tail": 11
+      }
+    ]
+  },
+  {
+    "document_id": 701,
+    "ragtruth_id": "947",
+    "text": "Desperate migrants from Africa & the Middle East continue to flood into Europe, with 978 rescued in the Med. Sea on Fri. & over 10,000 registered in Italy since Jan. 2015. Many are from West Africa, Somalia & Syria, using Libya as a transit point. At least 480 have died attempting the crossing this year.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Africa & the Middle East"
+      },
+      {
+        "id": 1,
+        "text": "Europe"
+      },
+      {
+        "id": 2,
+        "text": "978"
+      },
+      {
+        "id": 3,
+        "text": "Med"
+      },
+      {
+        "id": 4,
+        "text": "10,000"
+      },
+      {
+        "id": 5,
+        "text": "Italy"
+      },
+      {
+        "id": 6,
+        "text": "Jan. 2015"
+      },
+      {
+        "id": 7,
+        "text": "West Africa"
+      },
+      {
+        "id": 8,
+        "text": "Somalia & Syria"
+      },
+      {
+        "id": 9,
+        "text": "Libya"
+      },
+      {
+        "id": 10,
+        "text": "At least 480"
+      },
+      {
+        "id": 11,
+        "text": "this year"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "origin",
+        "tail": 0
+      },
+      {
+        "head": 1,
+        "relation": "rescuedIn",
+        "tail": 3
+      },
+      {
+        "head": 5,
+        "relation": "registeredCount",
+        "tail": 4
+      },
+      {
+        "head": 5,
+        "relation": "since",
+        "tail": 6
+      },
+      {
+        "head": 1,
+        "relation": "origin",
+        "tail": 7
+      },
+      {
+        "head": 1,
+        "relation": "origin",
+        "tail": 8
+      },
+      {
+        "head": 1,
+        "relation": "transitPoint",
+        "tail": 9
+      },
+      {
+        "head": 11,
+        "relation": "deathCount",
+        "tail": 10
+      }
+    ]
+  },
+  {
+    "document_id": 702,
+    "ragtruth_id": "948",
+    "text": "Irish betting company Paddy Power has come under fire for a tweet in which it stated: \"Newcastle have suffered more Kop beatings over the last 20 years than an unarmed African-American male.\" The tweet, which was intended as a joke, linked to a piece showing statistics of games between Liverpool and Newcastle United, but resulted in a social media backlash with some calling for the author of the tweet to be sacked. Despite the tweet being removed and a statement released by Paddy Power, social media users were not placated.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "a tweet in which it stated: \"Newcastle have suffered more Kop beatings over the last 20 years than an unarmed African-American male"
+      },
+      {
+        "id": 1,
+        "text": "Newcastle"
+      },
+      {
+        "id": 2,
+        "text": "Irish betting company Paddy Power"
+      },
+      {
+        "id": 3,
+        "text": "Liverpool"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "author",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "about",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "linksTo",
+        "tail": 3
+      }
+    ]
+  },
+  {
+    "document_id": 703,
+    "ragtruth_id": "949",
+    "text": "Irish betting company Paddy Power has faced backlash for a tweet that made a pun on the name of Liverpool Football Club's home end and referenced recent incidents in the United States involving the killing of unarmed African-American men by police. The tweet was intended to promote a statistics piece ahead of a match between Liverpool and Newcastle United. Paddy Power claimed it was just a joke and no offense was meant, but social media users condemned the company and called for the person responsible to be fired. This is not the first time Paddy Power has attracted controversy with its publicity stunts.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Liverpool Football Club's"
+      },
+      {
+        "id": 1,
+        "text": "Irish betting company Paddy Power"
+      },
+      {
+        "id": 2,
+        "text": "The tweet"
+      },
+      {
+        "id": 3,
+        "text": "the United States"
+      },
+      {
+        "id": 4,
+        "text": "African-American"
+      },
+      {
+        "id": 5,
+        "text": "Newcastle"
+      },
+      {
+        "id": 6,
+        "text": "first"
+      }
+    ],
+    "relations": [
+      {
+        "head": 2,
+        "relation": "promotes",
+        "tail": 0
+      },
+      {
+        "head": 2,
+        "relation": "intendedToPromote",
+        "tail": 0
+      },
+      {
+        "head": 2,
+        "relation": "references",
+        "tail": 3
+      },
+      {
+        "head": 1,
+        "relation": "attractedControversyWith",
+        "tail": 6
+      }
+    ]
+  },
+  {
+    "document_id": 704,
+    "ragtruth_id": "950",
+    "text": "Paddy Power has backtracked after tweeting a controversial statement about Newcastle's record against Liverpool in the English Premier League. The company has apologized for the tweet, which linked statistics for games between the two teams to recent deaths of unarmed black men in the US. Paddy Power has faced criticism on social media and calls for the person responsible for the tweet to be fired.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Paddy Power"
+      },
+      {
+        "id": 1,
+        "text": "a controversial statement about Newcastle's record against Liverpool in the English Premier League"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "apologizedFor",
+        "tail": 1
+      }
+    ]
+  },
+  {
+    "document_id": 705,
+    "ragtruth_id": "951",
+    "text": "Irish betting company Paddy Power has apologized after tweeting a controversial message linking the deaths of unarmed African-American men to a football match between Liverpool and Newcastle United. The tweet, which has since been deleted, sparked outrage on social media and calls for the person responsible to be sacked. This is not the first time Paddy Power has faced criticism for its publicity stunts, including backing a failed presidential candidacy and offering refunds on Oscar Pistorius' trial. Despite the backlash, Paddy Power remains unapologetic and continues to push the boundaries of taste and decency.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "a controversial message linking the deaths of unarmed African-American men to a football match between Liverpool and Newcastle United"
+      },
+      {
+        "id": 1,
+        "text": "Irish betting company Paddy Power"
+      },
+      {
+        "id": 2,
+        "text": "first"
+      },
+      {
+        "id": 3,
+        "text": "Oscar Pistorius'"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "apologizedFor",
+        "tail": 0
+      }
+    ]
+  },
+  {
+    "document_id": 706,
+    "ragtruth_id": "952",
+    "text": "Sure! Here's the summary in 97 words:\n\nPaddy Power, an Irish betting company, faced backlash after tweeting a pun about the number of \"Kop beatings\" Newcastle United has suffered compared to an unarmed African American man. The tweet was deleted and the company apologized, but not before sparking outrage on social media. This is not the first time Paddy Power has faced criticism for its publicity stunts, including a promise to refund bets if Oscar Pistorius was acquitted.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "a pun about the number of \"Kop beatings\" Newcastle United has suffered compared to an unarmed African American man"
+      },
+      {
+        "id": 1,
+        "text": "Paddy Power, an Irish betting company"
+      },
+      {
+        "id": 2,
+        "text": "97"
+      },
+      {
+        "id": 3,
+        "text": "first"
+      },
+      {
+        "id": 4,
+        "text": "Oscar Pistorius"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "tweeted",
+        "tail": 0
+      },
+      {
+        "head": 1,
+        "relation": "apologizedFor",
+        "tail": 0
+      }
+    ]
+  },
+  {
+    "document_id": 707,
+    "ragtruth_id": "953",
+    "text": "Paddy Power, an Irish betting company, faced backlash for a tweet that made a joke about police brutality against African Americans. The tweet compared the number of times Newcastle United had lost to Liverpool FC to the number of times an unarmed African American had been beaten by police. Paddy Power deleting the tweet and apologizing, but social media users called for the person who wrote the tweet to be fired. This is not the first time Paddy Power has been involved in controversy, having previously made headlines for supporting David Ginola's failed bid for the FIFA presidency and for making light of the Oscar Pistorius trial.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "a tweet that made a joke about police brutality against African Americans"
+      },
+      {
+        "id": 1,
+        "text": "Paddy Power, an Irish betting company"
+      },
+      {
+        "id": 2,
+        "text": "Newcastle United"
+      },
+      {
+        "id": 3,
+        "text": "Liverpool FC"
+      },
+      {
+        "id": 4,
+        "text": "African American"
+      },
+      {
+        "id": 5,
+        "text": "first"
+      },
+      {
+        "id": 6,
+        "text": "David Ginola's"
+      },
+      {
+        "id": 7,
+        "text": "FIFA"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "publisher",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "comparedTo",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "comparedTo",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "comparedTo",
+        "tail": 4
+      },
+      {
+        "head": 1,
+        "relation": "involvedInControversy",
+        "tail": 5
+      },
+      {
+        "head": 1,
+        "relation": "supported",
+        "tail": 6
+      },
+      {
+        "head": 6,
+        "relation": "bidFor",
+        "tail": 7
+      }
+    ]
+  },
+  {
+    "document_id": 708,
+    "ragtruth_id": "954",
+    "text": "Two Alabama college students, Ryan Calhoun and Delonte Martistee, have been accused of gang raping a woman on spring break at Florida's Panama City Beach. They have been charged with sexual battery by multiple perpetrators. The Troy, Alabama, Police Department discovered a video of the alleged rape during an unrelated investigation, and handed it over to the Bay County Sheriff's Office. Both suspects have been temporarily suspended from Troy University.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Two Alabama college students, Ryan Calhoun and Delonte Martistee"
+      },
+      {
+        "id": 1,
+        "text": "Alabama"
+      },
+      {
+        "id": 2,
+        "text": "gang raping"
+      },
+      {
+        "id": 3,
+        "text": "a video of the alleged rape"
+      },
+      {
+        "id": 4,
+        "text": "spring"
+      },
+      {
+        "id": 5,
+        "text": "Florida"
+      },
+      {
+        "id": 6,
+        "text": "Panama City Beach"
+      },
+      {
+        "id": 7,
+        "text": "Troy"
+      },
+      {
+        "id": 8,
+        "text": "Police Department"
+      },
+      {
+        "id": 9,
+        "text": "the Bay County Sheriff's Office"
+      },
+      {
+        "id": 10,
+        "text": "Troy University"
+      }
+    ],
+    "relations": [
+      {
+        "head": 3,
+        "relation": "discoveredBy",
+        "tail": 8
+      },
+      {
+        "head": 3,
+        "relation": "transferredTo",
+        "tail": 9
+      },
+      {
+        "head": 0,
+        "relation": "suspendedFrom",
+        "tail": 10
+      }
+    ]
+  },
+  {
+    "document_id": 709,
+    "ragtruth_id": "955",
+    "text": "Two college students from Alabama, Ryan Calhoun and Delonte Martistee, have been arrested and charged with sexual battery for allegedly gang-raping a woman during spring break in Panama City Beach, Florida. The incident was discovered after the Troy Police Department found a video of the rape while investigating an unrelated shooting. The victim's identity has been protected, and both men have been suspended from Troy University. The investigation is ongoing, and more arrests are expected. The court appearance for Calhoun and Martistee is scheduled for Saturday.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "gang-raping"
+      },
+      {
+        "id": 1,
+        "text": "a woman"
+      },
+      {
+        "id": 2,
+        "text": "Two college students from Alabama, Ryan Calhoun and Delonte Martistee"
+      },
+      {
+        "id": 3,
+        "text": "Ryan Calhoun"
+      },
+      {
+        "id": 4,
+        "text": "Delonte Martistee"
+      },
+      {
+        "id": 5,
+        "text": "spring"
+      },
+      {
+        "id": 6,
+        "text": "Panama City Beach"
+      },
+      {
+        "id": 7,
+        "text": "Florida"
+      },
+      {
+        "id": 8,
+        "text": "the Troy Police Department"
+      },
+      {
+        "id": 9,
+        "text": "Troy University"
+      },
+      {
+        "id": 10,
+        "text": "Saturday"
+      }
+    ],
+    "relations": [
+      {
+        "head": 2,
+        "relation": "suspendedFrom",
+        "tail": 9
+      },
+      {
+        "head": 0,
+        "relation": "victim",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "location",
+        "tail": 6
+      },
+      {
+        "head": 6,
+        "relation": "locatedIn",
+        "tail": 7
+      },
+      {
+        "head": 2,
+        "relation": "courtAppearanceDate",
+        "tail": 10
+      }
+    ]
+  }
+]

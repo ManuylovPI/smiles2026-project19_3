@@ -1,0 +1,711 @@
+[
+  {
+    "document_id": 300,
+    "ragtruth_id": "396",
+    "text": "Chancey Allen Luna has been found guilty of first-degree murder for the 2013 killing of Australian college student, Christopher Lane. Lane, a student at East Central University, was shot in the back while jogging by then 16-year-old Luna. Because Luna was under 18 at the time, he is ineligible for the death penalty and a jury has recommended life without parole; formal sentencing will take place in June. The driver, Michael Jones, has already been sentenced to life in prison with eligibility for parole in 2051.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Australian college student, Christopher Lane"
+      },
+      {
+        "id": 1,
+        "text": "Chancey Allen Luna"
+      },
+      {
+        "id": 2,
+        "text": "first"
+      },
+      {
+        "id": 3,
+        "text": "2013"
+      },
+      {
+        "id": 4,
+        "text": "under 18"
+      },
+      {
+        "id": 5,
+        "text": "June"
+      },
+      {
+        "id": 6,
+        "text": "Michael Jones"
+      },
+      {
+        "id": 7,
+        "text": "2051"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "guiltyOf",
+        "tail": 2
+      },
+      {
+        "head": 1,
+        "relation": "killingOf",
+        "tail": 0
+      },
+      {
+        "head": 0,
+        "relation": "killingDate",
+        "tail": 3
+      },
+      {
+        "head": 1,
+        "relation": "ageStatus",
+        "tail": 4
+      },
+      {
+        "head": 1,
+        "relation": "sentencingMonth",
+        "tail": 5
+      },
+      {
+        "head": 6,
+        "relation": "paroleEligibilityYear",
+        "tail": 7
+      }
+    ]
+  },
+  {
+    "document_id": 301,
+    "ragtruth_id": "397",
+    "text": "Chancey Allen Luna, a teenager from Oklahoma, has been found guilty of first-degree murder for the drive-by shooting of college baseball player Christopher Lane in August 2013. Luna, who was 16 at the time of the shooting, shot Lane while he was jogging because he and his friends \"had nothing to do.\" Luna has been sentenced to life in prison without parole. The driver of the vehicle, Michael Jones, pleaded guilty to second-degree murder and will be eligible for parole in 2051. The third suspect will be tried as a juvenile for accessory to murder.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "the drive-by shooting of college baseball player Christopher Lane in August 2013"
+      },
+      {
+        "id": 1,
+        "text": "college baseball player Christopher Lane"
+      },
+      {
+        "id": 2,
+        "text": "Chancey Allen Luna, a teenager from Oklahoma"
+      },
+      {
+        "id": 3,
+        "text": "first"
+      },
+      {
+        "id": 4,
+        "text": "Luna"
+      },
+      {
+        "id": 5,
+        "text": "16"
+      },
+      {
+        "id": 6,
+        "text": "Michael Jones"
+      },
+      {
+        "id": 7,
+        "text": "second"
+      },
+      {
+        "id": 8,
+        "text": "2051"
+      },
+      {
+        "id": 9,
+        "text": "third"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "victim",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "perpetrator",
+        "tail": 2
+      },
+      {
+        "head": 2,
+        "relation": "age",
+        "tail": 5
+      },
+      {
+        "head": 6,
+        "relation": "pleadedGuiltyTo",
+        "tail": 7
+      },
+      {
+        "head": 6,
+        "relation": "paroleEligibleIn",
+        "tail": 8
+      }
+    ]
+  },
+  {
+    "document_id": 302,
+    "ragtruth_id": "398",
+    "text": "A 16-year-old boy has been found guilty of first-degree murder for a drive-by shooting of a college student in Oklahoma. His accomplice pleaded guilty to second-degree murder and both will be sentenced in June. The victim, a college student from Australia, was jogging when he was shot in the back. Prosecutors dropped charges against the third suspect, who will be tried as a juvenile.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "A 16-year-old boy"
+      },
+      {
+        "id": 1,
+        "text": "a college student"
+      },
+      {
+        "id": 2,
+        "text": "first"
+      },
+      {
+        "id": 3,
+        "text": "Oklahoma"
+      },
+      {
+        "id": 4,
+        "text": "second"
+      },
+      {
+        "id": 5,
+        "text": "June"
+      },
+      {
+        "id": 6,
+        "text": "third"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "convictedOf",
+        "tail": 2
+      },
+      {
+        "head": 1,
+        "relation": "killedIn",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "hasAccomplice",
+        "tail": 0
+      },
+      {
+        "head": 0,
+        "relation": "sentencedIn",
+        "tail": 5
+      },
+      {
+        "head": 1,
+        "relation": "nationality",
+        "tail": 3
+      }
+    ]
+  },
+  {
+    "document_id": 303,
+    "ragtruth_id": "399",
+    "text": "Here is a summary of the article in 75 words or less:\n\nA teenager in Oklahoma has been convicted of first-degree murder for shooting and killing a college student while jogging. Chancey Allen Luna, 19, was found guilty after a jury trial and will spend life in prison without parole. Luna and two other teenagers randomly chose their victim, Christopher Lane, because they were bored and had nothing to do.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "A teenager in Oklahoma"
+      },
+      {
+        "id": 1,
+        "text": "Luna and two other teenagers"
+      },
+      {
+        "id": 2,
+        "text": "a college student"
+      },
+      {
+        "id": 3,
+        "text": "75"
+      },
+      {
+        "id": 4,
+        "text": "first"
+      },
+      {
+        "id": 5,
+        "text": "Chancey Allen Luna"
+      },
+      {
+        "id": 6,
+        "text": "19"
+      }
+    ],
+    "relations": [
+      {
+        "head": 5,
+        "relation": "age",
+        "tail": 6
+      }
+    ]
+  },
+  {
+    "document_id": 304,
+    "ragtruth_id": "400",
+    "text": "A bored teenager, Chancey Allen Luna, was found guilty of first-degree murder for the drive-by shooting of Christopher Lane, a college student in Oklahoma. Luna, who was 16 at the time, and two friends randomly selected Lane, who was jogging, and shot him in the back. Luna was sentenced to life in prison without parole, while the other two suspects received lesser sentences.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Christopher Lane, a college student in Oklahoma"
+      },
+      {
+        "id": 1,
+        "text": "A bored teenager, Chancey Allen Luna"
+      },
+      {
+        "id": 2,
+        "text": "first"
+      },
+      {
+        "id": 3,
+        "text": "Luna"
+      },
+      {
+        "id": 4,
+        "text": "16"
+      },
+      {
+        "id": 5,
+        "text": "two"
+      },
+      {
+        "id": 6,
+        "text": "two"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "guiltyOf",
+        "tail": 2
+      },
+      {
+        "head": 1,
+        "relation": "age",
+        "tail": 4
+      }
+    ]
+  },
+  {
+    "document_id": 305,
+    "ragtruth_id": "401",
+    "text": "Chancey Allen Luna has been found guilty of first-degree murder for his role in the drive-by shooting of Christopher Lane, a 23-year-old college student in Oklahoma. Luna was 16 at the time of the shooting and will spend life in prison without parole. The shooting was motivated by boredom, according to police.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Chancey Allen Luna"
+      },
+      {
+        "id": 1,
+        "text": "the drive-by shooting of Christopher Lane, a 23-year-old college student in Oklahoma"
+      },
+      {
+        "id": 2,
+        "text": "first"
+      },
+      {
+        "id": 3,
+        "text": "16"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "victim",
+        "tail": 0
+      },
+      {
+        "head": 0,
+        "relation": "age",
+        "tail": 3
+      }
+    ]
+  },
+  {
+    "document_id": 306,
+    "ragtruth_id": "402",
+    "text": "In 2011, Florida enacted the Firearm Owners' Privacy Act, which threatens prosecution and loss of licensure for any physicians who dare ask their patients about gun ownership and gun safety. A three-judge appeals panel upheld the law last summer, but while the full 11th Circuit Court of Appeals is still deciding whether to consider the case, doctors can still ask about guns. In Arizona, another assault on physician free speech is scheduled to go into effect this summer. Bill 1318 mandates that physicians who prescribe the abortion pill RU-486 tell patients the pill is reversible, which contradicts the opinion of the American College of Obstetricians and Gynecologists or the Food and Drug Administration. These laws capitalise on controversial issues to divide and conquer. The American Medical Association can do more. It did file a friend-of-the-court brief as part of the Florida legal challenge, but hasn't weighed in on Arizona. The AMA didn't sign on to a statement released last week by the Coalition to Protect the Patient-Provider Relationship that hits hard on the new abortion laws as an affront to good medical care.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "the Firearm Owners' Privacy Act, which threatens prosecution and loss of licensure for any physicians who dare ask their patients about gun ownership and gun safety"
+      },
+      {
+        "id": 1,
+        "text": "another assault on physician free speech"
+      },
+      {
+        "id": 2,
+        "text": "the abortion pill RU-486"
+      },
+      {
+        "id": 3,
+        "text": "The American Medical Association"
+      },
+      {
+        "id": 4,
+        "text": "Florida"
+      },
+      {
+        "id": 5,
+        "text": "Arizona"
+      },
+      {
+        "id": 6,
+        "text": "These laws"
+      },
+      {
+        "id": 7,
+        "text": "2011"
+      },
+      {
+        "id": 8,
+        "text": "three"
+      },
+      {
+        "id": 9,
+        "text": "last summer"
+      },
+      {
+        "id": 10,
+        "text": "11th Circuit Court of Appeals"
+      },
+      {
+        "id": 11,
+        "text": "this summer"
+      },
+      {
+        "id": 12,
+        "text": "the American College of Obstetricians"
+      },
+      {
+        "id": 13,
+        "text": "Gynecologists"
+      },
+      {
+        "id": 14,
+        "text": "the Food and Drug Administration"
+      },
+      {
+        "id": 15,
+        "text": "last week"
+      }
+    ],
+    "relations": [
+      {
+        "head": 4,
+        "relation": "enacted",
+        "tail": 0
+      },
+      {
+        "head": 0,
+        "relation": "upheldBy",
+        "tail": 10
+      },
+      {
+        "head": 5,
+        "relation": "scheduledToGoIntoEffect",
+        "tail": 11
+      },
+      {
+        "head": 1,
+        "relation": "mandates",
+        "tail": 2
+      },
+      {
+        "head": 2,
+        "relation": "reversibleAccordingTo",
+        "tail": 12
+      },
+      {
+        "head": 2,
+        "relation": "reversibleAccordingTo",
+        "tail": 14
+      },
+      {
+        "head": 3,
+        "relation": "filedBriefIn",
+        "tail": 4
+      },
+      {
+        "head": 3,
+        "relation": "didNotWeighInOn",
+        "tail": 5
+      },
+      {
+        "head": 3,
+        "relation": "didNotSignOnTo",
+        "tail": 6
+      }
+    ]
+  },
+  {
+    "document_id": 307,
+    "ragtruth_id": "403",
+    "text": "In Florida and Arizona, lawmakers are passing laws that restrict doctors' ability to discuss certain topics with their patients. In Florida, the Firearm Owners' Privacy Act threatens prosecution and loss of licensure for doctors who ask their patients about gun ownership and safety. This is a standard practice in pediatrics and psychiatry, as guns are a health risk. In Arizona, a new law requires doctors to lie to patients by telling them that the abortion pill RU-486 is reversible, despite the lack of evidence supporting this claim. These laws infringe on the patient-doctor relationship and limit free speech for physicians. \n\nThe state medical associations, which have the most political influence, are not taking a strong stance against these laws. Instead, the battle is being led by speciality organizations such as the American Academy of Pediatrics and the American College of Obstetricians and Gynecologists. The Massachusetts Medical Society has dedicated \"Doctor's Day\" to the issue of physician free speech, highlighting the threat posed by Florida's gun law. The American Medical Association (AMA) has filed a brief in support of the legal challenge against the Florida law, but has not taken a position on the Arizona law.\n\nThe author argues that the AMA, with its substantial lobbying power, should do more to defend the medical profession and support physicians in these battles over free speech. They suggest that the AMA allocate resources from its lobbying team to support state affiliates who have been lackluster in defending physicians' rights. The Surgeon General, Vivek Murthy, is also urged to prioritize the issue of free and unfettered communication between patients and doctors in his policy focus.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "doctors'"
+      },
+      {
+        "id": 1,
+        "text": "Florida"
+      },
+      {
+        "id": 2,
+        "text": "doctors who ask their patients about gun ownership and safety"
+      },
+      {
+        "id": 3,
+        "text": "Arizona"
+      },
+      {
+        "id": 4,
+        "text": "patients"
+      },
+      {
+        "id": 5,
+        "text": "is"
+      },
+      {
+        "id": 6,
+        "text": "laws that restrict doctors' ability to discuss certain topics with their patients"
+      },
+      {
+        "id": 7,
+        "text": "a new law"
+      },
+      {
+        "id": 8,
+        "text": "The American Medical Association (AMA)"
+      },
+      {
+        "id": 9,
+        "text": "The Surgeon General, Vivek Murthy"
+      },
+      {
+        "id": 10,
+        "text": "the Firearm Owners' Privacy Act"
+      },
+      {
+        "id": 11,
+        "text": "the American Academy of Pediatrics"
+      },
+      {
+        "id": 12,
+        "text": "the American College of Obstetricians"
+      },
+      {
+        "id": 13,
+        "text": "Gynecologists"
+      },
+      {
+        "id": 14,
+        "text": "The Massachusetts Medical Society"
+      }
+    ],
+    "relations": [
+      {
+        "head": 6,
+        "relation": "locatedIn",
+        "tail": 1
+      },
+      {
+        "head": 6,
+        "relation": "locatedIn",
+        "tail": 3
+      },
+      {
+        "head": 10,
+        "relation": "locatedIn",
+        "tail": 1
+      },
+      {
+        "head": 7,
+        "relation": "locatedIn",
+        "tail": 3
+      },
+      {
+        "head": 8,
+        "relation": "supports",
+        "tail": 6
+      },
+      {
+        "head": 14,
+        "relation": "supports",
+        "tail": 6
+      }
+    ]
+  },
+  {
+    "document_id": 308,
+    "ragtruth_id": "404",
+    "text": "Two states, Florida and Arizona, are allowing doctors to practice medicine without passing traditional medical exams. Instead, they are electing to state legislatures. In Florida, doctors are being threatened with prosecution and loss of license if they ask patients about gun ownership and gun safety. Guns are a scientifically uncontested health risk, and asking about them is standard practice in pediatrics and psychiatry. In Arizona, doctors are required to lie and claim that the abortion pill RU-486 is reversible, despite the lack of scientific evidence supporting this claim. These laws undermine the relationship between doctors and patients, and are designed to divide and conquer the medical community. The American Medical Association can do more to protect physician free speech and defend the integrity of medical practice.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Two states, Florida and Arizona"
+      },
+      {
+        "id": 1,
+        "text": "Florida"
+      },
+      {
+        "id": 2,
+        "text": "doctors"
+      },
+      {
+        "id": 3,
+        "text": "Guns"
+      },
+      {
+        "id": 4,
+        "text": "Arizona"
+      },
+      {
+        "id": 5,
+        "text": "claim"
+      },
+      {
+        "id": 6,
+        "text": "state legislatures"
+      },
+      {
+        "id": 7,
+        "text": "The American Medical Association"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "includesState",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "includesState",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "electingTo",
+        "tail": 6
+      },
+      {
+        "head": 2,
+        "relation": "practiceIn",
+        "tail": 1
+      },
+      {
+        "head": 2,
+        "relation": "practiceIn",
+        "tail": 4
+      },
+      {
+        "head": 2,
+        "relation": "threatenedWith",
+        "tail": 5
+      },
+      {
+        "head": 7,
+        "relation": "canDoMoreToProtect",
+        "tail": 2
+      }
+    ]
+  },
+  {
+    "document_id": 309,
+    "ragtruth_id": "405",
+    "text": "Two states, Florida and Arizona, have recently passed laws that restrict doctors from asking their patients about gun ownership and gun safety, despite the fact that it is a scientifically established health risk. Doctors in these states are concerned that these laws are interfering with the patient-doctor relationship and setting a dangerous precedent for government intervention in medical practice. The American Medical Association has filed a friend-of-the-court brief in support of the doctors challenging the law in Florida, but has not yet taken a position on the similar law in Arizona. Meanwhile, other state medical societies are not taking a lead role in opposing these laws, leaving it to specialty groups such as the American Academy of Pediatrics and the American College of Obstetricians and Gynecologists to fight for physician free speech. The laws appear to be part of a broader strategy to divide and conquer on controversial issues, rather than addressing the core concerns of the medical profession.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "doctors"
+      },
+      {
+        "id": 1,
+        "text": "gun ownership and gun safety"
+      },
+      {
+        "id": 2,
+        "text": "Two states, Florida and Arizona"
+      },
+      {
+        "id": 3,
+        "text": "laws that restrict doctors from asking their patients about gun ownership and gun safety, despite the fact that it is a scientifically established health risk"
+      },
+      {
+        "id": 4,
+        "text": "Florida"
+      },
+      {
+        "id": 5,
+        "text": "Arizona"
+      },
+      {
+        "id": 6,
+        "text": "The American Medical Association"
+      },
+      {
+        "id": 7,
+        "text": "the American Academy of Pediatrics"
+      },
+      {
+        "id": 8,
+        "text": "the American College of Obstetricians"
+      }
+    ],
+    "relations": [
+      {
+        "head": 3,
+        "relation": "restricts",
+        "tail": 0
+      },
+      {
+        "head": 3,
+        "relation": "concerns",
+        "tail": 1
+      },
+      {
+        "head": 2,
+        "relation": "includesState",
+        "tail": 4
+      },
+      {
+        "head": 2,
+        "relation": "includesState",
+        "tail": 5
+      },
+      {
+        "head": 6,
+        "relation": "supports",
+        "tail": 0
+      },
+      {
+        "head": 6,
+        "relation": "supports",
+        "tail": 3
+      },
+      {
+        "head": 7,
+        "relation": "opposes",
+        "tail": 3
+      },
+      {
+        "head": 8,
+        "relation": "opposes",
+        "tail": 3
+      }
+    ]
+  }
+]

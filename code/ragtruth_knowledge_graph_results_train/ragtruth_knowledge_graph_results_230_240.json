@@ -1,0 +1,584 @@
+[
+  {
+    "document_id": 230,
+    "ragtruth_id": "302",
+    "text": "A swarm of Asian carp attacked Washington University rowing team while they were practicing at Creve Coeur Lake. The fish leaped into the boat and one even landed on a team member's leg. No injuries occurred, but the strong smell of fish remained after the incident.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Washington University rowing team"
+      },
+      {
+        "id": 1,
+        "text": "A swarm of Asian carp"
+      },
+      {
+        "id": 2,
+        "text": "attacked"
+      },
+      {
+        "id": 3,
+        "text": "Creve Coeur Lake"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "attacked",
+        "tail": 0
+      },
+      {
+        "head": 0,
+        "relation": "practicingAt",
+        "tail": 3
+      }
+    ]
+  },
+  {
+    "document_id": 231,
+    "ragtruth_id": "303",
+    "text": "Here is a summary of the news in 31 words or less:\n\nAsian carp attack Washington University rowing team during practice, causing panic and injury.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "31"
+      },
+      {
+        "id": 1,
+        "text": "Asian"
+      },
+      {
+        "id": 2,
+        "text": "Washington University"
+      }
+    ],
+    "relations": [
+      {
+        "head": 2,
+        "relation": "attackedBy",
+        "tail": 1
+      }
+    ]
+  },
+  {
+    "document_id": 232,
+    "ragtruth_id": "304",
+    "text": "A swarm of Asian carp attacked the Washington University rowing team's boat at Creve Coeur Lake, leaving team members in a state of terror with the fish flopping on their legs and a strong fishy smell lingering afterward.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "A swarm of Asian carp"
+      },
+      {
+        "id": 1,
+        "text": "team members"
+      },
+      {
+        "id": 2,
+        "text": "Washington University"
+      },
+      {
+        "id": 3,
+        "text": "Creve Coeur Lake"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "memberOf",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "attacked",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "attackedAt",
+        "tail": 3
+      }
+    ]
+  },
+  {
+    "document_id": 233,
+    "ragtruth_id": "305",
+    "text": "Rowing team's practice disrupted by aggressive Asian carp jumping into their boat, leaving members shaken but unharmed.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Rowing team's"
+      },
+      {
+        "id": 1,
+        "text": "Asian"
+      }
+    ],
+    "relations": []
+  },
+  {
+    "document_id": 234,
+    "ragtruth_id": "306",
+    "text": "ISIS has taken control of the east of Ramadi, a city 68 miles west of Baghdad, leading to a mass exodus of the city's residents. The only safe route out of the city, a bridge across the Euphrates, was filled with people fleeing on foot, as cars are not permitted to cross due to concerns about explosives. Reports suggest that ISIS militants moved into towns just north of Ramadi, causing thousands to flee into the city, which has then been attacked by ISIS. The south has been blocked off by ISIS for several months, and the west was contested territory, leaving the east as the only viable route in and out. Many of the refugees have spoken of how ISIS militants stormed their homes and forced them out. The deputy chief of the provincial council, Faleh Essawi, said \"Ramadi is under siege from all sides, I consider the city to have fallen.\" He also claimed that 150,000 people have fled the city. Hospitals in the area are filled with people injured in the attacks, and are regularly targeted by ISIS.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Ramadi, a city 68 miles west of Baghdad"
+      },
+      {
+        "id": 1,
+        "text": "ISIS"
+      },
+      {
+        "id": 2,
+        "text": "the east of Ramadi, a city 68 miles west of Baghdad"
+      },
+      {
+        "id": 3,
+        "text": "Many of the refugees"
+      },
+      {
+        "id": 4,
+        "text": "The deputy chief of the provincial council, Faleh Essawi"
+      },
+      {
+        "id": 5,
+        "text": "attacked"
+      },
+      {
+        "id": 6,
+        "text": "Euphrates"
+      },
+      {
+        "id": 7,
+        "text": "thousands"
+      },
+      {
+        "id": 8,
+        "text": "several months"
+      },
+      {
+        "id": 9,
+        "text": "150,000"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "hasPart",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "attackedBy",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "underSiegeBy",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "fledTo",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "fledCount",
+        "tail": 9
+      },
+      {
+        "head": 2,
+        "relation": "routeAcross",
+        "tail": 6
+      },
+      {
+        "head": 1,
+        "relation": "blockedOff",
+        "tail": 0
+      },
+      {
+        "head": 1,
+        "relation": "blockedOffDuration",
+        "tail": 8
+      }
+    ]
+  },
+  {
+    "document_id": 235,
+    "ragtruth_id": "307",
+    "text": "The city of Ramadi in Iraq is under siege from ISIS fighters, prompting thousands of residents to flee. ISIS has taken control of the east of the city, cutting off the only safe route to neighboring Anbar province. The government has restricted vehicle access to the bridge across the Euphrates in an effort to prevent explosives from entering Baghdad. As a result, many people, including children and the elderly, are forced to walk or be pushed in carts by young men. The situation is dire, with people traumatized and exhausted from their escape. One man describes how ISIS fighters took over his house, forcing him to flee with his children. Another woman cries as she recounts being kicked out of her home by ISIS. The situation in Ramadi has been deteriorating for some time, with ISIS already blocking off access from the south and the west being contested territory. The city is now under siege from all sides, according to Faleh Essawi, the deputy chief of the provincial council. He claims that 150,000 people have fled and expresses frustration with the lack of support from Baghdad. The police chief in the area is also frustrated with the lack of air strikes or reinforcements. The situation is chaotic, with explosions going off in the distance and people scrambling to find safety. The city is in desperate need of help, but it remains to be seen if any assistance will arrive in time.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "ISIS"
+      },
+      {
+        "id": 1,
+        "text": "The city of Ramadi in Iraq"
+      },
+      {
+        "id": 2,
+        "text": "people"
+      },
+      {
+        "id": 3,
+        "text": "One man"
+      },
+      {
+        "id": 4,
+        "text": "Another woman"
+      },
+      {
+        "id": 5,
+        "text": "Faleh Essawi, the deputy chief of the provincial council"
+      },
+      {
+        "id": 6,
+        "text": "Baghdad"
+      },
+      {
+        "id": 7,
+        "text": "thousands"
+      },
+      {
+        "id": 8,
+        "text": "Anbar"
+      },
+      {
+        "id": 9,
+        "text": "Euphrates"
+      },
+      {
+        "id": 10,
+        "text": "150,000"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "locatedIn",
+        "tail": 8
+      },
+      {
+        "head": 1,
+        "relation": "siegedBy",
+        "tail": 0
+      },
+      {
+        "head": 1,
+        "relation": "underControlOf",
+        "tail": 0
+      },
+      {
+        "head": 1,
+        "relation": "crossedBy",
+        "tail": 9
+      },
+      {
+        "head": 3,
+        "relation": "houseTakenOverBy",
+        "tail": 0
+      },
+      {
+        "head": 4,
+        "relation": "kickedOutBy",
+        "tail": 0
+      },
+      {
+        "head": 5,
+        "relation": "claimsFled",
+        "tail": 10
+      },
+      {
+        "head": 5,
+        "relation": "frustratedWith",
+        "tail": 6
+      }
+    ]
+  },
+  {
+    "document_id": 236,
+    "ragtruth_id": "308",
+    "text": "ISIS fighters have seized control of several towns and villages near Ramadi, a major city in Iraq located west of Baghdad. This has led to an influx of refugees fleeing on foot into the city, with tens of thousands of people displaced. The areas previously considered relatively safe zones have become battlegrounds, leaving Iraqis without any viable entrances or exits. The situation in Ramadi has worsened significantly, with residents experiencing intense violence, including shelling, gunfire, and kidnappings. The Iraqi government has imposed strict restrictions on the movement of people and goods, including the ban on driving across certain bridges, to prevent ISIS from using these routes to enter Baghdad. However, these measures have also made it difficult for civilians to evacuate the area, leading to overcrowding and a shortage of basic necessities such as food and water. Despite the warnings from local leaders and residents, the Iraqi government continues to underestimate the severity of the crisis, resulting in a lack of resources and support for the affected areas.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "seized"
+      },
+      {
+        "id": 1,
+        "text": "Ramadi, a major city in Iraq located west of Baghdad"
+      },
+      {
+        "id": 2,
+        "text": "ISIS"
+      },
+      {
+        "id": 3,
+        "text": "Baghdad"
+      },
+      {
+        "id": 4,
+        "text": "strict restrictions on the movement of people and goods, including the ban on driving across certain bridges"
+      },
+      {
+        "id": 5,
+        "text": "The Iraqi government"
+      },
+      {
+        "id": 6,
+        "text": "tens of thousands"
+      },
+      {
+        "id": 7,
+        "text": "Iraqis"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "controlOf",
+        "tail": 1
+      },
+      {
+        "head": 4,
+        "relation": "imposedBy",
+        "tail": 5
+      },
+      {
+        "head": 4,
+        "relation": "preventsEntryTo",
+        "tail": 3
+      }
+    ]
+  },
+  {
+    "document_id": 237,
+    "ragtruth_id": "309",
+    "text": "Thousands of people have fled the city of Ramadi in Iraq due to advancing ISIS forces. The group has taken control of much of the city, including the eastern part, leaving only the western part still under government control. The influx of refugees is causing a humanitarian crisis, with people seeking shelter and safety on the outskirts of the city. The government has restricted vehicle traffic on the bridge crossing the Euphrates River, fearing that explosives could be smuggled into Baghdad. Local residents are expressing frustration and hopelessness, with some describing how ISIS fighters took over their homes without warning. The city's hospital is filled with wounded civilians and soldiers, and the medical staff are struggling to cope with the influx of injuries. The situation in Ramadi is dire, with residents feeling abandoned by the government in Baghdad and lacking hope for the future.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "ISIS"
+      },
+      {
+        "id": 1,
+        "text": "the city of Ramadi in Iraq"
+      },
+      {
+        "id": 2,
+        "text": "some"
+      },
+      {
+        "id": 3,
+        "text": "The government"
+      },
+      {
+        "id": 4,
+        "text": "Baghdad"
+      },
+      {
+        "id": 5,
+        "text": "Thousands"
+      },
+      {
+        "id": 6,
+        "text": "the Euphrates River"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "controlledBy",
+        "tail": 0
+      },
+      {
+        "head": 1,
+        "relation": "locatedIn",
+        "tail": 4
+      },
+      {
+        "head": 3,
+        "relation": "locatedIn",
+        "tail": 4
+      }
+    ]
+  },
+  {
+    "document_id": 238,
+    "ragtruth_id": "310",
+    "text": "In western Iraq, the city of Ramadi is under siege by ISIS forces, who have taken over eastern parts of the city and are pushing toward the capital. Thousands of residents have fled on foot, with women and children making up the majority of those displaced. The government has restricted vehicle traffic over the Euphrates River bridge, causing long delays and difficult conditions for those escaping. Local officials warn that the situation is dire and that the city may have fallen to ISIS. One official, Faleh Essawi, describes the situation as \"collapsing\" and calls for help from the government in Baghdad. The hospital in the nearby town of Amriyat al-Falluja is filled with wounded locals and is regularly attacked by ISIS. The situation is chaotic and dangerous, with explosions and gunfire heard throughout the area.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "the city of Ramadi"
+      },
+      {
+        "id": 1,
+        "text": "Thousands of residents"
+      },
+      {
+        "id": 2,
+        "text": "ISIS forces, who have taken over eastern parts of the city and are pushing toward the capital"
+      },
+      {
+        "id": 3,
+        "text": "the situation"
+      },
+      {
+        "id": 4,
+        "text": "The government"
+      },
+      {
+        "id": 5,
+        "text": "Iraq"
+      },
+      {
+        "id": 6,
+        "text": "the Euphrates River"
+      },
+      {
+        "id": 7,
+        "text": "One"
+      },
+      {
+        "id": 8,
+        "text": "Faleh Essawi"
+      },
+      {
+        "id": 9,
+        "text": "Amriyat al-Falluja"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "locatedIn",
+        "tail": 5
+      },
+      {
+        "head": 0,
+        "relation": "underSiegeBy",
+        "tail": 2
+      },
+      {
+        "head": 2,
+        "relation": "controls",
+        "tail": 0
+      },
+      {
+        "head": 1,
+        "relation": "fledFrom",
+        "tail": 0
+      },
+      {
+        "head": 4,
+        "relation": "restrictedTrafficOver",
+        "tail": 6
+      },
+      {
+        "head": 3,
+        "relation": "describedBy",
+        "tail": 8
+      },
+      {
+        "head": 8,
+        "relation": "calledForHelpFrom",
+        "tail": 4
+      },
+      {
+        "head": 9,
+        "relation": "locatedIn",
+        "tail": 0
+      },
+      {
+        "head": 9,
+        "relation": "attackedBy",
+        "tail": 2
+      }
+    ]
+  },
+  {
+    "document_id": 239,
+    "ragtruth_id": "311",
+    "text": "Thousands of people are fleeing Ramadi, Iraq, after ISIS fighters took control of the city's eastern neighborhoods. The refugees are heading towards the western part of the city, where the Iraqi military is still in control. The people are mostly on foot, with some pushing carts carrying their belongings. Many are women and children, and some are elderly. They are facing difficulties due to the lack of vehicles allowed on the bridge connecting Ramadi to the neighboring province of Anbar. The Iraqi government has restricted vehicle access to prevent explosives from entering the capital city of Baghdad. The people are shell-shocked and exhausted, and many do not want to talk about their experiences. Some describe how ISIS fighters took over their homes and forced them to flee. A local fighter who was shot by a sniper while defending against ISIS says that they had warned Baghdad of the impending attack but received no backup. The city's security is collapsing, and the hospital in Amriyat al-Falluja, which is treating wounded civilians and soldiers, is regularly attacked by ISIS rockets and mortars. The situation is dire, and people fear for their lives.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Ramadi, Iraq"
+      },
+      {
+        "id": 1,
+        "text": "Thousands of people"
+      },
+      {
+        "id": 2,
+        "text": "some"
+      },
+      {
+        "id": 3,
+        "text": "many"
+      },
+      {
+        "id": 4,
+        "text": "ISIS"
+      },
+      {
+        "id": 5,
+        "text": "ISIS fighters"
+      },
+      {
+        "id": 6,
+        "text": "Some"
+      },
+      {
+        "id": 7,
+        "text": "the capital city of Baghdad"
+      },
+      {
+        "id": 8,
+        "text": "people"
+      },
+      {
+        "id": 9,
+        "text": "Iraqi"
+      },
+      {
+        "id": 10,
+        "text": "Anbar"
+      },
+      {
+        "id": 11,
+        "text": "Iraqi"
+      },
+      {
+        "id": 12,
+        "text": "Amriyat al-Falluja"
+      }
+    ],
+    "relations": [
+      {
+        "head": 5,
+        "relation": "partOf",
+        "tail": 4
+      },
+      {
+        "head": 1,
+        "relation": "locatedIn",
+        "tail": 0
+      },
+      {
+        "head": 0,
+        "relation": "locatedIn",
+        "tail": 10
+      },
+      {
+        "head": 12,
+        "relation": "locatedIn",
+        "tail": 10
+      }
+    ]
+  }
+]

@@ -1,0 +1,902 @@
+[
+  {
+    "document_id": 260,
+    "ragtruth_id": "344",
+    "text": "A madrasa in Garissa, Kenya, where the suspected mastermind of the deadly attack on a nearby university teaches, has been closed due to the national mourning declared by President Uhuru Kenyatta after the attack. The Islamic religious school, called the Jamii Bora Academy, is located in a small town in northeastern Kenya. The man suspected of being the mastermind behind the attack, Mohamed Mohamud, once taught there, along with others including the principal, Sheikh Khalif Abdi Hussein. According to Sheikh Khalif, Mohamud was a quiet student who did not talk much, but was normal like everyone else until he joined Al-Shabaab. Mohamud is believed to be in command of a militia based near Kenya's border with Somalia, who are responsible for numerous cross-border attacks into Kenya. The Islamist militant group, allied with al Qaeda, has been waging a bloody campaign for control of Somalia. Kenya has now become a target as its troops are part of an African Union force deployed in support of Somalia's UN-supported government. At least one of the four gunmen who carried out the attack on the university is also believed to be Kenyan. The Kenyan government is concerned that Al-Shabaab is recruiting disaffected youth from inside the country.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "the deadly attack on a nearby university"
+      },
+      {
+        "id": 1,
+        "text": "A madrasa in Garissa, Kenya, where the suspected mastermind of the deadly attack on a nearby university teaches"
+      },
+      {
+        "id": 2,
+        "text": "the suspected mastermind of the deadly attack on a nearby university"
+      },
+      {
+        "id": 3,
+        "text": "the principal, Sheikh Khalif Abdi Hussein"
+      },
+      {
+        "id": 4,
+        "text": "Kenya"
+      },
+      {
+        "id": 5,
+        "text": "Al-Shabaab"
+      },
+      {
+        "id": 6,
+        "text": "Somalia"
+      },
+      {
+        "id": 7,
+        "text": "a nearby university"
+      },
+      {
+        "id": 8,
+        "text": "Uhuru Kenyatta"
+      },
+      {
+        "id": 9,
+        "text": "Kenya"
+      },
+      {
+        "id": 10,
+        "text": "African Union"
+      },
+      {
+        "id": 11,
+        "text": "At least one"
+      },
+      {
+        "id": 12,
+        "text": "four"
+      },
+      {
+        "id": 13,
+        "text": "Kenyan"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "locatedIn",
+        "tail": 4
+      },
+      {
+        "head": 1,
+        "relation": "locatedIn",
+        "tail": 9
+      },
+      {
+        "head": 1,
+        "relation": "teachesAt",
+        "tail": 2
+      },
+      {
+        "head": 1,
+        "relation": "principal",
+        "tail": 3
+      },
+      {
+        "head": 2,
+        "relation": "suspectedMastermindOf",
+        "tail": 0
+      },
+      {
+        "head": 2,
+        "relation": "commandOf",
+        "tail": 5
+      },
+      {
+        "head": 2,
+        "relation": "joined",
+        "tail": 5
+      },
+      {
+        "head": 5,
+        "relation": "alliedWith",
+        "tail": 0
+      },
+      {
+        "head": 5,
+        "relation": "campaignIn",
+        "tail": 6
+      },
+      {
+        "head": 4,
+        "relation": "targetOf",
+        "tail": 5
+      },
+      {
+        "head": 4,
+        "relation": "troopsDeployedInSupportOf",
+        "tail": 10
+      },
+      {
+        "head": 10,
+        "relation": "deployedInSupportOf",
+        "tail": 6
+      },
+      {
+        "head": 8,
+        "relation": "declared",
+        "tail": 0
+      },
+      {
+        "head": 11,
+        "relation": "numberOfGunmen",
+        "tail": 12
+      },
+      {
+        "head": 13,
+        "relation": "nationality",
+        "tail": 4
+      }
+    ]
+  },
+  {
+    "document_id": 261,
+    "ragtruth_id": "345",
+    "text": "A suspected mastermind behind the deadly attack on a university in Garissa, Kenya, once taught at a nearby Islamic religious school. Mohamed Mohamud, who is believed to be leading an Al-Shabaab militia near the border with Somalia, was a former student at the Madrassa. Authorities are concerned about the group's ability to recruit disaffected youth from within Kenya, highlighting the challenge of tackling terrorism from within.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "A suspected mastermind behind the deadly attack on a university in Garissa, Kenya"
+      },
+      {
+        "id": 1,
+        "text": "a nearby Islamic religious school"
+      },
+      {
+        "id": 2,
+        "text": "an Al-Shabaab militia near the border with Somalia"
+      },
+      {
+        "id": 3,
+        "text": "Kenya"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "taughtAt",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "studentAt",
+        "tail": 1
+      },
+      {
+        "head": 2,
+        "relation": "locatedIn",
+        "tail": 3
+      }
+    ]
+  },
+  {
+    "document_id": 262,
+    "ragtruth_id": "346",
+    "text": "Following the deadly attack at a university in Garissa, Kenya, the local Madrassa where the suspect, Mohamed Mohamud, once studied is now empty. The school's principal, Sheikh Khalif Abdi Hussein, remembers Mohamud as a quiet and normal student before he joined Al-Shabaab. Authorities believe that Mohamud is now in command of an Al-Shabaab militia and is responsible for numerous cross-border attacks into Kenya. The attack has raised concerns about homegrown terrorism in Kenya, with at least one of the gunmen being a Kenyan national. The Kenyan government is concerned about the recruitment of disaffected youth and the need to tackle the threat of extremism within the community.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "the local Madrassa where the suspect, Mohamed Mohamud, once studied"
+      },
+      {
+        "id": 1,
+        "text": "the suspect, Mohamed Mohamud"
+      },
+      {
+        "id": 2,
+        "text": "Al-Shabaab"
+      },
+      {
+        "id": 3,
+        "text": "Kenya"
+      },
+      {
+        "id": 4,
+        "text": "the deadly attack at a university in Garissa, Kenya"
+      },
+      {
+        "id": 5,
+        "text": "Khalif Abdi Hussein"
+      },
+      {
+        "id": 6,
+        "text": "at least one"
+      },
+      {
+        "id": 7,
+        "text": "Kenyan"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "studiedAt",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "principal",
+        "tail": 5
+      },
+      {
+        "head": 1,
+        "relation": "joined",
+        "tail": 2
+      },
+      {
+        "head": 1,
+        "relation": "commandedBy",
+        "tail": 2
+      },
+      {
+        "head": 1,
+        "relation": "responsibleFor",
+        "tail": 4
+      },
+      {
+        "head": 4,
+        "relation": "occurredIn",
+        "tail": 3
+      },
+      {
+        "head": 4,
+        "relation": "raisedConcernsAbout",
+        "tail": 3
+      },
+      {
+        "head": 6,
+        "relation": "nationality",
+        "tail": 7
+      }
+    ]
+  },
+  {
+    "document_id": 263,
+    "ragtruth_id": "347",
+    "text": "The recent terrorist attack in Garissa, Kenya, which killed 147 people, has led to concerns about homegrown terrorism. The suspected mastermind behind the attack, Mohamed Mohamud, was once a teacher at a local Islamic school. The school's principal remembers him as a quiet person who became radicalized and joined Al-Shabaab, an Islamist militant group linked to al Qaeda. Kenyan authorities believe that Mohamud is now in command of an Al-Shabaab militia near the border with Somalia, and that he was behind the attack. The Kenyan government is concerned that Al-Shabaab is recruiting disaffected youth from inside the country, making it difficult to counter terrorism.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "The recent terrorist attack in Garissa, Kenya, which killed 147 people"
+      },
+      {
+        "id": 1,
+        "text": "a local Islamic school"
+      },
+      {
+        "id": 2,
+        "text": "The suspected mastermind behind the attack, Mohamed Mohamud"
+      },
+      {
+        "id": 3,
+        "text": "Al-Shabaab, an Islamist militant group linked to al Qaeda"
+      },
+      {
+        "id": 4,
+        "text": "Kenya"
+      },
+      {
+        "id": 5,
+        "text": "Kenyan"
+      },
+      {
+        "id": 6,
+        "text": "Somalia"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "location",
+        "tail": 4
+      },
+      {
+        "head": 2,
+        "relation": "teacherAt",
+        "tail": 1
+      },
+      {
+        "head": 2,
+        "relation": "memberOf",
+        "tail": 3
+      },
+      {
+        "head": 2,
+        "relation": "commandingOrganization",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "perpetrator",
+        "tail": 2
+      },
+      {
+        "head": 3,
+        "relation": "locatedNear",
+        "tail": 6
+      }
+    ]
+  },
+  {
+    "document_id": 264,
+    "ragtruth_id": "360",
+    "text": "The trial of Pedro Hernandez, the man charged with the 1979 murder of 6-year old Etan Patz, continues. Hernandez confessed to police in 2012 that he lured Patz into a basement and killed him, but his lawyers maintain that due to his mental health issues, including schizophrenia and an IQ in the range of borderline to mild mental retardation, Hernandez is unable to discern whether he committed the crime or not. His confession and waiving of his Miranda rights were ruled legal by a judge last November. A previous suspect, Jose Antonio Ramos, was deemed responsible for Patz’s death and ordered to pay the family $2 million in 2001, but he has never been charged with the crime. The Patz case led to a heightened awareness of missing children in the US, with Patz’s image appearing on milk cartons across the country and prompting Congress to pass the Missing Children's Assistance Act in 1984.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Pedro Hernandez, the man charged with the 1979 murder of 6-year old Etan Patz"
+      },
+      {
+        "id": 1,
+        "text": "6-year old Etan Patz"
+      },
+      {
+        "id": 2,
+        "text": "the 1979 murder of 6-year old Etan Patz"
+      },
+      {
+        "id": 3,
+        "text": "confessed"
+      },
+      {
+        "id": 4,
+        "text": "A previous suspect, Jose Antonio Ramos"
+      },
+      {
+        "id": 5,
+        "text": "the US"
+      },
+      {
+        "id": 6,
+        "text": "2012"
+      },
+      {
+        "id": 7,
+        "text": "Miranda"
+      },
+      {
+        "id": 8,
+        "text": "last November"
+      },
+      {
+        "id": 9,
+        "text": "$2 million"
+      },
+      {
+        "id": 10,
+        "text": "2001"
+      },
+      {
+        "id": 11,
+        "text": "Congress"
+      },
+      {
+        "id": 12,
+        "text": "the Missing Children's Assistance Act"
+      },
+      {
+        "id": 13,
+        "text": "1984"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "confessedTo",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "confessionDate",
+        "tail": 6
+      },
+      {
+        "head": 0,
+        "relation": "waivedMirandaRights",
+        "tail": 7
+      },
+      {
+        "head": 0,
+        "relation": "waiverRulingDate",
+        "tail": 8
+      },
+      {
+        "head": 4,
+        "relation": "responsibleFor",
+        "tail": 2
+      },
+      {
+        "head": 4,
+        "relation": "orderedToPay",
+        "tail": 9
+      },
+      {
+        "head": 4,
+        "relation": "paymentDate",
+        "tail": 10
+      },
+      {
+        "head": 12,
+        "relation": "passedBy",
+        "tail": 11
+      },
+      {
+        "head": 12,
+        "relation": "passageYear",
+        "tail": 13
+      }
+    ]
+  },
+  {
+    "document_id": 265,
+    "ragtruth_id": "361",
+    "text": "Etan Patz, a 6-year-old boy who went missing in New York City in 1979, is back in the news as a New York jury deliberates over the possible guilt of Pedro Hernandez, the man charged in his killing. Hernandez confessed to the crime three years ago, but his lawyer argues that he is mentally challenged and unable to discern whether he committed the crime or not. Patz's parents have waited a long time for justice, but doubts remain about Hernandez's culpability. Despite his confession, no physical evidence or remains have been found. Hernandez has been diagnosed with schizophrenia and has a low IQ. Another man, Jose Antonio Ramos, who was acquainted with Patz's babysitter, has also been linked to the case but has never been charged. The Patz family sued Ramos and won a $2 million settlement, but they have never received the money. The disappearance of Etan Patz sparked a nationwide awareness of crimes against children and led to the creation of the National Center for Missing & Exploited Children.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "New York City"
+      },
+      {
+        "id": 1,
+        "text": "Etan Patz, a 6-year-old boy who went missing in New York City in 1979"
+      },
+      {
+        "id": 2,
+        "text": "Pedro Hernandez, the man charged in his killing"
+      },
+      {
+        "id": 3,
+        "text": "his killing"
+      },
+      {
+        "id": 4,
+        "text": "confessed"
+      },
+      {
+        "id": 5,
+        "text": "Patz's parents"
+      },
+      {
+        "id": 6,
+        "text": "Another man, Jose Antonio Ramos, who was acquainted with Patz's babysitter"
+      },
+      {
+        "id": 7,
+        "text": "$2 million"
+      },
+      {
+        "id": 8,
+        "text": "went"
+      },
+      {
+        "id": 9,
+        "text": "three years ago"
+      },
+      {
+        "id": 10,
+        "text": "the National Center for Missing & Exploited Children"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "missingIn",
+        "tail": 0
+      },
+      {
+        "head": 2,
+        "relation": "chargedIn",
+        "tail": 3
+      },
+      {
+        "head": 2,
+        "relation": "confessedTo",
+        "tail": 3
+      },
+      {
+        "head": 2,
+        "relation": "confessionTime",
+        "tail": 9
+      },
+      {
+        "head": 5,
+        "relation": "sued",
+        "tail": 6
+      },
+      {
+        "head": 5,
+        "relation": "settlementAmount",
+        "tail": 7
+      },
+      {
+        "head": 1,
+        "relation": "ledToCreationOf",
+        "tail": 10
+      }
+    ]
+  },
+  {
+    "document_id": 266,
+    "ragtruth_id": "362",
+    "text": "Etan Patz, a six-year-old boy who disappeared in New York City in 1979, has been at the center of one of the most widely publicized missing person cases in American history. For more than 35 years, the case of Etan Patz has remained unsolved, with no trace of the child or his killer ever found. On Friday, a New York jury will begin deliberating on the possibility of convicting Pedro Hernandez, a man who has confessed to the murder, for the killing of Etan Patz. However, some have questioned whether Hernandez is capable of understanding the gravity of the situation due to his severe mental illness. Hernandez's lawyer, Harvey Fishbein, has argued that his client suffers from schizophrenia and has an IQ in the borderline-to-mild mental retardation range. Despite the controversy surrounding Hernandez's case, the Patz family has worked tirelessly to keep the memory of their son alive and raise awareness about missing children in America. In the early 1980s, Etan's picture was featured on milk cartons across the country, sparking a national movement to find missing children. Although the number of children abducted and murdered has remained relatively low, the public's perception of the threat has increased significantly. This heightened awareness has led to changes in laws and law enforcement practices aimed at protecting children. The case of Etan Patz continues to inspire hope and determination in the fight against child abduction and murder in America.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "one of the most widely publicized missing person cases in American history"
+      },
+      {
+        "id": 1,
+        "text": "Etan Patz, a six-year-old boy who disappeared in New York City in 1979"
+      },
+      {
+        "id": 2,
+        "text": "New York City"
+      },
+      {
+        "id": 3,
+        "text": "his killer"
+      },
+      {
+        "id": 4,
+        "text": "the murder"
+      },
+      {
+        "id": 5,
+        "text": "Hernandez's lawyer, Harvey Fishbein"
+      },
+      {
+        "id": 6,
+        "text": "the Patz family"
+      },
+      {
+        "id": 7,
+        "text": "America"
+      },
+      {
+        "id": 8,
+        "text": "increased"
+      },
+      {
+        "id": 9,
+        "text": "more than 35 years"
+      },
+      {
+        "id": 10,
+        "text": "Friday"
+      },
+      {
+        "id": 11,
+        "text": "schizophrenia"
+      },
+      {
+        "id": 12,
+        "text": "the early 1980s"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "disappearedIn",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "about",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "duration",
+        "tail": 9
+      },
+      {
+        "head": 0,
+        "relation": "unsolvedFor",
+        "tail": 9
+      },
+      {
+        "head": 3,
+        "relation": "confessedTo",
+        "tail": 4
+      },
+      {
+        "head": 4,
+        "relation": "victim",
+        "tail": 1
+      },
+      {
+        "head": 5,
+        "relation": "lawyerOf",
+        "tail": 3
+      },
+      {
+        "head": 5,
+        "relation": "arguedSuffersFrom",
+        "tail": 11
+      },
+      {
+        "head": 6,
+        "relation": "son",
+        "tail": 1
+      },
+      {
+        "head": 1,
+        "relation": "featuredOn",
+        "tail": 12
+      },
+      {
+        "head": 1,
+        "relation": "featuredIn",
+        "tail": 7
+      },
+      {
+        "head": 0,
+        "relation": "in",
+        "tail": 7
+      }
+    ]
+  },
+  {
+    "document_id": 267,
+    "ragtruth_id": "363",
+    "text": "Here is a summary of the article in 157 words:\n\nEtan Patz, a 6-year-old boy who disappeared in New York City in 1979, will have his case deliberated by a jury again after the accused, Pedro Hernandez, confessed three years ago. However, there are doubts about whether Hernandez is mentally fit to stand trial, as he has been diagnosed with schizophrenia and has an IQ in the borderline-to-mild mental retardation range. Despite this, a New York judge ruled that Hernandez's confession was legal, making it admissible in court. Another man, Jose Antonio Ramos, has also been linked to the case, as he was acquainted with Etan's babysitter and was sued by the boy's parents in 2001. The Patz family has worked to keep the case alive and raise awareness about missing children in the US, leading to the creation of the National Center for Missing & Exploited Children in 1984.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Etan Patz, a 6-year-old boy who disappeared in New York City in 1979"
+      },
+      {
+        "id": 1,
+        "text": "the accused, Pedro Hernandez"
+      },
+      {
+        "id": 2,
+        "text": "New York City"
+      },
+      {
+        "id": 3,
+        "text": "confessed"
+      },
+      {
+        "id": 4,
+        "text": "his case"
+      },
+      {
+        "id": 5,
+        "text": "Another man, Jose Antonio Ramos"
+      },
+      {
+        "id": 6,
+        "text": "157"
+      },
+      {
+        "id": 7,
+        "text": "three years ago"
+      },
+      {
+        "id": 8,
+        "text": "2001"
+      },
+      {
+        "id": 9,
+        "text": "Patz"
+      },
+      {
+        "id": 10,
+        "text": "US"
+      },
+      {
+        "id": 11,
+        "text": "the National Center for Missing & Exploited Children"
+      },
+      {
+        "id": 12,
+        "text": "1984"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "disappearedIn",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "case",
+        "tail": 4
+      },
+      {
+        "head": 1,
+        "relation": "confessed",
+        "tail": 3
+      },
+      {
+        "head": 1,
+        "relation": "confessionTime",
+        "tail": 7
+      },
+      {
+        "head": 3,
+        "relation": "legalIn",
+        "tail": 2
+      },
+      {
+        "head": 5,
+        "relation": "linkedTo",
+        "tail": 4
+      },
+      {
+        "head": 5,
+        "relation": "acquaintedWith",
+        "tail": 0
+      },
+      {
+        "head": 5,
+        "relation": "suedIn",
+        "tail": 8
+      },
+      {
+        "head": 9,
+        "relation": "workedToKeepAlive",
+        "tail": 4
+      },
+      {
+        "head": 9,
+        "relation": "raiseAwarenessAbout",
+        "tail": 10
+      },
+      {
+        "head": 11,
+        "relation": "createdIn",
+        "tail": 12
+      }
+    ]
+  },
+  {
+    "document_id": 268,
+    "ragtruth_id": "364",
+    "text": "Etan Patz, a six-year-old boy, disappeared in New York City in 1979, triggering widespread media attention and a national awareness campaign. His alleged killer, Pedro Hernandez, has been deemed mentally unfit to stand trial, raising questions about the possibility of justice for the Patz family. Despite numerous confessions and a conviction in civil court, no one has been charged with the crime. The case has highlighted the challenges of prosecuting criminals with mental illness and the need for better resources for missing children.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Etan Patz, a six-year-old boy"
+      },
+      {
+        "id": 1,
+        "text": "disappeared"
+      },
+      {
+        "id": 2,
+        "text": "New York City"
+      },
+      {
+        "id": 3,
+        "text": "1979"
+      },
+      {
+        "id": 4,
+        "text": "Pedro Hernandez"
+      },
+      {
+        "id": 5,
+        "text": "Patz"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "disappearedIn",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "disappearedInYear",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "allegedKiller",
+        "tail": 4
+      }
+    ]
+  },
+  {
+    "document_id": 269,
+    "ragtruth_id": "365",
+    "text": "A New York jury will deliberate the verdict of Pedro Hernandez, the man accused of killing Etan Patz, a six-year-old boy who went missing in 1979. Hernandez confessed to the crime three years ago, but his lawyer claims he is mentally challenged and cannot discern whether he committed the crime or not. Despite this, a judge ruled that Hernandez's confession was legal and admissible in court. The case has been high-profile since Etan's disappearance, which led to his photo being featured on milk cartons and raised awareness of missing children in the US. The case also led to the creation of the National Center for Missing & Exploited Children. The Patz family has been seeking justice for 35 years, but questions remain about the possibility of a fair trial given Hernandez's mental state.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Pedro Hernandez, the man accused of killing Etan Patz, a six-year-old boy who went missing in 1979"
+      },
+      {
+        "id": 1,
+        "text": "killing"
+      },
+      {
+        "id": 2,
+        "text": "confessed"
+      },
+      {
+        "id": 3,
+        "text": "Etan Patz, a six-year-old boy who went missing in 1979"
+      },
+      {
+        "id": 4,
+        "text": "The case"
+      },
+      {
+        "id": 5,
+        "text": "New York"
+      },
+      {
+        "id": 6,
+        "text": "three years ago"
+      },
+      {
+        "id": 7,
+        "text": "US"
+      },
+      {
+        "id": 8,
+        "text": "the National Center for Missing & Exploited Children"
+      },
+      {
+        "id": 9,
+        "text": "35 years"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "confession",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "accusedOf",
+        "tail": 1
+      },
+      {
+        "head": 3,
+        "relation": "victimOf",
+        "tail": 1
+      },
+      {
+        "head": 4,
+        "relation": "ledTo",
+        "tail": 8
+      },
+      {
+        "head": 4,
+        "relation": "location",
+        "tail": 5
+      },
+      {
+        "head": 3,
+        "relation": "disappearanceLocation",
+        "tail": 7
+      },
+      {
+        "head": 0,
+        "relation": "confessedTime",
+        "tail": 6
+      },
+      {
+        "head": 3,
+        "relation": "missingDuration",
+        "tail": 9
+      }
+    ]
+  }
+]

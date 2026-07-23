@@ -1,0 +1,1078 @@
+[
+  {
+    "document_id": 670,
+    "ragtruth_id": "904",
+    "text": "Here is a summary of the article in 200 words or less:\n\nLoretta Lynch, nominee for Attorney General, has waited longer for a confirmation vote than any other nominee in recent history. Her nomination has been stuck in limbo for six months due to partisan battles and opposition from some Republicans. While the nomination has been approved by the Senate Judiciary Committee, a full vote by the Senate has yet to be scheduled. Lynch's confirmation has been opposed by some Republicans due to her stance on certain issues and her support for President Obama's executive actions on immigration. Supporters of Lynch's confirmation have been pushing for a vote, and some have accused Republicans of delaying the process due to Lynch's race. Lorenzo Lynch, Loretta Lynch's father, discussed the significance of his daughter's nomination and the challenges she faces in being confirmed.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Loretta Lynch, nominee for Attorney General"
+      },
+      {
+        "id": 1,
+        "text": "Her nomination"
+      },
+      {
+        "id": 2,
+        "text": "Lorenzo Lynch, Loretta Lynch's father"
+      },
+      {
+        "id": 3,
+        "text": "200"
+      },
+      {
+        "id": 4,
+        "text": "six months"
+      },
+      {
+        "id": 5,
+        "text": "Republicans"
+      },
+      {
+        "id": 6,
+        "text": "the Senate Judiciary Committee"
+      },
+      {
+        "id": 7,
+        "text": "Senate"
+      },
+      {
+        "id": 8,
+        "text": "Republicans"
+      },
+      {
+        "id": 9,
+        "text": "Obama"
+      },
+      {
+        "id": 10,
+        "text": "Republicans"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "nomineeFor",
+        "tail": 0
+      },
+      {
+        "head": 1,
+        "relation": "approvedBy",
+        "tail": 6
+      },
+      {
+        "head": 1,
+        "relation": "delayedFor",
+        "tail": 4
+      },
+      {
+        "head": 1,
+        "relation": "voteBy",
+        "tail": 7
+      },
+      {
+        "head": 1,
+        "relation": "opposedBy",
+        "tail": 5
+      },
+      {
+        "head": 1,
+        "relation": "opposedBy",
+        "tail": 8
+      },
+      {
+        "head": 1,
+        "relation": "opposedBy",
+        "tail": 10
+      },
+      {
+        "head": 1,
+        "relation": "supports",
+        "tail": 9
+      },
+      {
+        "head": 2,
+        "relation": "fatherOf",
+        "tail": 0
+      }
+    ]
+  },
+  {
+    "document_id": 671,
+    "ragtruth_id": "905",
+    "text": "President Obama's nomination of Loretta Lynch for Attorney General has been pending for six months, making it the longest waiting period for any Attorney General nominee in recent history. Lynch, who would be the first African American woman to hold the position, has faced opposition from Senate Republicans. Her father, Rev. Lorenzo Lynch, a retired Baptist preacher and civil rights activist, believes that his daughter's confirmation delay is due to her race. Some politicians, such as Rep. G.K. Butterfield and Sen. Dick Durbin, have also suggested that race plays a role in the delay. However, Senate Republicans deny this allegation, citing instead a partisan battle over a human trafficking bill and retaliation for Obama's executive actions on immigration. Supporters of Lynch have organized protests and met with their senators to encourage them to support her confirmation. The fate of Lynch's nomination remains uncertain.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "six months"
+      },
+      {
+        "id": 1,
+        "text": "Attorney General"
+      },
+      {
+        "id": 2,
+        "text": "Loretta Lynch"
+      },
+      {
+        "id": 3,
+        "text": "Her father, Rev. Lorenzo Lynch, a retired Baptist preacher and civil rights activist,"
+      },
+      {
+        "id": 4,
+        "text": "his daughter's confirmation delay"
+      },
+      {
+        "id": 5,
+        "text": "Senate"
+      },
+      {
+        "id": 6,
+        "text": "plays"
+      },
+      {
+        "id": 7,
+        "text": "President Obama's"
+      },
+      {
+        "id": 8,
+        "text": "Supporters of Lynch"
+      },
+      {
+        "id": 9,
+        "text": "their senators"
+      },
+      {
+        "id": 10,
+        "text": "her confirmation"
+      },
+      {
+        "id": 11,
+        "text": "Republicans"
+      },
+      {
+        "id": 12,
+        "text": "G.K. Butterfield"
+      },
+      {
+        "id": 13,
+        "text": "Dick Durbin"
+      },
+      {
+        "id": 14,
+        "text": "Republicans"
+      }
+    ],
+    "relations": [
+      {
+        "head": 2,
+        "relation": "nomineeFor",
+        "tail": 1
+      },
+      {
+        "head": 2,
+        "relation": "pendingFor",
+        "tail": 0
+      },
+      {
+        "head": 4,
+        "relation": "delayOf",
+        "tail": 2
+      },
+      {
+        "head": 4,
+        "relation": "dueTo",
+        "tail": 6
+      },
+      {
+        "head": 8,
+        "relation": "supports",
+        "tail": 2
+      },
+      {
+        "head": 8,
+        "relation": "metWith",
+        "tail": 9
+      },
+      {
+        "head": 8,
+        "relation": "encouraged",
+        "tail": 9
+      },
+      {
+        "head": 10,
+        "relation": "confirmationOf",
+        "tail": 2
+      }
+    ]
+  },
+  {
+    "document_id": 672,
+    "ragtruth_id": "912",
+    "text": "Ryan Gosling's first feature as a director, \"Lost River\", has been divisive since its debut at Cannes last year. However, one aspect that has been universally praised is the film's setting, a decaying Detroit on the brink of annihilation. Gosling revealed that the city was at the heart of the project and that without Detroit's crumbling edifices, there would be no film. It all began as a collection of speculative shots of the Brewster-Douglass Projects, the first black social housing development in America, which were set to be torn down. Gosling's affection for the Motor City is longstanding, having grown up not too far away in Cornwall, Ontario. Despite the bleak depiction of Detroit in his film, Gosling also references signs of humanity and regeneration in the city. The film suggests hope and the possibility of reincarnation for the city. Gosling said, \"We want people to know that dereliction is happening there, but that it's not only what is happening there. It doesn't define Detroit, it's just part of what it's dealing with right now.\" \"Lost River\" will have a limited theatrical release in the U.S. and UK on April 10.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Ryan Gosling's first feature as a director, \"Lost River\""
+      },
+      {
+        "id": 1,
+        "text": "Ryan Gosling's"
+      },
+      {
+        "id": 2,
+        "text": "the city"
+      },
+      {
+        "id": 3,
+        "text": "dereliction"
+      },
+      {
+        "id": 4,
+        "text": "Cannes"
+      },
+      {
+        "id": 5,
+        "text": "last year"
+      },
+      {
+        "id": 6,
+        "text": "one"
+      },
+      {
+        "id": 7,
+        "text": "Detroit"
+      },
+      {
+        "id": 8,
+        "text": "the Brewster-Douglass Projects"
+      },
+      {
+        "id": 9,
+        "text": "first"
+      },
+      {
+        "id": 10,
+        "text": "America"
+      },
+      {
+        "id": 11,
+        "text": "Cornwall"
+      },
+      {
+        "id": 12,
+        "text": "Ontario"
+      },
+      {
+        "id": 13,
+        "text": "Lost River"
+      },
+      {
+        "id": 14,
+        "text": "U.S."
+      },
+      {
+        "id": 15,
+        "text": "UK"
+      },
+      {
+        "id": 16,
+        "text": "April 10"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "debutAt",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "debutDate",
+        "tail": 5
+      },
+      {
+        "head": 0,
+        "relation": "setting",
+        "tail": 7
+      },
+      {
+        "head": 0,
+        "relation": "about",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "references",
+        "tail": 3
+      },
+      {
+        "head": 8,
+        "relation": "locatedIn",
+        "tail": 10
+      },
+      {
+        "head": 8,
+        "relation": "type",
+        "tail": 9
+      },
+      {
+        "head": 13,
+        "relation": "releaseIn",
+        "tail": 14
+      },
+      {
+        "head": 13,
+        "relation": "releaseIn",
+        "tail": 15
+      },
+      {
+        "head": 13,
+        "relation": "releaseDate",
+        "tail": 16
+      }
+    ]
+  },
+  {
+    "document_id": 673,
+    "ragtruth_id": "913",
+    "text": "Ryan Gosling's directorial debut, \"Lost River,\" has been met with mixed reviews and controversy since its premiere at Cannes last year. However, one aspect of the film that has received praise is its portrayal of the decaying city of Detroit. Gosling explains that the city was at the heart of the project, and without its crumbling buildings, there would be no film. He was particularly drawn to the Brewster-Douglass Projects, the first black social housing development in America, which were scheduled to be torn down. Gosling wanted to capture the buildings before they were destroyed and ended up turning his footage into a film. The actor has a longstanding affection for Detroit, and he wanted to create a movie that showcased the city's struggles and resilience. The film portrays a nihilistic image of destruction, but also highlights signs of humanity and regeneration within the chaos. Gosling believes that his film should convey the paradox of Detroit, showing that dereliction is happening but it doesn't define the city. \"Lost River\" will have a limited theatrical release on April 10.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Ryan Gosling's directorial debut, \"Lost River"
+      },
+      {
+        "id": 1,
+        "text": "Ryan Gosling's"
+      },
+      {
+        "id": 2,
+        "text": "the decaying city of Detroit"
+      },
+      {
+        "id": 3,
+        "text": "its crumbling buildings"
+      },
+      {
+        "id": 4,
+        "text": "dereliction"
+      },
+      {
+        "id": 5,
+        "text": "Cannes"
+      },
+      {
+        "id": 6,
+        "text": "last year"
+      },
+      {
+        "id": 7,
+        "text": "one"
+      },
+      {
+        "id": 8,
+        "text": "the Brewster-Douglass Projects"
+      },
+      {
+        "id": 9,
+        "text": "first"
+      },
+      {
+        "id": 10,
+        "text": "America"
+      },
+      {
+        "id": 11,
+        "text": "Lost River"
+      },
+      {
+        "id": 12,
+        "text": "April 10"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "premieredAt",
+        "tail": 5
+      },
+      {
+        "head": 0,
+        "relation": "premiereDate",
+        "tail": 6
+      },
+      {
+        "head": 0,
+        "relation": "depicts",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "setIn",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "focusesOn",
+        "tail": 2
+      },
+      {
+        "head": 1,
+        "relation": "affectionFor",
+        "tail": 2
+      },
+      {
+        "head": 1,
+        "relation": "wantedToCapture",
+        "tail": 3
+      },
+      {
+        "head": 8,
+        "relation": "locatedIn",
+        "tail": 10
+      },
+      {
+        "head": 11,
+        "relation": "releaseDate",
+        "tail": 12
+      }
+    ]
+  },
+  {
+    "document_id": 674,
+    "ragtruth_id": "914",
+    "text": "Ryan Gosling's \"Lost River\" is a post-industrial gothic film set in the decaying city of Detroit. The movie began as a collection of speculative shots of the Brewster-Douglass Projects, which were slated for demolition. Gosling became fascinated with the city and spent time exploring the projects, eventually filming there. The film follows a young girl who navigates a nightmarish world of wanton destruction and extreme violence in her attempt to reclaim her home. Despite the dark subject matter, Gosling emphasizes the potential for renewal and rebirth in the city. \"Lost River\" received a limited theatrical release in the US and UK on April 10.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Ryan Gosling's \"Lost River\""
+      },
+      {
+        "id": 1,
+        "text": "Ryan Gosling's"
+      },
+      {
+        "id": 2,
+        "text": "the decaying city of Detroit"
+      },
+      {
+        "id": 3,
+        "text": "the Brewster-Douglass Projects, which were slated for demolition"
+      },
+      {
+        "id": 4,
+        "text": "a young girl who navigates a nightmarish world of wanton destruction and extreme violence in her attempt to reclaim her home"
+      },
+      {
+        "id": 5,
+        "text": "US"
+      },
+      {
+        "id": 6,
+        "text": "UK"
+      },
+      {
+        "id": 7,
+        "text": "April 10"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "setIn",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "beganAs",
+        "tail": 3
+      },
+      {
+        "head": 1,
+        "relation": "fascinatedWith",
+        "tail": 2
+      },
+      {
+        "head": 1,
+        "relation": "filmedIn",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "releasedIn",
+        "tail": 5
+      },
+      {
+        "head": 0,
+        "relation": "releasedIn",
+        "tail": 6
+      },
+      {
+        "head": 0,
+        "relation": "releaseDate",
+        "tail": 7
+      }
+    ]
+  },
+  {
+    "document_id": 675,
+    "ragtruth_id": "915",
+    "text": "Sure! Here's a summary of the article in 168 words:\n\nRyan Gosling's directorial debut, \"Lost River,\" has sparked controversy with its depiction of Detroit's decline. Critics booed the film at Cannes and panned it, but Gosling remains defiant, praising the city's resilience. Shot in and around Detroit, the film explores the city's decay and the struggles of its residents. Gosling's passion for the city dates back to his childhood, and he wanted to highlight the human side of the city's woes. Despite the bleak visuals, there are signs of hope and regeneration in the film, with the protagonist finding ways to repurpose discarded materials. The film receives a limited theatrical release in the US and UK on April 10.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Ryan Gosling's directorial debut, \"Lost River"
+      },
+      {
+        "id": 1,
+        "text": "Ryan Gosling's"
+      },
+      {
+        "id": 2,
+        "text": "Detroit's"
+      },
+      {
+        "id": 3,
+        "text": "168"
+      },
+      {
+        "id": 4,
+        "text": "Cannes"
+      },
+      {
+        "id": 5,
+        "text": "US"
+      },
+      {
+        "id": 6,
+        "text": "UK"
+      },
+      {
+        "id": 7,
+        "text": "April 10"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "director",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "depicts",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "shotIn",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "screenedAt",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "releaseDate",
+        "tail": 7
+      },
+      {
+        "head": 0,
+        "relation": "releasedIn",
+        "tail": 5
+      },
+      {
+        "head": 0,
+        "relation": "releasedIn",
+        "tail": 6
+      }
+    ]
+  },
+  {
+    "document_id": 676,
+    "ragtruth_id": "916",
+    "text": "Here is a summary of the article in 168 words:\n\nRyan Gosling's directorial debut, \"Lost River,\" has caused a stir since its premiere at Cannes last year. The film is set in decaying Detroit, which Gosling captures in all its waning splendor. He became inspired to make the film after discovering the Brewster-Douglass Projects, the first black social housing development in America, were going to be torn down. Gosling wants to highlight the city's rebirth and resilience despite the decay and human violence portrayed in the film. He references the Heidelberg Project, a community organization that transforms derelict buildings into works of art. Gosling hopes the film conveys hope and the possibility of reincarnation for the city, while also acknowledging the reality of dereliction. \"Lost River\" will have a limited theatrical release on April 10 in the US and UK.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Ryan Gosling's directorial debut, \"Lost River"
+      },
+      {
+        "id": 1,
+        "text": "Ryan Gosling's"
+      },
+      {
+        "id": 2,
+        "text": "decaying Detroit, which Gosling captures in all its waning splendor"
+      },
+      {
+        "id": 3,
+        "text": "168"
+      },
+      {
+        "id": 4,
+        "text": "Cannes"
+      },
+      {
+        "id": 5,
+        "text": "last year"
+      },
+      {
+        "id": 6,
+        "text": "the Brewster-Douglass Projects"
+      },
+      {
+        "id": 7,
+        "text": "first"
+      },
+      {
+        "id": 8,
+        "text": "America"
+      },
+      {
+        "id": 9,
+        "text": "the Heidelberg Project"
+      },
+      {
+        "id": 10,
+        "text": "Lost River"
+      },
+      {
+        "id": 11,
+        "text": "April 10"
+      },
+      {
+        "id": 12,
+        "text": "US"
+      },
+      {
+        "id": 13,
+        "text": "UK"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "premieredAt",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "premiereDate",
+        "tail": 5
+      },
+      {
+        "head": 0,
+        "relation": "setIn",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "inspiredBy",
+        "tail": 6
+      },
+      {
+        "head": 6,
+        "relation": "locatedIn",
+        "tail": 8
+      },
+      {
+        "head": 0,
+        "relation": "releaseDate",
+        "tail": 11
+      },
+      {
+        "head": 0,
+        "relation": "releasedIn",
+        "tail": 12
+      },
+      {
+        "head": 0,
+        "relation": "releasedIn",
+        "tail": 13
+      }
+    ]
+  },
+  {
+    "document_id": 677,
+    "ragtruth_id": "917",
+    "text": "Ryan Gosling's directorial debut, \"Lost River,\" has been polarizing critics and audiences alike since its Cannes premiere last year. The film is set in decaying Detroit, which Gosling felt was essential to the story. He began shooting the film as a collection of speculative shots of the Brewster-Douglass Projects, the first black social housing development in America, before realizing he was making a film. Gosling wanted to capture the city's waning splendor and use it as a backdrop for his post-industrial gothic tale. Despite the controversy surrounding the film, Gosling believes it conveys a message of hope and the possibility of reincarnation for Detroit. He references the Heidelberg Project, a community organization that transforms derelict buildings into art canvases, as an example of the city's resilience and energy. \"Lost River\" received a limited theatrical release in the US and UK on April 10.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Ryan Gosling's directorial debut, \"Lost River"
+      },
+      {
+        "id": 1,
+        "text": "Ryan Gosling's"
+      },
+      {
+        "id": 2,
+        "text": "decaying Detroit, which Gosling felt was essential to the story"
+      },
+      {
+        "id": 3,
+        "text": "the city's waning splendor"
+      },
+      {
+        "id": 4,
+        "text": "Cannes"
+      },
+      {
+        "id": 5,
+        "text": "last year"
+      },
+      {
+        "id": 6,
+        "text": "the Brewster-Douglass Projects"
+      },
+      {
+        "id": 7,
+        "text": "first"
+      },
+      {
+        "id": 8,
+        "text": "America"
+      },
+      {
+        "id": 9,
+        "text": "the Heidelberg Project"
+      },
+      {
+        "id": 10,
+        "text": "Lost River"
+      },
+      {
+        "id": 11,
+        "text": "US"
+      },
+      {
+        "id": 12,
+        "text": "UK"
+      },
+      {
+        "id": 13,
+        "text": "April 10"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "premieredAt",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "premiereDate",
+        "tail": 5
+      },
+      {
+        "head": 0,
+        "relation": "setIn",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "filmedAt",
+        "tail": 6
+      },
+      {
+        "head": 6,
+        "relation": "locatedIn",
+        "tail": 8
+      },
+      {
+        "head": 0,
+        "relation": "releaseRegion",
+        "tail": 11
+      },
+      {
+        "head": 0,
+        "relation": "releaseRegion",
+        "tail": 12
+      },
+      {
+        "head": 0,
+        "relation": "releaseDate",
+        "tail": 13
+      }
+    ]
+  },
+  {
+    "document_id": 678,
+    "ragtruth_id": "918",
+    "text": "The Summit of the Americas is taking place in Panama, and for the first time since 1962, the US has not blocked Cuba's attendance. This is a step forward in the thawing relations between the two countries, and there are hopes that it could push forward an agreement to re-establish formal relations and re-open embassies. President Obama is not scheduled to meet Cuban leader Raul Castro, but there is opportunity for interaction between the leaders. However, Cuban officials have stated that full restoration of diplomatic ties cannot occur until Cuba is removed from the US State Department's list of countries that support terrorism. The designation carries financial sanctions which Cuban officials say further damages their ailing economy. It appears that the White House may announce its intent to de-list Cuba this week. It remains to be seen how Cuba's relationship with Venezuela will affect its improving relationship with the US, however 97% of 1,200 Cubans surveyed recently supported improved US-Cuban relations.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "This"
+      },
+      {
+        "id": 1,
+        "text": "Cuba's"
+      },
+      {
+        "id": 2,
+        "text": "removed"
+      },
+      {
+        "id": 3,
+        "text": "Cuban officials"
+      },
+      {
+        "id": 4,
+        "text": "the White House"
+      },
+      {
+        "id": 5,
+        "text": "the US"
+      },
+      {
+        "id": 6,
+        "text": "Americas"
+      },
+      {
+        "id": 7,
+        "text": "Panama"
+      },
+      {
+        "id": 8,
+        "text": "first"
+      },
+      {
+        "id": 9,
+        "text": "1962"
+      },
+      {
+        "id": 10,
+        "text": "two"
+      },
+      {
+        "id": 11,
+        "text": "Obama"
+      },
+      {
+        "id": 12,
+        "text": "Cuban"
+      },
+      {
+        "id": 13,
+        "text": "Raul Castro"
+      },
+      {
+        "id": 14,
+        "text": "Cuban"
+      },
+      {
+        "id": 15,
+        "text": "the US State Department's"
+      },
+      {
+        "id": 16,
+        "text": "this week"
+      },
+      {
+        "id": 17,
+        "text": "Venezuela"
+      },
+      {
+        "id": 18,
+        "text": "97%"
+      },
+      {
+        "id": 19,
+        "text": "1,200"
+      },
+      {
+        "id": 20,
+        "text": "Cubans"
+      },
+      {
+        "id": 21,
+        "text": "US"
+      },
+      {
+        "id": 22,
+        "text": "Cuban"
+      }
+    ],
+    "relations": [
+      {
+        "head": 6,
+        "relation": "location",
+        "tail": 7
+      },
+      {
+        "head": 5,
+        "relation": "blockedAttendanceOf",
+        "tail": 1
+      },
+      {
+        "head": 1,
+        "relation": "removedFrom",
+        "tail": 15
+      },
+      {
+        "head": 4,
+        "relation": "intentToDelist",
+        "tail": 1
+      },
+      {
+        "head": 1,
+        "relation": "relationshipWith",
+        "tail": 17
+      },
+      {
+        "head": 1,
+        "relation": "relationshipWith",
+        "tail": 5
+      }
+    ]
+  },
+  {
+    "document_id": 679,
+    "ragtruth_id": "919",
+    "text": "Cuba has successfully gained support from other regional countries to attend the Summit of the Americas, and the United States has not blocked their attempt to join for the first time since 1962. However, Cuba's attempts to rebrand itself as an open and diverse society were hindered by a brawl between government supporters and anti-Castro supporters in Panama. The U.S. now has important issues to discuss with Cuba, including the re-establishment of formal relations and re-opening embassies. Although President Obama is not scheduled to meet with Cuban leader Raul Castro, there will be opportunities for interaction between the two leaders. The forum could provide the opportunity to push forward an agreement on these matters. The U.S. State Department has recommended removing Cuba from the list of countries that support terrorism, which could happen as early as this week. However, Cuban officials have stated that a full restoration of diplomatic ties cannot occur until Cuba is removed from the list. Additionally, the U.S. has dialed back rhetoric on Venezuela, stating that the country does not pose a national security threat. Cuba has close ties to Venezuela and has criticized U.S. policy towards the country. A poll of 1,200 Cubans showed that 97% of respondents supported improved U.S.-Cuban relations. It remains to be seen how much Cuba will risk its warming relations with the U.S. to support Venezuela.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Cuba"
+      },
+      {
+        "id": 1,
+        "text": "the United States"
+      },
+      {
+        "id": 2,
+        "text": "Castro"
+      },
+      {
+        "id": 3,
+        "text": "the Summit of the Americas"
+      },
+      {
+        "id": 4,
+        "text": "important issues to discuss with Cuba, including the re-establishment of formal relations and re-opening embassies"
+      },
+      {
+        "id": 5,
+        "text": "the list of countries that support terrorism"
+      },
+      {
+        "id": 6,
+        "text": "Venezuela"
+      },
+      {
+        "id": 7,
+        "text": "first"
+      },
+      {
+        "id": 8,
+        "text": "1962"
+      },
+      {
+        "id": 9,
+        "text": "anti-Castro"
+      },
+      {
+        "id": 10,
+        "text": "Panama"
+      },
+      {
+        "id": 11,
+        "text": "Obama"
+      },
+      {
+        "id": 12,
+        "text": "two"
+      },
+      {
+        "id": 13,
+        "text": "The U.S. State Department"
+      },
+      {
+        "id": 14,
+        "text": "this week"
+      },
+      {
+        "id": 15,
+        "text": "Cuban"
+      },
+      {
+        "id": 16,
+        "text": "U.S."
+      },
+      {
+        "id": 17,
+        "text": "1,200"
+      },
+      {
+        "id": 18,
+        "text": "Cubans"
+      },
+      {
+        "id": 19,
+        "text": "97%"
+      },
+      {
+        "id": 20,
+        "text": "U.S.-Cuban"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "attend",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "attemptedJoinSince",
+        "tail": 8
+      },
+      {
+        "head": 0,
+        "relation": "blockedBy",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "hasIssueToDiscussWith",
+        "tail": 1
+      },
+      {
+        "head": 4,
+        "relation": "withCountry",
+        "tail": 0
+      },
+      {
+        "head": 0,
+        "relation": "removedFromList",
+        "tail": 5
+      },
+      {
+        "head": 13,
+        "relation": "recommendedRemovalFrom",
+        "tail": 0
+      },
+      {
+        "head": 0,
+        "relation": "closeTiesWith",
+        "tail": 6
+      },
+      {
+        "head": 0,
+        "relation": "criticizedPolicyTowards",
+        "tail": 6
+      },
+      {
+        "head": 18,
+        "relation": "supported",
+        "tail": 20
+      }
+    ]
+  }
+]

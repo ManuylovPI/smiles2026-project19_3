@@ -1,0 +1,938 @@
+[
+  {
+    "document_id": 480,
+    "ragtruth_id": "660",
+    "text": "Amnesty International has released its annual review of the death penalty worldwide, which highlights the use of death sentences as a political tool, and a response to crime and terrorism. In 2014, a public trial in China sentenced 55 people in relation to violent attacks in the region, with three sentenced to death. The event was part of China's 'Strike Hard' campaign against unrest in Xinjiang, a campaign the government claims was launched to combat \"terrorism\" and \"separatism.\" Pakistan lifted a six-year moratorium on the execution of civilians after a Taliban attack on a school in Peshawar in December, with over 60 people executed since. Iran and Iraq have executed people for \"terrorism,\" and other countries have expanded the scope of capital crimes in their penal codes. Jordan ended an eight-year moratorium in December, executing 11 murder convicts, in a move to end a surge in violent crime. Indonesia announced plans to execute mainly drug traffickers to tackle a public safety \"national emergency,\" with six people already executed this year. The rise in death sentences recorded in 2014 was largely due to developments in Egypt and Nigeria, with courts imposing hundreds of death sentences in the context of internal political instability or crime and armed conflict. There is no evidence that the threat of execution is more of a deterrent to crime than a prison sentence, as United Nations and other studies have repeatedly confirmed.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Amnesty International"
+      },
+      {
+        "id": 1,
+        "text": "a public trial in China"
+      },
+      {
+        "id": 2,
+        "text": "China"
+      },
+      {
+        "id": 3,
+        "text": "other countries"
+      },
+      {
+        "id": 4,
+        "text": "December"
+      },
+      {
+        "id": 5,
+        "text": "2014"
+      },
+      {
+        "id": 6,
+        "text": "55"
+      },
+      {
+        "id": 7,
+        "text": "three"
+      },
+      {
+        "id": 8,
+        "text": "Strike Hard'"
+      },
+      {
+        "id": 9,
+        "text": "Xinjiang"
+      },
+      {
+        "id": 10,
+        "text": "Pakistan"
+      },
+      {
+        "id": 11,
+        "text": "six-year"
+      },
+      {
+        "id": 12,
+        "text": "Taliban"
+      },
+      {
+        "id": 13,
+        "text": "Peshawar"
+      },
+      {
+        "id": 14,
+        "text": "60"
+      },
+      {
+        "id": 15,
+        "text": "Iran"
+      },
+      {
+        "id": 16,
+        "text": "Iraq"
+      },
+      {
+        "id": 17,
+        "text": "Jordan"
+      },
+      {
+        "id": 18,
+        "text": "eight-year"
+      },
+      {
+        "id": 19,
+        "text": "11"
+      },
+      {
+        "id": 20,
+        "text": "Indonesia"
+      },
+      {
+        "id": 21,
+        "text": "six"
+      },
+      {
+        "id": 22,
+        "text": "Egypt"
+      },
+      {
+        "id": 23,
+        "text": "Nigeria"
+      },
+      {
+        "id": 24,
+        "text": "hundreds"
+      },
+      {
+        "id": 25,
+        "text": "United Nations"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "locatedIn",
+        "tail": 2
+      },
+      {
+        "head": 1,
+        "relation": "partOf",
+        "tail": 8
+      },
+      {
+        "head": 8,
+        "relation": "against",
+        "tail": 9
+      },
+      {
+        "head": 10,
+        "relation": "liftedMoratoriumDuration",
+        "tail": 11
+      },
+      {
+        "head": 10,
+        "relation": "liftedMoratoriumAfter",
+        "tail": 12
+      },
+      {
+        "head": 12,
+        "relation": "attackLocation",
+        "tail": 13
+      },
+      {
+        "head": 17,
+        "relation": "endedMoratoriumDuration",
+        "tail": 18
+      },
+      {
+        "head": 17,
+        "relation": "executed",
+        "tail": 19
+      },
+      {
+        "head": 20,
+        "relation": "executed",
+        "tail": 21
+      },
+      {
+        "head": 22,
+        "relation": "contributedTo",
+        "tail": 5
+      },
+      {
+        "head": 23,
+        "relation": "contributedTo",
+        "tail": 5
+      }
+    ]
+  },
+  {
+    "document_id": 481,
+    "ragtruth_id": "661",
+    "text": "Amnesty International has released its annual review of the death penalty worldwide, highlighting governments' use of executions as a misguided attempt to combat crime and terrorism. The report mentions China's \"Strike Hard\" campaign in Xinjiang, where 55 people were found guilty of offenses linked to violent attacks and three were sentenced to death. Pakistan lifted a six-year moratorium on civilian executions following a Taliban attack, resulting in over 60 executions. Iran and Iraq executed people for \"terrorism,\" and other countries expanded the scope of capital crimes. Jordan ended an eight-year moratorium to address violent crime, while Indonesia executed drug traffickers to tackle a public safety \"national emergency.\" The rise in death sentences recorded in 2014 can be attributed to governments using the death penalty as a political tool. However, there is no evidence that execution acts as a more effective deterrent than a prison sentence. Amnesty International has campaigned for an end to the death penalty, and the numbers show progress, with 140 states now abolitionist in law or practice. The number of global executions decreased from 778 in the previous year to 607 in 2014. The report emphasizes the need for governments to recognize that they are on the wrong side of history and join the majority of countries that have abolished the death penalty.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Amnesty International"
+      },
+      {
+        "id": 1,
+        "text": "its annual review of the death penalty worldwide"
+      },
+      {
+        "id": 2,
+        "text": "the death penalty"
+      },
+      {
+        "id": 3,
+        "text": "2014"
+      },
+      {
+        "id": 4,
+        "text": "governments"
+      },
+      {
+        "id": 5,
+        "text": "China"
+      },
+      {
+        "id": 6,
+        "text": "Strike Hard"
+      },
+      {
+        "id": 7,
+        "text": "Xinjiang"
+      },
+      {
+        "id": 8,
+        "text": "55"
+      },
+      {
+        "id": 9,
+        "text": "three"
+      },
+      {
+        "id": 10,
+        "text": "Pakistan"
+      },
+      {
+        "id": 11,
+        "text": "six-year"
+      },
+      {
+        "id": 12,
+        "text": "Taliban"
+      },
+      {
+        "id": 13,
+        "text": "over 60"
+      },
+      {
+        "id": 14,
+        "text": "Iran"
+      },
+      {
+        "id": 15,
+        "text": "Iraq"
+      },
+      {
+        "id": 16,
+        "text": "Jordan"
+      },
+      {
+        "id": 17,
+        "text": "eight-year"
+      },
+      {
+        "id": 18,
+        "text": "Indonesia"
+      },
+      {
+        "id": 19,
+        "text": "140"
+      },
+      {
+        "id": 20,
+        "text": "778"
+      },
+      {
+        "id": 21,
+        "text": "the previous year"
+      },
+      {
+        "id": 22,
+        "text": "607"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "released",
+        "tail": 1
+      },
+      {
+        "head": 1,
+        "relation": "mentions",
+        "tail": 5
+      },
+      {
+        "head": 1,
+        "relation": "mentions",
+        "tail": 6
+      },
+      {
+        "head": 1,
+        "relation": "mentions",
+        "tail": 7
+      },
+      {
+        "head": 1,
+        "relation": "mentions",
+        "tail": 8
+      },
+      {
+        "head": 1,
+        "relation": "mentions",
+        "tail": 9
+      },
+      {
+        "head": 1,
+        "relation": "mentions",
+        "tail": 10
+      },
+      {
+        "head": 1,
+        "relation": "mentions",
+        "tail": 11
+      },
+      {
+        "head": 1,
+        "relation": "mentions",
+        "tail": 12
+      },
+      {
+        "head": 1,
+        "relation": "mentions",
+        "tail": 13
+      },
+      {
+        "head": 1,
+        "relation": "mentions",
+        "tail": 14
+      },
+      {
+        "head": 1,
+        "relation": "mentions",
+        "tail": 15
+      },
+      {
+        "head": 1,
+        "relation": "mentions",
+        "tail": 16
+      },
+      {
+        "head": 1,
+        "relation": "mentions",
+        "tail": 17
+      },
+      {
+        "head": 1,
+        "relation": "mentions",
+        "tail": 18
+      },
+      {
+        "head": 1,
+        "relation": "mentions",
+        "tail": 19
+      },
+      {
+        "head": 1,
+        "relation": "mentions",
+        "tail": 20
+      },
+      {
+        "head": 1,
+        "relation": "mentions",
+        "tail": 21
+      },
+      {
+        "head": 1,
+        "relation": "mentions",
+        "tail": 22
+      },
+      {
+        "head": 1,
+        "relation": "mentions",
+        "tail": 3
+      },
+      {
+        "head": 5,
+        "relation": "campaign",
+        "tail": 6
+      },
+      {
+        "head": 6,
+        "relation": "location",
+        "tail": 7
+      },
+      {
+        "head": 10,
+        "relation": "moratoriumDuration",
+        "tail": 11
+      },
+      {
+        "head": 10,
+        "relation": "liftedMoratoriumAfterAttackBy",
+        "tail": 12
+      },
+      {
+        "head": 14,
+        "relation": "executedFor",
+        "tail": 2
+      },
+      {
+        "head": 15,
+        "relation": "executedFor",
+        "tail": 2
+      },
+      {
+        "head": 16,
+        "relation": "moratoriumDuration",
+        "tail": 17
+      },
+      {
+        "head": 18,
+        "relation": "executedToTackle",
+        "tail": 2
+      },
+      {
+        "head": 2,
+        "relation": "recordedIn",
+        "tail": 3
+      },
+      {
+        "head": 2,
+        "relation": "abolitionistStates",
+        "tail": 19
+      },
+      {
+        "head": 2,
+        "relation": "executionsPreviousYear",
+        "tail": 20
+      },
+      {
+        "head": 2,
+        "relation": "executionsInYear",
+        "tail": 22
+      },
+      {
+        "head": 20,
+        "relation": "previousYear",
+        "tail": 21
+      }
+    ]
+  },
+  {
+    "document_id": 482,
+    "ragtruth_id": "662",
+    "text": "On May 28th, 2014, authorities in China's Xinjiang region paraded over 7,000 people dressed in orange jumpuits. These individuals were later tried and 55 were found guilty of various crimes linked to violent attacks in the region. Three were sentenced to death. This event was part of China's \"Strike Hard\" campaign against unrest in Xinjiang, a campaign that involves the use of the death penalty as part of an effort to combat \"terrorism\" and \"separatism\". The use of the death penalty in this manner is a global phenomenon, with many countries executing individuals under similar circumstances in an attempt to address crime and terrorism. Amnesty International has released its annual report on the death penalty worldwide, highlighting examples from Pakistan, Iran, and Iraq. The report also notes a significant decrease in the number of executions around the world compared to previous years, despite the ongoing use of the death penalty in countries like China and Saudi Arabia.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "over 7,000 people dressed in orange jumpuits"
+      },
+      {
+        "id": 1,
+        "text": "China's Xinjiang region"
+      },
+      {
+        "id": 2,
+        "text": "paraded"
+      },
+      {
+        "id": 3,
+        "text": "China's"
+      },
+      {
+        "id": 4,
+        "text": "Amnesty International"
+      },
+      {
+        "id": 5,
+        "text": "its annual report on the death penalty worldwide"
+      },
+      {
+        "id": 6,
+        "text": "May 28th, 2014"
+      },
+      {
+        "id": 7,
+        "text": "55"
+      },
+      {
+        "id": 8,
+        "text": "Three"
+      },
+      {
+        "id": 9,
+        "text": "Strike Hard"
+      },
+      {
+        "id": 10,
+        "text": "Pakistan"
+      },
+      {
+        "id": 11,
+        "text": "Iran"
+      },
+      {
+        "id": 12,
+        "text": "Iraq"
+      },
+      {
+        "id": 13,
+        "text": "previous years"
+      },
+      {
+        "id": 14,
+        "text": "Saudi Arabia"
+      }
+    ],
+    "relations": [
+      {
+        "head": 2,
+        "relation": "date",
+        "tail": 6
+      },
+      {
+        "head": 2,
+        "relation": "location",
+        "tail": 1
+      },
+      {
+        "head": 2,
+        "relation": "participant",
+        "tail": 0
+      },
+      {
+        "head": 0,
+        "relation": "numberFoundGuilty",
+        "tail": 7
+      },
+      {
+        "head": 0,
+        "relation": "numberSentencedToDeath",
+        "tail": 8
+      },
+      {
+        "head": 2,
+        "relation": "partOf",
+        "tail": 9
+      },
+      {
+        "head": 9,
+        "relation": "location",
+        "tail": 1
+      },
+      {
+        "head": 4,
+        "relation": "released",
+        "tail": 5
+      },
+      {
+        "head": 5,
+        "relation": "comparedTo",
+        "tail": 13
+      }
+    ]
+  },
+  {
+    "document_id": 483,
+    "ragtruth_id": "663",
+    "text": "On May 28, 2014, in Xinjiang, China, over 7,000 people attended an outdoor trial where 55 people were found guilty of various crimes and sentenced to death. This is part of China's \"Strike Hard\" campaign against unrest in the region, which has seen scores of prisoners dressed in orange jumpsuits paraded in front of crowds. Amnesty International has released a report on the use of the death penalty worldwide, highlighting how many governments are resorting to executions in response to terrorism and crime. The report shows that while the number of executions globally decreased in 2014, there were significant increases in countries such as Pakistan, Iran, and Egypt, where governments have implemented or lifted moratoriums on the death penalty. Amnesty International has been advocating for the abolition of the death penalty for decades and notes that there is no evidence that the threat of execution is a deterrent to crime.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "an outdoor trial where 55 people were found guilty of various crimes and sentenced to death"
+      },
+      {
+        "id": 1,
+        "text": "China"
+      },
+      {
+        "id": 2,
+        "text": "Xinjiang, China"
+      },
+      {
+        "id": 3,
+        "text": "a report on the use of the death penalty worldwide"
+      },
+      {
+        "id": 4,
+        "text": "2014"
+      },
+      {
+        "id": 5,
+        "text": "Amnesty International"
+      },
+      {
+        "id": 6,
+        "text": "May 28, 2014"
+      },
+      {
+        "id": 7,
+        "text": "over 7,000"
+      },
+      {
+        "id": 8,
+        "text": "Strike Hard"
+      },
+      {
+        "id": 9,
+        "text": "Pakistan"
+      },
+      {
+        "id": 10,
+        "text": "Iran"
+      },
+      {
+        "id": 11,
+        "text": "Egypt"
+      },
+      {
+        "id": 12,
+        "text": "decades"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "date",
+        "tail": 6
+      },
+      {
+        "head": 0,
+        "relation": "location",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "attendeeCount",
+        "tail": 7
+      },
+      {
+        "head": 0,
+        "relation": "partOf",
+        "tail": 8
+      },
+      {
+        "head": 3,
+        "relation": "publisher",
+        "tail": 5
+      },
+      {
+        "head": 3,
+        "relation": "date",
+        "tail": 4
+      }
+    ]
+  },
+  {
+    "document_id": 484,
+    "ragtruth_id": "664",
+    "text": "Here is a summary of the article in 184 words:\n\nIn 2014, many governments resorted to using the death penalty as a means to address crime and terrorism, despite evidence that it is not an effective deterrent. China paraded prisoners in a public mass sentencing, and countries such as Pakistan, Iran, and Iraq executed people for \"terrorism\" and other crimes. The number of executions globally dropped significantly in 2014 compared to the previous year, with only 607 recorded in 22 countries. However, there were troubling developments in Egypt and Nigeria, where courts imposed hundreds of death sentences. The use of the death penalty as a political tool is on the rise, and Amnesty International calls on governments to join the majority of countries that have abolished the death penalty.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "the death penalty"
+      },
+      {
+        "id": 1,
+        "text": "2014"
+      },
+      {
+        "id": 2,
+        "text": "184"
+      },
+      {
+        "id": 3,
+        "text": "China"
+      },
+      {
+        "id": 4,
+        "text": "Pakistan"
+      },
+      {
+        "id": 5,
+        "text": "Iran"
+      },
+      {
+        "id": 6,
+        "text": "Iraq"
+      },
+      {
+        "id": 7,
+        "text": "the previous year"
+      },
+      {
+        "id": 8,
+        "text": "only 607"
+      },
+      {
+        "id": 9,
+        "text": "22"
+      },
+      {
+        "id": 10,
+        "text": "Egypt"
+      },
+      {
+        "id": 11,
+        "text": "Nigeria"
+      },
+      {
+        "id": 12,
+        "text": "hundreds"
+      },
+      {
+        "id": 13,
+        "text": "Amnesty International"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "usedIn",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "usedIn",
+        "tail": 7
+      },
+      {
+        "head": 0,
+        "relation": "executionsCount",
+        "tail": 8
+      },
+      {
+        "head": 0,
+        "relation": "countriesCount",
+        "tail": 9
+      },
+      {
+        "head": 0,
+        "relation": "deathSentencesCount",
+        "tail": 12
+      }
+    ]
+  },
+  {
+    "document_id": 485,
+    "ragtruth_id": "665",
+    "text": "In 2014, the Chinese government held a mass sentencing event in which 55 people were found guilty and sentenced to prison, with three receiving the death penalty. This event was part of the government's \"Strike Hard\" campaign against unrest in the Xinjiang region. However, the use of the death penalty as a means of combating crime and terrorism is a trend that has been criticized by human rights organizations such as Amnesty International. In their annual review of the death penalty worldwide, Amnesty International notes that many countries are using the death penalty as a political tool, despite a lack of evidence that it is an effective deterrent to crime. While some countries, such as Pakistan and Indonesia, have increased their use of the death penalty in response to terrorism and crime, others, such as Jordan and Egypt, have implemented moratoriums or abolished the practice altogether. Amnesty International argues that the death penalty is a violation of human rights and that it is not an effective means of addressing crime or terrorism. They call on governments to work towards a world free of the death penalty.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "a mass sentencing event in which 55 people were found guilty and sentenced to prison, with three receiving the death penalty"
+      },
+      {
+        "id": 1,
+        "text": "the Chinese government"
+      },
+      {
+        "id": 2,
+        "text": "Amnesty International"
+      },
+      {
+        "id": 3,
+        "text": "the death penalty"
+      },
+      {
+        "id": 4,
+        "text": "some countries, such as Pakistan and Indonesia"
+      },
+      {
+        "id": 5,
+        "text": "2014"
+      },
+      {
+        "id": 6,
+        "text": "Strike Hard"
+      },
+      {
+        "id": 7,
+        "text": "Xinjiang"
+      },
+      {
+        "id": 8,
+        "text": "Jordan"
+      },
+      {
+        "id": 9,
+        "text": "Egypt"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "date",
+        "tail": 5
+      },
+      {
+        "head": 0,
+        "relation": "heldBy",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "partOf",
+        "tail": 6
+      },
+      {
+        "head": 6,
+        "relation": "targetRegion",
+        "tail": 7
+      },
+      {
+        "head": 3,
+        "relation": "criticizedBy",
+        "tail": 2
+      },
+      {
+        "head": 3,
+        "relation": "criticizedBy",
+        "tail": 2
+      },
+      {
+        "head": 4,
+        "relation": "increasedUseOf",
+        "tail": 3
+      },
+      {
+        "head": 8,
+        "relation": "implemented",
+        "tail": 3
+      },
+      {
+        "head": 9,
+        "relation": "implemented",
+        "tail": 3
+      }
+    ]
+  },
+  {
+    "document_id": 486,
+    "ragtruth_id": "666",
+    "text": "A student at Duke University has admitted to hanging a noose from a tree near a student union. The student, who has not been identified due to federal privacy laws, is no longer on campus and will face a student conduct review. The incident, which is one of several recent racist events on college campuses, led to protests by students and faculty members. University officials are still investigating if others were involved and criminal investigations into the incident are ongoing.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "The incident, which is one of several recent racist events on college campuses"
+      },
+      {
+        "id": 1,
+        "text": "Duke University"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "occurredAt",
+        "tail": 1
+      }
+    ]
+  },
+  {
+    "document_id": 487,
+    "ragtruth_id": "667",
+    "text": "A Duke University student has admitted to hanging a noose from a tree near a student union, according to university officials. The student, who remains unidentified, will face a student conduct review and is no longer on campus. Campus police and the office of student affairs conducted an investigation into the incident and are determining if others were involved. The incident has sparked protests on campus, with students and faculty members marching and gathering at a forum. This incident is one of several recent racist events to impact college campuses across the United States.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "A Duke University student"
+      },
+      {
+        "id": 1,
+        "text": "hanging"
+      },
+      {
+        "id": 2,
+        "text": "the United States"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "location",
+        "tail": 2
+      }
+    ]
+  },
+  {
+    "document_id": 488,
+    "ragtruth_id": "668",
+    "text": "A Duke student has admitted to hanging a noose made of rope from a tree near a student union. The student, who was not identified due to federal privacy laws, has been removed from campus and will face a student conduct review. The incident occurred on Wednesday and prompted students and faculty members to march against racism. Several recent racist events have affected college students, including the removal of a fraternity's charter and the hanging of a noose at the University of Mississippi. Duke University has had a previous report of hate speech on campus.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "A Duke student"
+      },
+      {
+        "id": 1,
+        "text": "hanging"
+      },
+      {
+        "id": 2,
+        "text": "Duke"
+      },
+      {
+        "id": 3,
+        "text": "Wednesday"
+      },
+      {
+        "id": 4,
+        "text": "the University of Mississippi"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "admittedTo",
+        "tail": 1
+      },
+      {
+        "head": 1,
+        "relation": "occurredOn",
+        "tail": 3
+      }
+    ]
+  },
+  {
+    "document_id": 489,
+    "ragtruth_id": "669",
+    "text": "Here is a summary of the article in 91 words or less:\n\nA Duke University student admitted to hanging a noose from a tree near a student union, leading to an investigation and forum addressing the issue of racism on campus. The student faced disciplinary action, and the university promised to take measures to prevent future incidents. This incident follows recent racist events at other colleges, highlighting the ongoing struggle against hate speech and discrimination in higher education.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "A Duke University student"
+      },
+      {
+        "id": 1,
+        "text": "Duke University"
+      },
+      {
+        "id": 2,
+        "text": "91"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "studentOf",
+        "tail": 1
+      }
+    ]
+  }
+]

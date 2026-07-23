@@ -1,0 +1,583 @@
+[
+  {
+    "document_id": 180,
+    "ragtruth_id": "240",
+    "text": "The killing of a gay employee at Wayne Community College, North Carolina, may have been a hate crime, according to authorities. The suspect, Kenneth Morgan Stancil III, also white, worked with the victim, Ron Lane, as part of a work-study program but was dismissed due to poor attendance. Authorities are investigating whether Stancil is part of a white supremacist gang. He was found in Florida, having fled North Carolina, and was arrested without incident. Stancil is expected to be returned to North Carolina to face charges.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "a gay employee"
+      },
+      {
+        "id": 1,
+        "text": "The suspect, Kenneth Morgan Stancil III, also white,"
+      },
+      {
+        "id": 2,
+        "text": "North Carolina"
+      },
+      {
+        "id": 3,
+        "text": "Wayne Community College"
+      },
+      {
+        "id": 4,
+        "text": "Florida"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "employedAt",
+        "tail": 3
+      },
+      {
+        "head": 1,
+        "relation": "locatedIn",
+        "tail": 4
+      },
+      {
+        "head": 1,
+        "relation": "fledFrom",
+        "tail": 2
+      },
+      {
+        "head": 1,
+        "relation": "returnedTo",
+        "tail": 2
+      }
+    ]
+  },
+  {
+    "document_id": 181,
+    "ragtruth_id": "241",
+    "text": "The killing of an employee at Wayne Community College in North Carolina is being investigated as a possible hate crime. The victim, Ron Lane, was a white man who was reportedly gay. The suspect, Kenneth Stancil, worked with Lane but was let go from the program due to poor attendance. Stancil walked into the college's print shop and shot Lane with a shotgun before fleeing on a motorcycle. He was later arrested in Florida. The college has a student population of 3,837 and had no previous incidents of violent crime.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "an employee"
+      },
+      {
+        "id": 1,
+        "text": "The suspect, Kenneth Stancil"
+      },
+      {
+        "id": 2,
+        "text": "Wayne Community College in North Carolina"
+      },
+      {
+        "id": 3,
+        "text": "Florida"
+      },
+      {
+        "id": 4,
+        "text": "3,837"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "employer",
+        "tail": 2
+      },
+      {
+        "head": 1,
+        "relation": "workedWith",
+        "tail": 0
+      },
+      {
+        "head": 1,
+        "relation": "arrestedIn",
+        "tail": 3
+      },
+      {
+        "head": 2,
+        "relation": "studentPopulation",
+        "tail": 4
+      }
+    ]
+  },
+  {
+    "document_id": 182,
+    "ragtruth_id": "242",
+    "text": "A 64-year-old employee was killed in what authorities are investigating as a possible hate crime at Wayne Community College in Goldsboro, North Carolina. The victim, Ron Lane, was white and gay, while the suspect, Kenneth Morgan Stancil III, is also white and has tattoos on his face. Stancil was let go from a work-study program at the college due to poor attendance and walked into the print shop on the third floor of a campus building and shot Lane once, killing him. Stancil then fled on a motorcycle before being arrested in Daytona, Florida. Authorities expect to bring him back to North Carolina to face charges. The college has a student population of around 3,837 and no recorded killings, assaults, robberies, or motor vehicle thefts between 2011 and 2013. However, there were three arrests for illegal weapons possession in 2012 and three in 2013.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "A 64-year-old employee"
+      },
+      {
+        "id": 1,
+        "text": "the suspect, Kenneth Morgan Stancil III"
+      },
+      {
+        "id": 2,
+        "text": "Wayne Community College in Goldsboro, North Carolina"
+      },
+      {
+        "id": 3,
+        "text": "North Carolina"
+      },
+      {
+        "id": 4,
+        "text": "2013"
+      },
+      {
+        "id": 5,
+        "text": "third"
+      },
+      {
+        "id": 6,
+        "text": "Daytona"
+      },
+      {
+        "id": 7,
+        "text": "Florida"
+      },
+      {
+        "id": 8,
+        "text": "around 3,837"
+      },
+      {
+        "id": 9,
+        "text": "between 2011 and 2013"
+      },
+      {
+        "id": 10,
+        "text": "three"
+      },
+      {
+        "id": 11,
+        "text": "2012"
+      },
+      {
+        "id": 12,
+        "text": "three"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "killedAt",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "victimOf",
+        "tail": 1
+      },
+      {
+        "head": 1,
+        "relation": "arrestedIn",
+        "tail": 6
+      },
+      {
+        "head": 6,
+        "relation": "locatedIn",
+        "tail": 7
+      },
+      {
+        "head": 1,
+        "relation": "returnedTo",
+        "tail": 3
+      },
+      {
+        "head": 2,
+        "relation": "locatedIn",
+        "tail": 3
+      },
+      {
+        "head": 2,
+        "relation": "studentPopulation",
+        "tail": 8
+      },
+      {
+        "head": 2,
+        "relation": "noRecordedIncidentsBetween",
+        "tail": 9
+      },
+      {
+        "head": 2,
+        "relation": "weaponsPossessionArrests",
+        "tail": 10
+      },
+      {
+        "head": 2,
+        "relation": "weaponsPossessionArrestsIn",
+        "tail": 11
+      },
+      {
+        "head": 2,
+        "relation": "weaponsPossessionArrests",
+        "tail": 12
+      },
+      {
+        "head": 2,
+        "relation": "weaponsPossessionArrestsIn",
+        "tail": 4
+      }
+    ]
+  },
+  {
+    "document_id": 183,
+    "ragtruth_id": "243",
+    "text": "A possible hate crime occurred at Wayne Community College in Goldsboro, NC, where an employee was killed by a former work-study program participant, who was later arrested in Florida. The victim, Ron Lane, was a white man, while the suspect, Kenneth Morgan Stancil III, is also white. Lane's family revealed that he was gay, which may have motivated the attack. Stancil had a history of poor attendance and was let go from the program before the murder. He was arrested after being found sleeping on a beach in Florida and is expected to face charges.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "an employee"
+      },
+      {
+        "id": 1,
+        "text": "a former work-study program participant, who was later arrested in Florida"
+      },
+      {
+        "id": 2,
+        "text": "killed"
+      },
+      {
+        "id": 3,
+        "text": "arrested"
+      },
+      {
+        "id": 4,
+        "text": "Florida"
+      },
+      {
+        "id": 5,
+        "text": "Wayne Community College"
+      },
+      {
+        "id": 6,
+        "text": "Goldsboro"
+      },
+      {
+        "id": 7,
+        "text": "NC"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "killedBy",
+        "tail": 1
+      },
+      {
+        "head": 1,
+        "relation": "arrestedIn",
+        "tail": 4
+      },
+      {
+        "head": 5,
+        "relation": "locatedIn",
+        "tail": 6
+      },
+      {
+        "head": 6,
+        "relation": "locatedIn",
+        "tail": 7
+      }
+    ]
+  },
+  {
+    "document_id": 184,
+    "ragtruth_id": "244",
+    "text": "A former work-study student allegedly killed a longtime employee at Wayne Community College in Goldsboro, North Carolina, in a possible hate crime. The victim was white, as is the suspect, who has tattoos and may be part of a white supremacist gang. The suspect was arrested in Florida after fleeing on a motorcycle and is expected to be brought back to face charges.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "a longtime employee at Wayne Community College in Goldsboro, North Carolina,"
+      },
+      {
+        "id": 1,
+        "text": "A former work-study student"
+      },
+      {
+        "id": 2,
+        "text": "Florida"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "killedBy",
+        "tail": 1
+      },
+      {
+        "head": 1,
+        "relation": "arrestedIn",
+        "tail": 2
+      }
+    ]
+  },
+  {
+    "document_id": 185,
+    "ragtruth_id": "245",
+    "text": "A man was killed in a possible hate crime at Wayne Community College in North Carolina. The victim, Ron Lane, was white and gay, and the suspect, Kenneth Morgan Stancil III, who has white supremacist gang tattoos, is also white. Stancil was arrested 550 miles away in Florida after violating a beach sleeping ordinance.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "A man"
+      },
+      {
+        "id": 1,
+        "text": "the suspect, Kenneth Morgan Stancil III, who has white supremacist gang tattoos"
+      },
+      {
+        "id": 2,
+        "text": "Wayne Community College"
+      },
+      {
+        "id": 3,
+        "text": "North Carolina"
+      },
+      {
+        "id": 4,
+        "text": "550 miles"
+      },
+      {
+        "id": 5,
+        "text": "Florida"
+      }
+    ],
+    "relations": []
+  },
+  {
+    "document_id": 186,
+    "ragtruth_id": "252",
+    "text": "Hillary Clinton has officially announced that she will run for president in 2016. Her candidacy will be the barometer by which we assess gender equality in the United States for the next year and a half. If she wins, it could be seen as a significant step in women's political inclusion, however, it may also create a false sense of accomplishment in the fight for gender equality. If she loses, it could perpetuate the myth that women cannot win big elections and reinforce the idea of a gender bias in politics. Despite this, it's important to note that women who run for office often perform just as well as men, winning elections at equal rates and raising similar amounts of money. Some still question women's suitability as leaders, but these attitudes do not generally translate into systematic biases against female candidates. The outcome of the election is more likely to be determined by party politics and the state of the economy, rather than the candidate's gender. However, Clinton's candidacy inevitably labels her as the litmus test for gender equality in the United States, a burden that no female candidate should have to bear.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Hillary Clinton"
+      },
+      {
+        "id": 1,
+        "text": "run"
+      },
+      {
+        "id": 2,
+        "text": "wins"
+      },
+      {
+        "id": 3,
+        "text": "loses"
+      },
+      {
+        "id": 4,
+        "text": "women's suitability as leaders"
+      },
+      {
+        "id": 5,
+        "text": "the United States"
+      },
+      {
+        "id": 6,
+        "text": "2016"
+      },
+      {
+        "id": 7,
+        "text": "the next year and a half"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "candidateFor",
+        "tail": 1
+      },
+      {
+        "head": 1,
+        "relation": "electionYear",
+        "tail": 6
+      },
+      {
+        "head": 1,
+        "relation": "location",
+        "tail": 5
+      },
+      {
+        "head": 1,
+        "relation": "duration",
+        "tail": 7
+      }
+    ]
+  },
+  {
+    "document_id": 187,
+    "ragtruth_id": "253",
+    "text": "Hillary Clinton's announcement of her candidacy for president in 2016 has brought attention to the issue of gender equality in the United States. While her potential win would be a significant step towards women's full political inclusion, it may also lead to complacency and a belief that the mission for gender equality is accomplished. On the other hand, if Clinton loses, it may perpetuate the belief that women cannot succeed in big elections and discourage potential female candidates from running. However, it is important to note that Clinton is not an ordinary candidate, as she already has a high level of name recognition and public accomplishments, as well as baggage from her previous years in public office. It is unfair to attribute her loss in the 2008 Democratic primary solely to sexism and misogyny, as women have historically performed just as well as men in elections. Additionally, the partisan nature of presidential politics means that party affiliation has a greater impact on voting behavior than gender. While Clinton may face sexist comments and behavior during her campaign, the overall outcome of the election will be determined by party politics and the state of the economy. Despite these factors, Clinton's candidacy has made her the symbol of gender equality in the United States, which places a burden on her that no other female candidate should have to bear.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Hillary Clinton's"
+      },
+      {
+        "id": 1,
+        "text": "her potential win"
+      },
+      {
+        "id": 2,
+        "text": "loses"
+      },
+      {
+        "id": 3,
+        "text": "party politics and the state of the economy"
+      },
+      {
+        "id": 4,
+        "text": "her campaign"
+      },
+      {
+        "id": 5,
+        "text": "the United States"
+      },
+      {
+        "id": 6,
+        "text": "2016"
+      },
+      {
+        "id": 7,
+        "text": "her previous years"
+      },
+      {
+        "id": 8,
+        "text": "2008"
+      },
+      {
+        "id": 9,
+        "text": "Democratic"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "candidateFor",
+        "tail": 6
+      },
+      {
+        "head": 0,
+        "relation": "campaign",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "symbolOf",
+        "tail": 5
+      },
+      {
+        "head": 0,
+        "relation": "lossIn",
+        "tail": 8
+      },
+      {
+        "head": 0,
+        "relation": "partyAffiliation",
+        "tail": 9
+      },
+      {
+        "head": 1,
+        "relation": "wouldLeadTo",
+        "tail": 1
+      },
+      {
+        "head": 2,
+        "relation": "wouldPerpetuate",
+        "tail": 2
+      },
+      {
+        "head": 4,
+        "relation": "determinedBy",
+        "tail": 3
+      }
+    ]
+  },
+  {
+    "document_id": 188,
+    "ragtruth_id": "254",
+    "text": "Hillary Clinton has officially declared her candidacy for the presidency in 2016, becoming the first woman to do so in U.S. history. Her candidacy creates a unique opportunity to assess gender equality in the United States, as she will be the standard-bearer for the women's movement. Regardless of the outcome, her candidacy highlights the ongoing struggle for gender equality and raises important questions about the role of women in politics.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Hillary Clinton"
+      },
+      {
+        "id": 1,
+        "text": "her candidacy for the presidency"
+      },
+      {
+        "id": 2,
+        "text": "2016"
+      },
+      {
+        "id": 3,
+        "text": "first"
+      },
+      {
+        "id": 4,
+        "text": "U.S."
+      },
+      {
+        "id": 5,
+        "text": "the United States"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "declaredIn",
+        "tail": 2
+      },
+      {
+        "head": 1,
+        "relation": "inCountry",
+        "tail": 4
+      },
+      {
+        "head": 1,
+        "relation": "first",
+        "tail": 3
+      },
+      {
+        "head": 1,
+        "relation": "inCountry",
+        "tail": 5
+      }
+    ]
+  },
+  {
+    "document_id": 189,
+    "ragtruth_id": "255",
+    "text": "Hillary Clinton's announcement to run for President in 2016 has placed her under scrutiny as the barometer of gender equality in the US. A win for Clinton would mean a major step towards women's full political inclusion, but a loss could perpetuate the myth that women cannot win big elections. Clinton faces unique challenges due to her high profile and well-known baggage, and the campaign may see sexist comments and memes emerge. Despite this, party polarization means that the importance of sex will be less relevant in the campaign. The outcome of the election will have little impact on the broader issues facing women in society.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Hillary Clinton's"
+      },
+      {
+        "id": 1,
+        "text": "the campaign"
+      },
+      {
+        "id": 2,
+        "text": "2016"
+      },
+      {
+        "id": 3,
+        "text": "US"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "announcementYear",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "country",
+        "tail": 3
+      }
+    ]
+  }
+]

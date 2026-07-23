@@ -1,0 +1,897 @@
+[
+  {
+    "document_id": 320,
+    "ragtruth_id": "422",
+    "text": "Italy ended its \"Mare Nostrom\" naval mission on October 31, 2014, which rescued around 100,000 migrants from the Mediterranean Sea. This was due to its high cost and political contentiousness, with no European support. The mission was replaced with a more modest \"Operation Triton,\" led by the European Union's border agency Frontex, which has a third of the funding of Mare Nostrom and focuses on police work rather than humanitarian efforts. The number of migrants arriving in Italy by sea has surged in recent years, with around 170,000 arriving in 2014 alone. The islands of Sicily and Lampedusa continue to experience a daily influx of migrants. There have been concerns about human rights violations and neglect of migrants on the high seas, with some ships turning a blind eye to boats in distress. The European Commission called an urgent meeting of foreign and interior ministers to address the crisis, with EU Foreign Policy chief Federica Mogherini calling for bold action to save human lives and protect Europe's borders. However, progress towards a Europe-wide approach on migration remains slow, with member states focusing on different priorities.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Italy"
+      },
+      {
+        "id": 1,
+        "text": "ended"
+      },
+      {
+        "id": 2,
+        "text": "its \"Mare Nostrom\" naval mission"
+      },
+      {
+        "id": 3,
+        "text": "Europe's"
+      },
+      {
+        "id": 4,
+        "text": "October 31, 2014"
+      },
+      {
+        "id": 5,
+        "text": "around 100,000 migrants"
+      },
+      {
+        "id": 6,
+        "text": "the Mediterranean Sea"
+      },
+      {
+        "id": 7,
+        "text": "European"
+      },
+      {
+        "id": 8,
+        "text": "Operation Triton"
+      },
+      {
+        "id": 9,
+        "text": "the European Union's"
+      },
+      {
+        "id": 10,
+        "text": "Frontex"
+      },
+      {
+        "id": 11,
+        "text": "a third"
+      },
+      {
+        "id": 12,
+        "text": "recent years"
+      },
+      {
+        "id": 13,
+        "text": "around 170,000"
+      },
+      {
+        "id": 14,
+        "text": "2014"
+      },
+      {
+        "id": 15,
+        "text": "Sicily"
+      },
+      {
+        "id": 16,
+        "text": "Lampedusa"
+      },
+      {
+        "id": 17,
+        "text": "daily"
+      },
+      {
+        "id": 18,
+        "text": "The European Commission"
+      },
+      {
+        "id": 19,
+        "text": "EU"
+      },
+      {
+        "id": 20,
+        "text": "Federica Mogherini"
+      }
+    ],
+    "relations": [
+      {
+        "head": 2,
+        "relation": "endedOn",
+        "tail": 4
+      },
+      {
+        "head": 2,
+        "relation": "rescued",
+        "tail": 5
+      },
+      {
+        "head": 2,
+        "relation": "inSea",
+        "tail": 6
+      },
+      {
+        "head": 2,
+        "relation": "replacedBy",
+        "tail": 8
+      },
+      {
+        "head": 8,
+        "relation": "ledBy",
+        "tail": 10
+      },
+      {
+        "head": 8,
+        "relation": "funding",
+        "tail": 11
+      },
+      {
+        "head": 0,
+        "relation": "arrivalsIn",
+        "tail": 13
+      },
+      {
+        "head": 0,
+        "relation": "arrivalsInYear",
+        "tail": 14
+      },
+      {
+        "head": 15,
+        "relation": "influxFrequency",
+        "tail": 17
+      },
+      {
+        "head": 16,
+        "relation": "influxFrequency",
+        "tail": 17
+      },
+      {
+        "head": 18,
+        "relation": "calledMeeting",
+        "tail": 19
+      }
+    ]
+  },
+  {
+    "document_id": 321,
+    "ragtruth_id": "423",
+    "text": "On October 31, 2014, the Italian government ended the \"Mare Nostrum\" naval mission that rescued migrants attempting to cross the Mediterranean to reach Europe. The mission had saved over 100,000 people in its first year, but was deemed too expensive and politically contentious. Replacing Mare Nostrum is \"Operation Triton,\" run by the European Union's border agency Frontex, with limited funding and resources. The EU has faced criticism for not doing enough to address the crisis, with many migrants continuing to make the dangerous journey to Europe. The recent sinking of a boat carrying migrants resulted in the deaths of over 800 people, highlighting the urgent need for action. The EU has called for bold measures to protect its borders and combat human trafficking, but progress towards a comprehensive solution remains slow.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "the \"Mare Nostrum\" naval mission that rescued migrants attempting to cross the Mediterranean to reach Europe"
+      },
+      {
+        "id": 1,
+        "text": "the European Union's"
+      },
+      {
+        "id": 2,
+        "text": "Europe"
+      },
+      {
+        "id": 3,
+        "text": "October 31, 2014"
+      },
+      {
+        "id": 4,
+        "text": "Italian"
+      },
+      {
+        "id": 5,
+        "text": "100,000"
+      },
+      {
+        "id": 6,
+        "text": "its first year"
+      },
+      {
+        "id": 7,
+        "text": "Operation Triton"
+      },
+      {
+        "id": 8,
+        "text": "Frontex"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "endedOn",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "endedBy",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "savedPeople",
+        "tail": 5
+      },
+      {
+        "head": 0,
+        "relation": "replacedBy",
+        "tail": 7
+      },
+      {
+        "head": 7,
+        "relation": "runBy",
+        "tail": 8
+      },
+      {
+        "head": 1,
+        "relation": "borderedBy",
+        "tail": 2
+      }
+    ]
+  },
+  {
+    "document_id": 322,
+    "ragtruth_id": "424",
+    "text": "The Italian government ended its naval mission \"Mare Nostrum\" in October 2014, which had rescued over 100,000 migrants attempting to cross the Mediterranean to reach Europe. The mission was deemed too expensive and politically contentious, and was replaced by the more limited \"Operation Triton\" under the European Union's border agency Frontex. Triton has one-third of the funding and resources of Mare Nostrum, and is focused on policing rather than humanitarian efforts. The change in strategy has led to continued migrant deaths at sea, with hundreds dying in recent shipwrecks. The European Union is facing criticism for its response to the crisis, with some members calling for more robust action to address the issue.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "The Italian government"
+      },
+      {
+        "id": 1,
+        "text": "its naval mission \"Mare Nostrum\""
+      },
+      {
+        "id": 2,
+        "text": "the more limited \"Operation Triton\" under the European Union's border agency Frontex"
+      },
+      {
+        "id": 3,
+        "text": "the European Union's"
+      },
+      {
+        "id": 4,
+        "text": "the crisis"
+      },
+      {
+        "id": 5,
+        "text": "October 2014"
+      },
+      {
+        "id": 6,
+        "text": "100,000"
+      },
+      {
+        "id": 7,
+        "text": "Mediterranean"
+      },
+      {
+        "id": 8,
+        "text": "Europe"
+      },
+      {
+        "id": 9,
+        "text": "one-third"
+      },
+      {
+        "id": 10,
+        "text": "hundreds"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "endedBy",
+        "tail": 0
+      },
+      {
+        "head": 1,
+        "relation": "endDate",
+        "tail": 5
+      },
+      {
+        "head": 1,
+        "relation": "rescued",
+        "tail": 6
+      },
+      {
+        "head": 1,
+        "relation": "crossingRoute",
+        "tail": 7
+      },
+      {
+        "head": 1,
+        "relation": "destination",
+        "tail": 8
+      },
+      {
+        "head": 2,
+        "relation": "replaced",
+        "tail": 1
+      },
+      {
+        "head": 2,
+        "relation": "underAgency",
+        "tail": 3
+      },
+      {
+        "head": 2,
+        "relation": "fundingShare",
+        "tail": 9
+      },
+      {
+        "head": 2,
+        "relation": "resourceShare",
+        "tail": 9
+      },
+      {
+        "head": 3,
+        "relation": "criticizedFor",
+        "tail": 4
+      }
+    ]
+  },
+  {
+    "document_id": 323,
+    "ragtruth_id": "425",
+    "text": "The Italian government has ended its naval mission, \"Mare Nostrum,\" which rescued migrants in the Mediterranean Sea. The mission had saved an estimated 100,000 people, but was considered too expensive and politically controversial. It has been replaced by a smaller operation, \"Triton,\" run by the European Union's border agency, Frontex. Triton has fewer resources and is focused more on policing than humanitarian efforts. Many European countries, including Britain, are not participating in Triton, citing concerns that search and rescue operations encourage more migrants to attempt the dangerous sea crossing. Italy has borne the brunt of the task of picking up and caring for migrants, with 170,000 arriving in 2014 and over 11,000 rescued in the past week alone. The recent sinking of a migrant ship has led to renewed calls for international action to address the crisis. The European Commission has called an urgent meeting of foreign and interior ministers and emphasized the need to protect human lives and fight human trafficking. However, progress towards a Europe-wide approach on migration has been slow, with member states reluctant to tackle the politically explosive and costly issue.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "The Italian government"
+      },
+      {
+        "id": 1,
+        "text": "its naval mission, \"Mare Nostrum,\" which rescued migrants in the Mediterranean Sea"
+      },
+      {
+        "id": 2,
+        "text": "a smaller operation, \"Triton,\" run by the European Union's border agency, Frontex"
+      },
+      {
+        "id": 3,
+        "text": "migration"
+      },
+      {
+        "id": 4,
+        "text": "an estimated 100,000"
+      },
+      {
+        "id": 5,
+        "text": "European"
+      },
+      {
+        "id": 6,
+        "text": "Britain"
+      },
+      {
+        "id": 7,
+        "text": "170,000"
+      },
+      {
+        "id": 8,
+        "text": "2014"
+      },
+      {
+        "id": 9,
+        "text": "over 11,000"
+      },
+      {
+        "id": 10,
+        "text": "the past week"
+      },
+      {
+        "id": 11,
+        "text": "The European Commission"
+      },
+      {
+        "id": 12,
+        "text": "Europe"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "endedBy",
+        "tail": 0
+      },
+      {
+        "head": 1,
+        "relation": "replacedBy",
+        "tail": 2
+      },
+      {
+        "head": 2,
+        "relation": "runBy",
+        "tail": 11
+      },
+      {
+        "head": 2,
+        "relation": "notParticipatingCountry",
+        "tail": 6
+      },
+      {
+        "head": 1,
+        "relation": "saved",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "arrivals",
+        "tail": 7
+      },
+      {
+        "head": 0,
+        "relation": "arrivalDate",
+        "tail": 8
+      },
+      {
+        "head": 0,
+        "relation": "rescued",
+        "tail": 9
+      },
+      {
+        "head": 0,
+        "relation": "rescueTime",
+        "tail": 10
+      },
+      {
+        "head": 11,
+        "relation": "calledMeetingOf",
+        "tail": 12
+      },
+      {
+        "head": 12,
+        "relation": "about",
+        "tail": 3
+      }
+    ]
+  },
+  {
+    "document_id": 324,
+    "ragtruth_id": "426",
+    "text": "Heather Mack, a 19 year old American teenager, has been sentenced to 10 years in prison, while her 21 year old boyfriend, Tommy Schaefer, has been sentenced to 18 years. The pair were found guilty of killing Mack's mother, Sheila von Wiese-Mack, at the St. Regis Bali Resort in Indonesia last August. The couple stuffed her body into a suitcase which was later discovered by hotel staff. Schaefer claims that he acted in self-defense during an argument with von Wiese-Mack, who disapproved of their relationship. Mack, who recently had a baby, will be allowed to keep her child with her in prison for two years.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Heather Mack, a 19 year old American teenager"
+      },
+      {
+        "id": 1,
+        "text": "The pair"
+      },
+      {
+        "id": 2,
+        "text": "Mack's mother, Sheila von Wiese-Mack"
+      },
+      {
+        "id": 3,
+        "text": "her 21 year old boyfriend, Tommy Schaefer"
+      },
+      {
+        "id": 4,
+        "text": "a baby"
+      },
+      {
+        "id": 5,
+        "text": "10 years"
+      },
+      {
+        "id": 6,
+        "text": "18 years"
+      },
+      {
+        "id": 7,
+        "text": "the St. Regis Bali Resort"
+      },
+      {
+        "id": 8,
+        "text": "Indonesia"
+      },
+      {
+        "id": 9,
+        "text": "last August"
+      },
+      {
+        "id": 10,
+        "text": "two years"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "sentenceLength",
+        "tail": 5
+      },
+      {
+        "head": 3,
+        "relation": "sentenceLength",
+        "tail": 6
+      },
+      {
+        "head": 1,
+        "relation": "guiltyOf",
+        "tail": 2
+      },
+      {
+        "head": 2,
+        "relation": "killedAt",
+        "tail": 7
+      },
+      {
+        "head": 2,
+        "relation": "killedIn",
+        "tail": 8
+      },
+      {
+        "head": 2,
+        "relation": "killedWhen",
+        "tail": 9
+      },
+      {
+        "head": 0,
+        "relation": "hasChild",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "keptWithInPrisonFor",
+        "tail": 10
+      }
+    ]
+  },
+  {
+    "document_id": 325,
+    "ragtruth_id": "427",
+    "text": "American teenager Heather Mack has been sentenced to 10 years in prison for helping her boyfriend, Tommy Schaefer, stuff her mother's body into a suitcase at a hotel in Bali. Schaefer was sentenced to 18 years for killing Sheila von Wiese-Mack. The couple claimed self-defense, saying von Wiese-Mack had strangled Schaefer during an argument. However, a forensic examination revealed that she died from a blunt force to the face. The prosecutor alleged that the murder was planned because von Wiese-Mack disapproved of their relationship and threatened to kill their unborn baby. Initially, the couple claimed they were taken captive by an armed gang, but police found evidence of their involvement. Mack will be allowed to keep her baby with her in prison for two years.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "American teenager Heather Mack"
+      },
+      {
+        "id": 1,
+        "text": "her boyfriend, Tommy Schaefer"
+      },
+      {
+        "id": 2,
+        "text": "her mother's"
+      },
+      {
+        "id": 3,
+        "text": "killing"
+      },
+      {
+        "id": 4,
+        "text": "The couple"
+      },
+      {
+        "id": 5,
+        "text": "their unborn baby"
+      },
+      {
+        "id": 6,
+        "text": "10 years"
+      },
+      {
+        "id": 7,
+        "text": "Bali"
+      },
+      {
+        "id": 8,
+        "text": "18 years"
+      },
+      {
+        "id": 9,
+        "text": "two years"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "sentencedTo",
+        "tail": 6
+      },
+      {
+        "head": 1,
+        "relation": "sentencedTo",
+        "tail": 8
+      },
+      {
+        "head": 1,
+        "relation": "killed",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "helped",
+        "tail": 1
+      },
+      {
+        "head": 4,
+        "relation": "claimedSelfDefense",
+        "tail": 4
+      },
+      {
+        "head": 4,
+        "relation": "involvedIn",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "allowedToKeepWithInPrisonFor",
+        "tail": 9
+      },
+      {
+        "head": 0,
+        "relation": "keptWithInPrison",
+        "tail": 5
+      },
+      {
+        "head": 1,
+        "relation": "planned",
+        "tail": 3
+      },
+      {
+        "head": 3,
+        "relation": "occurredIn",
+        "tail": 7
+      }
+    ]
+  },
+  {
+    "document_id": 326,
+    "ragtruth_id": "428",
+    "text": "An American teenager has been sentenced to 10 years in prison for helping her boyfriend stuff her mother's body into a suitcase and leaving it at a hotel in Bali. Heather Mack, 19, who gave birth to her own daughter just weeks ago, was found guilty along with her 21-year-old boyfriend, Tommy Schaefer, of killing Sheila von Wiese-Mack on the Indonesian island last August. Schaefer was sentenced to 18 years in prison for battering von Wiese-Mack to death in room 317 of the St. Regis Bali Resort. The couple had initially claimed they'd been taken captive by an armed gang and escaped, but later admitted to killing von Wiese-Mack in a fit of rage. The prosecution alleged that the two planned the murder due to their mother's disapproval of their relationship.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "An American teenager"
+      },
+      {
+        "id": 1,
+        "text": "her mother's body"
+      },
+      {
+        "id": 2,
+        "text": "her boyfriend"
+      },
+      {
+        "id": 3,
+        "text": "her mother's"
+      },
+      {
+        "id": 4,
+        "text": "Bali"
+      },
+      {
+        "id": 5,
+        "text": "a hotel in Bali"
+      },
+      {
+        "id": 6,
+        "text": "The couple"
+      },
+      {
+        "id": 7,
+        "text": "killing"
+      },
+      {
+        "id": 8,
+        "text": "10 years"
+      },
+      {
+        "id": 9,
+        "text": "last August"
+      },
+      {
+        "id": 10,
+        "text": "18 years"
+      },
+      {
+        "id": 11,
+        "text": "317"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "sentence",
+        "tail": 8
+      },
+      {
+        "head": 2,
+        "relation": "sentence",
+        "tail": 10
+      },
+      {
+        "head": 7,
+        "relation": "victim",
+        "tail": 3
+      },
+      {
+        "head": 7,
+        "relation": "location",
+        "tail": 4
+      },
+      {
+        "head": 7,
+        "relation": "time",
+        "tail": 9
+      },
+      {
+        "head": 7,
+        "relation": "location",
+        "tail": 5
+      },
+      {
+        "head": 7,
+        "relation": "location",
+        "tail": 11
+      }
+    ]
+  },
+  {
+    "document_id": 327,
+    "ragtruth_id": "429",
+    "text": "An American teenager, Heather Mack, has been sentenced to 10 years in prison after being found guilty of killing her mother, Sheila von Wiese-Mack, at an upscale hotel in Bali. Mack's boyfriend, Tommy Schaefer, was also convicted and sentenced to 18 years in prison for his role in the murder. According to the prosecution, the two had planned the crime due to Mack's mother's disapproval of their relationship. The pair had given conflicting accounts of the events leading up to the murder, with Schaefer claiming self-defense and Mack alleging that her mother had threatened to harm their unborn child.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "An American teenager, Heather Mack"
+      },
+      {
+        "id": 1,
+        "text": "Mack's boyfriend, Tommy Schaefer"
+      },
+      {
+        "id": 2,
+        "text": "killing"
+      },
+      {
+        "id": 3,
+        "text": "her mother, Sheila von Wiese-Mack"
+      },
+      {
+        "id": 4,
+        "text": "the two"
+      },
+      {
+        "id": 5,
+        "text": "10 years"
+      },
+      {
+        "id": 6,
+        "text": "Bali"
+      },
+      {
+        "id": 7,
+        "text": "18 years"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "sentence",
+        "tail": 5
+      },
+      {
+        "head": 1,
+        "relation": "sentence",
+        "tail": 7
+      },
+      {
+        "head": 0,
+        "relation": "victim",
+        "tail": 3
+      },
+      {
+        "head": 2,
+        "relation": "location",
+        "tail": 6
+      }
+    ]
+  },
+  {
+    "document_id": 328,
+    "ragtruth_id": "430",
+    "text": "An American teenager, Heather Mack, and her boyfriend, Tommy Schaefer, have been sentenced to 10 and 18 years in prison, respectively, for the murder of Heather's mother, Sheila von Wiese-Mack, in Bali last August. The couple had argued with Sheila over their relationship before killing her and stuffing her body into a suitcase. Both defendants claimed self-defense, but the court found them guilty. Heather, who recently gave birth to a daughter, will be allowed to keep her baby with her in prison.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "An American teenager, Heather Mack"
+      },
+      {
+        "id": 1,
+        "text": "An American teenager, Heather Mack, and her boyfriend, Tommy Schaefer"
+      },
+      {
+        "id": 2,
+        "text": "Heather's mother, Sheila von Wiese-Mack"
+      },
+      {
+        "id": 3,
+        "text": "the murder of Heather's mother, Sheila von Wiese-Mack, in Bali last August"
+      },
+      {
+        "id": 4,
+        "text": "a daughter"
+      },
+      {
+        "id": 5,
+        "text": "10 and 18 years"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "sentenceLength",
+        "tail": 5
+      },
+      {
+        "head": 3,
+        "relation": "victim",
+        "tail": 2
+      }
+    ]
+  },
+  {
+    "document_id": 329,
+    "ragtruth_id": "431",
+    "text": "An American teenager, Heather Mack, has been sentenced to 10 years in prison for helping her boyfriend kill her mother in Bali. Her boyfriend, Tommy Schaefer, received an 18-year sentence for battering Mack's mother to death. The couple had claimed they were taken captive by an armed gang, but later admitted to planning the murder. Prosecutors sought longer sentences, but the couple will be allowed to keep their baby with them in prison for two years.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "An American teenager, Heather Mack"
+      },
+      {
+        "id": 1,
+        "text": "her boyfriend"
+      },
+      {
+        "id": 2,
+        "text": "her mother"
+      },
+      {
+        "id": 3,
+        "text": "The couple"
+      },
+      {
+        "id": 4,
+        "text": "kill"
+      },
+      {
+        "id": 5,
+        "text": "10 years"
+      },
+      {
+        "id": 6,
+        "text": "Bali"
+      },
+      {
+        "id": 7,
+        "text": "18-year"
+      },
+      {
+        "id": 8,
+        "text": "two years"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "sentence",
+        "tail": 5
+      },
+      {
+        "head": 1,
+        "relation": "sentence",
+        "tail": 7
+      },
+      {
+        "head": 4,
+        "relation": "location",
+        "tail": 6
+      },
+      {
+        "head": 3,
+        "relation": "keepWithThemInPrisonFor",
+        "tail": 8
+      }
+    ]
+  }
+]

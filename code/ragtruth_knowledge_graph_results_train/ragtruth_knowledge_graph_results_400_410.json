@@ -1,0 +1,657 @@
+[
+  {
+    "document_id": 400,
+    "ragtruth_id": "526",
+    "text": "Ly Sivhong, a Cambodian-American, tells the tragic story of her experiences during the Khmer Rouge regime's takeover of Phnom Penh on April 17, 1975. She and her family were forced to flee the city and were separated, with Ly never seeing her mother and two sisters again. She and her father were forced to work in rural camps, where they suffered from starvation, disease, and execution. Ly's father was eventually killed in front of her, and she was left alone. She eventually found her way to a refugee camp and eventually came to the United States. The article highlights the ongoing struggles for justice after the Khmer Rouge regime, including the work of the Extraordinary Chambers in the Courts of Cambodia (ECCC), which has faced criticism and political interference. Despite these challenges, the article notes that Cambodians are beginning to speak openly about the genocide and seek redress for their losses. The article concludes with the emotional reunification of Ly with her long-lost sister, Te Souymoy, on a television show called \"It's Not A Dream.\"",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Ly Sivhong, a Cambodian-American"
+      },
+      {
+        "id": 1,
+        "text": "Phnom Penh"
+      },
+      {
+        "id": 2,
+        "text": "She and her father"
+      },
+      {
+        "id": 3,
+        "text": "her father"
+      },
+      {
+        "id": 4,
+        "text": "the Khmer Rouge regime's"
+      },
+      {
+        "id": 5,
+        "text": "The article"
+      },
+      {
+        "id": 6,
+        "text": "Cambodians"
+      },
+      {
+        "id": 7,
+        "text": "April 17, 1975"
+      },
+      {
+        "id": 8,
+        "text": "two"
+      },
+      {
+        "id": 9,
+        "text": "the United States"
+      },
+      {
+        "id": 10,
+        "text": "the Extraordinary Chambers"
+      },
+      {
+        "id": 11,
+        "text": "the Courts of Cambodia"
+      },
+      {
+        "id": 12,
+        "text": "ECCC"
+      },
+      {
+        "id": 13,
+        "text": "Te Souymoy"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "tookPlaceIn",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "date",
+        "tail": 7
+      },
+      {
+        "head": 0,
+        "relation": "movedTo",
+        "tail": 9
+      },
+      {
+        "head": 10,
+        "relation": "partOf",
+        "tail": 11
+      },
+      {
+        "head": 10,
+        "relation": "abbreviation",
+        "tail": 12
+      },
+      {
+        "head": 0,
+        "relation": "reunitedWith",
+        "tail": 13
+      }
+    ]
+  },
+  {
+    "document_id": 401,
+    "ragtruth_id": "527",
+    "text": "On April 17, 1975, the Khmer Rouge regime took over Phnom Penh, Cambodia's capital, marking the start of a tragic era for the country. Thousands of people were forced to leave their homes and were taken to rural areas to work in slave-like conditions. Many died due to starvation, exhaustion, and executions. The regime aimed to create an agrarian utopia, but it turned into one of the worst genocides of the modern era, with over 1.7 million Cambodians dying, and the country's educated classes were targeted. Today, Cambodia is still trying to come to terms with its past. The Khmer Rouge Tribunal was established in 2006 to investigate the regime's crimes, but it has faced criticism for its slow pace and allegations of political interference. However, the tribunal has managed to bring some perpetrators to justice, and Cambodians are now more open to discussing their experiences during the genocide. A television show called \"It's Not a Dream\" has helped reunite families torn apart by the regime, and it serves as an example of Cambodia's efforts to confront its past. Despite the challenges, the country continues to struggle with the legacy of the Khmer Rouge.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Cambodia's"
+      },
+      {
+        "id": 1,
+        "text": "Thousands of people"
+      },
+      {
+        "id": 2,
+        "text": "the Khmer Rouge regime"
+      },
+      {
+        "id": 3,
+        "text": "The Khmer Rouge Tribunal"
+      },
+      {
+        "id": 4,
+        "text": "Cambodians"
+      },
+      {
+        "id": 5,
+        "text": "A television show called \"It's Not a Dream\""
+      },
+      {
+        "id": 6,
+        "text": "its past"
+      },
+      {
+        "id": 7,
+        "text": "April 17, 1975"
+      },
+      {
+        "id": 8,
+        "text": "Phnom Penh"
+      },
+      {
+        "id": 9,
+        "text": "agrarian"
+      },
+      {
+        "id": 10,
+        "text": "over 1.7 million"
+      },
+      {
+        "id": 11,
+        "text": "Cambodians"
+      },
+      {
+        "id": 12,
+        "text": "Today"
+      },
+      {
+        "id": 13,
+        "text": "2006"
+      }
+    ],
+    "relations": [
+      {
+        "head": 2,
+        "relation": "tookOver",
+        "tail": 8
+      },
+      {
+        "head": 2,
+        "relation": "date",
+        "tail": 7
+      },
+      {
+        "head": 3,
+        "relation": "establishedIn",
+        "tail": 13
+      }
+    ]
+  },
+  {
+    "document_id": 402,
+    "ragtruth_id": "528",
+    "text": "The headstone of Hillary Clinton's father, Hugh Rodham, was found tipped over just days after she announced her presidential run. The incident is believed to be an act of vandalism rather than weather-related damage. This suspicion is heightened by the fact that no other headstones were knocked over. The police have started an investigation into the matter.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Hillary Clinton's"
+      },
+      {
+        "id": 1,
+        "text": "tipped"
+      },
+      {
+        "id": 2,
+        "text": "believed"
+      },
+      {
+        "id": 3,
+        "text": "Hugh Rodham"
+      },
+      {
+        "id": 4,
+        "text": "just days"
+      }
+    ],
+    "relations": [
+      {
+        "head": 3,
+        "relation": "fatherOf",
+        "tail": 0
+      },
+      {
+        "head": 1,
+        "relation": "time",
+        "tail": 4
+      },
+      {
+        "head": 1,
+        "relation": "believed",
+        "tail": 2
+      }
+    ]
+  },
+  {
+    "document_id": 403,
+    "ragtruth_id": "529",
+    "text": "The headstone of Hillary Clinton's father, Hugh Rodham, was found tipped over just days after she announced her presidential run. Paul McGloin, who tends to the grave site, discovered the headstone laying on its side. Police suspect vandalism as no other headstones were knocked over, and there were no weather events that could have caused it. McGloin believes it was not a coincidence and that it was related to Clinton's announcement. The incident is currently under investigation.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Hillary Clinton's"
+      },
+      {
+        "id": 1,
+        "text": "The headstone of Hillary Clinton's father, Hugh Rodham"
+      },
+      {
+        "id": 2,
+        "text": "tipped"
+      },
+      {
+        "id": 3,
+        "text": "Paul McGloin, who tends to the grave site"
+      },
+      {
+        "id": 4,
+        "text": "announced"
+      },
+      {
+        "id": 5,
+        "text": "just days"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "foundAfter",
+        "tail": 5
+      },
+      {
+        "head": 1,
+        "relation": "foundBy",
+        "tail": 3
+      },
+      {
+        "head": 2,
+        "relation": "relatedTo",
+        "tail": 4
+      }
+    ]
+  },
+  {
+    "document_id": 404,
+    "ragtruth_id": "530",
+    "text": "A headstone belonging to Hillary Clinton's father, former US Senator Hugh Rodham, was tipped over at his burial site in Pennsylvania just days after Clinton announced her candidacy for president. The cause of the toppling remains under investigation, with authorities suspecting vandalism.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Hillary Clinton's father, former US Senator Hugh Rodham"
+      },
+      {
+        "id": 1,
+        "text": "Hillary Clinton's"
+      },
+      {
+        "id": 2,
+        "text": "tipped"
+      },
+      {
+        "id": 3,
+        "text": "Pennsylvania"
+      },
+      {
+        "id": 4,
+        "text": "just days"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "burialSite",
+        "tail": 3
+      },
+      {
+        "head": 2,
+        "relation": "location",
+        "tail": 3
+      },
+      {
+        "head": 2,
+        "relation": "time",
+        "tail": 4
+      }
+    ]
+  },
+  {
+    "document_id": 405,
+    "ragtruth_id": "531",
+    "text": "Hillary Clinton's father's headstone was found tipped over in a cemetery in Scranton, PA, days after she announced her presidential bid. While police suspect vandalism, they are also investigating if weather conditions may have played a role. The funeral director believes it unlikely that the weather caused the damage, citing the lack of severe winds or weather events in the area.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Hillary Clinton's"
+      },
+      {
+        "id": 1,
+        "text": "police"
+      },
+      {
+        "id": 2,
+        "text": "tipped"
+      },
+      {
+        "id": 3,
+        "text": "Scranton"
+      },
+      {
+        "id": 4,
+        "text": "PA"
+      }
+    ],
+    "relations": [
+      {
+        "head": 2,
+        "relation": "locatedIn",
+        "tail": 3
+      },
+      {
+        "head": 3,
+        "relation": "locatedIn",
+        "tail": 4
+      }
+    ]
+  },
+  {
+    "document_id": 406,
+    "ragtruth_id": "532",
+    "text": "Hillary Clinton's father's headstone was found tipped over in a cemetery in Scranton, PA, just days after she announced her presidential bid. Police suspect vandalism, but the cause is unknown. The funeral director believes it's unlikely due to the lack of severe weather.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Hillary Clinton's"
+      },
+      {
+        "id": 1,
+        "text": "vandalism"
+      },
+      {
+        "id": 2,
+        "text": "Scranton"
+      },
+      {
+        "id": 3,
+        "text": "PA"
+      },
+      {
+        "id": 4,
+        "text": "just days"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "cause",
+        "tail": 1
+      }
+    ]
+  },
+  {
+    "document_id": 407,
+    "ragtruth_id": "533",
+    "text": "The headstone of Hillary Clinton's father, Hugh Rodham, was found tipped over in a cemetery in Scranton, Pennsylvania, just days after Clinton announced her presidential run. Police are investigating the possible vandalism, but some suspect a connection to Clinton's announcement.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Hillary Clinton's"
+      },
+      {
+        "id": 1,
+        "text": "tipped"
+      },
+      {
+        "id": 2,
+        "text": "announced"
+      },
+      {
+        "id": 3,
+        "text": "Hugh Rodham"
+      },
+      {
+        "id": 4,
+        "text": "Scranton"
+      },
+      {
+        "id": 5,
+        "text": "Pennsylvania"
+      },
+      {
+        "id": 6,
+        "text": "just days"
+      }
+    ],
+    "relations": [
+      {
+        "head": 3,
+        "relation": "fatherOf",
+        "tail": 0
+      },
+      {
+        "head": 1,
+        "relation": "locatedIn",
+        "tail": 4
+      },
+      {
+        "head": 4,
+        "relation": "locatedIn",
+        "tail": 5
+      },
+      {
+        "head": 1,
+        "relation": "timeAfter",
+        "tail": 6
+      },
+      {
+        "head": 1,
+        "relation": "relatedTo",
+        "tail": 2
+      }
+    ]
+  },
+  {
+    "document_id": 408,
+    "ragtruth_id": "534",
+    "text": "South Korean investigators claim to have proof that North Korea was behind a number of cyber attacks, including one on the country's nuclear operator last year. The 2013 attack, known as \"Dark Seoul\", paralysed an estimated 48,000 computers at major banks and broadcasters, disrupting network systems and wiping their hard disks clean. The more recent attack in December attempted to steal data from South Korea's nuclear operator, including plant blueprints and personnel information. No critical data was stolen, but the attack raised serious concerns about the safety of the 23 nuclear power plants in the country. The attack was described by digital forensic expert, Joshua James, as a \"spear-fishing\" exercise where victims were prompted to open a disguised document in their email. He added that the average person would not even know they had been hacked. South Korea's Defense Ministry estimates that North Korea is operating a \"cyberarmy\" of 6,000 workers as it focuses on strengthening its asymmetrical warfare capability.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "North Korea"
+      },
+      {
+        "id": 1,
+        "text": "one on the country's nuclear operator last year"
+      },
+      {
+        "id": 2,
+        "text": "an estimated 48,000 computers at major banks and broadcasters"
+      },
+      {
+        "id": 3,
+        "text": "the country's nuclear operator"
+      },
+      {
+        "id": 4,
+        "text": "The more recent attack in December"
+      },
+      {
+        "id": 5,
+        "text": "victims"
+      },
+      {
+        "id": 6,
+        "text": "digital forensic expert, Joshua James"
+      },
+      {
+        "id": 7,
+        "text": "South Korean"
+      },
+      {
+        "id": 8,
+        "text": "23"
+      },
+      {
+        "id": 9,
+        "text": "Defense Ministry"
+      },
+      {
+        "id": 10,
+        "text": "6,000"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "target",
+        "tail": 3
+      },
+      {
+        "head": 4,
+        "relation": "target",
+        "tail": 3
+      },
+      {
+        "head": 4,
+        "relation": "describedBy",
+        "tail": 6
+      },
+      {
+        "head": 9,
+        "relation": "estimate",
+        "tail": 10
+      }
+    ]
+  },
+  {
+    "document_id": 409,
+    "ragtruth_id": "535",
+    "text": "In March 2013, a cyberattack known as \"Dark Seoul\" hit several banks and media outlets in South Korea, causing chaos. The attack paralyzed approximately 48,000 computers, disrupting network systems and wiping hard disks clean. South Korean investigators have proof that North Korea was behind the attack, as they have the actual malicious codes used. The attack occurred shortly after North Korea announced the end of the armistice agreement with South Korea. In December of the same year, South Korea's nuclear operator was breached in another cyberattack. Although no critical data was stolen, the attack raised concerns about the safety and security of the country's 23 nuclear power plants. The attack was a \"spear-fishing\" exercise, where victims were prompted to open a disguised document in their email, which then infected their computers. South Korean authorities blamed this attack and the hacking of Sony Pictures on North Korea. Experts believe North Korea is investing more in cyberwarfare as it is cheaper than conventional weapons and can cause significant economic damage. South Korea's Defense Ministry estimates that North Korea has a \"cyberarmy\" of 6,000 workers. The Korea Institute for Industrial Economics and Trade predicts that by 2020, hacking attacks could cause up to $25 billion in economic damage to South Korea.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "a cyberattack known as \"Dark Seoul\""
+      },
+      {
+        "id": 1,
+        "text": "South Korean investigators"
+      },
+      {
+        "id": 2,
+        "text": "North Korea"
+      },
+      {
+        "id": 3,
+        "text": "South Korea"
+      },
+      {
+        "id": 4,
+        "text": "another cyberattack"
+      },
+      {
+        "id": 5,
+        "text": "victims"
+      },
+      {
+        "id": 6,
+        "text": "cyberwarfare"
+      },
+      {
+        "id": 7,
+        "text": "March 2013"
+      },
+      {
+        "id": 8,
+        "text": "approximately 48,000"
+      },
+      {
+        "id": 9,
+        "text": "December of the same year"
+      },
+      {
+        "id": 10,
+        "text": "23"
+      },
+      {
+        "id": 11,
+        "text": "South Korean"
+      },
+      {
+        "id": 12,
+        "text": "Sony Pictures"
+      },
+      {
+        "id": 13,
+        "text": "Defense Ministry"
+      },
+      {
+        "id": 14,
+        "text": "6,000"
+      },
+      {
+        "id": 15,
+        "text": "The Korea Institute for Industrial Economics and Trade"
+      },
+      {
+        "id": 16,
+        "text": "2020"
+      },
+      {
+        "id": 17,
+        "text": "up to $25 billion"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "date",
+        "tail": 7
+      },
+      {
+        "head": 0,
+        "relation": "location",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "affectedComputerCount",
+        "tail": 8
+      },
+      {
+        "head": 0,
+        "relation": "attributedTo",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "occurredAfter",
+        "tail": 2
+      },
+      {
+        "head": 4,
+        "relation": "date",
+        "tail": 9
+      },
+      {
+        "head": 4,
+        "relation": "location",
+        "tail": 3
+      },
+      {
+        "head": 4,
+        "relation": "blamedOn",
+        "tail": 2
+      },
+      {
+        "head": 2,
+        "relation": "cyberarmySize",
+        "tail": 14
+      },
+      {
+        "head": 3,
+        "relation": "economicDamageEstimate",
+        "tail": 17
+      },
+      {
+        "head": 3,
+        "relation": "damageEstimateDate",
+        "tail": 16
+      }
+    ]
+  }
+]

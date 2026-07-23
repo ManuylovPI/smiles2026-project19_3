@@ -1,0 +1,806 @@
+[
+  {
+    "document_id": 590,
+    "ragtruth_id": "794",
+    "text": "A bystander's cell phone video has exposed discrepancies in the initial reports of North Charleston police officers regarding the shooting death of an unarmed black man, Walter Scott. The video shows five-year police veteran Officer Michael Slager shooting at Scott eight times as he runs away, striking him five times. The officer initially said he used a Taser on Scott, but the video shows no evidence of this. Witnesses have contradicted Slager's account of events. The city's police chief and mayor have called for an independent investigation into the case. The shooting has sparked protests in the city, calling for justice for Scott and accountability for police brutality.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "A bystander's cell phone video"
+      },
+      {
+        "id": 1,
+        "text": "an unarmed black man, Walter Scott"
+      },
+      {
+        "id": 2,
+        "text": "five-year police veteran Officer Michael Slager"
+      },
+      {
+        "id": 3,
+        "text": "used"
+      },
+      {
+        "id": 4,
+        "text": "North Charleston"
+      },
+      {
+        "id": 5,
+        "text": "the shooting death of an unarmed black man, Walter Scott"
+      },
+      {
+        "id": 6,
+        "text": "eight"
+      },
+      {
+        "id": 7,
+        "text": "five"
+      },
+      {
+        "id": 8,
+        "text": "Taser on Scott"
+      }
+    ],
+    "relations": [
+      {
+        "head": 5,
+        "relation": "victim",
+        "tail": 1
+      },
+      {
+        "head": 2,
+        "relation": "shotAt",
+        "tail": 1
+      },
+      {
+        "head": 2,
+        "relation": "shotCount",
+        "tail": 6
+      },
+      {
+        "head": 2,
+        "relation": "hitCount",
+        "tail": 7
+      },
+      {
+        "head": 2,
+        "relation": "used",
+        "tail": 8
+      }
+    ]
+  },
+  {
+    "document_id": 591,
+    "ragtruth_id": "795",
+    "text": "On April 4, video footage emerged showing North Charleston police officer Michael Slager shooting and killing unarmed black man Walter Scott during a traffic stop. The footage, captured by witness Feidin Santana, contradicts Slager's initial statement that he used a Taser on Scott before firing his weapon. According to Santana, he saw Scott running away from Slager before the officer opened fire, and he did not see Scott try to take the Taser. The footage also raises questions about what happened before the shooting, including whether Slager used a Taser on Scott and whether Scott had taken the device. Slager has been fired and charged with murder in connection with Scott's death. The incident has sparked outrage and calls for police reform in the South Carolina community.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "video footage"
+      },
+      {
+        "id": 1,
+        "text": "North Charleston police officer Michael Slager"
+      },
+      {
+        "id": 2,
+        "text": "unarmed black man Walter Scott"
+      },
+      {
+        "id": 3,
+        "text": "witness Feidin Santana"
+      },
+      {
+        "id": 4,
+        "text": "a Taser"
+      },
+      {
+        "id": 5,
+        "text": "shooting"
+      },
+      {
+        "id": 6,
+        "text": "killing"
+      },
+      {
+        "id": 7,
+        "text": "April 4"
+      },
+      {
+        "id": 8,
+        "text": "Taser on Scott"
+      },
+      {
+        "id": 9,
+        "text": "Taser on Scott"
+      },
+      {
+        "id": 10,
+        "text": "South Carolina"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "capturedBy",
+        "tail": 3
+      },
+      {
+        "head": 5,
+        "relation": "agent",
+        "tail": 1
+      },
+      {
+        "head": 6,
+        "relation": "agent",
+        "tail": 1
+      },
+      {
+        "head": 1,
+        "relation": "usedOn",
+        "tail": 8
+      },
+      {
+        "head": 1,
+        "relation": "usedOn",
+        "tail": 9
+      },
+      {
+        "head": 1,
+        "relation": "firedOn",
+        "tail": 2
+      },
+      {
+        "head": 1,
+        "relation": "chargedWith",
+        "tail": 6
+      },
+      {
+        "head": 6,
+        "relation": "of",
+        "tail": 2
+      },
+      {
+        "head": 5,
+        "relation": "date",
+        "tail": 7
+      },
+      {
+        "head": 5,
+        "relation": "location",
+        "tail": 10
+      }
+    ]
+  },
+  {
+    "document_id": 592,
+    "ragtruth_id": "796",
+    "text": "Here is a summary of the news article in 200 words or less:\n\nA police officer in North Charleston, South Carolina has been charged with murder after a bystander's video showed him shooting an unarmed black man, Walter Scott, multiple times as he ran away. The video contradicts the officer's initial report that he used a Taser on Scott, who was stopped for a broken taillight. The officer, Michael Slager, has been fired and the city's police chief and mayor have apologized for the incident. The shooting has sparked protests and calls for justice, with many questioning the use of excessive force by the police.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "A police officer in North Charleston, South Carolina"
+      },
+      {
+        "id": 1,
+        "text": "an unarmed black man, Walter Scott"
+      },
+      {
+        "id": 2,
+        "text": "a bystander's video"
+      },
+      {
+        "id": 3,
+        "text": "North Charleston, South Carolina"
+      },
+      {
+        "id": 4,
+        "text": "shooting"
+      },
+      {
+        "id": 5,
+        "text": "200"
+      },
+      {
+        "id": 6,
+        "text": "Taser on Scott"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "locatedIn",
+        "tail": 3
+      },
+      {
+        "head": 4,
+        "relation": "involves",
+        "tail": 1
+      },
+      {
+        "head": 2,
+        "relation": "shows",
+        "tail": 4
+      },
+      {
+        "head": 2,
+        "relation": "contradicts",
+        "tail": 0
+      },
+      {
+        "head": 0,
+        "relation": "used",
+        "tail": 6
+      }
+    ]
+  },
+  {
+    "document_id": 593,
+    "ragtruth_id": "797",
+    "text": "White North Charleston police Officer Michael Slager has been fired and charged with murder after a bystander's cell phone video showed him shooting an unarmed black man, Walter Scott, eight times as Scott ran away. The video begins after an alleged struggle on the ground between the two, and Scott is hit five times. Slager initially said he used a Taser on Scott, who tried to take it, but witness Feidin Santana disputes this, saying Scott never grabbed the Taser or used it on the officer. Eight police officers provided statements for a police report, but not Slager. The report includes conflicting accounts of the events leading up to the shooting, and some officers' statements contradict each other. Scott was pronounced dead shortly after EMS arrived. The incident has sparked protests and calls for justice, and the South Carolina Law Enforcement Division is investigating.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "White North Charleston police Officer Michael Slager"
+      },
+      {
+        "id": 1,
+        "text": "an unarmed black man, Walter Scott"
+      },
+      {
+        "id": 2,
+        "text": "a bystander's cell phone video"
+      },
+      {
+        "id": 3,
+        "text": "a Taser"
+      },
+      {
+        "id": 4,
+        "text": "said"
+      },
+      {
+        "id": 5,
+        "text": "a police report"
+      },
+      {
+        "id": 6,
+        "text": "shooting"
+      },
+      {
+        "id": 7,
+        "text": "eight"
+      },
+      {
+        "id": 8,
+        "text": "two"
+      },
+      {
+        "id": 9,
+        "text": "five"
+      },
+      {
+        "id": 10,
+        "text": "Taser on Scott"
+      },
+      {
+        "id": 11,
+        "text": "Feidin Santana"
+      },
+      {
+        "id": 12,
+        "text": "Eight"
+      },
+      {
+        "id": 13,
+        "text": "EMS"
+      },
+      {
+        "id": 14,
+        "text": "the South Carolina Law Enforcement Division"
+      }
+    ],
+    "relations": [
+      {
+        "head": 2,
+        "relation": "shows",
+        "tail": 6
+      },
+      {
+        "head": 0,
+        "relation": "shot",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "used",
+        "tail": 3
+      },
+      {
+        "head": 1,
+        "relation": "triedToTake",
+        "tail": 3
+      },
+      {
+        "head": 11,
+        "relation": "disputes",
+        "tail": 4
+      },
+      {
+        "head": 1,
+        "relation": "grabbed",
+        "tail": 3
+      },
+      {
+        "head": 5,
+        "relation": "includes",
+        "tail": 6
+      },
+      {
+        "head": 14,
+        "relation": "investigates",
+        "tail": 6
+      }
+    ]
+  },
+  {
+    "document_id": 594,
+    "ragtruth_id": "798",
+    "text": "US Presidential hopeful, Ted Cruz, is hoping to count on the Evangelical vote to propel him forward in what is expected to be a tough competition among a crowded field of GOP candidates. Cruz stood out from the crowd last week as he hit the trail in Iowa for the first time as a Presidential candidate. He regularly avoids using a podium, instead favouring pacing the stage with a wireless microphone, reminiscent of a Sunday morning sermon. When he meets with people after events, he often softens his usually theatrical tone, displaying a pastoral swagger. The past two winners of Iowa's caucuses rose to victory with support from the Christian right and Cruz is aiming to energise the same base to claim the coveted state as his prize. According to a Des Moines Register/Bloomberg Politics poll from January, 44% of likely 2016 Republican caucus-goers said they were born-again or evangelical Christians.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "US Presidential hopeful, Ted Cruz"
+      },
+      {
+        "id": 1,
+        "text": "Iowa"
+      },
+      {
+        "id": 2,
+        "text": "the Christian right"
+      },
+      {
+        "id": 3,
+        "text": "44% of likely 2016 Republican caucus-goers"
+      },
+      {
+        "id": 4,
+        "text": "Evangelical"
+      },
+      {
+        "id": 5,
+        "text": "GOP"
+      },
+      {
+        "id": 6,
+        "text": "last week"
+      },
+      {
+        "id": 7,
+        "text": "first"
+      },
+      {
+        "id": 8,
+        "text": "Sunday"
+      },
+      {
+        "id": 9,
+        "text": "morning"
+      },
+      {
+        "id": 10,
+        "text": "two"
+      },
+      {
+        "id": 11,
+        "text": "Des Moines Register/Bloomberg Politics"
+      },
+      {
+        "id": 12,
+        "text": "January"
+      },
+      {
+        "id": 13,
+        "text": "Christians"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "candidateIn",
+        "tail": 5
+      },
+      {
+        "head": 0,
+        "relation": "campaigningIn",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "supportedBy",
+        "tail": 4
+      },
+      {
+        "head": 1,
+        "relation": "supportedBy",
+        "tail": 2
+      },
+      {
+        "head": 3,
+        "relation": "identifiedAs",
+        "tail": 13
+      }
+    ]
+  },
+  {
+    "document_id": 595,
+    "ragtruth_id": "799",
+    "text": "Ted Cruz, the presidential candidate from Texas, has been focusing on connecting with voters on a religious level during his campaign in Iowa. Cruz, who announced his bid for presidency last month at the Baptist school Liberty University, is targeting the evangelical base in Iowa to help propel him forward in the crowded field of GOP candidates. Evangelicals make up a significant portion of Iowa's Republican voter bloc, with 44% of likely 2016 Republican caucus-goers identifying as born-again or evangelical Christians. Cruz has been successful in appealing to this group by championing social issues and defending religious freedom laws. He has also been open about his own faith and frequently shares the story of his father becoming a Christian and a pastor. Cruz's campaign is confident that by tapping into the evangelical vote, they can expand the party's reach in the election. They aim to see a return of the evangelical vote to 2004 levels and believe that this demographic holds the potential for millions of additional votes. While Cruz is not the only candidate vying for the support of evangelicals, he is positioning himself as a stalwart conservative who is willing to challenge GOP leadership on fiscal issues. The competition for the support of evangelicals in Iowa is expected to be fierce, with previous winners of the Iowa caucuses, Mike Huckabee and Rick Santorum, likely running again in 2016. However, Cruz's campaign believes that by appealing to multiple factions within the Republican Party, including the tea party and libertarian bases, they can build a winning coalition.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Ted Cruz, the presidential candidate from Texas"
+      },
+      {
+        "id": 1,
+        "text": "Iowa"
+      },
+      {
+        "id": 2,
+        "text": "Evangelicals"
+      },
+      {
+        "id": 3,
+        "text": "Cruz's campaign"
+      },
+      {
+        "id": 4,
+        "text": "GOP"
+      },
+      {
+        "id": 5,
+        "text": "2016"
+      },
+      {
+        "id": 6,
+        "text": "Republican"
+      },
+      {
+        "id": 7,
+        "text": "44%"
+      },
+      {
+        "id": 8,
+        "text": "Republican"
+      },
+      {
+        "id": 9,
+        "text": "Christians"
+      },
+      {
+        "id": 10,
+        "text": "Christian"
+      },
+      {
+        "id": 11,
+        "text": "2004"
+      },
+      {
+        "id": 12,
+        "text": "millions"
+      },
+      {
+        "id": 13,
+        "text": "Mike Huckabee"
+      },
+      {
+        "id": 14,
+        "text": "Rick Santorum"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "campaignLocation",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "party",
+        "tail": 4
+      },
+      {
+        "head": 2,
+        "relation": "partOfVoterBloc",
+        "tail": 6
+      },
+      {
+        "head": 2,
+        "relation": "partOfVoterBloc",
+        "tail": 8
+      },
+      {
+        "head": 2,
+        "relation": "identifiesAs",
+        "tail": 9
+      },
+      {
+        "head": 3,
+        "relation": "supports",
+        "tail": 2
+      },
+      {
+        "head": 3,
+        "relation": "memberOf",
+        "tail": 4
+      },
+      {
+        "head": 3,
+        "relation": "targets",
+        "tail": 2
+      },
+      {
+        "head": 3,
+        "relation": "campaignLocation",
+        "tail": 1
+      },
+      {
+        "head": 13,
+        "relation": "previousWinnerOf",
+        "tail": 1
+      },
+      {
+        "head": 14,
+        "relation": "previousWinnerOf",
+        "tail": 1
+      }
+    ]
+  },
+  {
+    "document_id": 596,
+    "ragtruth_id": "800",
+    "text": "Ted Cruz, a Republican presidential hopeful, held two rallies in Iowa on Thursday, where he greeted voters and discussed various topics including social issues. During the stops, Cruz took time to meet with voters individually and answered questions about religion and homosexual rights. He also spoke out against criticism of the religious freedom law in Indiana, describing it as an assault on First Amendment rights. Cruz plans to continue campaigning in Iowa and other early primary states in the coming months, hoping to energize the state's evangelical voting bloc.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Ted Cruz, a Republican presidential hopeful,"
+      },
+      {
+        "id": 1,
+        "text": "two rallies"
+      },
+      {
+        "id": 2,
+        "text": "the religious freedom law in Indiana"
+      },
+      {
+        "id": 3,
+        "text": "Iowa"
+      },
+      {
+        "id": 4,
+        "text": "Thursday"
+      },
+      {
+        "id": 5,
+        "text": "First Amendment"
+      },
+      {
+        "id": 6,
+        "text": "the coming months"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "held",
+        "tail": 1
+      },
+      {
+        "head": 1,
+        "relation": "location",
+        "tail": 3
+      },
+      {
+        "head": 1,
+        "relation": "date",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "campaignLocation",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "campaignTime",
+        "tail": 6
+      }
+    ]
+  },
+  {
+    "document_id": 597,
+    "ragtruth_id": "801",
+    "text": "Ted Cruz, a presidential candidate, recently visited Cedar Falls, Iowa where he met with voters and showed a strong connection with them. Cruz, a born-again Christian, often greets people with handshakes and softens his tone when speaking to them. He also shared his personal faith story and discussed issues related to religious freedom. Cruz believes that connecting with the evangelical base in Iowa is crucial for his campaign, as they make up a significant portion of the state's Republican voter bloc. He plans to return to the state multiple times and will feature his faith prominently in his campaign. Other Republican candidates, such as Mike Huckabee and Rick Santorum, have also had success in Iowa with the evangelical vote, and Cruz recognizes the importance of appealing to this group. However, he also acknowledges that the competition will be stiff and that he needs to appeal to other factions within the party, such as the tea party and libertarian groups.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Ted Cruz, a presidential candidate"
+      },
+      {
+        "id": 1,
+        "text": "voters"
+      },
+      {
+        "id": 2,
+        "text": "people"
+      },
+      {
+        "id": 3,
+        "text": "Iowa"
+      },
+      {
+        "id": 4,
+        "text": "the evangelical base in Iowa"
+      },
+      {
+        "id": 5,
+        "text": "his campaign"
+      },
+      {
+        "id": 6,
+        "text": "Cedar Falls"
+      },
+      {
+        "id": 7,
+        "text": "Republican"
+      },
+      {
+        "id": 8,
+        "text": "Republican"
+      },
+      {
+        "id": 9,
+        "text": "Mike Huckabee"
+      },
+      {
+        "id": 10,
+        "text": "Rick Santorum"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "visited",
+        "tail": 6
+      },
+      {
+        "head": 0,
+        "relation": "visitedIn",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "metWith",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "connectedWith",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "religion",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "campaign",
+        "tail": 5
+      },
+      {
+        "head": 0,
+        "relation": "plansToReturnTo",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "appealTo",
+        "tail": 4
+      }
+    ]
+  },
+  {
+    "document_id": 598,
+    "ragtruth_id": "802",
+    "text": "Here is a summary of the article in 200 words or less:\n\nTed Cruz, a presidential candidate, recently visited Iowa and focused on connecting with evangelical voters. He held events and spoke about issues important to the religious community, such as religious freedom and the importance of his faith in his life. Cruz has built a brand as a conservative willing to champion social issues and has hired a former pastor as his Iowa director. He aims to win the nomination by bridging the gap between the tea party faction, libertarians, and evangelicals. Cruz believes that courtsng evangelicals could mean the difference of millions more at the polls and sees the Iowa caucuses as a key opportunity to do so.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Ted Cruz, a presidential candidate"
+      },
+      {
+        "id": 1,
+        "text": "Iowa"
+      },
+      {
+        "id": 2,
+        "text": "200"
+      },
+      {
+        "id": 3,
+        "text": "millions"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "visited",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "directorIn",
+        "tail": 1
+      }
+    ]
+  },
+  {
+    "document_id": 599,
+    "ragtruth_id": "803",
+    "text": "Texas Senator Ted Cruz is making a strong effort to court evangelical voters in Iowa, a key demographic in the state's Republican caucuses. During a recent trip to Iowa, Cruz emphasized his religious beliefs and connection to the religious right, often speaking about his personal faith and the importance of religious freedom. He also criticized the \"assault\" on religious liberty in America, particularly in Indiana, where a controversial religious freedom law was recently passed. Cruz's campaign is focusing on a three-pronged strategy to win the nomination, which includes appealing to evangelicals, tea party members, and libertarians. The campaign believes that if they can mobilize evangelical voters who have been staying home, they could make a significant impact in the election. Many experts believe that the race for the Republican nomination is still wide open, and that several candidates have a good chance of winning the support of evangelical voters.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Iowa"
+      },
+      {
+        "id": 1,
+        "text": "Iowa, a key demographic in the state's Republican caucuses"
+      },
+      {
+        "id": 2,
+        "text": "Texas Senator Ted Cruz"
+      },
+      {
+        "id": 3,
+        "text": "Cruz's campaign"
+      },
+      {
+        "id": 4,
+        "text": "the nomination"
+      },
+      {
+        "id": 5,
+        "text": "America"
+      },
+      {
+        "id": 6,
+        "text": "Indiana"
+      },
+      {
+        "id": 7,
+        "text": "three"
+      }
+    ],
+    "relations": [
+      {
+        "head": 2,
+        "relation": "campaignFocus",
+        "tail": 1
+      },
+      {
+        "head": 3,
+        "relation": "strategyCount",
+        "tail": 7
+      },
+      {
+        "head": 3,
+        "relation": "strategyGoal",
+        "tail": 4
+      }
+    ]
+  }
+]

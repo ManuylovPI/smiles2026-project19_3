@@ -1,0 +1,751 @@
+[
+  {
+    "document_id": 610,
+    "ragtruth_id": "814",
+    "text": "Sure! Here's the summary within 92 words:\n\nLiana Barrientos, 39, has been married 10 times since 1999, mostly in NYC boroughs. She's accused of lying on her 2010 marriage license application about being single, as part of an immigration scam. Prosecutors say she and her husbands filed for permanent residence status, then divorced. Seven husbands were from \"red-flagged\" countries. Barrientos pleaded not guilty and faces up to four years in prison.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Liana Barrientos, 39"
+      },
+      {
+        "id": 1,
+        "text": "92"
+      },
+      {
+        "id": 2,
+        "text": "10"
+      },
+      {
+        "id": 3,
+        "text": "1999"
+      },
+      {
+        "id": 4,
+        "text": "NYC"
+      },
+      {
+        "id": 5,
+        "text": "2010"
+      },
+      {
+        "id": 6,
+        "text": "Seven"
+      },
+      {
+        "id": 7,
+        "text": "up to four years"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "marriedCount",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "marriedSince",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "marriedIn",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "marriageLicenseApplicationDate",
+        "tail": 5
+      },
+      {
+        "head": 0,
+        "relation": "husbandsCount",
+        "tail": 6
+      },
+      {
+        "head": 0,
+        "relation": "sentence",
+        "tail": 7
+      }
+    ]
+  },
+  {
+    "document_id": 611,
+    "ragtruth_id": "815",
+    "text": "Liana Barrientos, 39, has been accused of marrying ten men in an immigration scam. She faces two criminal counts of offering a false instrument for filing in the first degree and could face up to four years in prison if convicted. Barrientos' marriages took place between 1999 and 2002, mostly in Westchester County, Long Island, New Jersey, and the Bronx. Seven of her husbands are from countries considered \"red-flagged\" by authorities. Barrientos is believed to still be married to four men, and one of her husbands, Rashid Rajput, was deported to Pakistan in 2006. Her next court appearance is set for May 18.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Liana Barrientos, 39,"
+      },
+      {
+        "id": 1,
+        "text": "her husbands"
+      },
+      {
+        "id": 2,
+        "text": "ten"
+      },
+      {
+        "id": 3,
+        "text": "two"
+      },
+      {
+        "id": 4,
+        "text": "first"
+      },
+      {
+        "id": 5,
+        "text": "up to four years"
+      },
+      {
+        "id": 6,
+        "text": "between 1999 and 2002"
+      },
+      {
+        "id": 7,
+        "text": "Westchester County"
+      },
+      {
+        "id": 8,
+        "text": "Long Island"
+      },
+      {
+        "id": 9,
+        "text": "New Jersey"
+      },
+      {
+        "id": 10,
+        "text": "Bronx"
+      },
+      {
+        "id": 11,
+        "text": "Seven"
+      },
+      {
+        "id": 12,
+        "text": "four"
+      },
+      {
+        "id": 13,
+        "text": "Rashid Rajput"
+      },
+      {
+        "id": 14,
+        "text": "Pakistan"
+      },
+      {
+        "id": 15,
+        "text": "2006"
+      },
+      {
+        "id": 16,
+        "text": "May 18"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "marriedTo",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "marriagePeriod",
+        "tail": 6
+      },
+      {
+        "head": 0,
+        "relation": "marriageLocation",
+        "tail": 7
+      },
+      {
+        "head": 0,
+        "relation": "marriageLocation",
+        "tail": 8
+      },
+      {
+        "head": 0,
+        "relation": "marriageLocation",
+        "tail": 9
+      },
+      {
+        "head": 0,
+        "relation": "marriageLocation",
+        "tail": 10
+      },
+      {
+        "head": 0,
+        "relation": "stillMarriedTo",
+        "tail": 12
+      },
+      {
+        "head": 13,
+        "relation": "deportedTo",
+        "tail": 14
+      },
+      {
+        "head": 13,
+        "relation": "deportedIn",
+        "tail": 15
+      }
+    ]
+  },
+  {
+    "document_id": 612,
+    "ragtruth_id": "816",
+    "text": "Following poor performance in its international engagements, \"Grace of Monaco\", the critically-panned film starring Nicole Kidman as Grace Kelly, is heading straight to Lifetime. The Weinstein Co., which first purchased U.S. distribution rights at the 2013 Berlin Film Festival, decided to sell it directly to Lifetime rather than book it into U.S. theatres. The film will premiere on Lifetime on Memorial Day, May 25. The movie was originally scheduled for release in late 2013, and was considered a potential Oscar contender.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "its"
+      },
+      {
+        "id": 1,
+        "text": "Lifetime"
+      },
+      {
+        "id": 2,
+        "text": "The Weinstein Co."
+      },
+      {
+        "id": 3,
+        "text": "first"
+      },
+      {
+        "id": 4,
+        "text": "U.S."
+      },
+      {
+        "id": 5,
+        "text": "2013"
+      },
+      {
+        "id": 6,
+        "text": "Berlin Film Festival"
+      },
+      {
+        "id": 7,
+        "text": "U.S."
+      },
+      {
+        "id": 8,
+        "text": "May 25"
+      },
+      {
+        "id": 9,
+        "text": "late 2013"
+      },
+      {
+        "id": 10,
+        "text": "Oscar"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "distributedBy",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "purchasedDistributionRightsBy",
+        "tail": 2
+      },
+      {
+        "head": 2,
+        "relation": "purchasedDistributionRightsAt",
+        "tail": 6
+      },
+      {
+        "head": 0,
+        "relation": "premieredOn",
+        "tail": 8
+      },
+      {
+        "head": 0,
+        "relation": "scheduledReleaseDate",
+        "tail": 9
+      }
+    ]
+  },
+  {
+    "document_id": 613,
+    "ragtruth_id": "817",
+    "text": "The film \"Grace of Monaco\" starring Nicole Kidman will be premiering on Lifetime on May 25th, skipping a theatrical release. The film, which received negative reviews, was originally scheduled for release in late 2013 but faced multiple delays. The Weinstein Co., the distributor, decided to sell the film to Lifetime after it performed poorly internationally. The director of the film, Olivier Dahan, had disagreements with Harvey Weinstein over the final cut of the movie. Despite the film's star-studded cast and potential for awards, it was ultimately not released in theaters and will now premiere on Lifetime.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "The film \"Grace of Monaco\" starring Nicole Kidman"
+      },
+      {
+        "id": 1,
+        "text": "Lifetime"
+      },
+      {
+        "id": 2,
+        "text": "May 25th"
+      },
+      {
+        "id": 3,
+        "text": "late 2013"
+      },
+      {
+        "id": 4,
+        "text": "The Weinstein Co."
+      },
+      {
+        "id": 5,
+        "text": "Olivier Dahan"
+      },
+      {
+        "id": 6,
+        "text": "Harvey Weinstein"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "premieringOn",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "premiereDate",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "originalReleaseDate",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "distributor",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "director",
+        "tail": 5
+      }
+    ]
+  },
+  {
+    "document_id": 614,
+    "ragtruth_id": "818",
+    "text": "\"Grace of Monaco,\" starring Nicole Kidman, is set to premiere on Lifetime on May 25 after performing poorly in its international engagements. The film, directed by Olivier Dahan, was originally scheduled for release in late 2013 and was intended for the Academy Awards. However, The Weinstein Company (TWC) pulled it out of awards contention and delayed its release. Dahan criticized TWC for tampering with his final cut of the film, while Grace's children called the movie \"glamorized and inaccurate.\" Despite this, TWC struck a new distribution deal for the film at the 2015 Cannes Film Festival and showed Dahan's cut in the US. However, the movie was not included in TWC's fall 2015 release schedule.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "\"Grace of Monaco,\" starring Nicole Kidman"
+      },
+      {
+        "id": 1,
+        "text": "Olivier Dahan"
+      },
+      {
+        "id": 2,
+        "text": "The Weinstein Company (TWC)"
+      },
+      {
+        "id": 3,
+        "text": "his final cut of the film"
+      },
+      {
+        "id": 4,
+        "text": "Lifetime"
+      },
+      {
+        "id": 5,
+        "text": "May 25"
+      },
+      {
+        "id": 6,
+        "text": "late 2013"
+      },
+      {
+        "id": 7,
+        "text": "the Academy Awards"
+      },
+      {
+        "id": 8,
+        "text": "the 2015 Cannes Film Festival"
+      },
+      {
+        "id": 9,
+        "text": "US"
+      },
+      {
+        "id": 10,
+        "text": "fall 2015"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "premiereNetwork",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "premiereDate",
+        "tail": 5
+      },
+      {
+        "head": 0,
+        "relation": "director",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "originalReleaseDate",
+        "tail": 6
+      },
+      {
+        "head": 0,
+        "relation": "intendedFor",
+        "tail": 7
+      },
+      {
+        "head": 0,
+        "relation": "distributor",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "distributionDealEvent",
+        "tail": 8
+      },
+      {
+        "head": 0,
+        "relation": "shownIn",
+        "tail": 9
+      },
+      {
+        "head": 0,
+        "relation": "notIncludedInReleaseSchedule",
+        "tail": 10
+      }
+    ]
+  },
+  {
+    "document_id": 615,
+    "ragtruth_id": "819",
+    "text": "Here is a summary of the article in 101 words or less:\n\nThe Weinstein Company (TWC) has sold the rights to \"Grace of Monaco\" to Lifetime after the film underperformed in international markets. The movie, starring Nicole Kidman as Princess Grace Kelly, was initially slated for an Oscar run but was pulled from consideration and released direct-to-video instead. Despite criticism from the princess's children and director Olivier Dahan, TWC agreed to show Dahan's cut in the US for $3 million upfront, with additional rights acquired for $2 million.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "\"Grace of Monaco\""
+      },
+      {
+        "id": 1,
+        "text": "Princess Grace Kelly"
+      },
+      {
+        "id": 2,
+        "text": "The Weinstein Company (TWC)"
+      },
+      {
+        "id": 3,
+        "text": "director Olivier Dahan"
+      },
+      {
+        "id": 4,
+        "text": "101"
+      },
+      {
+        "id": 5,
+        "text": "Lifetime"
+      },
+      {
+        "id": 6,
+        "text": "Oscar"
+      },
+      {
+        "id": 7,
+        "text": "US"
+      },
+      {
+        "id": 8,
+        "text": "$3 million"
+      },
+      {
+        "id": 9,
+        "text": "$2 million"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "rightsSoldTo",
+        "tail": 5
+      },
+      {
+        "head": 0,
+        "relation": "starring",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "director",
+        "tail": 3
+      },
+      {
+        "head": 2,
+        "relation": "showIn",
+        "tail": 7
+      },
+      {
+        "head": 2,
+        "relation": "payment",
+        "tail": 8
+      },
+      {
+        "head": 2,
+        "relation": "additionalRightsPayment",
+        "tail": 9
+      }
+    ]
+  },
+  {
+    "document_id": 616,
+    "ragtruth_id": "820",
+    "text": "Sure! Here's the summary in 101 words:\n\nLifetime has acquired US rights to the controversial biopic \"Grace of Monaco,\" starring Nicole Kidman as Princess Grace Kelly, after the film's poor performance in international markets. Directed by Olivier Dahan and featuring Tim Roth and Frank Langella, the film was initially expected to be an Oscar contender but was instead pulled from awards consideration and received criticism from the royal family. Lifetime will air the film on Memorial Day.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "the controversial biopic \"Grace of Monaco,\" starring Nicole Kidman as Princess Grace Kelly"
+      },
+      {
+        "id": 1,
+        "text": "Lifetime"
+      },
+      {
+        "id": 2,
+        "text": "101"
+      },
+      {
+        "id": 3,
+        "text": "US"
+      },
+      {
+        "id": 4,
+        "text": "Olivier Dahan"
+      },
+      {
+        "id": 5,
+        "text": "Tim Roth"
+      },
+      {
+        "id": 6,
+        "text": "Frank Langella"
+      },
+      {
+        "id": 7,
+        "text": "Oscar"
+      },
+      {
+        "id": 8,
+        "text": "Memorial Day"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "rights",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "director",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "castMember",
+        "tail": 5
+      },
+      {
+        "head": 0,
+        "relation": "castMember",
+        "tail": 6
+      },
+      {
+        "head": 0,
+        "relation": "awardContender",
+        "tail": 7
+      },
+      {
+        "head": 1,
+        "relation": "broadcasts",
+        "tail": 0
+      },
+      {
+        "head": 1,
+        "relation": "airDate",
+        "tail": 8
+      }
+    ]
+  },
+  {
+    "document_id": 617,
+    "ragtruth_id": "821",
+    "text": "\"Grace of Monaco,\" a biographical drama film starring Nicole Kidman as Grace Kelly, will premiere on Lifetime on Memorial Day after initially opening at Cannes Film Festival to negative reviews. The film, which was criticized by Grace Kelly's children for its historical inaccuracies, did not receive a theatrical release in the US and was instead sold to Lifetime for $3 million. The film's director, Olivier Dahan, had disagreements with producer Harvey Weinstein over the film's final cut, leading to a delayed release and eventual sale to Lifetime.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Grace Kelly"
+      },
+      {
+        "id": 1,
+        "text": "The film, which was criticized by Grace Kelly's children for its historical inaccuracies"
+      },
+      {
+        "id": 2,
+        "text": "Lifetime"
+      },
+      {
+        "id": 3,
+        "text": "Grace of"
+      },
+      {
+        "id": 4,
+        "text": "Monaco"
+      },
+      {
+        "id": 5,
+        "text": "Nicole Kidman"
+      },
+      {
+        "id": 6,
+        "text": "Cannes Film Festival"
+      },
+      {
+        "id": 7,
+        "text": "US"
+      },
+      {
+        "id": 8,
+        "text": "$3 million"
+      },
+      {
+        "id": 9,
+        "text": "Olivier Dahan"
+      },
+      {
+        "id": 10,
+        "text": "Harvey Weinstein"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "premieredOn",
+        "tail": 2
+      },
+      {
+        "head": 1,
+        "relation": "starring",
+        "tail": 5
+      },
+      {
+        "head": 1,
+        "relation": "character",
+        "tail": 0
+      },
+      {
+        "head": 1,
+        "relation": "openedAt",
+        "tail": 6
+      },
+      {
+        "head": 1,
+        "relation": "soldTo",
+        "tail": 2
+      },
+      {
+        "head": 1,
+        "relation": "salePrice",
+        "tail": 8
+      },
+      {
+        "head": 1,
+        "relation": "notReleasedIn",
+        "tail": 7
+      },
+      {
+        "head": 1,
+        "relation": "director",
+        "tail": 9
+      },
+      {
+        "head": 1,
+        "relation": "producer",
+        "tail": 10
+      }
+    ]
+  },
+  {
+    "document_id": 618,
+    "ragtruth_id": "822",
+    "text": "The first six \"Star Wars\" movies will be available in digital HD on Friday, featuring behind-the-scenes content and a focus on sound effects. The collection also introduces the Star Wars universe's first gay character.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "The first six \"Star Wars\" movies"
+      },
+      {
+        "id": 1,
+        "text": "Friday"
+      },
+      {
+        "id": 2,
+        "text": "first"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "availableOn",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "hasAttribute",
+        "tail": 2
+      }
+    ]
+  },
+  {
+    "document_id": 619,
+    "ragtruth_id": "823",
+    "text": "\"Star Wars\" movies will be available for digital download for the first time, including special features that give fans a behind-the-scenes look at the sound effects, including those made by the Geonosians. The films also introduce the franchise's first gay character.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "\"Star Wars\" movies"
+      },
+      {
+        "id": 1,
+        "text": "first"
+      },
+      {
+        "id": 2,
+        "text": "Geonosians"
+      },
+      {
+        "id": 3,
+        "text": "first"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "includes",
+        "tail": 2
+      }
+    ]
+  }
+]

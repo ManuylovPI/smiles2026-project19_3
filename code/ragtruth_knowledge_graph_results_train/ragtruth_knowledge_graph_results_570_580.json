@@ -1,0 +1,528 @@
+[
+  {
+    "document_id": 570,
+    "ragtruth_id": "768",
+    "text": "French-language global TV network, TV5Monde, has regained control of one of its 11 channels following a severe cyberattack on Wednesday. The network also lost control of its social media accounts and websites during the attack, which it attributes to an Islamist group. TV5Monde's director, Yves Bigot, described the incident as an \"extremely powerful cyberattack.\" There has been no immediate claim of responsibility.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "French-language global TV network, TV5Monde"
+      },
+      {
+        "id": 1,
+        "text": "a severe cyberattack on Wednesday"
+      },
+      {
+        "id": 2,
+        "text": "one"
+      },
+      {
+        "id": 3,
+        "text": "11"
+      },
+      {
+        "id": 4,
+        "text": "Yves Bigot"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "regainedControlOf",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "hasNumberOfChannels",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "director",
+        "tail": 4
+      }
+    ]
+  },
+  {
+    "document_id": 571,
+    "ragtruth_id": "769",
+    "text": "French-language global television network TV5Monde regained control of one of its 11 channels and its Facebook page after a cyberattack crippled its broadcasts and social media accounts. The network's director called it an \"extremely powerful cyberattack\" and said that an Islamist group had hacked their mobile site. ISIS logos and markings appeared on their social media accounts, but no group has claimed responsibility. The network's website was still under maintenance, and TV5Monde offers round-the-clock entertainment and news programming reaching 260 million homes worldwide.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "French-language global television network TV5Monde"
+      },
+      {
+        "id": 1,
+        "text": "a cyberattack"
+      },
+      {
+        "id": 2,
+        "text": "its Facebook page"
+      },
+      {
+        "id": 3,
+        "text": "its broadcasts and social media accounts"
+      },
+      {
+        "id": 4,
+        "text": "one"
+      },
+      {
+        "id": 5,
+        "text": "11"
+      },
+      {
+        "id": 6,
+        "text": "Islamist"
+      },
+      {
+        "id": 7,
+        "text": "ISIS"
+      },
+      {
+        "id": 8,
+        "text": "260 million"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "regainedControlOf",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "regainedControlOf",
+        "tail": 2
+      },
+      {
+        "head": 1,
+        "relation": "crippled",
+        "tail": 3
+      },
+      {
+        "head": 6,
+        "relation": "hacked",
+        "tail": 2
+      },
+      {
+        "head": 7,
+        "relation": "appearedOn",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "reaches",
+        "tail": 8
+      }
+    ]
+  },
+  {
+    "document_id": 572,
+    "ragtruth_id": "770",
+    "text": "TV5Monde, a French language global television network, regained control of one of its 11 channels after a cyberattack that crippled its broadcasts and social media accounts. The attack, called \"extremely powerful,\" caused TV5Monde to lose access to its channels, social media outlets and websites. ISIS logos and markings appeared on the network's social media accounts but no immediate claim of responsibility was made. By late morning, some pages on the network's website were under maintenance. TV5Monde provides round-the-clock entertainment and news programming that reaches 260 million homes worldwide.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "TV5Monde, a French language global television network,"
+      },
+      {
+        "id": 1,
+        "text": "a cyberattack that crippled its broadcasts and social media accounts"
+      },
+      {
+        "id": 2,
+        "text": "its broadcasts and social media accounts"
+      },
+      {
+        "id": 3,
+        "text": "one"
+      },
+      {
+        "id": 4,
+        "text": "11"
+      },
+      {
+        "id": 5,
+        "text": "ISIS"
+      },
+      {
+        "id": 6,
+        "text": "late morning"
+      },
+      {
+        "id": 7,
+        "text": "260 million"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "lostAccessTo",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "regainedControlOf",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "hasChannelCount",
+        "tail": 4
+      },
+      {
+        "head": 1,
+        "relation": "affected",
+        "tail": 2
+      },
+      {
+        "head": 2,
+        "relation": "associatedWith",
+        "tail": 5
+      },
+      {
+        "head": 0,
+        "relation": "reaches",
+        "tail": 7
+      }
+    ]
+  },
+  {
+    "document_id": 573,
+    "ragtruth_id": "771",
+    "text": "Here is a summary of the article in 63 words:\n\nTV5Monde, a French-language global television network, regained control of one of its 11 channels after a daylong cyberattack. The network's director said an \"extremely powerful cyberattack\" occurred, but there was no immediate claim of responsibility. ISIS logos appeared on social media accounts, but the network did not confirm if the attack was linked to the extremist group.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "TV5Monde, a French-language global television network"
+      },
+      {
+        "id": 1,
+        "text": "a daylong cyberattack"
+      },
+      {
+        "id": 2,
+        "text": "ISIS"
+      },
+      {
+        "id": 3,
+        "text": "63"
+      },
+      {
+        "id": 4,
+        "text": "one"
+      },
+      {
+        "id": 5,
+        "text": "11"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "channels",
+        "tail": 5
+      },
+      {
+        "head": 0,
+        "relation": "regainedControlOf",
+        "tail": 4
+      }
+    ]
+  },
+  {
+    "document_id": 574,
+    "ragtruth_id": "772",
+    "text": "Sure! Here is the summary you requested within 63 words:\n\nTV5Monde, a French-language global TV network, regained control of one channel and social media accounts Thursday after a cyberattack the previous day. The attack, which the network's director called \"extremely powerful,\" caused the network to lose control of its channels, social media outlets, and websites. An Islamist group claimed responsibility for the attack, but there was no immediate claim from ISIS or any other group.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "a cyberattack the previous day"
+      },
+      {
+        "id": 1,
+        "text": "TV5Monde, a French-language global TV network"
+      },
+      {
+        "id": 2,
+        "text": "An Islamist group"
+      },
+      {
+        "id": 3,
+        "text": "63"
+      },
+      {
+        "id": 4,
+        "text": "one"
+      },
+      {
+        "id": 5,
+        "text": "Thursday"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "regainedControlOf",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "occurredOn",
+        "tail": 5
+      },
+      {
+        "head": 0,
+        "relation": "caused",
+        "tail": 1
+      },
+      {
+        "head": 2,
+        "relation": "claimedResponsibilityFor",
+        "tail": 0
+      }
+    ]
+  },
+  {
+    "document_id": 575,
+    "ragtruth_id": "773",
+    "text": "TV5Monde, a French-language global television network, was hit by a cyberattack on Wednesday, crippling its broadcasts and social media accounts. The network gradually regained control of its channels and social media outlets, with an Islamist group claiming responsibility. The attack affected 11 channels and several websites, but the network had regained control of one channel and its Facebook page by Thursday morning.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "TV5Monde, a French-language global television network,"
+      },
+      {
+        "id": 1,
+        "text": "a cyberattack"
+      },
+      {
+        "id": 2,
+        "text": "Wednesday"
+      },
+      {
+        "id": 3,
+        "text": "Islamist"
+      },
+      {
+        "id": 4,
+        "text": "11"
+      },
+      {
+        "id": 5,
+        "text": "one"
+      },
+      {
+        "id": 6,
+        "text": "Thursday"
+      },
+      {
+        "id": 7,
+        "text": "morning"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "date",
+        "tail": 2
+      },
+      {
+        "head": 1,
+        "relation": "affected",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "regainedControlOf",
+        "tail": 5
+      },
+      {
+        "head": 0,
+        "relation": "regainedControlOf",
+        "tail": 6
+      }
+    ]
+  },
+  {
+    "document_id": 576,
+    "ragtruth_id": "780",
+    "text": "French police have announced that they have collected all the main evidence from the site where Germanwings Flight 9525 crashed, with no plans to return to the site. The flight data recorder was found on Thursday, and over 2,000 DNA samples have been collected from the crash site, with 150 DNA profiles isolated so far. 470 personal effects have also been found at the site, including 40 mobile phones. The crash is believed to have been intentionally caused by the flight's co-pilot, Andreas Lubitz, who had previously battled depression and concealed medical leave notes from his employer.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "French police"
+      },
+      {
+        "id": 1,
+        "text": "the site where Germanwings Flight 9525 crashed"
+      },
+      {
+        "id": 2,
+        "text": "crashed"
+      },
+      {
+        "id": 3,
+        "text": "Germanwings Flight 9525"
+      },
+      {
+        "id": 4,
+        "text": "the flight's co-pilot, Andreas Lubitz, who had previously battled depression and concealed medical leave notes from his employer"
+      },
+      {
+        "id": 5,
+        "text": "Thursday"
+      },
+      {
+        "id": 6,
+        "text": "over 2,000"
+      },
+      {
+        "id": 7,
+        "text": "150"
+      },
+      {
+        "id": 8,
+        "text": "470"
+      },
+      {
+        "id": 9,
+        "text": "40"
+      }
+    ],
+    "relations": [
+      {
+        "head": 3,
+        "relation": "crashedAt",
+        "tail": 1
+      },
+      {
+        "head": 2,
+        "relation": "causedBy",
+        "tail": 4
+      }
+    ]
+  },
+  {
+    "document_id": 577,
+    "ragtruth_id": "781",
+    "text": "French investigators have collected all the main evidence from the crash site of Germanwings Flight 9525 in the French Alps. They are not expected to return to the site, which is now being guarded by a private security company. The flight data recorder and cockpit voice recorder have been found, along with 150 DNA profiles from the crash site. Authorities have also recovered 470 personal effects, including 40 cell phones, but it is unlikely that any useful information can be retrieved from them. The co-pilot, Andreas Lubitz, intentionally caused the plane to crash.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "French investigators"
+      },
+      {
+        "id": 1,
+        "text": "the crash site of Germanwings Flight 9525 in the French Alps"
+      },
+      {
+        "id": 2,
+        "text": "470 personal effects, including 40 cell phones"
+      },
+      {
+        "id": 3,
+        "text": "Germanwings Flight 9525"
+      },
+      {
+        "id": 4,
+        "text": "150"
+      },
+      {
+        "id": 5,
+        "text": "Andreas Lubitz"
+      }
+    ],
+    "relations": [
+      {
+        "head": 3,
+        "relation": "crashSite",
+        "tail": 1
+      },
+      {
+        "head": 1,
+        "relation": "DNAProfilesFound",
+        "tail": 4
+      },
+      {
+        "head": 3,
+        "relation": "causedBy",
+        "tail": 5
+      }
+    ]
+  },
+  {
+    "document_id": 578,
+    "ragtruth_id": "782",
+    "text": "Germanwings Flight 9525 crash: Investigators collect all evidence from site; No new details found about cause of crash.",
+    "entities": [],
+    "relations": []
+  },
+  {
+    "document_id": 579,
+    "ragtruth_id": "783",
+    "text": "Here is a summary of the article in 83 words:\n\nInvestigators have collected all main evidence from the Germanwings Flight 9525 crash site in the Alps, with findings pointing to co-pilot Andreas Lubitz intentionally causing the plane's demise. All 150 passengers and crew died in the March 24 crash. So far, 150 DNA profiles have been identified, and 470 personal items have been recovered, including 40 damaged cell phones. Initial tests suggest Lubitz deliberately accelerated the plane's descent.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Germanwings Flight 9525"
+      },
+      {
+        "id": 1,
+        "text": "co-pilot Andreas Lubitz"
+      },
+      {
+        "id": 2,
+        "text": "83"
+      },
+      {
+        "id": 3,
+        "text": "Alps"
+      },
+      {
+        "id": 4,
+        "text": "150"
+      },
+      {
+        "id": 5,
+        "text": "March 24"
+      },
+      {
+        "id": 6,
+        "text": "150"
+      },
+      {
+        "id": 7,
+        "text": "470"
+      },
+      {
+        "id": 8,
+        "text": "40"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "crashSite",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "causedBy",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "deathToll",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "crashDate",
+        "tail": 5
+      }
+    ]
+  }
+]

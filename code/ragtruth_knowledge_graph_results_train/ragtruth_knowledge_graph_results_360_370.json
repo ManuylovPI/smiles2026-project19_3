@@ -1,0 +1,772 @@
+[
+  {
+    "document_id": 360,
+    "ragtruth_id": "486",
+    "text": "James Best, actor famous for his role as Sheriff Rosco P. Coltrane on \"The Dukes of Hazzard,\" has died at the age of 88. Best's death was due to complications from pneumonia and he died in hospice in North Carolina. Despite a long acting career, Best didn't receive widespread recognition until 1979 when he began playing Rosco P. Coltrane, a character that was known for his distinctive chuckle and goofy catchphrases. \"The Dukes of Hazzard\" was extremely popular in the early 80s, running until 1985. Best was paid tribute to by his \"Hazzard\" co-stars, who praised his creativity and talent. Alongside his acting career, Best was also a writer, producer, painter and teacher.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "James Best, actor famous for his role as Sheriff Rosco P. Coltrane on \"The Dukes of Hazzard"
+      },
+      {
+        "id": 1,
+        "text": "died"
+      },
+      {
+        "id": 2,
+        "text": "Sheriff Rosco P. Coltrane"
+      },
+      {
+        "id": 3,
+        "text": "\"The Dukes of Hazzard"
+      },
+      {
+        "id": 4,
+        "text": "a long acting career"
+      },
+      {
+        "id": 5,
+        "text": "the age of 88"
+      },
+      {
+        "id": 6,
+        "text": "North Carolina"
+      },
+      {
+        "id": 7,
+        "text": "1979"
+      },
+      {
+        "id": 8,
+        "text": "the early 80s"
+      },
+      {
+        "id": 9,
+        "text": "1985"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "died",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "ageAtDeath",
+        "tail": 5
+      },
+      {
+        "head": 0,
+        "relation": "deathPlace",
+        "tail": 6
+      },
+      {
+        "head": 0,
+        "relation": "beganPlaying",
+        "tail": 2
+      },
+      {
+        "head": 2,
+        "relation": "appearsIn",
+        "tail": 3
+      },
+      {
+        "head": 3,
+        "relation": "startDate",
+        "tail": 8
+      },
+      {
+        "head": 3,
+        "relation": "endDate",
+        "tail": 9
+      },
+      {
+        "head": 0,
+        "relation": "receivedRecognitionIn",
+        "tail": 7
+      }
+    ]
+  },
+  {
+    "document_id": 361,
+    "ragtruth_id": "487",
+    "text": "James Best, known for his role as Sheriff Rosco P. Coltrane on \"The Dukes of Hazzard,\" has passed away at the age of 88. He died in hospice in North Carolina due to complications from pneumonia. Best became famous in 1979 when the popular show began airing. For seven seasons, he played the bumbling sheriff who chased the Duke boys, often crashing his patrol car. Best brought a childlike enthusiasm to the character, making him endearing to audiences. \"The Dukes of Hazzard\" was a hit show in the early '80s and continued until 1985. Best's co-stars paid tribute to him on social media, expressing their admiration for his talent and creativity.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "James Best, known for his role as Sheriff Rosco P. Coltrane on \"The Dukes of Hazzard"
+      },
+      {
+        "id": 1,
+        "text": "The Dukes of Hazzard"
+      },
+      {
+        "id": 2,
+        "text": "Sheriff Rosco P. Coltrane"
+      },
+      {
+        "id": 3,
+        "text": "Best's co-stars"
+      },
+      {
+        "id": 4,
+        "text": "the age of 88"
+      },
+      {
+        "id": 5,
+        "text": "North Carolina"
+      },
+      {
+        "id": 6,
+        "text": "1979"
+      },
+      {
+        "id": 7,
+        "text": "seven seasons"
+      },
+      {
+        "id": 8,
+        "text": "the early '80s"
+      },
+      {
+        "id": 9,
+        "text": "1985"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "role",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "diedIn",
+        "tail": 5
+      },
+      {
+        "head": 0,
+        "relation": "deathAge",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "becameFamousIn",
+        "tail": 6
+      },
+      {
+        "head": 0,
+        "relation": "playedForDuration",
+        "tail": 7
+      },
+      {
+        "head": 1,
+        "relation": "startDate",
+        "tail": 6
+      },
+      {
+        "head": 1,
+        "relation": "endDate",
+        "tail": 9
+      },
+      {
+        "head": 1,
+        "relation": "airedIn",
+        "tail": 8
+      }
+    ]
+  },
+  {
+    "document_id": 362,
+    "ragtruth_id": "488",
+    "text": "James Best, known for his role as Sheriff Rosco P. Coltrane on TV's \"The Dukes of Hazzard,\" has passed away at the age of 88. He died in hospice in North Carolina from complications from pneumonia. Best's character, Rosco, became a beloved part of the show's cornpone charm, with his distinctive \"kew-kew-kew\" chuckle and catchphrases such as \"cuff 'em and stuff 'em!\" The show ran for seven seasons and spawned several TV movies, an animated series, and video games. Many of Best's co-stars paid tribute to him on social media, including John Schneider and Ben Jones.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "James Best, known for his role as Sheriff Rosco P. Coltrane on TV's \"The Dukes of Hazzard"
+      },
+      {
+        "id": 1,
+        "text": "Sheriff Rosco P. Coltrane"
+      },
+      {
+        "id": 2,
+        "text": "TV's \"The Dukes of Hazzard"
+      },
+      {
+        "id": 3,
+        "text": "the age of 88"
+      },
+      {
+        "id": 4,
+        "text": "North Carolina"
+      },
+      {
+        "id": 5,
+        "text": "seven seasons"
+      },
+      {
+        "id": 6,
+        "text": "John Schneider"
+      },
+      {
+        "id": 7,
+        "text": "Ben Jones"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "character",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "appearedIn",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "ageAtDeath",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "diedIn",
+        "tail": 4
+      },
+      {
+        "head": 2,
+        "relation": "runDuration",
+        "tail": 5
+      }
+    ]
+  },
+  {
+    "document_id": 363,
+    "ragtruth_id": "489",
+    "text": "Sure! Here is a summary of the article in 116 words:\n\nJames Best, best known for his role as Sheriff Rosco P. Coltrane on The Dukes of Hazzard, has passed away at the age of 88. Best died from complications of pneumonia in hospice care in North Carolina. He was a prolific actor in both film and television, appearing in numerous shows and movies throughout his career. Despite not gaining widespread fame until his role on The Dukes of Hazzard, Best had been working in the entertainment industry for decades, accumulating over 200 credits to his name. His signature catchphrases and lovable persona as Rosco made him a beloved character among fans.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "James Best, best known for his role as Sheriff Rosco P. Coltrane on The Dukes of Hazzard"
+      },
+      {
+        "id": 1,
+        "text": "his role as Sheriff Rosco P. Coltrane on The Dukes of Hazzard"
+      },
+      {
+        "id": 2,
+        "text": "The Dukes of Hazzard"
+      },
+      {
+        "id": 3,
+        "text": "Sheriff Rosco P. Coltrane"
+      },
+      {
+        "id": 4,
+        "text": "116"
+      },
+      {
+        "id": 5,
+        "text": "the age of 88"
+      },
+      {
+        "id": 6,
+        "text": "North Carolina"
+      },
+      {
+        "id": 7,
+        "text": "The Dukes of Hazzard, Best"
+      },
+      {
+        "id": 8,
+        "text": "decades"
+      },
+      {
+        "id": 9,
+        "text": "over 200"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "role",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "appearsOn",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "deathPlace",
+        "tail": 6
+      },
+      {
+        "head": 0,
+        "relation": "ageAtDeath",
+        "tail": 5
+      },
+      {
+        "head": 0,
+        "relation": "careerDuration",
+        "tail": 8
+      },
+      {
+        "head": 0,
+        "relation": "numberOfCredits",
+        "tail": 9
+      }
+    ]
+  },
+  {
+    "document_id": 364,
+    "ragtruth_id": "490",
+    "text": "James Best, the actor known for his role as Sheriff Rosco P. Coltrane on the hit TV show \"The Dukes of Hazzard,\" passed away on Monday at the age of 88. Best died in hospice in Hickory, North Carolina due to complications from pneumonia. He was best known for his portrayal of the bumbling sheriff who often chased the Duke boys around Hazzard County, Georgia. The show ran for seven seasons and spawned several TV movies, an animated series, and video games. Best's co-stars paid tribute to him on social media, praising his talent and creativity.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "his"
+      },
+      {
+        "id": 1,
+        "text": "Sheriff Rosco P. Coltrane"
+      },
+      {
+        "id": 2,
+        "text": "the hit TV show \"The Dukes of Hazzard"
+      },
+      {
+        "id": 3,
+        "text": "James Best"
+      },
+      {
+        "id": 4,
+        "text": "Monday"
+      },
+      {
+        "id": 5,
+        "text": "the age of 88"
+      },
+      {
+        "id": 6,
+        "text": "Hickory"
+      },
+      {
+        "id": 7,
+        "text": "North Carolina"
+      },
+      {
+        "id": 8,
+        "text": "seven seasons"
+      }
+    ],
+    "relations": [
+      {
+        "head": 3,
+        "relation": "role",
+        "tail": 1
+      },
+      {
+        "head": 3,
+        "relation": "deathDate",
+        "tail": 4
+      },
+      {
+        "head": 3,
+        "relation": "ageAtDeath",
+        "tail": 5
+      },
+      {
+        "head": 3,
+        "relation": "deathPlace",
+        "tail": 6
+      },
+      {
+        "head": 6,
+        "relation": "locatedIn",
+        "tail": 7
+      },
+      {
+        "head": 2,
+        "relation": "duration",
+        "tail": 8
+      }
+    ]
+  },
+  {
+    "document_id": 365,
+    "ragtruth_id": "491",
+    "text": "Actor James Best, best known for his role as Sheriff Rosco P. Coltrane in the TV series \"The Dukes of Hazzard,\" has passed away at the age of 88 due to complications from pneumonia. Best's career spanned over six decades, including numerous TV shows and movies, but his iconic role as the bumbling sheriff remains his most memorable. His co-stars, including John Schneider and Ben Jones, paid tribute to Best on social media, remembering him as a creative and passionate individual who brought joy and laughter to everyone around him.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Actor James Best, best known for his role as Sheriff Rosco P. Coltrane in the TV series \"The Dukes of Hazzard"
+      },
+      {
+        "id": 1,
+        "text": "Sheriff Rosco P. Coltrane"
+      },
+      {
+        "id": 2,
+        "text": "the age of 88"
+      },
+      {
+        "id": 3,
+        "text": "six decades"
+      },
+      {
+        "id": 4,
+        "text": "John Schneider"
+      },
+      {
+        "id": 5,
+        "text": "Ben Jones"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "role",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "age",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "careerSpan",
+        "tail": 3
+      }
+    ]
+  },
+  {
+    "document_id": 366,
+    "ragtruth_id": "492",
+    "text": "A major storm in Sydney and surrounding areas of Australia has left 250,000 homes and businesses without power, and 4,500 people isolated by floodwaters. The severe weather, caused by an intense low pressure system, reportedly resulted in four deaths, school and college closures and major disruption to public transportation. Emergency services have responded to 13,000 calls for help and carried out 144 rescue tasks. The strongest wind gusts reached 135 km/h and around 200mm of rainfall was recorded.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "A major storm in Sydney and surrounding areas of Australia"
+      },
+      {
+        "id": 1,
+        "text": "250,000"
+      },
+      {
+        "id": 2,
+        "text": "4,500"
+      },
+      {
+        "id": 3,
+        "text": "four"
+      },
+      {
+        "id": 4,
+        "text": "13,000"
+      },
+      {
+        "id": 5,
+        "text": "144"
+      },
+      {
+        "id": 6,
+        "text": "135"
+      },
+      {
+        "id": 7,
+        "text": "around 200mm"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "leftWithoutPower",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "isolated",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "resultedInDeaths",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "callsForHelp",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "rescueTasks",
+        "tail": 5
+      },
+      {
+        "head": 0,
+        "relation": "windGust",
+        "tail": 6
+      },
+      {
+        "head": 0,
+        "relation": "rainfall",
+        "tail": 7
+      }
+    ]
+  },
+  {
+    "document_id": 367,
+    "ragtruth_id": "493",
+    "text": "A powerful storm in Sydney and nearby areas has left a quarter of a million homes and businesses without power. Flood waters have isolated around 4,500 people, with emergency services unable to reach them for several days. The storm brought devastating winds, destructive flooding, and caused houses and trees to be washed away. Four lives have been claimed so far, prompting police to warn against driving through flooded areas. The adverse weather, caused by a low pressure system, has also led to school closures and disruptions to public transportation.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "around 4,500 people"
+      },
+      {
+        "id": 1,
+        "text": "A powerful storm in Sydney and nearby areas"
+      },
+      {
+        "id": 2,
+        "text": "a quarter"
+      },
+      {
+        "id": 3,
+        "text": "million"
+      },
+      {
+        "id": 4,
+        "text": "several days"
+      },
+      {
+        "id": 5,
+        "text": "Four"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "location",
+        "tail": 1
+      },
+      {
+        "head": 1,
+        "relation": "affectedPeople",
+        "tail": 0
+      },
+      {
+        "head": 0,
+        "relation": "duration",
+        "tail": 4
+      },
+      {
+        "head": 1,
+        "relation": "deathToll",
+        "tail": 5
+      }
+    ]
+  },
+  {
+    "document_id": 368,
+    "ragtruth_id": "494",
+    "text": "A \"once in a decade\" storm battered Sydney and surrounding areas, leaving around 450,000 homes and businesses without power. Floodwaters isolated over 4,500 people, cutting off roads for several days. The storm caused devastating damage, including washing away houses and bringing down trees onto streets and buildings. The emergency services received 13,000 calls for help due to flooding and carried out 144 rescue tasks. The dangerous conditions prompted authorities to issue pleas on social media for people not to drive through flooded areas. School and college closures and disruptions to public transportation occurred due to the heavy flooding. The adverse weather was caused by an intense low-pressure system. The strongest wind gusts reached 135 km/h (85 mph), and around 200 mm (7.87 inches) of rainfall fell in the area on Tuesday. Many public services have been disrupted due to the weather.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "A \"once in a decade\" storm"
+      },
+      {
+        "id": 1,
+        "text": "The adverse weather"
+      },
+      {
+        "id": 2,
+        "text": "Sydney"
+      },
+      {
+        "id": 3,
+        "text": "around 450,000"
+      },
+      {
+        "id": 4,
+        "text": "over 4,500"
+      },
+      {
+        "id": 5,
+        "text": "several days"
+      },
+      {
+        "id": 6,
+        "text": "13,000"
+      },
+      {
+        "id": 7,
+        "text": "144"
+      },
+      {
+        "id": 8,
+        "text": "135"
+      },
+      {
+        "id": 9,
+        "text": "85 mph"
+      },
+      {
+        "id": 10,
+        "text": "around 200 mm"
+      },
+      {
+        "id": 11,
+        "text": "7.87 inches"
+      },
+      {
+        "id": 12,
+        "text": "Tuesday"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "battered",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "leftWithoutPower",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "isolated",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "cutOffRoadsFor",
+        "tail": 5
+      },
+      {
+        "head": 0,
+        "relation": "receivedCallsForHelp",
+        "tail": 6
+      },
+      {
+        "head": 0,
+        "relation": "carriedOutRescueTasks",
+        "tail": 7
+      },
+      {
+        "head": 1,
+        "relation": "causedBy",
+        "tail": 0
+      },
+      {
+        "head": 1,
+        "relation": "windGust",
+        "tail": 8
+      },
+      {
+        "head": 1,
+        "relation": "rainfall",
+        "tail": 10
+      },
+      {
+        "head": 1,
+        "relation": "date",
+        "tail": 12
+      }
+    ]
+  },
+  {
+    "document_id": 369,
+    "ragtruth_id": "495",
+    "text": "Here is a summary of the article in 82 words:\n\nA severe storm battered Sydney and surrounding areas, leaving around 250,000 homes and businesses without power. Floodwaters isolated 4,500 people, with roads cut off and rescue efforts underway. The storm caused destruction, including destroyed houses and downed trees, and resulted in four deaths. Heavy rainfall led to school and college closures and disrupted public transportation. The intense low-pressure system caused the flooding, with peak wind gusts reaching 135 km/h (85 mph) and over 200 mm (7.87 in) of rainfall in the area.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "A severe storm"
+      },
+      {
+        "id": 1,
+        "text": "82"
+      },
+      {
+        "id": 2,
+        "text": "Sydney"
+      },
+      {
+        "id": 3,
+        "text": "around 250,000"
+      },
+      {
+        "id": 4,
+        "text": "4,500"
+      },
+      {
+        "id": 5,
+        "text": "four"
+      },
+      {
+        "id": 6,
+        "text": "135"
+      },
+      {
+        "id": 7,
+        "text": "85 mph"
+      },
+      {
+        "id": 8,
+        "text": "over 200 mm"
+      },
+      {
+        "id": 9,
+        "text": "7.87"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "battered",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "leftWithoutPower",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "isolated",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "causedDeaths",
+        "tail": 5
+      },
+      {
+        "head": 0,
+        "relation": "causedFlooding",
+        "tail": 0
+      },
+      {
+        "head": 0,
+        "relation": "peakWindGust",
+        "tail": 6
+      },
+      {
+        "head": 0,
+        "relation": "rainfall",
+        "tail": 8
+      }
+    ]
+  }
+]

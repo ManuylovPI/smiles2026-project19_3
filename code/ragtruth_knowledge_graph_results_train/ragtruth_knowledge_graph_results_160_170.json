@@ -1,0 +1,786 @@
+[
+  {
+    "document_id": 160,
+    "ragtruth_id": "220",
+    "text": "A 21-year-old quadriplegic man with cerebral palsy was abandoned in Philadelphia's Cobbs Creek Park for four days with only a blanket and a Bible. His mother, who faces multiple charges including aggravated assault and false imprisonment, allegedly left him there to visit her boyfriend in Maryland. The man was found with eye problems, dehydration, and a cut that may become infected. Two aunts, who are seeking guardianship, were staying with him at the hospital. The mother's arrest is the start of an investigation into the man's care and the actions of various agencies.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "A 21-year-old quadriplegic man with cerebral palsy"
+      },
+      {
+        "id": 1,
+        "text": "His mother, who faces multiple charges including aggravated assault and false imprisonment"
+      },
+      {
+        "id": 2,
+        "text": "Philadelphia"
+      },
+      {
+        "id": 3,
+        "text": "Cobbs Creek Park"
+      },
+      {
+        "id": 4,
+        "text": "four days"
+      },
+      {
+        "id": 5,
+        "text": "Bible"
+      },
+      {
+        "id": 6,
+        "text": "Maryland"
+      },
+      {
+        "id": 7,
+        "text": "Two"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "locatedIn",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "duration",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "hasItem",
+        "tail": 5
+      },
+      {
+        "head": 1,
+        "relation": "motherOf",
+        "tail": 0
+      },
+      {
+        "head": 1,
+        "relation": "visited",
+        "tail": 6
+      }
+    ]
+  },
+  {
+    "document_id": 161,
+    "ragtruth_id": "221",
+    "text": "A 21-year-old quadriplegic man with cerebral palsy was abandoned in a Philadelphia park for several days, left alone with only a blanket and a Bible. His mother, who is responsible for the abandonment, has been charged with multiple crimes including aggravated assault, kidnapping, and neglect of a care-dependent person. The man was found suffering from dehydration, malnutrition, and eye problems, and is currently being treated at a children's hospital. The mother had left him in the park to visit her boyfriend in Maryland, and later claimed that her son was with her when questioned by police. The investigation is ongoing to determine how the man was cared for and what actions were taken by different agencies.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "A 21-year-old quadriplegic man with cerebral palsy"
+      },
+      {
+        "id": 1,
+        "text": "abandoned"
+      },
+      {
+        "id": 2,
+        "text": "His mother, who is responsible for the abandonment"
+      },
+      {
+        "id": 3,
+        "text": "a Philadelphia park"
+      },
+      {
+        "id": 4,
+        "text": "several days"
+      },
+      {
+        "id": 5,
+        "text": "Bible"
+      },
+      {
+        "id": 6,
+        "text": "Maryland"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "abandonedIn",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "abandonedFor",
+        "tail": 4
+      },
+      {
+        "head": 2,
+        "relation": "responsibleFor",
+        "tail": 1
+      },
+      {
+        "head": 2,
+        "relation": "leftIn",
+        "tail": 3
+      },
+      {
+        "head": 2,
+        "relation": "visited",
+        "tail": 6
+      }
+    ]
+  },
+  {
+    "document_id": 162,
+    "ragtruth_id": "222",
+    "text": "Nyia Parler, 41, has been taken into custody by Montgomery County (Maryland) Department of Police after being accused of leaving her quadriplegic son in the woods in Philadelphia. The 21-year-old man, who suffers from cerebral palsy, was found in the woods by a passerby after being left for over four days, during which temperatures dropped to the mid-30s and rain was reported. Parler had left her son to visit her boyfriend in Maryland. Parler is currently receiving unspecified treatment and cannot be extradited to face charges in Philadelphia until this treatment is completed. She will be charged with aggravated assault, simple assault, recklessly endangering another person and related offenses when she arrives in Philadelphia. The investigation is ongoing, with authorities keen to learn more about the man's care and the involvement of different agencies.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Nyia Parler, 41"
+      },
+      {
+        "id": 1,
+        "text": "her quadriplegic son"
+      },
+      {
+        "id": 2,
+        "text": "the woods in Philadelphia"
+      },
+      {
+        "id": 3,
+        "text": "Maryland"
+      },
+      {
+        "id": 4,
+        "text": "Philadelphia"
+      },
+      {
+        "id": 5,
+        "text": "unspecified treatment"
+      },
+      {
+        "id": 6,
+        "text": "Montgomery County"
+      },
+      {
+        "id": 7,
+        "text": "Department of Police"
+      },
+      {
+        "id": 8,
+        "text": "four days"
+      },
+      {
+        "id": 9,
+        "text": "mid-30s"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "custodyBy",
+        "tail": 7
+      },
+      {
+        "head": 0,
+        "relation": "locatedIn",
+        "tail": 3
+      },
+      {
+        "head": 1,
+        "relation": "foundIn",
+        "tail": 2
+      },
+      {
+        "head": 1,
+        "relation": "durationLeft",
+        "tail": 8
+      },
+      {
+        "head": 1,
+        "relation": "temperature",
+        "tail": 9
+      },
+      {
+        "head": 0,
+        "relation": "treatment",
+        "tail": 5
+      },
+      {
+        "head": 0,
+        "relation": "cannotBeExtraditedTo",
+        "tail": 4
+      }
+    ]
+  },
+  {
+    "document_id": 163,
+    "ragtruth_id": "223",
+    "text": "Nyia Parler, the mother of a quadriplegic man who was left in the woods for days, cannot be extradited to Philadelphia until she completes an unspecified treatment, according to Maryland police. Parler was taken into custody on Sunday after leaving her 21-year-old son in the woods while she went to see her boyfriend in Maryland. The man was found by a passerby on Friday, lying in leaves with a Bible and wheelchair nearby. The quadriplegic man, who also suffers from cerebral palsy, was left in the woods for more than four days, enduring low temperatures and rain. Parler is currently receiving treatment, and if she does not challenge her extradition, she will be transported to Philadelphia once her treatment is complete. The man suffered eye problems, dehydration, malnutrition, and a cut to his back. Parler will be charged with aggravated assault, simple assault, recklessly endangering another person, and related offenses. Authorities are also investigating the care provided to the man and the actions taken by different agencies.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Nyia Parler, the mother of a quadriplegic man who was left in the woods for days"
+      },
+      {
+        "id": 1,
+        "text": "a quadriplegic man who was left in the woods for days"
+      },
+      {
+        "id": 2,
+        "text": "the woods"
+      },
+      {
+        "id": 3,
+        "text": "Maryland"
+      },
+      {
+        "id": 4,
+        "text": "extradited"
+      },
+      {
+        "id": 5,
+        "text": "Philadelphia"
+      },
+      {
+        "id": 6,
+        "text": "treatment"
+      },
+      {
+        "id": 7,
+        "text": "Sunday"
+      },
+      {
+        "id": 8,
+        "text": "Friday"
+      },
+      {
+        "id": 9,
+        "text": "Bible"
+      },
+      {
+        "id": 10,
+        "text": "more than four days"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "motherOf",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "extraditionDestination",
+        "tail": 5
+      },
+      {
+        "head": 0,
+        "relation": "receivingTreatment",
+        "tail": 6
+      },
+      {
+        "head": 0,
+        "relation": "custodyDate",
+        "tail": 7
+      },
+      {
+        "head": 1,
+        "relation": "foundDate",
+        "tail": 8
+      },
+      {
+        "head": 1,
+        "relation": "location",
+        "tail": 2
+      },
+      {
+        "head": 1,
+        "relation": "duration",
+        "tail": 10
+      },
+      {
+        "head": 1,
+        "relation": "hasItemNearby",
+        "tail": 9
+      },
+      {
+        "head": 0,
+        "relation": "location",
+        "tail": 3
+      }
+    ]
+  },
+  {
+    "document_id": 164,
+    "ragtruth_id": "224",
+    "text": "A quadriplegic man was left in the woods for four days and suffered from hypothermia, dehydration, and malnutrition after his mother abandoned him there. She was taken into custody in Maryland and is currently receiving treatment before she can be extradited to Philadelphia to face charges. The man's condition was so severe that he required hospitalization upon discovery. His mother had left him in the woods while she traveled to see her boyfriend in Maryland.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "A quadriplegic man"
+      },
+      {
+        "id": 1,
+        "text": "his mother"
+      },
+      {
+        "id": 2,
+        "text": "the woods"
+      },
+      {
+        "id": 3,
+        "text": "Maryland"
+      },
+      {
+        "id": 4,
+        "text": "four days"
+      },
+      {
+        "id": 5,
+        "text": "Philadelphia"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "leftIn",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "duration",
+        "tail": 4
+      },
+      {
+        "head": 1,
+        "relation": "tookTo",
+        "tail": 3
+      },
+      {
+        "head": 1,
+        "relation": "destination",
+        "tail": 5
+      },
+      {
+        "head": 1,
+        "relation": "abandoned",
+        "tail": 0
+      }
+    ]
+  },
+  {
+    "document_id": 165,
+    "ragtruth_id": "225",
+    "text": "A 41-year-old mother, Nyia Parler, has been taken into custody in Maryland after police discovered her quadriplegic son lying in the woods near Philadelphia, where he had been left for days. Parler is facing charges of aggravated assault, simple assault, and recklessly endangering another person. According to police, Parler left her son in the woods while she visited her boyfriend in Maryland, and he was found lying in the leaves with a Bible and a wheelchair nearby. The man, who suffers from cerebral palsy and is unable to communicate, was hospitalized with dehydration, malnutrition, and eye problems. Parler is undergoing an unspecified \"treatment\" before she can be extradited to Philadelphia to face charges.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "A 41-year-old mother, Nyia Parler"
+      },
+      {
+        "id": 1,
+        "text": "her quadriplegic son"
+      },
+      {
+        "id": 2,
+        "text": "the woods near Philadelphia, where he had been left for days"
+      },
+      {
+        "id": 3,
+        "text": "Maryland"
+      },
+      {
+        "id": 4,
+        "text": "Philadelphia"
+      },
+      {
+        "id": 5,
+        "text": "charges of aggravated assault, simple assault, and recklessly endangering another person"
+      },
+      {
+        "id": 6,
+        "text": "Bible"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "child",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "locatedIn",
+        "tail": 3
+      },
+      {
+        "head": 1,
+        "relation": "locatedIn",
+        "tail": 2
+      },
+      {
+        "head": 2,
+        "relation": "locatedNear",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "facingCharges",
+        "tail": 5
+      },
+      {
+        "head": 0,
+        "relation": "visited",
+        "tail": 3
+      },
+      {
+        "head": 1,
+        "relation": "foundWith",
+        "tail": 6
+      }
+    ]
+  },
+  {
+    "document_id": 166,
+    "ragtruth_id": "226",
+    "text": "A quadriplegic man was left in the woods for days, covered in leaves and a blanket with a Bible and wheelchair nearby. His mother, Nyia Parler, was arrested in Maryland and faces charges of aggravated assault, simple assault, and recklessly endangering another person. She was taking her boyfriend and did not inform anyone that her son was left behind. The man was found by a passerby and was suffering from dehydration, malnutrition, and eye problems. The mother's sisters are trying to gain guardianship of the man, who has cerebral palsy. The investigation is ongoing to determine how the man was cared for and what actions were taken by different agencies.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "A quadriplegic man"
+      },
+      {
+        "id": 1,
+        "text": "His mother, Nyia Parler"
+      },
+      {
+        "id": 2,
+        "text": "days"
+      },
+      {
+        "id": 3,
+        "text": "Bible"
+      },
+      {
+        "id": 4,
+        "text": "Maryland"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "leftFor",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "nearby",
+        "tail": 3
+      },
+      {
+        "head": 1,
+        "relation": "arrestedIn",
+        "tail": 4
+      }
+    ]
+  },
+  {
+    "document_id": 167,
+    "ragtruth_id": "227",
+    "text": "A 41-year-old woman, Nyia Parler, was taken into custody on Sunday for allegedly leaving her 21-year-old quadriplegic son in the woods for days while she visited her boyfriend in Maryland. The son was found lying in leaves, covered in a blanket with a Bible and a wheelchair nearby, in Philadelphia's Cobbs Creek Park. Parler cannot be extradited to face charges in Philadelphia until she completes an unspecified \"treatment,\" according to Maryland police. The treatment is due to federal health care privacy laws, and authorities did not disclose the nature of the treatment. The son, who also suffers from cerebral palsy, was left in the woods for over four days, during which time temperatures dropped to the mid-30s and rain was reported in the area. He was transported to Presbyterian Hospital and later transferred to The Children's Hospital of Philadelphia, where he was treated for eye problems, dehydration, malnutrition, and a cut to his back that raised infection concerns. Philadelphia police Lt. John Walker stated that the mother's arrest was only the beginning of the investigation, and authorities are looking into how the son was cared for and what actions were taken by different agencies. Parler faces charges of aggravated assault, simple assault, recklessly endangering another person, and related offenses.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "A 41-year-old woman, Nyia Parler"
+      },
+      {
+        "id": 1,
+        "text": "her 21-year-old quadriplegic son"
+      },
+      {
+        "id": 2,
+        "text": "Philadelphia's"
+      },
+      {
+        "id": 3,
+        "text": "Maryland"
+      },
+      {
+        "id": 4,
+        "text": "an unspecified \"treatment"
+      },
+      {
+        "id": 5,
+        "text": "the woods"
+      },
+      {
+        "id": 6,
+        "text": "taken"
+      },
+      {
+        "id": 7,
+        "text": "Sunday"
+      },
+      {
+        "id": 8,
+        "text": "days"
+      },
+      {
+        "id": 9,
+        "text": "Bible"
+      },
+      {
+        "id": 10,
+        "text": "Cobbs Creek Park"
+      },
+      {
+        "id": 11,
+        "text": "four days"
+      },
+      {
+        "id": 12,
+        "text": "mid-30s"
+      },
+      {
+        "id": 13,
+        "text": "Presbyterian Hospital"
+      },
+      {
+        "id": 14,
+        "text": "The Children's Hospital of Philadelphia"
+      },
+      {
+        "id": 15,
+        "text": "John Walker"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "sonOf",
+        "tail": 0
+      },
+      {
+        "head": 0,
+        "relation": "takenIntoCustodyOn",
+        "tail": 7
+      },
+      {
+        "head": 0,
+        "relation": "visitedIn",
+        "tail": 3
+      },
+      {
+        "head": 1,
+        "relation": "leftIn",
+        "tail": 5
+      },
+      {
+        "head": 1,
+        "relation": "leftForDuration",
+        "tail": 11
+      },
+      {
+        "head": 1,
+        "relation": "foundIn",
+        "tail": 10
+      },
+      {
+        "head": 1,
+        "relation": "transportedTo",
+        "tail": 13
+      },
+      {
+        "head": 1,
+        "relation": "transferredTo",
+        "tail": 14
+      },
+      {
+        "head": 1,
+        "relation": "treatedAt",
+        "tail": 14
+      },
+      {
+        "head": 0,
+        "relation": "facesChargesIn",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "facesChargesOf",
+        "tail": 15
+      }
+    ]
+  },
+  {
+    "document_id": 168,
+    "ragtruth_id": "228",
+    "text": "Nigeria's President-elect, Muhammadu Buhari, has taken time to reflect on the one year anniversary of the kidnapping of almost 300 schoolgirls from their school in the town of Chibok, located about a two-hour drive from the border with Cameroon. The girls were taken by Boko Haram militants who are opposed to Western education; a number of them have never been seen again. In a statement on Tuesday, the President-elect said \"This crime has rightly caused outrage both in Nigeria and across the world. Today is a time to reflect on the pain and suffering of the victims, their friends and families. Our thoughts and prayers, and that of the whole Nigerian nation, are with you today.\" He has also pledged to wipe out the group once he takes office.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "almost 300 schoolgirls"
+      },
+      {
+        "id": 1,
+        "text": "the kidnapping of almost 300 schoolgirls from their school in the town of Chibok, located about a two-hour drive from the border with Cameroon"
+      },
+      {
+        "id": 2,
+        "text": "Nigeria's President-elect, Muhammadu Buhari"
+      },
+      {
+        "id": 3,
+        "text": "Nigeria's"
+      },
+      {
+        "id": 4,
+        "text": "Today"
+      },
+      {
+        "id": 5,
+        "text": "Boko Haram militants who are opposed to Western education"
+      },
+      {
+        "id": 6,
+        "text": "the one year anniversary"
+      },
+      {
+        "id": 7,
+        "text": "Tuesday"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "victim",
+        "tail": 0
+      },
+      {
+        "head": 1,
+        "relation": "perpetrator",
+        "tail": 5
+      },
+      {
+        "head": 1,
+        "relation": "anniversary",
+        "tail": 6
+      },
+      {
+        "head": 2,
+        "relation": "statementDate",
+        "tail": 7
+      },
+      {
+        "head": 2,
+        "relation": "country",
+        "tail": 3
+      }
+    ]
+  },
+  {
+    "document_id": 169,
+    "ragtruth_id": "229",
+    "text": "One year after the kidnapping of nearly 300 schoolgirls in Nigeria by a jihadist group, the crime remains a horrifying tragedy. The President-elect, Muhammadu Buhari, expressed his outrage and sympathy for the victims and their families. The girls were taken from the Government Girls Secondary School in the town of Chibok by Boko Haram militants who oppose Western education, especially for girls. Only a few managed to escape, while the rest are feared to have been subjected to rape, brutality, slavery, and forced conversion to Islam. The international community, including Pakistani activist Malala Yousafzai, has shown support and solidarity with the kidnapped girls. Despite a change in leadership, Boko Haram still controls parts of northeastern Nigeria, and the conflict has resulted in the displacement of hundreds of thousands of children. The families of the missing girls continue to suffer, and the hashtag #BringBackOurGirls remains active on social media.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "the kidnapping of nearly 300 schoolgirls in Nigeria by a jihadist group"
+      },
+      {
+        "id": 1,
+        "text": "The President-elect, Muhammadu Buhari"
+      },
+      {
+        "id": 2,
+        "text": "nearly 300 schoolgirls"
+      },
+      {
+        "id": 3,
+        "text": "a jihadist group"
+      },
+      {
+        "id": 4,
+        "text": "their families"
+      },
+      {
+        "id": 5,
+        "text": "One year"
+      },
+      {
+        "id": 6,
+        "text": "Chibok"
+      },
+      {
+        "id": 7,
+        "text": "Islam"
+      },
+      {
+        "id": 8,
+        "text": "Pakistani"
+      },
+      {
+        "id": 9,
+        "text": "Malala Yousafzai"
+      },
+      {
+        "id": 10,
+        "text": "Nigeria"
+      },
+      {
+        "id": 11,
+        "text": "hundreds of thousands"
+      },
+      {
+        "id": 12,
+        "text": "BringBackOurGirls"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "timeAfter",
+        "tail": 5
+      },
+      {
+        "head": 0,
+        "relation": "location",
+        "tail": 10
+      },
+      {
+        "head": 0,
+        "relation": "victims",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "perpetrator",
+        "tail": 3
+      },
+      {
+        "head": 2,
+        "relation": "locationTakenFrom",
+        "tail": 6
+      },
+      {
+        "head": 2,
+        "relation": "family",
+        "tail": 4
+      },
+      {
+        "head": 3,
+        "relation": "controls",
+        "tail": 10
+      },
+      {
+        "head": 9,
+        "relation": "supports",
+        "tail": 2
+      },
+      {
+        "head": 11,
+        "relation": "displacedBy",
+        "tail": 3
+      }
+    ]
+  }
+]

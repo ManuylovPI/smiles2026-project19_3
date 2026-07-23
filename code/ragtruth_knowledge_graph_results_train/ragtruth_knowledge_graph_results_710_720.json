@@ -1,0 +1,690 @@
+[
+  {
+    "document_id": 710,
+    "ragtruth_id": "956",
+    "text": "Two Alabama college students, Ryan Calhoun and Delonte Martistee, are accused of gang raping a woman during their spring break at Florida’s Panama City Beach. The video of the alleged attack was found during an investigation into an unrelated incident and was handed over to the Bay County Sheriff's Office. The identities of the victim and the exact date and location of the incident remain undisclosed due to concerns about re-traumatizing her. Troy University has suspended both men from the school and removed Martistee from the track and field team. The investigation is ongoing, and more arrests may follow.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Two Alabama college students, Ryan Calhoun and Delonte Martistee"
+      },
+      {
+        "id": 1,
+        "text": "gang raping"
+      },
+      {
+        "id": 2,
+        "text": "a woman"
+      },
+      {
+        "id": 3,
+        "text": "Troy University"
+      },
+      {
+        "id": 4,
+        "text": "Delonte Martistee"
+      },
+      {
+        "id": 5,
+        "text": "an investigation into an unrelated incident"
+      },
+      {
+        "id": 6,
+        "text": "spring"
+      },
+      {
+        "id": 7,
+        "text": "Florida"
+      },
+      {
+        "id": 8,
+        "text": "Panama City Beach"
+      },
+      {
+        "id": 9,
+        "text": "the Bay County Sheriff's Office"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "accusedOf",
+        "tail": 1
+      },
+      {
+        "head": 1,
+        "relation": "victim",
+        "tail": 2
+      },
+      {
+        "head": 1,
+        "relation": "occurredDuring",
+        "tail": 6
+      },
+      {
+        "head": 1,
+        "relation": "occurredIn",
+        "tail": 8
+      },
+      {
+        "head": 8,
+        "relation": "locatedIn",
+        "tail": 7
+      },
+      {
+        "head": 5,
+        "relation": "foundDuring",
+        "tail": 5
+      },
+      {
+        "head": 5,
+        "relation": "handedOverTo",
+        "tail": 9
+      },
+      {
+        "head": 3,
+        "relation": "suspended",
+        "tail": 0
+      },
+      {
+        "head": 3,
+        "relation": "removedFromTeam",
+        "tail": 4
+      }
+    ]
+  },
+  {
+    "document_id": 711,
+    "ragtruth_id": "957",
+    "text": "Two Alabama college students have been accused of gang raping a woman during Spring Break in Florida. Ryan Calhoun and Delonte Martistee, students at Troy University, were arrested and charged with sexual battery by multiple perpetrators. An investigation revealed a video of the alleged rape, which occurred behind a popular beach club in Panama City between March 10-12, 2015. The victim was a visitor to the area. The two men have been placed on temporary suspension from school and face additional charges as the investigation continues.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Two Alabama college students"
+      },
+      {
+        "id": 1,
+        "text": "gang raping"
+      },
+      {
+        "id": 2,
+        "text": "a woman"
+      },
+      {
+        "id": 3,
+        "text": "An investigation"
+      },
+      {
+        "id": 4,
+        "text": "Spring Break"
+      },
+      {
+        "id": 5,
+        "text": "Florida"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "accusedOf",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "arrestedAndChargedWith",
+        "tail": 1
+      },
+      {
+        "head": 1,
+        "relation": "occurredDuring",
+        "tail": 4
+      },
+      {
+        "head": 1,
+        "relation": "occurredIn",
+        "tail": 5
+      },
+      {
+        "head": 3,
+        "relation": "revealed",
+        "tail": 1
+      }
+    ]
+  },
+  {
+    "document_id": 712,
+    "ragtruth_id": "958",
+    "text": "Sure! Here is the summary you requested within 66 words:\n\nTwo Troy University students were arrested for allegedly gang-raping a woman on Spring Break in Panama City Beach, FL. The attack was recorded and shared on social media. The victims identity is being protected due to state laws. More arrests are expected, and the men have been temporarily suspended from school. They will have their first court appearance Saturday morning.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "gang-raping"
+      },
+      {
+        "id": 1,
+        "text": "a woman"
+      },
+      {
+        "id": 2,
+        "text": "Two Troy University students"
+      },
+      {
+        "id": 3,
+        "text": "66"
+      },
+      {
+        "id": 4,
+        "text": "Spring Break"
+      },
+      {
+        "id": 5,
+        "text": "Panama City Beach"
+      },
+      {
+        "id": 6,
+        "text": "FL"
+      },
+      {
+        "id": 7,
+        "text": "first"
+      },
+      {
+        "id": 8,
+        "text": "Saturday"
+      },
+      {
+        "id": 9,
+        "text": "morning"
+      }
+    ],
+    "relations": [
+      {
+        "head": 2,
+        "relation": "arrestedFor",
+        "tail": 0
+      },
+      {
+        "head": 0,
+        "relation": "occurredDuring",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "occurredIn",
+        "tail": 5
+      },
+      {
+        "head": 5,
+        "relation": "locatedIn",
+        "tail": 6
+      },
+      {
+        "head": 2,
+        "relation": "courtAppearance",
+        "tail": 8
+      },
+      {
+        "head": 8,
+        "relation": "timeOfDay",
+        "tail": 9
+      }
+    ]
+  },
+  {
+    "document_id": 713,
+    "ragtruth_id": "959",
+    "text": "Two Troy University students, Ryan Calhoun and Delonte Martistee, were arrested and charged with sexual battery by multiple perpetrators for allegedly gang raping a woman during spring break at Panama City Beach, Florida. The Bay County Sheriff's Office is continuing their investigation and expects to make additional arrests.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "The Bay County Sheriff's Office"
+      },
+      {
+        "id": 1,
+        "text": "Two"
+      },
+      {
+        "id": 2,
+        "text": "Troy University"
+      },
+      {
+        "id": 3,
+        "text": "Ryan Calhoun"
+      },
+      {
+        "id": 4,
+        "text": "Delonte Martistee"
+      },
+      {
+        "id": 5,
+        "text": "spring"
+      },
+      {
+        "id": 6,
+        "text": "Panama City Beach"
+      },
+      {
+        "id": 7,
+        "text": "Florida"
+      }
+    ],
+    "relations": [
+      {
+        "head": 3,
+        "relation": "studentOf",
+        "tail": 2
+      },
+      {
+        "head": 4,
+        "relation": "studentOf",
+        "tail": 2
+      },
+      {
+        "head": 3,
+        "relation": "arrestedBy",
+        "tail": 0
+      },
+      {
+        "head": 4,
+        "relation": "arrestedBy",
+        "tail": 0
+      },
+      {
+        "head": 3,
+        "relation": "chargedBy",
+        "tail": 0
+      },
+      {
+        "head": 4,
+        "relation": "chargedBy",
+        "tail": 0
+      },
+      {
+        "head": 3,
+        "relation": "location",
+        "tail": 6
+      },
+      {
+        "head": 4,
+        "relation": "location",
+        "tail": 6
+      },
+      {
+        "head": 6,
+        "relation": "locatedIn",
+        "tail": 7
+      }
+    ]
+  },
+  {
+    "document_id": 714,
+    "ragtruth_id": "966",
+    "text": "After hearing explosions caused by a faulty electrical cable, students at the University of Nairobi in Kenya were terrified and believed it was a terror attack, leading to a stampede which injured hundreds and caused one death. The panic occurred less than two weeks after Al-Shabaab killed 147 people at a college in Garissa, Kenya. The university is investigating the electrical issue and is working to resume normal power supply.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Kenya"
+      },
+      {
+        "id": 1,
+        "text": "the University of Nairobi in Kenya"
+      },
+      {
+        "id": 2,
+        "text": "hundreds"
+      },
+      {
+        "id": 3,
+        "text": "one"
+      },
+      {
+        "id": 4,
+        "text": "less than two weeks"
+      },
+      {
+        "id": 5,
+        "text": "Al-Shabaab"
+      },
+      {
+        "id": 6,
+        "text": "147"
+      },
+      {
+        "id": 7,
+        "text": "Garissa"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "locatedIn",
+        "tail": 0
+      },
+      {
+        "head": 4,
+        "relation": "timeAfter",
+        "tail": 5
+      },
+      {
+        "head": 5,
+        "relation": "killed",
+        "tail": 6
+      },
+      {
+        "head": 5,
+        "relation": "killedIn",
+        "tail": 7
+      },
+      {
+        "head": 2,
+        "relation": "injured",
+        "tail": 3
+      }
+    ]
+  },
+  {
+    "document_id": 715,
+    "ragtruth_id": "967",
+    "text": "A faulty electrical cable caused explosions at the University of Nairobi, leading students to believe it was a terror attack. As a result, students panicked, with some jumping from the fifth floor of a dormitory. Hundreds were injured and taken to hospitals, and one person died. This incident occurred less than two weeks after a terrorist attack by Al-Shabaab in Garissa, Kenya. Many students from the University of Nairobi have been admitted to hospitals, but most have been discharged. Kenya Power authorities are investigating the issue.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "it"
+      },
+      {
+        "id": 1,
+        "text": "the University of Nairobi"
+      },
+      {
+        "id": 2,
+        "text": "fifth"
+      },
+      {
+        "id": 3,
+        "text": "Hundreds"
+      },
+      {
+        "id": 4,
+        "text": "one"
+      },
+      {
+        "id": 5,
+        "text": "less than two weeks"
+      },
+      {
+        "id": 6,
+        "text": "Al-Shabaab"
+      },
+      {
+        "id": 7,
+        "text": "Garissa"
+      },
+      {
+        "id": 8,
+        "text": "Kenya"
+      },
+      {
+        "id": 9,
+        "text": "Kenya Power"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "locatedAt",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "timeAfter",
+        "tail": 5
+      },
+      {
+        "head": 6,
+        "relation": "attackLocation",
+        "tail": 7
+      },
+      {
+        "head": 7,
+        "relation": "locatedIn",
+        "tail": 8
+      }
+    ]
+  },
+  {
+    "document_id": 716,
+    "ragtruth_id": "968",
+    "text": "A faulty electrical cable caused explosions at the University of Nairobi in Kenya on Sunday. Students panicked and stampeded down the halls, with one person dying and hundreds being injured. The confusion and panic occurred just over two weeks after a terror attack by Al-Shabaab killed 147 people. The students are being treated at hospitals, and Kenyan teachers and students fear being targeted by terrorists. The electrical issue is being investigated, and normal power supply will resume after repairs.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "the University of Nairobi"
+      },
+      {
+        "id": 1,
+        "text": "Kenya"
+      },
+      {
+        "id": 2,
+        "text": "Sunday"
+      },
+      {
+        "id": 3,
+        "text": "one"
+      },
+      {
+        "id": 4,
+        "text": "hundreds"
+      },
+      {
+        "id": 5,
+        "text": "two weeks"
+      },
+      {
+        "id": 6,
+        "text": "Al-Shabaab"
+      },
+      {
+        "id": 7,
+        "text": "147"
+      },
+      {
+        "id": 8,
+        "text": "Kenyan"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "locatedIn",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "incidentDate",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "causedBy",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "timeAfter",
+        "tail": 5
+      },
+      {
+        "head": 6,
+        "relation": "killed",
+        "tail": 7
+      }
+    ]
+  },
+  {
+    "document_id": 717,
+    "ragtruth_id": "969",
+    "text": "Here is a summary of the news in 60 words or less:\n\nStudents at University of Nairobi were terrified by explosions caused by a faulty electrical cable, which they initially thought was a terror attack. Hundreds were injured, one person died, and many were hospitalized. Kenyan authorities are investigating the incident and restoring power.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Students at University of Nairobi"
+      },
+      {
+        "id": 1,
+        "text": "explosions caused by a faulty electrical cable, which they initially thought was a terror attack"
+      },
+      {
+        "id": 2,
+        "text": "60"
+      },
+      {
+        "id": 3,
+        "text": "Hundreds"
+      },
+      {
+        "id": 4,
+        "text": "one"
+      },
+      {
+        "id": 5,
+        "text": "Kenyan"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "terrifiedBy",
+        "tail": 1
+      },
+      {
+        "head": 1,
+        "relation": "injuredCount",
+        "tail": 3
+      },
+      {
+        "head": 1,
+        "relation": "deathCount",
+        "tail": 4
+      },
+      {
+        "head": 1,
+        "relation": "investigatedBy",
+        "tail": 5
+      }
+    ]
+  },
+  {
+    "document_id": 718,
+    "ragtruth_id": "970",
+    "text": "Sure! Here is the summary you requested within 60 words:\n\nA faulty electrical cable caused explosions at the University of Nairobi, leading to panic and injuries. One person died, and hundreds were hospitalized. The incident occurred just over a week after an Al-Shabaab attack in Garissa, Kenya, and has raised concerns about security on campuses.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "60"
+      },
+      {
+        "id": 1,
+        "text": "the University of Nairobi"
+      },
+      {
+        "id": 2,
+        "text": "One"
+      },
+      {
+        "id": 3,
+        "text": "hundreds"
+      },
+      {
+        "id": 4,
+        "text": "a week"
+      },
+      {
+        "id": 5,
+        "text": "Al-Shabaab"
+      },
+      {
+        "id": 6,
+        "text": "Garissa"
+      },
+      {
+        "id": 7,
+        "text": "Kenya"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "location",
+        "tail": 7
+      },
+      {
+        "head": 5,
+        "relation": "attackLocation",
+        "tail": 6
+      },
+      {
+        "head": 6,
+        "relation": "locatedIn",
+        "tail": 7
+      }
+    ]
+  },
+  {
+    "document_id": 719,
+    "ragtruth_id": "971",
+    "text": "A faulty electrical cable caused explosions at the University of Nairobi, prompting a stampede that left hundreds injured and one dead. The incident occurred less than two weeks after an Al-Shabaab attack on a college in Garissa, Kenya. Kenyan students and teachers have expressed fears of being targeted by the terrorist group.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "a stampede that left hundreds injured and one dead"
+      },
+      {
+        "id": 1,
+        "text": "Al-Shabaab"
+      },
+      {
+        "id": 2,
+        "text": "the University of Nairobi"
+      },
+      {
+        "id": 3,
+        "text": "less than two weeks"
+      },
+      {
+        "id": 4,
+        "text": "Garissa"
+      },
+      {
+        "id": 5,
+        "text": "Kenya"
+      },
+      {
+        "id": 6,
+        "text": "Kenyan"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "occurredAt",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "timeAfter",
+        "tail": 3
+      },
+      {
+        "head": 1,
+        "relation": "attackLocation",
+        "tail": 4
+      },
+      {
+        "head": 4,
+        "relation": "locatedIn",
+        "tail": 5
+      }
+    ]
+  }
+]

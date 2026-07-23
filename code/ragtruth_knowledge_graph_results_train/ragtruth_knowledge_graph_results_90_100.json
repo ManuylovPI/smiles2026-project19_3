@@ -1,0 +1,1085 @@
+[
+  {
+    "document_id": 90,
+    "ragtruth_id": "114",
+    "text": "Richard Dysart, the actor who portrayed the character Leland McKenzie on NBC’s drama \"L.A. Law,\" died on Sunday at his home in Santa Monica, California, after a long illness, his wife, artist Kathryn Jacobi, announced. He was 86. Dysart was nominated for the Emmy for outstanding supporting actor in a drama series for four straight years, finally winning the trophy in 1992. He was one of the few actors to appear in every episode of the show, which aired for eight seasons from 1986 to 1994. Dysart also had a notable career in film, playing a variety of authority figures. He portrayed Harry Truman in two telefilms, and also played Secretary of War Henry L. Stimson and J. Edgar Hoover. In addition, he had roles in \"The Thing,\" \"The Terminal Man,\" \"The Falcon and the Snowman,\" \"Warning Sign,\" \"Pale Rider,\" and \"Wall Street,\" among others. Dysart was born March 30, 1929, in Boston, and raised in Maine. He graduated from Emerson College with a master's degree in speech communications and initially pursued a career in radio before being tempted by acting. He later joined the American Conservatory Theater and toured the country doing plays before landing his first roles on Broadway.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "his"
+      },
+      {
+        "id": 1,
+        "text": "the Emmy for outstanding supporting actor in a drama series"
+      },
+      {
+        "id": 2,
+        "text": "NBC’s drama \"L.A. Law"
+      },
+      {
+        "id": 3,
+        "text": "Richard Dysart"
+      },
+      {
+        "id": 4,
+        "text": "Leland McKenzie"
+      },
+      {
+        "id": 5,
+        "text": "Sunday"
+      },
+      {
+        "id": 6,
+        "text": "Santa Monica"
+      },
+      {
+        "id": 7,
+        "text": "California"
+      },
+      {
+        "id": 8,
+        "text": "Kathryn Jacobi"
+      },
+      {
+        "id": 9,
+        "text": "86"
+      },
+      {
+        "id": 10,
+        "text": "four straight years"
+      },
+      {
+        "id": 11,
+        "text": "1992"
+      },
+      {
+        "id": 12,
+        "text": "one"
+      },
+      {
+        "id": 13,
+        "text": "Harry Truman"
+      },
+      {
+        "id": 14,
+        "text": "two"
+      },
+      {
+        "id": 15,
+        "text": "Henry L. Stimson"
+      },
+      {
+        "id": 16,
+        "text": "J. Edgar Hoover"
+      },
+      {
+        "id": 17,
+        "text": "The Thing"
+      },
+      {
+        "id": 18,
+        "text": "The Terminal Man"
+      },
+      {
+        "id": 19,
+        "text": "Falcon"
+      },
+      {
+        "id": 20,
+        "text": "Snowman"
+      },
+      {
+        "id": 21,
+        "text": "Warning Sign"
+      },
+      {
+        "id": 22,
+        "text": "Pale Rider"
+      },
+      {
+        "id": 23,
+        "text": "March 30, 1929"
+      },
+      {
+        "id": 24,
+        "text": "Boston"
+      },
+      {
+        "id": 25,
+        "text": "Maine"
+      },
+      {
+        "id": 26,
+        "text": "Emerson College"
+      },
+      {
+        "id": 27,
+        "text": "the American Conservatory Theater"
+      },
+      {
+        "id": 28,
+        "text": "first"
+      },
+      {
+        "id": 29,
+        "text": "Broadway"
+      }
+    ],
+    "relations": [
+      {
+        "head": 3,
+        "relation": "portrayed",
+        "tail": 4
+      },
+      {
+        "head": 3,
+        "relation": "spouse",
+        "tail": 8
+      },
+      {
+        "head": 3,
+        "relation": "deathPlace",
+        "tail": 6
+      },
+      {
+        "head": 3,
+        "relation": "deathPlace",
+        "tail": 7
+      },
+      {
+        "head": 3,
+        "relation": "age",
+        "tail": 9
+      },
+      {
+        "head": 3,
+        "relation": "award",
+        "tail": 1
+      },
+      {
+        "head": 3,
+        "relation": "awardYear",
+        "tail": 11
+      },
+      {
+        "head": 3,
+        "relation": "birthDate",
+        "tail": 23
+      },
+      {
+        "head": 3,
+        "relation": "birthPlace",
+        "tail": 24
+      },
+      {
+        "head": 3,
+        "relation": "raisedIn",
+        "tail": 25
+      },
+      {
+        "head": 3,
+        "relation": "educatedAt",
+        "tail": 26
+      },
+      {
+        "head": 3,
+        "relation": "employer",
+        "tail": 27
+      },
+      {
+        "head": 3,
+        "relation": "firstRolesOn",
+        "tail": 29
+      }
+    ]
+  },
+  {
+    "document_id": 91,
+    "ragtruth_id": "115",
+    "text": "Emmy-winning actor Richard Dysart has passed away at the age of 86. Dysart was best known for his role as Leland McKenzie in the long-running NBC drama \"L.A. Law\". He played the cranky senior partner of the law firm McKenzie, Brackman, Chaney and Kuzak for eight seasons from 1986 to 1994. Dysart was nominated for an Emmy for outstanding supporting actor in a drama series for four consecutive years and finally won the award in 1992. He was one of the few actors to appear in every episode of the show. Dysart's career also included roles in Broadway productions and numerous films and television shows. He played Coach in the original 1972 Broadway production of \"That Championship Season\" and portrayed J. Edgar Hoover in the 1993 USA telefilm \"Marilyn & Bobby: Her Final Affair\". Dysart's range of authority-figure parts extended to playing Harry Truman in the CBS telefilm \"Day One\" and the Secretary of Defense in \"Meteor\" (1979). He also had a talent for playing doctors, with notable roles in movies such as \"The Hospital\" (1971) and \"Being There\" (1979). Dysart was born in Boston and raised in Maine. He attended Emerson College and initially pursued a career in radio before turning to acting. Dysart's last onscreen appearance was in the 2002 \"L.A. Law\" reunion telefilm. He is survived by his wife, stepson, daughter-in-law, mother-in-law, brother, sister-in-law, and grandchildren. A private memorial is being planned.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Emmy-winning actor Richard Dysart"
+      },
+      {
+        "id": 1,
+        "text": "Leland McKenzie"
+      },
+      {
+        "id": 2,
+        "text": "an Emmy for outstanding supporting actor in a drama series"
+      },
+      {
+        "id": 3,
+        "text": "the long-running NBC drama \"L.A. Law\""
+      },
+      {
+        "id": 4,
+        "text": "Broadway"
+      },
+      {
+        "id": 5,
+        "text": "the age of 86"
+      },
+      {
+        "id": 6,
+        "text": "eight seasons"
+      },
+      {
+        "id": 7,
+        "text": "1986 to 1994"
+      },
+      {
+        "id": 8,
+        "text": "four consecutive years"
+      },
+      {
+        "id": 9,
+        "text": "1992"
+      },
+      {
+        "id": 10,
+        "text": "one"
+      },
+      {
+        "id": 11,
+        "text": "Coach"
+      },
+      {
+        "id": 12,
+        "text": "1972"
+      },
+      {
+        "id": 13,
+        "text": "That Championship Season"
+      },
+      {
+        "id": 14,
+        "text": "J. Edgar Hoover"
+      },
+      {
+        "id": 15,
+        "text": "1993"
+      },
+      {
+        "id": 16,
+        "text": "Marilyn & Bobby: Her Final Affair"
+      },
+      {
+        "id": 17,
+        "text": "Harry Truman"
+      },
+      {
+        "id": 18,
+        "text": "CBS"
+      },
+      {
+        "id": 19,
+        "text": "Day One"
+      },
+      {
+        "id": 20,
+        "text": "Defense"
+      },
+      {
+        "id": 21,
+        "text": "Meteor"
+      },
+      {
+        "id": 22,
+        "text": "1979"
+      },
+      {
+        "id": 23,
+        "text": "The Hospital"
+      },
+      {
+        "id": 24,
+        "text": "1971"
+      },
+      {
+        "id": 25,
+        "text": "Being There"
+      },
+      {
+        "id": 26,
+        "text": "1979"
+      },
+      {
+        "id": 27,
+        "text": "Boston"
+      },
+      {
+        "id": 28,
+        "text": "Maine"
+      },
+      {
+        "id": 29,
+        "text": "Emerson College"
+      },
+      {
+        "id": 30,
+        "text": "2002"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "ageAtDeath",
+        "tail": 5
+      },
+      {
+        "head": 0,
+        "relation": "role",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "playedIn",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "playedRoleForDuration",
+        "tail": 6
+      },
+      {
+        "head": 0,
+        "relation": "playedRoleFromTo",
+        "tail": 7
+      },
+      {
+        "head": 0,
+        "relation": "award",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "awardYear",
+        "tail": 9
+      },
+      {
+        "head": 0,
+        "relation": "appearedInEveryEpisodeOf",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "performedAt",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "playedRole",
+        "tail": 11
+      },
+      {
+        "head": 0,
+        "relation": "performedInYear",
+        "tail": 12
+      },
+      {
+        "head": 0,
+        "relation": "performedInProduction",
+        "tail": 13
+      },
+      {
+        "head": 0,
+        "relation": "portrayed",
+        "tail": 14
+      },
+      {
+        "head": 0,
+        "relation": "performedInYear",
+        "tail": 15
+      },
+      {
+        "head": 0,
+        "relation": "performedInProduction",
+        "tail": 16
+      },
+      {
+        "head": 0,
+        "relation": "playedRole",
+        "tail": 17
+      },
+      {
+        "head": 0,
+        "relation": "performedAt",
+        "tail": 18
+      },
+      {
+        "head": 0,
+        "relation": "performedInProduction",
+        "tail": 19
+      },
+      {
+        "head": 0,
+        "relation": "playedRole",
+        "tail": 20
+      },
+      {
+        "head": 0,
+        "relation": "performedInProduction",
+        "tail": 21
+      },
+      {
+        "head": 0,
+        "relation": "performedInYear",
+        "tail": 22
+      },
+      {
+        "head": 0,
+        "relation": "performedInProduction",
+        "tail": 23
+      },
+      {
+        "head": 0,
+        "relation": "performedInYear",
+        "tail": 24
+      },
+      {
+        "head": 0,
+        "relation": "performedInProduction",
+        "tail": 25
+      },
+      {
+        "head": 0,
+        "relation": "performedInYear",
+        "tail": 26
+      },
+      {
+        "head": 0,
+        "relation": "birthPlace",
+        "tail": 27
+      },
+      {
+        "head": 0,
+        "relation": "raisedIn",
+        "tail": 28
+      },
+      {
+        "head": 0,
+        "relation": "educatedAt",
+        "tail": 29
+      },
+      {
+        "head": 0,
+        "relation": "lastAppearanceYear",
+        "tail": 30
+      }
+    ]
+  },
+  {
+    "document_id": 92,
+    "ragtruth_id": "116",
+    "text": "Richard Dysart, known for his Emmy-winning performance as Leland McKenzie on \"L.A. Law,\" has passed away at the age of 86. He also won recognition for his work on Broadway and in film.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Richard Dysart, known for his Emmy-winning performance as Leland McKenzie on \"L.A. Law"
+      },
+      {
+        "id": 1,
+        "text": "the age of 86"
+      },
+      {
+        "id": 2,
+        "text": "Broadway"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "age",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "workedOn",
+        "tail": 2
+      }
+    ]
+  },
+  {
+    "document_id": 93,
+    "ragtruth_id": "117",
+    "text": "Richard Dysart, a veteran actor known for his role as Leland McKenzie in the popular TV series \"L.A. Law,\" has passed away at the age of 86. Dysart was nominated for four Emmy Awards for his portrayal of the cranky senior partner at the law firm McKenzie, Brackman, Chaney and Kuzak, and won the award in 1992. He also appeared in numerous other TV shows and movies throughout his career, including \"The Hospital,\" \"Being There,\" and \"Wall Street.\" Dysart was born in Boston and raised in Maine, and began his acting career on stage before transitioning to television and film. He is survived by his wife, artist Kathryn Jacobi, and their children, as well as his stepson and several grandchildren.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Richard Dysart, a veteran actor known for his role as Leland McKenzie in the popular TV series \"L.A. Law"
+      },
+      {
+        "id": 1,
+        "text": "Leland McKenzie"
+      },
+      {
+        "id": 2,
+        "text": "the age of 86"
+      },
+      {
+        "id": 3,
+        "text": "four"
+      },
+      {
+        "id": 4,
+        "text": "1992"
+      },
+      {
+        "id": 5,
+        "text": "\"The Hospital"
+      },
+      {
+        "id": 6,
+        "text": "Being There"
+      },
+      {
+        "id": 7,
+        "text": "Boston"
+      },
+      {
+        "id": 8,
+        "text": "Maine"
+      },
+      {
+        "id": 9,
+        "text": "Kathryn Jacobi"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "age",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "awardNominationCount",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "awardYear",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "birthPlace",
+        "tail": 7
+      },
+      {
+        "head": 0,
+        "relation": "raisedIn",
+        "tail": 8
+      },
+      {
+        "head": 0,
+        "relation": "spouse",
+        "tail": 9
+      }
+    ]
+  },
+  {
+    "document_id": 94,
+    "ragtruth_id": "118",
+    "text": "Richard Dysart, the Emmy-winning actor known for his role as Leland McKenzie on the hit TV show \"L.A. Law,\" passed away at the age of 86. Dysart had a long and successful career on stage and screen, appearing in numerous films and TV shows throughout the decades. He was known for his versatility and range, playing a wide variety of characters, from cranky seniors to shifty sorts. Dysart's notable roles included appearances in \"The Hospital,\" \"Being There,\" and \"Wall Street,\" as well as his starring turn as J. Edgar Hoover in \"Marilyn & Bobby: Her Final Affair.\" He will be remembered for his talent, dedication, and enduring legacy in the entertainment industry.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Richard Dysart, the Emmy-winning actor known for his role as Leland McKenzie on the hit TV show \"L.A. Law"
+      },
+      {
+        "id": 1,
+        "text": "the age of 86"
+      },
+      {
+        "id": 2,
+        "text": "the decades"
+      },
+      {
+        "id": 3,
+        "text": "The Hospital"
+      },
+      {
+        "id": 4,
+        "text": "Being There"
+      },
+      {
+        "id": 5,
+        "text": "J. Edgar Hoover"
+      },
+      {
+        "id": 6,
+        "text": "Marilyn & Bobby: Her Final Affair"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "age",
+        "tail": 1
+      },
+      {
+        "head": 6,
+        "relation": "character",
+        "tail": 5
+      }
+    ]
+  },
+  {
+    "document_id": 95,
+    "ragtruth_id": "119",
+    "text": "Richard Dysart, the actor best known for his role as Leland McKenzie in the TV series \"L.A. Law,\" has passed away at the age of 86. Dysart was a versatile actor who played a wide range of roles throughout his career, including parts in films like \"The Hospital,\" \"Being There,\" and \"The Thing.\" In addition to his work on \"L.A. Law,\" he also appeared in numerous other TV shows and movies, including \"The Twilight Zone,\" \"The Outer Limits,\" and \"Wall Street.\" Dysart was praised for his talent and dedication to his craft, and he won several awards for his performances, including an Emmy for his work on \"L.A. Law.\" He will be remembered as a talented actor and a beloved figure in the entertainment industry.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Richard Dysart, the actor best known for his role as Leland McKenzie in the TV series \"L.A. Law"
+      },
+      {
+        "id": 1,
+        "text": "the TV series \"L.A. Law"
+      },
+      {
+        "id": 2,
+        "text": "the age of 86"
+      },
+      {
+        "id": 3,
+        "text": "\"The Hospital"
+      },
+      {
+        "id": 4,
+        "text": "Being There"
+      },
+      {
+        "id": 5,
+        "text": "The Thing"
+      },
+      {
+        "id": 6,
+        "text": "The Twilight Zone"
+      },
+      {
+        "id": 7,
+        "text": "The Outer Limits"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "age",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "appearedIn",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "appearedIn",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "appearedIn",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "appearedIn",
+        "tail": 5
+      },
+      {
+        "head": 0,
+        "relation": "appearedIn",
+        "tail": 6
+      },
+      {
+        "head": 0,
+        "relation": "appearedIn",
+        "tail": 7
+      },
+      {
+        "head": 0,
+        "relation": "award",
+        "tail": 1
+      }
+    ]
+  },
+  {
+    "document_id": 96,
+    "ragtruth_id": "126",
+    "text": "April 8 is significant for fans of the TV show \"Lost\" due to the show's repeated use of the numbers 4, 8, 15, 16, 23 and 42. However, it's also \"Rex Manning Day\" for fans of the 1995 film \"Empire Records.\" Other dates made famous by films include April 14, the date of a sketch in \"Titanic\"; April 25, the \"perfect date\" in \"Miss Congeniality\"; October 3, when a character in \"Mean Girls\" asked what day it was; and October 21, 2015, the future date visited in \"Back to the Future Part II.\"",
+    "entities": [
+      {
+        "id": 0,
+        "text": "the TV show \"Lost\""
+      },
+      {
+        "id": 1,
+        "text": "April 8"
+      },
+      {
+        "id": 2,
+        "text": "4"
+      },
+      {
+        "id": 3,
+        "text": "8"
+      },
+      {
+        "id": 4,
+        "text": "15"
+      },
+      {
+        "id": 5,
+        "text": "16"
+      },
+      {
+        "id": 6,
+        "text": "23"
+      },
+      {
+        "id": 7,
+        "text": "42"
+      },
+      {
+        "id": 8,
+        "text": "Rex Manning Day"
+      },
+      {
+        "id": 9,
+        "text": "1995"
+      },
+      {
+        "id": 10,
+        "text": "Empire Records"
+      },
+      {
+        "id": 11,
+        "text": "April 14"
+      },
+      {
+        "id": 12,
+        "text": "Titanic"
+      },
+      {
+        "id": 13,
+        "text": "April 25"
+      },
+      {
+        "id": 14,
+        "text": "October 3"
+      },
+      {
+        "id": 15,
+        "text": "Mean Girls"
+      },
+      {
+        "id": 16,
+        "text": "October 21, 2015"
+      },
+      {
+        "id": 17,
+        "text": "the Future Part II"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "usesNumber",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "usesNumber",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "usesNumber",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "usesNumber",
+        "tail": 5
+      },
+      {
+        "head": 0,
+        "relation": "usesNumber",
+        "tail": 6
+      },
+      {
+        "head": 0,
+        "relation": "usesNumber",
+        "tail": 7
+      },
+      {
+        "head": 1,
+        "relation": "associatedWith",
+        "tail": 8
+      },
+      {
+        "head": 10,
+        "relation": "releaseYear",
+        "tail": 9
+      },
+      {
+        "head": 11,
+        "relation": "dateOf",
+        "tail": 12
+      },
+      {
+        "head": 13,
+        "relation": "perfectDateIn",
+        "tail": 15
+      },
+      {
+        "head": 14,
+        "relation": "mentionedIn",
+        "tail": 15
+      },
+      {
+        "head": 16,
+        "relation": "futureDateIn",
+        "tail": 17
+      }
+    ]
+  },
+  {
+    "document_id": 97,
+    "ragtruth_id": "127",
+    "text": "April 8 was not only significant for \"Lost\" fans, but also for fans of the 1995 film \"Empire Records\" as it was \"Rex Manning Day.\" The film centers around an independent record store where former pop idol Rex Manning makes an appearance on April 8. Other notable dates from films include April 14, the date of the sinking of the Titanic in the movie \"Titanic,\" April 25, deemed the perfect date in \"Miss Congeniality,\" October 3, known as \"Mean Girls Day,\" and October 21, 2015, the date Marty McFly and his friends travel to in \"Back to the Future Part II.\"",
+    "entities": [
+      {
+        "id": 0,
+        "text": "April 8"
+      },
+      {
+        "id": 1,
+        "text": "the 1995 film \"Empire Records\""
+      },
+      {
+        "id": 2,
+        "text": "Marty McFly"
+      },
+      {
+        "id": 3,
+        "text": "Rex Manning Day"
+      },
+      {
+        "id": 4,
+        "text": "Rex Manning"
+      },
+      {
+        "id": 5,
+        "text": "April 14"
+      },
+      {
+        "id": 6,
+        "text": "Titanic"
+      },
+      {
+        "id": 7,
+        "text": "Titanic"
+      },
+      {
+        "id": 8,
+        "text": "April 25"
+      },
+      {
+        "id": 9,
+        "text": "Miss Congeniality"
+      },
+      {
+        "id": 10,
+        "text": "October 3"
+      },
+      {
+        "id": 11,
+        "text": "October 21, 2015"
+      },
+      {
+        "id": 12,
+        "text": "the Future Part II"
+      }
+    ],
+    "relations": [
+      {
+        "head": 3,
+        "relation": "date",
+        "tail": 0
+      },
+      {
+        "head": 1,
+        "relation": "date",
+        "tail": 0
+      },
+      {
+        "head": 1,
+        "relation": "appearanceDate",
+        "tail": 0
+      },
+      {
+        "head": 6,
+        "relation": "sinkingDate",
+        "tail": 5
+      },
+      {
+        "head": 9,
+        "relation": "date",
+        "tail": 8
+      },
+      {
+        "head": 10,
+        "relation": "date",
+        "tail": 10
+      },
+      {
+        "head": 12,
+        "relation": "travelDate",
+        "tail": 11
+      }
+    ]
+  },
+  {
+    "document_id": 98,
+    "ragtruth_id": "128",
+    "text": "April 8th, 2015, was significant for several reasons. On that day, \"Lost\" fans celebrated the alignment of 4:23.42 pm, which has been associated with the show. Additionally, it was also \"Rex Manning Day,\" as Twitter paid tribute to the character Rex Manning from the film \"Empire Records\". Other dates that are notable due to films include April 14th, known as \"Titanic Day\", and October 3rd, celebrated as \"Mean Girls Day\". October 21st, 2015, is recognized as the date when Marty McFly traveled to in \"Back to the Future Part II\".",
+    "entities": [
+      {
+        "id": 0,
+        "text": "April 8th, 2015"
+      },
+      {
+        "id": 1,
+        "text": "Lost"
+      },
+      {
+        "id": 2,
+        "text": "Rex Manning"
+      },
+      {
+        "id": 3,
+        "text": "4:23.42 pm"
+      },
+      {
+        "id": 4,
+        "text": "Rex Manning Day"
+      },
+      {
+        "id": 5,
+        "text": "Twitter"
+      },
+      {
+        "id": 6,
+        "text": "April 14th"
+      },
+      {
+        "id": 7,
+        "text": "Titanic Day"
+      },
+      {
+        "id": 8,
+        "text": "October 3rd"
+      },
+      {
+        "id": 9,
+        "text": "Mean Girls Day"
+      },
+      {
+        "id": 10,
+        "text": "October 21st, 2015"
+      },
+      {
+        "id": 11,
+        "text": "Marty McFly"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "associatedWith",
+        "tail": 3
+      },
+      {
+        "head": 4,
+        "relation": "tributeTo",
+        "tail": 2
+      },
+      {
+        "head": 7,
+        "relation": "date",
+        "tail": 6
+      },
+      {
+        "head": 9,
+        "relation": "date",
+        "tail": 8
+      },
+      {
+        "head": 10,
+        "relation": "associatedWith",
+        "tail": 11
+      }
+    ]
+  },
+  {
+    "document_id": 99,
+    "ragtruth_id": "129",
+    "text": "On April 8, fans of the TV show \"Lost\" celebrated the alignment of 4:23.42 pm, while also acknowledging \"Rex Manning Day,\" inspired by the character from the 1995 film \"Empire Records.\" Other notable dates from movies include April 14 (Titanic), April 25 (Miss Congeniality), October 3 (Mean Girls), and October 21, 2015 (Back to the Future Part II).",
+    "entities": [
+      {
+        "id": 0,
+        "text": "April 8"
+      },
+      {
+        "id": 1,
+        "text": "4:23.42 pm"
+      },
+      {
+        "id": 2,
+        "text": "Rex Manning Day"
+      },
+      {
+        "id": 3,
+        "text": "1995"
+      },
+      {
+        "id": 4,
+        "text": "Empire Records"
+      },
+      {
+        "id": 5,
+        "text": "April 14"
+      },
+      {
+        "id": 6,
+        "text": "April 25"
+      },
+      {
+        "id": 7,
+        "text": "October 3"
+      },
+      {
+        "id": 8,
+        "text": "October 21, 2015"
+      },
+      {
+        "id": 9,
+        "text": "the Future Part II"
+      }
+    ],
+    "relations": [
+      {
+        "head": 2,
+        "relation": "inspiredBy",
+        "tail": 4
+      }
+    ]
+  }
+]

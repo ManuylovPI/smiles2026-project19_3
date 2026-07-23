@@ -1,0 +1,920 @@
+[
+  {
+    "document_id": 580,
+    "ragtruth_id": "784",
+    "text": "Sure! Here's the summary within 83 words:\n\nFrench officials have collected all evidence from the Germanwings Flight 9525 crash site and are not expected to return. Private security will remain until remaining debris is collected. Over 2,000 DNA samples and 470 personal items have been found, including 40 cell phones. Investigators believe co-pilot Andreas Lubitz intentionally caused the crash, and calls are being made for crash avoidance technology.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "83"
+      },
+      {
+        "id": 1,
+        "text": "French"
+      },
+      {
+        "id": 2,
+        "text": "Over 2,000"
+      },
+      {
+        "id": 3,
+        "text": "470"
+      },
+      {
+        "id": 4,
+        "text": "40"
+      },
+      {
+        "id": 5,
+        "text": "Andreas Lubitz"
+      }
+    ],
+    "relations": [
+      {
+        "head": 5,
+        "relation": "caused",
+        "tail": 0
+      }
+    ]
+  },
+  {
+    "document_id": 581,
+    "ragtruth_id": "785",
+    "text": "Investigators have finished collecting evidence at the crash site of Germanwings Flight 9525 in the French Alps. They have recovered the flight data recorder and cockpit voice recorder, as well as 150 DNA profiles from the crash site. The investigation has found that co-pilot Andreas Lubitz deliberately crashed the plane, and it is believed that he had concealed his history of depression and recent medical leave notes from his employer. There are now calls for increased use of crash avoidance technology.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Investigators"
+      },
+      {
+        "id": 1,
+        "text": "the crash site of Germanwings Flight 9525 in the French Alps"
+      },
+      {
+        "id": 2,
+        "text": "Germanwings Flight 9525"
+      },
+      {
+        "id": 3,
+        "text": "co-pilot Andreas Lubitz"
+      },
+      {
+        "id": 4,
+        "text": "150"
+      }
+    ],
+    "relations": [
+      {
+        "head": 2,
+        "relation": "crashSite",
+        "tail": 1
+      },
+      {
+        "head": 2,
+        "relation": "crashedBy",
+        "tail": 3
+      }
+    ]
+  },
+  {
+    "document_id": 582,
+    "ragtruth_id": "786",
+    "text": "The US was the stage for a number of newsworthy events on Tuesday. In Massachusetts, two high profile court cases are drawing to a close. The trial of Dzhokhar Tsarnaev, the accused Boston Marathon bomber, has reached the deliberation process. If found guilty on any of the 17 capital counts against him, Tsarnaev may face life imprisonment or the death penalty. Meanwhile, the trial of former New England Patriot, Aaron Hernandez, for the murder of semi-pro player, Odin Lloyd, has also reached closing arguments and the jury will soon begin deliberations. In Kentucky, Senator Rand Paul announced his candidacy for the presidential elections. In Chicago, voters are participating in a runoff between Mayor Rahm Emanuel and challenger Jesus \"Chuy\" Garcia. In Ferguson, Missouri, the shadow of Michael Brown and the protests over his shooting by Officer Darren Wilson loom large over the city's elections.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Dzhokhar Tsarnaev, the accused Boston Marathon bomber"
+      },
+      {
+        "id": 1,
+        "text": "Senator Rand Paul"
+      },
+      {
+        "id": 2,
+        "text": "Michael Brown"
+      },
+      {
+        "id": 3,
+        "text": "Ferguson, Missouri"
+      },
+      {
+        "id": 4,
+        "text": "US"
+      },
+      {
+        "id": 5,
+        "text": "Tuesday"
+      },
+      {
+        "id": 6,
+        "text": "Massachusetts"
+      },
+      {
+        "id": 7,
+        "text": "two"
+      },
+      {
+        "id": 8,
+        "text": "17"
+      },
+      {
+        "id": 9,
+        "text": "New England Patriot"
+      },
+      {
+        "id": 10,
+        "text": "Aaron Hernandez"
+      },
+      {
+        "id": 11,
+        "text": "Odin Lloyd"
+      },
+      {
+        "id": 12,
+        "text": "Kentucky"
+      },
+      {
+        "id": 13,
+        "text": "Chicago"
+      },
+      {
+        "id": 14,
+        "text": "Jesus \"Chuy\" Garcia"
+      },
+      {
+        "id": 15,
+        "text": "Darren Wilson"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "trialLocation",
+        "tail": 6
+      },
+      {
+        "head": 0,
+        "relation": "numberOfCounts",
+        "tail": 8
+      },
+      {
+        "head": 10,
+        "relation": "trialLocation",
+        "tail": 6
+      },
+      {
+        "head": 10,
+        "relation": "victim",
+        "tail": 11
+      },
+      {
+        "head": 1,
+        "relation": "candidacyFor",
+        "tail": 5
+      },
+      {
+        "head": 2,
+        "relation": "shootingBy",
+        "tail": 15
+      },
+      {
+        "head": 3,
+        "relation": "electionsLocation",
+        "tail": 13
+      }
+    ]
+  },
+  {
+    "document_id": 583,
+    "ragtruth_id": "787",
+    "text": "Tuesday will be a busy day in courthouses and political arenas across the country. Massachusetts is hosting two high-profile court trials, those of former New England Patriot Aaron Hernandez and Boston bombing suspect Dzhokhar Tsarnaev. Both trials are coming to a close, with Tsarnaev facing the possibility of life in prison or the death penalty if found guilty. In Louisville, Kentucky, Senator Rand Paul announced his candidacy for president, beginning his campaign trail in New Hampshire, South Carolina, Iowa, and Nevada. Paul is hoping to attract a coalition of younger voters and traditional Republicans to support his bid for the White House. In Chicago, voters will participate in a surprising runoff election between Mayor Rahm Emanuel and challenger Jesus \"Chuy\" Garcia. This runoff is being billed as a battle for the future of Chicago. Finally, in Ferguson, Missouri, the city's elections will take place amidst the aftermath of the Michael Brown shooting and protests. The election will bring change, with more representation for the predominantly black population in the city's leadership. Overall, Tuesday will be a significant day for court trials, political campaigns, and elections across the country.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "two high-profile court trials, those of former New England Patriot Aaron Hernandez and Boston bombing suspect Dzhokhar Tsarnaev"
+      },
+      {
+        "id": 1,
+        "text": "Boston bombing suspect Dzhokhar Tsarnaev"
+      },
+      {
+        "id": 2,
+        "text": "Senator Rand Paul"
+      },
+      {
+        "id": 3,
+        "text": "his candidacy for president"
+      },
+      {
+        "id": 4,
+        "text": "a surprising runoff election between Mayor Rahm Emanuel and challenger Jesus \"Chuy\" Garcia"
+      },
+      {
+        "id": 5,
+        "text": "Chicago"
+      },
+      {
+        "id": 6,
+        "text": "Ferguson, Missouri"
+      },
+      {
+        "id": 7,
+        "text": "the city's elections"
+      },
+      {
+        "id": 8,
+        "text": "Tuesday"
+      },
+      {
+        "id": 9,
+        "text": "the country"
+      },
+      {
+        "id": 10,
+        "text": "Massachusetts"
+      },
+      {
+        "id": 11,
+        "text": "Louisville"
+      },
+      {
+        "id": 12,
+        "text": "Kentucky"
+      },
+      {
+        "id": 13,
+        "text": "New Hampshire"
+      },
+      {
+        "id": 14,
+        "text": "South Carolina"
+      },
+      {
+        "id": 15,
+        "text": "Iowa"
+      },
+      {
+        "id": 16,
+        "text": "Nevada"
+      },
+      {
+        "id": 17,
+        "text": "Republicans"
+      },
+      {
+        "id": 18,
+        "text": "Michael Brown"
+      },
+      {
+        "id": 19,
+        "text": "a significant day"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "location",
+        "tail": 10
+      },
+      {
+        "head": 1,
+        "relation": "trial",
+        "tail": 0
+      },
+      {
+        "head": 2,
+        "relation": "candidacy",
+        "tail": 3
+      },
+      {
+        "head": 3,
+        "relation": "location",
+        "tail": 11
+      },
+      {
+        "head": 3,
+        "relation": "campaignTrailLocation",
+        "tail": 13
+      },
+      {
+        "head": 3,
+        "relation": "campaignTrailLocation",
+        "tail": 14
+      },
+      {
+        "head": 3,
+        "relation": "campaignTrailLocation",
+        "tail": 15
+      },
+      {
+        "head": 3,
+        "relation": "campaignTrailLocation",
+        "tail": 16
+      },
+      {
+        "head": 4,
+        "relation": "location",
+        "tail": 5
+      },
+      {
+        "head": 7,
+        "relation": "location",
+        "tail": 6
+      },
+      {
+        "head": 8,
+        "relation": "significantFor",
+        "tail": 19
+      }
+    ]
+  },
+  {
+    "document_id": 584,
+    "ragtruth_id": "788",
+    "text": "News headlines across the US are focused on several high-profile court cases and political developments. In Boston, the trial of marathon bomber Dzhokhar Tsarnaev is coming to an end, with the jury beginning deliberations on 30 charges. In Massachusetts, the trial of former football player Aaron Hernandez is also nearing conclusion. Senator Rand Paul officially announced his presidential candidacy in Louisville, Kentucky. Voters in Chicago will choose between Mayor Rahm Emanuel and a surprise candidate, Jesus \"Chuy\" Garcia, in the city's first runoff election. Michael Brown's legacy and the protests against police brutality are likely to influence Ferguson, Missouri's upcoming municipal elections.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Senator Rand Paul"
+      },
+      {
+        "id": 1,
+        "text": "Chicago"
+      },
+      {
+        "id": 2,
+        "text": "US"
+      },
+      {
+        "id": 3,
+        "text": "Boston"
+      },
+      {
+        "id": 4,
+        "text": "Dzhokhar Tsarnaev"
+      },
+      {
+        "id": 5,
+        "text": "30"
+      },
+      {
+        "id": 6,
+        "text": "Massachusetts"
+      },
+      {
+        "id": 7,
+        "text": "Aaron Hernandez"
+      },
+      {
+        "id": 8,
+        "text": "Louisville"
+      },
+      {
+        "id": 9,
+        "text": "Kentucky"
+      },
+      {
+        "id": 10,
+        "text": "Jesus \"Chuy\" Garcia"
+      },
+      {
+        "id": 11,
+        "text": "first"
+      },
+      {
+        "id": 12,
+        "text": "Michael Brown's"
+      },
+      {
+        "id": 13,
+        "text": "Ferguson"
+      },
+      {
+        "id": 14,
+        "text": "Missouri"
+      }
+    ],
+    "relations": [
+      {
+        "head": 4,
+        "relation": "trialLocation",
+        "tail": 3
+      },
+      {
+        "head": 4,
+        "relation": "charges",
+        "tail": 5
+      },
+      {
+        "head": 7,
+        "relation": "trialLocation",
+        "tail": 6
+      },
+      {
+        "head": 0,
+        "relation": "candidacyAnnouncedIn",
+        "tail": 8
+      },
+      {
+        "head": 0,
+        "relation": "candidacyAnnouncedIn",
+        "tail": 9
+      },
+      {
+        "head": 1,
+        "relation": "runoffElectionCount",
+        "tail": 11
+      },
+      {
+        "head": 13,
+        "relation": "locatedIn",
+        "tail": 14
+      }
+    ]
+  },
+  {
+    "document_id": 585,
+    "ragtruth_id": "789",
+    "text": "Today, two high-profile court trials are taking place in Massachusetts - the trial of former New England Patriot Aaron Hernandez and Boston bombing suspect Dzhokhar Tsarnaev. Both trials are nearing completion, with jurors set to deliberate and deliver verdicts. In addition, Sen. Rand Paul (R-KY) announced his candidacy for the presidency, with a focus on appealing to mainstream libertarians and young voters. In Chicago, voters are heading to the polls for a runoff election between incumbent Mayor Rahm Emanuel and challenger Jesus \"Chuy\" Garcia, with issues of representation and police reform at the forefront. Finally, in Ferguson, Missouri, the community is preparing for an election that could bring change to the city's leadership, with a focus on increasing diversity in the police force and City Council.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "two high-profile court trials"
+      },
+      {
+        "id": 1,
+        "text": "Sen. Rand Paul (R-KY)"
+      },
+      {
+        "id": 2,
+        "text": "Ferguson, Missouri"
+      },
+      {
+        "id": 3,
+        "text": "Today"
+      },
+      {
+        "id": 4,
+        "text": "Massachusetts"
+      },
+      {
+        "id": 5,
+        "text": "New England"
+      },
+      {
+        "id": 6,
+        "text": "Aaron Hernandez"
+      },
+      {
+        "id": 7,
+        "text": "Boston"
+      },
+      {
+        "id": 8,
+        "text": "Dzhokhar Tsarnaev"
+      },
+      {
+        "id": 9,
+        "text": "Chicago"
+      },
+      {
+        "id": 10,
+        "text": "Jesus \"Chuy\" Garcia"
+      },
+      {
+        "id": 11,
+        "text": "City Council"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "locatedIn",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "includesTrialOf",
+        "tail": 6
+      },
+      {
+        "head": 0,
+        "relation": "includesTrialOf",
+        "tail": 8
+      },
+      {
+        "head": 1,
+        "relation": "announcedCandidacyFor",
+        "tail": 3
+      },
+      {
+        "head": 9,
+        "relation": "hasElectionBetween",
+        "tail": 10
+      },
+      {
+        "head": 2,
+        "relation": "hasLeadership",
+        "tail": 11
+      }
+    ]
+  },
+  {
+    "document_id": 586,
+    "ragtruth_id": "790",
+    "text": "Here are the nation's top stories as of April 28th, 2015, summarized in 192 words:\n\nIn legal news, the high-profile trials of former New England Patriot Aaron Hernandez and Boston marathon bomber Dzhokhar Tsarnaev are coming to a close. Hernandez's defense team wrapped up its witnesses in less than a day, while Tsarnaev faces the possibility of life in prison or the death penalty if found guilty. Meanwhile, in politics, Rand Paul announced his candidacy for the presidency, and voters in Chicago will head to the polls in a runoff election between Mayor Rahm Emanuel and challenger Jesus \"Chuy\" Garcia. The election in Ferguson, Missouri, will also be closely watched, as the city continues to grapple with issues of racial representation and police brutality.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "former New England Patriot Aaron Hernandez"
+      },
+      {
+        "id": 1,
+        "text": "Hernandez's defense team"
+      },
+      {
+        "id": 2,
+        "text": "Boston marathon bomber Dzhokhar Tsarnaev"
+      },
+      {
+        "id": 3,
+        "text": "Rand Paul"
+      },
+      {
+        "id": 4,
+        "text": "Ferguson, Missouri"
+      },
+      {
+        "id": 5,
+        "text": "April 28th, 2015"
+      },
+      {
+        "id": 6,
+        "text": "192"
+      },
+      {
+        "id": 7,
+        "text": "less than a day"
+      },
+      {
+        "id": 8,
+        "text": "Chicago"
+      },
+      {
+        "id": 9,
+        "text": "Jesus \"Chuy\" Garcia"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "defenseTeamOf",
+        "tail": 0
+      },
+      {
+        "head": 3,
+        "relation": "candidacyFor",
+        "tail": 5
+      }
+    ]
+  },
+  {
+    "document_id": 587,
+    "ragtruth_id": "791",
+    "text": "There are several important events happening in the United States on Tuesday. In Massachusetts, the trials of former New England Patriot Aaron Hernandez and Boston bomber Dzhokhar Tsarnaev are coming to a close. Hernandez is accused of killing a semi-pro football player, and Tsarnaev is accused of detonating a bomb at the Boston Marathon. In Kentucky, Senator Rand Paul announced that he will run for president. In Chicago, there is a runoff election between Mayor Rahm Emanuel and challenger Jesus \"Chuy\" Garcia. In Ferguson, Missouri, the city's elections will take place under the shadow of the protests over the shooting of Michael Brown by a police officer. The election will bring change to the city's government, as two black men are running for one of the open seats, and a white protester is running for another seat.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "former New England Patriot Aaron Hernandez"
+      },
+      {
+        "id": 1,
+        "text": "Boston bomber Dzhokhar Tsarnaev"
+      },
+      {
+        "id": 2,
+        "text": "Senator Rand Paul"
+      },
+      {
+        "id": 3,
+        "text": "Ferguson, Missouri"
+      },
+      {
+        "id": 4,
+        "text": "the city's elections"
+      },
+      {
+        "id": 5,
+        "text": "the United States"
+      },
+      {
+        "id": 6,
+        "text": "Tuesday"
+      },
+      {
+        "id": 7,
+        "text": "Massachusetts"
+      },
+      {
+        "id": 8,
+        "text": "the Boston Marathon"
+      },
+      {
+        "id": 9,
+        "text": "Kentucky"
+      },
+      {
+        "id": 10,
+        "text": "Chicago"
+      },
+      {
+        "id": 11,
+        "text": "Jesus \"Chuy\" Garcia"
+      },
+      {
+        "id": 12,
+        "text": "Michael Brown"
+      },
+      {
+        "id": 13,
+        "text": "two"
+      },
+      {
+        "id": 14,
+        "text": "one"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "locatedIn",
+        "tail": 7
+      },
+      {
+        "head": 1,
+        "relation": "locatedIn",
+        "tail": 7
+      },
+      {
+        "head": 1,
+        "relation": "accusedOf",
+        "tail": 8
+      },
+      {
+        "head": 2,
+        "relation": "locatedIn",
+        "tail": 9
+      },
+      {
+        "head": 4,
+        "relation": "locatedIn",
+        "tail": 3
+      }
+    ]
+  },
+  {
+    "document_id": 588,
+    "ragtruth_id": "792",
+    "text": "South Carolina police officer Michael Slager has been charged with murder after shooting an unarmed black man, Walter Scott, eight times. A video of the incident, taken by passerby Feidin Santana, shows that Slager shot at Scott as he ran away, contrary to the initial police report which stated that Scott had tried to take Slager's Taser. The video shows a dark object falling behind Scott and hitting the ground before Slager opens fire, but it is unclear whether this is the Taser. Santana says that although he heard the sound of a Taser being used, he did not see Scott grab it. Slager was the first officer on the scene, and reports from other officers suggest that they arrived after the shooting had taken place. The police report does not include a statement from Slager. As the South Carolina Law Enforcement Division is currently investigating the incident, the North Charleston Police Department is not providing any further information. Slager has been fired from the police force.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "South Carolina police officer Michael Slager"
+      },
+      {
+        "id": 1,
+        "text": "shooting"
+      },
+      {
+        "id": 2,
+        "text": "an unarmed black man, Walter Scott"
+      },
+      {
+        "id": 3,
+        "text": "A video of the incident, taken by passerby Feidin Santana"
+      },
+      {
+        "id": 4,
+        "text": "Slager's Taser"
+      },
+      {
+        "id": 5,
+        "text": "passerby Feidin Santana"
+      },
+      {
+        "id": 6,
+        "text": "a Taser"
+      },
+      {
+        "id": 7,
+        "text": "other officers"
+      },
+      {
+        "id": 8,
+        "text": "the incident"
+      },
+      {
+        "id": 9,
+        "text": "the North Charleston Police Department"
+      },
+      {
+        "id": 10,
+        "text": "eight"
+      },
+      {
+        "id": 11,
+        "text": "first"
+      },
+      {
+        "id": 12,
+        "text": "the South Carolina Law Enforcement Division"
+      }
+    ],
+    "relations": [
+      {
+        "head": 2,
+        "relation": "shotBy",
+        "tail": 0
+      },
+      {
+        "head": 1,
+        "relation": "victim",
+        "tail": 2
+      },
+      {
+        "head": 3,
+        "relation": "takenBy",
+        "tail": 5
+      },
+      {
+        "head": 8,
+        "relation": "documentedBy",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "firedBy",
+        "tail": 9
+      },
+      {
+        "head": 8,
+        "relation": "investigatedBy",
+        "tail": 12
+      },
+      {
+        "head": 0,
+        "relation": "firstOfficerOnScene",
+        "tail": 11
+      },
+      {
+        "head": 1,
+        "relation": "count",
+        "tail": 10
+      }
+    ]
+  },
+  {
+    "document_id": 589,
+    "ragtruth_id": "793",
+    "text": "The recent shooting of an unarmed black man, Walter Scott, by white police officer Michael Slager in North Charleston has sparked outrage and exposed discrepancies in the reports given by the officers involved. Slager has since been fired and charged with murder. A bystander's cell phone video captured the incident, showing Slager shooting at Scott eight times as he ran away. Scott was hit five times and died as a result. The video does not capture any words exchanged between the two men or what happened before Scott started running. Slager initially claimed that he used a Taser on Scott, who allegedly tried to take the weapon. However, the video does not show Scott grabbing the Taser. The witness who recorded the video, Feidin Santana, stated that he did not see Scott grab the Taser either. Santana witnessed Slager chasing Scott after pulling him over for a broken taillight. He saw the two men struggling on the ground before he started recording. Santana heard the sound of a Taser being used and believed Scott was trying to get away from it. However, Scott never obtained the Taser or used it on the officer, according to Santana. The police report included statements from eight officers but did not include Slager's statement. One officer reported hearing Slager say he was \"in foot pursuit\" of a motorist and later heard him say \"shots fired and the subject is down. He took my Taser.\" The North Charleston Police Department is not providing further information due to an ongoing investigation. The officers involved in the incident are facing scrutiny, and the case has reignited discussions about police brutality and racial bias in law enforcement.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "white police officer Michael Slager"
+      },
+      {
+        "id": 1,
+        "text": "The recent shooting of an unarmed black man, Walter Scott, by white police officer Michael Slager in North Charleston"
+      },
+      {
+        "id": 2,
+        "text": "an unarmed black man, Walter Scott"
+      },
+      {
+        "id": 3,
+        "text": "A bystander's cell phone video"
+      },
+      {
+        "id": 4,
+        "text": "a Taser"
+      },
+      {
+        "id": 5,
+        "text": "The witness who recorded the video, Feidin Santana"
+      },
+      {
+        "id": 6,
+        "text": "the two men"
+      },
+      {
+        "id": 7,
+        "text": "a Taser"
+      },
+      {
+        "id": 8,
+        "text": "the officers involved"
+      },
+      {
+        "id": 9,
+        "text": "a motorist"
+      },
+      {
+        "id": 10,
+        "text": "eight"
+      },
+      {
+        "id": 11,
+        "text": "five"
+      },
+      {
+        "id": 12,
+        "text": "Taser on Scott"
+      },
+      {
+        "id": 13,
+        "text": "One"
+      },
+      {
+        "id": 14,
+        "text": "The North Charleston Police Department"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "victim",
+        "tail": 2
+      },
+      {
+        "head": 1,
+        "relation": "location",
+        "tail": 14
+      },
+      {
+        "head": 1,
+        "relation": "capturedBy",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "shot",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "firedBy",
+        "tail": 14
+      },
+      {
+        "head": 0,
+        "relation": "chargedWith",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "recordedBy",
+        "tail": 5
+      },
+      {
+        "head": 0,
+        "relation": "chased",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "pulledOver",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "said",
+        "tail": 12
+      },
+      {
+        "head": 5,
+        "relation": "witnessed",
+        "tail": 0
+      },
+      {
+        "head": 5,
+        "relation": "heard",
+        "tail": 7
+      },
+      {
+        "head": 5,
+        "relation": "believed",
+        "tail": 2
+      },
+      {
+        "head": 8,
+        "relation": "includedIn",
+        "tail": 1
+      },
+      {
+        "head": 8,
+        "relation": "scrutinizedIn",
+        "tail": 1
+      }
+    ]
+  }
+]

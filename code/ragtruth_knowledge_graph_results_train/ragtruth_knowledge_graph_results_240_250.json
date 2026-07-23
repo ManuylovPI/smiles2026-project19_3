@@ -1,0 +1,538 @@
+[
+  {
+    "document_id": 240,
+    "ragtruth_id": "318",
+    "text": "The Georgian chess Grandmaster Gaioz Nigalidze has been banned from the Dubai Open Chess Tournament for using a chess analysis app on his smartphone to aid his performance. The phone was found hidden in a bathroom cubicle wrapped in toilet paper. Nigalidze initially denied ownership of the device, but it was found to be logged into his social media accounts and displaying the ongoing game. If found guilty of cheating, Nigalidze faces a three-year suspension from all sanctioned tournaments, and up to 15 years for repeat offences.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "The Georgian chess Grandmaster Gaioz Nigalidze"
+      },
+      {
+        "id": 1,
+        "text": "his smartphone"
+      },
+      {
+        "id": 2,
+        "text": "the Dubai Open Chess Tournament"
+      },
+      {
+        "id": 3,
+        "text": "three-year"
+      },
+      {
+        "id": 4,
+        "text": "up to 15 years"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "bannedFrom",
+        "tail": 2
+      }
+    ]
+  },
+  {
+    "document_id": 241,
+    "ragtruth_id": "319",
+    "text": "Gaioz Nigalidze, a Georgian chess grandmaster, has been banned from the Dubai Open Chess Tournament after officials discovered he was using his smartphone in the bathroom to consult a chess analysis app. Nigalidze's opponent grew suspicious when he kept going to the restroom after each move. Officials initially found no device on Nigalidze, but later found his smartphone hidden in toilet paper in the bathroom stall he visited. Nigalidze initially denied the phone was his, but it was logged into a social media network under his account. The incident has been reported to the International Chess Federation.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Gaioz Nigalidze, a Georgian chess grandmaster"
+      },
+      {
+        "id": 1,
+        "text": "the bathroom"
+      },
+      {
+        "id": 2,
+        "text": "his smartphone"
+      },
+      {
+        "id": 3,
+        "text": "the Dubai Open Chess Tournament"
+      },
+      {
+        "id": 4,
+        "text": "the International Chess Federation"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "bannedFrom",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "uses",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "locatedIn",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "reportedTo",
+        "tail": 4
+      }
+    ]
+  },
+  {
+    "document_id": 242,
+    "ragtruth_id": "320",
+    "text": "Georgian chess grandmaster Gaioz Nigalidze has been banned from the Dubai Open Chess Tournament after officials discovered that he was using his smartphone to access a chess analysis app while in the bathroom. His opponent, Tigran Petrosian, became suspicious of Nigalidze's frequent trips to the bathroom during a critical point in the game. When officials searched the bathroom stall, they found the smartphone hidden in toilet paper. The infraction has been reported to the International Chess Federation.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Georgian chess grandmaster Gaioz Nigalidze"
+      },
+      {
+        "id": 1,
+        "text": "officials"
+      },
+      {
+        "id": 2,
+        "text": "his smartphone"
+      },
+      {
+        "id": 3,
+        "text": "the Dubai Open Chess Tournament"
+      },
+      {
+        "id": 4,
+        "text": "Tigran Petrosian"
+      },
+      {
+        "id": 5,
+        "text": "the International Chess Federation"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "bannedFrom",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "opponent",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "uses",
+        "tail": 2
+      },
+      {
+        "head": 1,
+        "relation": "reportedTo",
+        "tail": 5
+      }
+    ]
+  },
+  {
+    "document_id": 243,
+    "ragtruth_id": "321",
+    "text": "Here is a summary of the article in 75 words or less:\n\nGeorgian chess grandmaster Gaioz Nigalidze has been banned from the Dubai Open Chess Tournament after admitting to using a smartphone hidden in a toilet stall to analyze moves during a match. Officials discovered the phone after Nigalidze made frequent trips to the bathroom and initially denied owning it. This is the latest case of cheating in high-stakes chess matches, with previous incidents including an Iranian player receiving help through text messages during a match in 2008.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "a smartphone hidden in a toilet stall"
+      },
+      {
+        "id": 1,
+        "text": "Georgian chess grandmaster Gaioz Nigalidze"
+      },
+      {
+        "id": 2,
+        "text": "75"
+      },
+      {
+        "id": 3,
+        "text": "the Dubai Open Chess Tournament"
+      },
+      {
+        "id": 4,
+        "text": "Iranian"
+      },
+      {
+        "id": 5,
+        "text": "2008"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "bannedFrom",
+        "tail": 3
+      },
+      {
+        "head": 1,
+        "relation": "used",
+        "tail": 0
+      },
+      {
+        "head": 1,
+        "relation": "deniedOwning",
+        "tail": 0
+      },
+      {
+        "head": 4,
+        "relation": "incidentDate",
+        "tail": 5
+      }
+    ]
+  },
+  {
+    "document_id": 244,
+    "ragtruth_id": "322",
+    "text": "Georgian chess grandmaster Gaioz Nigalidze has been banned from the Dubai Open Chess Tournament for using a smartphone hidden in a toilet stall to consult a chess analysis app during games. He was caught when his opponent grew suspicious of his frequent trips to the bathroom and found the phone hidden in toilet paper. This is not the first instance of cheating in high-stakes chess matches, as an Iranian player was banned in 2008 for receiving text message suggestions from someone watching the game's live broadcast.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Georgian chess grandmaster Gaioz Nigalidze"
+      },
+      {
+        "id": 1,
+        "text": "a smartphone hidden in a toilet stall"
+      },
+      {
+        "id": 2,
+        "text": "the Dubai Open Chess Tournament"
+      },
+      {
+        "id": 3,
+        "text": "first"
+      },
+      {
+        "id": 4,
+        "text": "Iranian"
+      },
+      {
+        "id": 5,
+        "text": "2008"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "bannedFrom",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "used",
+        "tail": 1
+      }
+    ]
+  },
+  {
+    "document_id": 245,
+    "ragtruth_id": "323",
+    "text": "Gaioz Nigalidze, a Georgian chess grandmaster, was banned from the Dubai Open Chess Tournament after officials discovered he was using a smartphone in the bathroom to cheat. He would go to the bathroom frequently during games and use a chess analysis app to get suggestions for his next moves. His opponent, Tigran Petrosian, became suspicious and officials found the smartphone hidden in toilet paper in the bathroom stall. Nigalidze claimed the phone wasn't his, but it was logged into his social media account and had his game being analyzed in a chess application. This incident has been reported to the International Chess Federation and Nigalidze faces a suspension of up to 15 years for repeat offenses.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Gaioz Nigalidze, a Georgian chess grandmaster"
+      },
+      {
+        "id": 1,
+        "text": "a smartphone"
+      },
+      {
+        "id": 2,
+        "text": "a chess analysis app"
+      },
+      {
+        "id": 3,
+        "text": "the Dubai Open Chess Tournament"
+      },
+      {
+        "id": 4,
+        "text": "Tigran Petrosian"
+      },
+      {
+        "id": 5,
+        "text": "the International Chess Federation"
+      },
+      {
+        "id": 6,
+        "text": "up to 15 years"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "bannedFrom",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "used",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "used",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "opponent",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "reportedTo",
+        "tail": 5
+      },
+      {
+        "head": 0,
+        "relation": "facesSuspensionOf",
+        "tail": 6
+      }
+    ]
+  },
+  {
+    "document_id": 246,
+    "ragtruth_id": "324",
+    "text": "The measles outbreak that affected over 130 Californians since December is now over, according to the California Department of Public Health. The department stated that it has been 42 days since the last known case of the B3 strain of measles. Of the 131 cases, 70% of the 81 for whom vaccination status was available were unvaccinated. The outbreak began with visitors to two Disney theme parks in the state.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "the California Department of Public Health"
+      },
+      {
+        "id": 1,
+        "text": "over 130 Californians"
+      },
+      {
+        "id": 2,
+        "text": "The measles outbreak that affected over 130 Californians since December"
+      },
+      {
+        "id": 3,
+        "text": "42 days"
+      },
+      {
+        "id": 4,
+        "text": "B3"
+      },
+      {
+        "id": 5,
+        "text": "70%"
+      },
+      {
+        "id": 6,
+        "text": "81"
+      },
+      {
+        "id": 7,
+        "text": "two"
+      },
+      {
+        "id": 8,
+        "text": "Disney"
+      }
+    ],
+    "relations": [
+      {
+        "head": 2,
+        "relation": "affected",
+        "tail": 1
+      },
+      {
+        "head": 2,
+        "relation": "reportedBy",
+        "tail": 0
+      },
+      {
+        "head": 2,
+        "relation": "durationSinceLastKnownCase",
+        "tail": 3
+      },
+      {
+        "head": 2,
+        "relation": "strain",
+        "tail": 4
+      },
+      {
+        "head": 2,
+        "relation": "beganWithVisitorsTo",
+        "tail": 8
+      }
+    ]
+  },
+  {
+    "document_id": 247,
+    "ragtruth_id": "325",
+    "text": "The measles outbreak in California that began in December is officially over, according to the California Department of Public Health. A total of 131 people were affected, with 70% of them being unvaccinated. The outbreak was controlled through prompt investigation, contact tracing, vaccination, and increased awareness among healthcare providers. The outbreak originated from visitors to Disney theme parks. Measles is a highly contagious respiratory disease that can have severe health complications.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "A total of 131 people"
+      },
+      {
+        "id": 1,
+        "text": "The measles outbreak in California that began in December"
+      },
+      {
+        "id": 2,
+        "text": "the California Department of Public Health"
+      },
+      {
+        "id": 3,
+        "text": "70%"
+      },
+      {
+        "id": 4,
+        "text": "Disney"
+      },
+      {
+        "id": 5,
+        "text": "Measles"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "officiallyOverAccordingTo",
+        "tail": 2
+      },
+      {
+        "head": 1,
+        "relation": "affectedPopulation",
+        "tail": 0
+      },
+      {
+        "head": 0,
+        "relation": "unvaccinatedPercentage",
+        "tail": 3
+      },
+      {
+        "head": 1,
+        "relation": "originatedFrom",
+        "tail": 4
+      }
+    ]
+  },
+  {
+    "document_id": 248,
+    "ragtruth_id": "326",
+    "text": "A measles outbreak that affected over 130 people in California has ended, according to the state's health department. This is the second outbreak in the state in just under a year. The last case of B3 strain of measles was reported 42 days ago, which is equivalent to two incubation periods. The majority of those infected were unvaccinated. Prompt investigation of cases, vaccinations of at-risk individuals, and increased awareness among healthcare providers helped control the outbreak.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "California"
+      },
+      {
+        "id": 1,
+        "text": "A measles outbreak that affected over 130 people in California"
+      },
+      {
+        "id": 2,
+        "text": "second"
+      },
+      {
+        "id": 3,
+        "text": "just under a year"
+      },
+      {
+        "id": 4,
+        "text": "B3"
+      },
+      {
+        "id": 5,
+        "text": "42 days ago"
+      },
+      {
+        "id": 6,
+        "text": "two"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "location",
+        "tail": 0
+      },
+      {
+        "head": 1,
+        "relation": "ordinal",
+        "tail": 2
+      },
+      {
+        "head": 1,
+        "relation": "timeSpan",
+        "tail": 3
+      },
+      {
+        "head": 4,
+        "relation": "lastReported",
+        "tail": 5
+      },
+      {
+        "head": 5,
+        "relation": "equivalentTo",
+        "tail": 6
+      }
+    ]
+  },
+  {
+    "document_id": 249,
+    "ragtruth_id": "327",
+    "text": "Here is a summary of the article in 65 words or less:\n\nThe measles outbreak in California that affected 131 people since December is now over, according to the California Department of Public Health. The outbreak started with visitors to Disney theme parks and ended after 42 days without any new cases. Of the 81 vaccinated individuals, 70% were unvaccinated.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "The measles outbreak in California that affected 131 people since December"
+      },
+      {
+        "id": 1,
+        "text": "65"
+      },
+      {
+        "id": 2,
+        "text": "the California Department of Public Health"
+      },
+      {
+        "id": 3,
+        "text": "Disney"
+      },
+      {
+        "id": 4,
+        "text": "42 days"
+      },
+      {
+        "id": 5,
+        "text": "81"
+      },
+      {
+        "id": 6,
+        "text": "70%"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "reportedBy",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "startedAt",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "duration",
+        "tail": 4
+      }
+    ]
+  }
+]

@@ -1,0 +1,1061 @@
+[
+  {
+    "document_id": 720,
+    "ragtruth_id": "972",
+    "text": "The 2015 MTV Movie Awards were characterized by a number of highlights and misfires. The highlights included host Amy Schumer's opening video segment, which was full of hilarious and inventive moments. Additionally, Schumer's monologue was a hit, with jokes about herself and various celebrities. Channing Tatum also brought entertainment to the night by dancing on stage after being prompted by Jennifer Lopez. Other notable moments included Rebel Wilson's censored joke, Fall Out Boy's performance with Fetty Wap, Charli XCX, Ty Dolla $ign & Tinashe's performance, and Kevin Hart's acceptance of the Comedic Genius Award. On the other hand, there were a few misfires throughout the night. Schumer's archery fail ruined a gag with Jimmy Kimmel and was naturally awkward. Her joke about \"Gone Girl\" was also slightly off and received a lukewarm reaction from the audience. Shailene Woodley's acceptance speech for the Trailblazer award was confusing and seemed to lose its charm halfway through. Lastly, Zac Efron and Dave Franco's comedic bit and Dwayne Johnson's shout-out to 2014's movie highlights were seen as unnecessary and unoriginal.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "highlights"
+      },
+      {
+        "id": 1,
+        "text": "host Amy Schumer's"
+      },
+      {
+        "id": 2,
+        "text": "the night"
+      },
+      {
+        "id": 3,
+        "text": "Shailene Woodley's acceptance speech for the Trailblazer award"
+      },
+      {
+        "id": 4,
+        "text": "2015"
+      },
+      {
+        "id": 5,
+        "text": "MTV Movie Awards"
+      },
+      {
+        "id": 6,
+        "text": "Jennifer Lopez"
+      },
+      {
+        "id": 7,
+        "text": "Rebel Wilson's"
+      },
+      {
+        "id": 8,
+        "text": "Fetty Wap"
+      },
+      {
+        "id": 9,
+        "text": "Charli XCX"
+      },
+      {
+        "id": 10,
+        "text": "Ty Dolla $ign & Tinashe's"
+      },
+      {
+        "id": 11,
+        "text": "Kevin Hart's"
+      },
+      {
+        "id": 12,
+        "text": "the Comedic Genius Award"
+      },
+      {
+        "id": 13,
+        "text": "Jimmy Kimmel"
+      },
+      {
+        "id": 14,
+        "text": "Zac Efron"
+      },
+      {
+        "id": 15,
+        "text": "Dave Franco's"
+      },
+      {
+        "id": 16,
+        "text": "Dwayne Johnson's"
+      },
+      {
+        "id": 17,
+        "text": "2014"
+      }
+    ],
+    "relations": [
+      {
+        "head": 5,
+        "relation": "year",
+        "tail": 4
+      },
+      {
+        "head": 5,
+        "relation": "host",
+        "tail": 1
+      },
+      {
+        "head": 1,
+        "relation": "promptedBy",
+        "tail": 6
+      },
+      {
+        "head": 11,
+        "relation": "award",
+        "tail": 12
+      },
+      {
+        "head": 3,
+        "relation": "award",
+        "tail": 12
+      },
+      {
+        "head": 16,
+        "relation": "refersToYear",
+        "tail": 17
+      }
+    ]
+  },
+  {
+    "document_id": 721,
+    "ragtruth_id": "973",
+    "text": "The 2015 MTV Movie Awards had its fair share of memorable moments and some misfires. Amy Schumer's opening video segment was hilarious and inventive, with jokes about \"Boyhood\" and HPV. Channing Tatum twerked on stage while presenting an award to Jennifer Lopez, but she did not reciprocate. Rebel Wilson had a censored moment when introducing a clip from \"Pitch Perfect 2.\" Fall Out Boy and Fetty Wap collaborated on a performance that pleased the audience. Charli XCX, Ty Dolla $ign, and Tinashe also delivered a high-energy performance. Amy Schumer kissed Amber Rose on the Kiss Cam, and Kevin Hart brought his kids on stage to accept his Comedic Genius Award. Robert Downey Jr. received the Generation Award, with his Avengers castmates kneeling in support. There were also some misfires, including Schumer's archery fail, a joke about \"Gone Girl\" that fell flat, and Shailene Woodley's confusing acceptance speech for the Trailblazer award. Zac Efron and Dave Franco's shtick involved Efron grabbing Franco's genitals, and Dwayne Johnson's jokes about 2014 movies felt unnecessary.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "The 2015 MTV Movie Awards"
+      },
+      {
+        "id": 1,
+        "text": "Jennifer Lopez"
+      },
+      {
+        "id": 2,
+        "text": "Amy Schumer's"
+      },
+      {
+        "id": 3,
+        "text": "Kevin Hart"
+      },
+      {
+        "id": 4,
+        "text": "Robert Downey Jr."
+      },
+      {
+        "id": 5,
+        "text": "Zac Efron"
+      },
+      {
+        "id": 6,
+        "text": "Dave Franco"
+      },
+      {
+        "id": 7,
+        "text": "Boyhood"
+      },
+      {
+        "id": 8,
+        "text": "HPV"
+      },
+      {
+        "id": 9,
+        "text": "Rebel Wilson"
+      },
+      {
+        "id": 10,
+        "text": "Pitch Perfect 2"
+      },
+      {
+        "id": 11,
+        "text": "Fall Out Boy and Fetty Wap"
+      },
+      {
+        "id": 12,
+        "text": "Ty Dolla"
+      },
+      {
+        "id": 13,
+        "text": "Tinashe"
+      },
+      {
+        "id": 14,
+        "text": "Comedic Genius Award"
+      },
+      {
+        "id": 15,
+        "text": "the Generation Award"
+      },
+      {
+        "id": 16,
+        "text": "Avengers"
+      },
+      {
+        "id": 17,
+        "text": "Shailene Woodley's"
+      },
+      {
+        "id": 18,
+        "text": "Dave Franco's"
+      },
+      {
+        "id": 19,
+        "text": "Dwayne Johnson's"
+      }
+    ],
+    "relations": [
+      {
+        "head": 3,
+        "relation": "award",
+        "tail": 14
+      },
+      {
+        "head": 4,
+        "relation": "award",
+        "tail": 15
+      }
+    ]
+  },
+  {
+    "document_id": 722,
+    "ragtruth_id": "974",
+    "text": "The 2015 MTV Movie Awards were filled with memorable moments and funny jokes. Highlights included Amy Schumer's hilarious opener, which featured a \"Boyhood\"/HPV joke and nearly flashing J.K. Simmons. Channing Tatum also impressed with his twerk performance, and Rebel Wilson's censored moment during her introduction of an exclusive clip from \"Pitch Perfect 2\" was a fan favorite. Other standout performances included Charli XCX's electrifying rendition of \"Drop That Kitty\" and Fetty Wap's powerful version of \"Trap Queen.\" However, some misses included Amy Schumer's attempt to impersonate Gone Girl, Vin Diesel's tribute song to Paul Walker, and Shailene Woodley's confusing Trailblazer acceptance speech. Overall, the 2015 MTV Movie Awards were a mix of hits and misses, with many memorable moments and laughs to be had.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Channing Tatum"
+      },
+      {
+        "id": 1,
+        "text": "Rebel Wilson's"
+      },
+      {
+        "id": 2,
+        "text": "Amy Schumer's"
+      },
+      {
+        "id": 3,
+        "text": "The 2015 MTV Movie Awards"
+      },
+      {
+        "id": 4,
+        "text": "J.K. Simmons"
+      },
+      {
+        "id": 5,
+        "text": "Pitch Perfect 2"
+      },
+      {
+        "id": 6,
+        "text": "Charli XCX's"
+      },
+      {
+        "id": 7,
+        "text": "Drop That Kitty"
+      },
+      {
+        "id": 8,
+        "text": "Fetty Wap's"
+      },
+      {
+        "id": 9,
+        "text": "Trap Queen"
+      },
+      {
+        "id": 10,
+        "text": "Gone Girl"
+      },
+      {
+        "id": 11,
+        "text": "Vin Diesel"
+      },
+      {
+        "id": 12,
+        "text": "Paul Walker"
+      },
+      {
+        "id": 13,
+        "text": "Shailene Woodley's"
+      },
+      {
+        "id": 14,
+        "text": "Trailblazer"
+      }
+    ],
+    "relations": [
+      {
+        "head": 3,
+        "relation": "featuredPerformance",
+        "tail": 2
+      },
+      {
+        "head": 3,
+        "relation": "featuredPerformance",
+        "tail": 0
+      },
+      {
+        "head": 3,
+        "relation": "featuredPerformance",
+        "tail": 1
+      },
+      {
+        "head": 3,
+        "relation": "featuredPerformance",
+        "tail": 6
+      },
+      {
+        "head": 3,
+        "relation": "featuredPerformance",
+        "tail": 8
+      },
+      {
+        "head": 2,
+        "relation": "impersonated",
+        "tail": 10
+      },
+      {
+        "head": 11,
+        "relation": "tributeTo",
+        "tail": 12
+      }
+    ]
+  },
+  {
+    "document_id": 723,
+    "ragtruth_id": "975",
+    "text": "Here are the best and worst moments from the 2015 MTV Movie Awards according to Billboard:\n\nBest moments include:\n\n* Amy Schumer's opening video segment, which was reliable and inventive as her Comedy Central show\n* Channing Tatum's impromptu twerking performance for Jennifer Lopez during the \"Scared As Shit Performance\" award\n* Rebel Wilson's censored moment, which was the funniest non-Schumer joke of the night\n* The collaboration between Fall Out Boy and Fetty Wap, which sounded great despite being unexpected\n* Charli XCX, Ty Dolla $ign, and Tinashe's performance, which showed why Charli gets invited to every MTV awards show\n* Kevin Hart's Comedic Genius Award acceptance speech, which was adorable and featured his kids on stage\n\nMisfires include:\n\n* Archery fail during Schumer's opener, which ruined an entire gag\n* \"Gone Girl\" joke, which was a bit off and received an awkward reaction from J.Lo\n* Vin Diesel's singing of a \"Furious 7\" tribute song, which felt out of place\n* Shailene Woodley's Trailblazer award acceptance speech, which lost its charm halfway through\n* Zac Efron and Dave Franco's shtick, which relied too heavily on Efron grabbing Franco's genital area\n* Dwayne Johnson's unnecessary shoutout to 2014 movies, which have been overplayed by now.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Amy Schumer's"
+      },
+      {
+        "id": 1,
+        "text": "Charli XCX"
+      },
+      {
+        "id": 2,
+        "text": "Kevin Hart's"
+      },
+      {
+        "id": 3,
+        "text": "Jennifer Lopez"
+      },
+      {
+        "id": 4,
+        "text": "Shailene Woodley's Trailblazer award acceptance speech, which lost its charm halfway through"
+      },
+      {
+        "id": 5,
+        "text": "Zac Efron"
+      },
+      {
+        "id": 6,
+        "text": "Dave Franco"
+      },
+      {
+        "id": 7,
+        "text": "2015"
+      },
+      {
+        "id": 8,
+        "text": "MTV Movie Awards"
+      },
+      {
+        "id": 9,
+        "text": "Billboard"
+      },
+      {
+        "id": 10,
+        "text": "Comedy Central"
+      },
+      {
+        "id": 11,
+        "text": "Rebel Wilson's"
+      },
+      {
+        "id": 12,
+        "text": "non-Schumer"
+      },
+      {
+        "id": 13,
+        "text": "Fetty Wap"
+      },
+      {
+        "id": 14,
+        "text": "Ty Dolla"
+      },
+      {
+        "id": 15,
+        "text": "Tinashe"
+      },
+      {
+        "id": 16,
+        "text": "MTV"
+      },
+      {
+        "id": 17,
+        "text": "Comedic Genius Award"
+      },
+      {
+        "id": 18,
+        "text": "Dave Franco's"
+      },
+      {
+        "id": 19,
+        "text": "Dwayne Johnson's"
+      },
+      {
+        "id": 20,
+        "text": "2014"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "show",
+        "tail": 10
+      },
+      {
+        "head": 1,
+        "relation": "invitedTo",
+        "tail": 16
+      },
+      {
+        "head": 4,
+        "relation": "award",
+        "tail": 17
+      }
+    ]
+  },
+  {
+    "document_id": 724,
+    "ragtruth_id": "976",
+    "text": "Here is a summary of the article in 172 words:\n\nThe 2015 MTV Movie Awards featured several memorable moments, including Amy Schumer's opening monologue, which included jokes about \"Boyhood,\" HPV, and a cancer support group. Channing Tatum performed a dance routine during the presentation of the Scared As Shit Performance award to Jennifer Lopez. Rebel Wilson made a censored joke during her introduction of an exclusive clip from \"Pitch Perfect 2.\" Fall Out Boy and Fetty Wap collaborated on a mashup of their songs \"Centuries\" and \"Trap Queen.\" Charli XCX, Ty Dolla $ign, and Tinashe performed their song \"Drop That Kitty.\" Amy Schumer sensually kissed Amber Rose during a commercial break. Kevin Hart received the Comedic Genius Award, and his castmates from \"Central Intelligence\" took a knee as he accepted the award. Robert Downey Jr. received the Generation Award, and his Avengers castmates participated in a kneeling tribute. However, the night also included some misfires, such as Amy Schumer's archery failure and a \"Gone Girl\" joke that fell flat.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Rebel Wilson"
+      },
+      {
+        "id": 1,
+        "text": "Fall Out Boy and Fetty Wap"
+      },
+      {
+        "id": 2,
+        "text": "Amy Schumer's"
+      },
+      {
+        "id": 3,
+        "text": "Kevin Hart"
+      },
+      {
+        "id": 4,
+        "text": "the Comedic Genius Award"
+      },
+      {
+        "id": 5,
+        "text": "Robert Downey Jr."
+      },
+      {
+        "id": 6,
+        "text": "The 2015 MTV Movie Awards"
+      },
+      {
+        "id": 7,
+        "text": "172"
+      },
+      {
+        "id": 8,
+        "text": "Boyhood"
+      },
+      {
+        "id": 9,
+        "text": "HPV"
+      },
+      {
+        "id": 10,
+        "text": "the Scared As Shit Performance"
+      },
+      {
+        "id": 11,
+        "text": "Jennifer Lopez"
+      },
+      {
+        "id": 12,
+        "text": "Pitch Perfect 2"
+      },
+      {
+        "id": 13,
+        "text": "Centuries"
+      },
+      {
+        "id": 14,
+        "text": "Trap Queen"
+      },
+      {
+        "id": 15,
+        "text": "Ty Dolla"
+      },
+      {
+        "id": 16,
+        "text": "Drop That Kitty"
+      },
+      {
+        "id": 17,
+        "text": "Central Intelligence"
+      },
+      {
+        "id": 18,
+        "text": "the Generation Award"
+      },
+      {
+        "id": 19,
+        "text": "Avengers"
+      }
+    ],
+    "relations": [
+      {
+        "head": 6,
+        "relation": "featured",
+        "tail": 2
+      },
+      {
+        "head": 6,
+        "relation": "featured",
+        "tail": 10
+      },
+      {
+        "head": 10,
+        "relation": "presentedTo",
+        "tail": 11
+      },
+      {
+        "head": 6,
+        "relation": "featured",
+        "tail": 0
+      },
+      {
+        "head": 1,
+        "relation": "collaboratedOnMashupOf",
+        "tail": 13
+      },
+      {
+        "head": 1,
+        "relation": "collaboratedOnMashupOf",
+        "tail": 14
+      },
+      {
+        "head": 1,
+        "relation": "performedSong",
+        "tail": 16
+      },
+      {
+        "head": 3,
+        "relation": "received",
+        "tail": 4
+      },
+      {
+        "head": 5,
+        "relation": "received",
+        "tail": 18
+      }
+    ]
+  },
+  {
+    "document_id": 725,
+    "ragtruth_id": "977",
+    "text": "The 2015 MTV Movie Awards ceremony was filled with both memorable moments and cringe-worthy fails. Host Amy Schumer started the show on a high note with an opening video segment that included a joke about \"Boyhood\" and HPV, as well as a run-in with a cancer support group. Her monologue also killed, including a joke about being mistaken for Meghan Trainor. Channing Tatum stole the show when he twerked for Jennifer Lopez while presenting her with the Scared As Shit Performance award. Other highlights included Rebel Wilson's censored moment introducing an exclusive clip from \"Pitch Perfect 2\" as an \"exclusive clit,\" and Fall Out Boy meeting Fetty Wap for a mashup performance of \"Centuries\" and \"Trap Queen.\" Charli XCX, Ty Dolla $ign, and Tinashe also impressed with their performance of \"Drop That Kitty.\" The show's biggest misses included Schumer's archery fail during a gag with Jimmy Kimmel, a poorly received joke about \"Gone Girl,\" and Shailene Woodley's confusing acceptance speech for the Trailblazer award. Additionally, Zac Efron and Dave Franco's shtick fell flat, and Dwayne Johnson's shouting into the camera about 2014's movie highlights felt unnecessary.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "The 2015 MTV Movie Awards ceremony"
+      },
+      {
+        "id": 1,
+        "text": "Host Amy Schumer"
+      },
+      {
+        "id": 2,
+        "text": "Channing Tatum"
+      },
+      {
+        "id": 3,
+        "text": "Jennifer Lopez"
+      },
+      {
+        "id": 4,
+        "text": "Charli XCX, Ty Dolla $ign, and Tinashe"
+      },
+      {
+        "id": 5,
+        "text": "Boyhood"
+      },
+      {
+        "id": 6,
+        "text": "HPV"
+      },
+      {
+        "id": 7,
+        "text": "Meghan Trainor"
+      },
+      {
+        "id": 8,
+        "text": "the Scared As Shit Performance"
+      },
+      {
+        "id": 9,
+        "text": "Rebel Wilson's"
+      },
+      {
+        "id": 10,
+        "text": "Pitch Perfect 2"
+      },
+      {
+        "id": 11,
+        "text": "Fetty Wap"
+      },
+      {
+        "id": 12,
+        "text": "Centuries"
+      },
+      {
+        "id": 13,
+        "text": "Trap Queen"
+      },
+      {
+        "id": 14,
+        "text": "Drop That Kitty"
+      },
+      {
+        "id": 15,
+        "text": "Jimmy Kimmel"
+      },
+      {
+        "id": 16,
+        "text": "Gone Girl"
+      },
+      {
+        "id": 17,
+        "text": "Shailene Woodley's"
+      },
+      {
+        "id": 18,
+        "text": "Zac Efron"
+      },
+      {
+        "id": 19,
+        "text": "Dave Franco's"
+      },
+      {
+        "id": 20,
+        "text": "Dwayne Johnson's"
+      },
+      {
+        "id": 21,
+        "text": "2014"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "host",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "includesPerformanceOf",
+        "tail": 14
+      },
+      {
+        "head": 0,
+        "relation": "includesClipFrom",
+        "tail": 10
+      },
+      {
+        "head": 0,
+        "relation": "includesPerformanceOf",
+        "tail": 12
+      },
+      {
+        "head": 0,
+        "relation": "includesPerformanceOf",
+        "tail": 13
+      },
+      {
+        "head": 0,
+        "relation": "includesJokeAbout",
+        "tail": 5
+      },
+      {
+        "head": 0,
+        "relation": "includesJokeAbout",
+        "tail": 6
+      },
+      {
+        "head": 0,
+        "relation": "includesJokeAbout",
+        "tail": 16
+      },
+      {
+        "head": 0,
+        "relation": "includesGagWith",
+        "tail": 15
+      },
+      {
+        "head": 0,
+        "relation": "includesAwardPresentationTo",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "includesAward",
+        "tail": 8
+      },
+      {
+        "head": 0,
+        "relation": "includesPerformanceBy",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "includesPerformanceBy",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "includesMentionOf",
+        "tail": 21
+      }
+    ]
+  },
+  {
+    "document_id": 726,
+    "ragtruth_id": "978",
+    "text": "Former New England Patriots star, Aaron Hernandez, has been convicted of murdering Odin Lloyd, and will face three more trials: one criminal and two civil charges. Hernandez is accused of murdering two men and injuring another outside a Boston nightclub in 2012. The trial has been postponed and a new date has not been set. The families of the two men have filed civil suits against Hernandez and a judge has frozen his $5m assets until the outcome. A third lawsuit has been filed by a man who claims Hernandez shot him in 2013. Hernandez is also being sued by the NFL Players' Union over unpaid bonus money.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Former New England Patriots star, Aaron Hernandez"
+      },
+      {
+        "id": 1,
+        "text": "two men"
+      },
+      {
+        "id": 2,
+        "text": "a man who claims Hernandez shot him in 2013"
+      },
+      {
+        "id": 3,
+        "text": "Odin Lloyd"
+      },
+      {
+        "id": 4,
+        "text": "three"
+      },
+      {
+        "id": 5,
+        "text": "one"
+      },
+      {
+        "id": 6,
+        "text": "two"
+      },
+      {
+        "id": 7,
+        "text": "Boston"
+      },
+      {
+        "id": 8,
+        "text": "2012"
+      },
+      {
+        "id": 9,
+        "text": "5"
+      },
+      {
+        "id": 10,
+        "text": "third"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "convictedOfMurdering",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "accusedOfMurdering",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "injuredIn",
+        "tail": 7
+      },
+      {
+        "head": 0,
+        "relation": "injuredInYear",
+        "tail": 8
+      },
+      {
+        "head": 1,
+        "relation": "filedCivilSuitAgainst",
+        "tail": 0
+      },
+      {
+        "head": 2,
+        "relation": "filedLawsuitAgainst",
+        "tail": 0
+      }
+    ]
+  },
+  {
+    "document_id": 727,
+    "ragtruth_id": "979",
+    "text": "Former New England Patriots star Aaron Hernandez, who was convicted of murder and other charges in the death of Odin Lloyd, will face three more trials. The next trial involves the murder of two men and the injury of another person near a Boston nightclub in 2012. Hernandez has pleaded not guilty to these charges. The trial, originally scheduled for May 28, has been postponed with no new date set yet. In addition to the criminal trial, Hernandez is also facing two civil suits filed by the families of the victims. His $5 million in assets, including a disputed $3.3 million signing bonus, have been frozen pending the outcome of the double-murder trial. Hernandez is also being sued by a man claiming he was shot by Hernandez in a separate incident in 2013. The NFL players union has also filed a grievance on behalf of Hernandez regarding unpaid bonus money.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Former New England Patriots star Aaron Hernandez, who was convicted of murder and other charges in the death of Odin Lloyd"
+      },
+      {
+        "id": 1,
+        "text": "murder and other charges in the death of Odin Lloyd"
+      },
+      {
+        "id": 2,
+        "text": "The next trial"
+      },
+      {
+        "id": 3,
+        "text": "two men"
+      },
+      {
+        "id": 4,
+        "text": "a man claiming he was shot by Hernandez in a separate incident in 2013"
+      },
+      {
+        "id": 5,
+        "text": "three"
+      },
+      {
+        "id": 6,
+        "text": "Boston"
+      },
+      {
+        "id": 7,
+        "text": "2012"
+      },
+      {
+        "id": 8,
+        "text": "two"
+      },
+      {
+        "id": 9,
+        "text": "$5 million"
+      },
+      {
+        "id": 10,
+        "text": "$3.3 million"
+      },
+      {
+        "id": 11,
+        "text": "NFL"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "convictedOf",
+        "tail": 1
+      },
+      {
+        "head": 2,
+        "relation": "involves",
+        "tail": 3
+      },
+      {
+        "head": 2,
+        "relation": "location",
+        "tail": 6
+      },
+      {
+        "head": 2,
+        "relation": "date",
+        "tail": 7
+      },
+      {
+        "head": 0,
+        "relation": "facing",
+        "tail": 8
+      },
+      {
+        "head": 0,
+        "relation": "assets",
+        "tail": 9
+      },
+      {
+        "head": 9,
+        "relation": "includes",
+        "tail": 10
+      },
+      {
+        "head": 0,
+        "relation": "suedBy",
+        "tail": 4
+      },
+      {
+        "head": 11,
+        "relation": "filedGrievanceOnBehalfOf",
+        "tail": 0
+      }
+    ]
+  },
+  {
+    "document_id": 728,
+    "ragtruth_id": "980",
+    "text": "Former New England Patriots player Aaron Hernandez has been convicted of murder and other charges in the death of Odin Lloyd. He also faces additional criminal and civil charges. Hernandez allegedly fatally shot two men and wounded another person near a Boston nightclub in 2012. He pleaded not guilty and a new trial date has yet to be set. Additionally, the families of the victims have filed civil lawsuits against Hernandez, and he is also being sued by a man who claims he was shot while in a limousine in Miami in 2013. Hernandez's lawyers are arguing that he cannot defend himself properly while on trial in Massachusetts due to language barriers. The NFL players union has also filed a grievance over unpaid bonus money on behalf of Hernandez, who signed a contract in 2012 that could have been worth more than $40 million.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Former New England Patriots player Aaron Hernandez"
+      },
+      {
+        "id": 1,
+        "text": "two men"
+      },
+      {
+        "id": 2,
+        "text": "a man who claims he was shot while in a limousine in Miami in 2013"
+      },
+      {
+        "id": 3,
+        "text": "2012"
+      },
+      {
+        "id": 4,
+        "text": "Odin Lloyd"
+      },
+      {
+        "id": 5,
+        "text": "Boston"
+      },
+      {
+        "id": 6,
+        "text": "Massachusetts"
+      },
+      {
+        "id": 7,
+        "text": "NFL"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "convictedOfMurderInDeathOf",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "shot",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "shotIn",
+        "tail": 5
+      },
+      {
+        "head": 0,
+        "relation": "shotInYear",
+        "tail": 3
+      },
+      {
+        "head": 1,
+        "relation": "filedCivilLawsuitAgainst",
+        "tail": 0
+      },
+      {
+        "head": 2,
+        "relation": "sued",
+        "tail": 0
+      },
+      {
+        "head": 0,
+        "relation": "trialIn",
+        "tail": 6
+      },
+      {
+        "head": 7,
+        "relation": "filedGrievanceOnBehalfOf",
+        "tail": 0
+      },
+      {
+        "head": 0,
+        "relation": "signedContractInYear",
+        "tail": 3
+      }
+    ]
+  },
+  {
+    "document_id": 729,
+    "ragtruth_id": "981",
+    "text": "Former New England Patriots player Aaron Hernandez will face multiple legal battles even after being convicted of murder. He may face up to three more trials, including one for the deaths of two men and another for shooting a third person outside a Boston nightclub. Additionally, the families of the victims have filed civil suits against him, and a judge has frozen his $5 million in assets. Hernandez is also being sued by a man who claims he was shot by the former football player in a limousine in Miami. The NFL Players' Association may represent Hernandez in an arbitration hearing over unpaid bonus money from his 2012 contract.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Former New England Patriots player Aaron Hernandez"
+      },
+      {
+        "id": 1,
+        "text": "two men"
+      },
+      {
+        "id": 2,
+        "text": "a man who claims he was shot by the former football player in a limousine in Miami"
+      },
+      {
+        "id": 3,
+        "text": "up to three"
+      },
+      {
+        "id": 4,
+        "text": "one"
+      },
+      {
+        "id": 5,
+        "text": "third"
+      },
+      {
+        "id": 6,
+        "text": "Boston"
+      },
+      {
+        "id": 7,
+        "text": "$5 million"
+      },
+      {
+        "id": 8,
+        "text": "2012"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "legalTarget",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "legalTarget",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "assetFrozen",
+        "tail": 7
+      },
+      {
+        "head": 0,
+        "relation": "contractDate",
+        "tail": 8
+      }
+    ]
+  }
+]

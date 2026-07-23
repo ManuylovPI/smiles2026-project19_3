@@ -1,0 +1,493 @@
+[
+  {
+    "document_id": 550,
+    "ragtruth_id": "748",
+    "text": "Sure! Here is the summary you requested within 33 words:\n\n Arrested Development creator Brian Grazer announced a 5th season with 17 episodes; no word on cast returns.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "33"
+      },
+      {
+        "id": 1,
+        "text": "Brian Grazer"
+      },
+      {
+        "id": 2,
+        "text": "a 5th season"
+      },
+      {
+        "id": 3,
+        "text": "17"
+      }
+    ],
+    "relations": [
+      {
+        "head": 2,
+        "relation": "numberOfEpisodes",
+        "tail": 3
+      }
+    ]
+  },
+  {
+    "document_id": 551,
+    "ragtruth_id": "749",
+    "text": "\"Arrested Development\" will return for a fifth season of 17 episodes, according to executive producer Brian Grazer, with no comment from Netflix.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "a fifth season"
+      },
+      {
+        "id": 1,
+        "text": "17"
+      },
+      {
+        "id": 2,
+        "text": "Brian Grazer"
+      },
+      {
+        "id": 3,
+        "text": "Netflix"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "numberOfEpisodes",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "executiveProducer",
+        "tail": 2
+      }
+    ]
+  },
+  {
+    "document_id": 552,
+    "ragtruth_id": "750",
+    "text": "Carlos Colina, 32, was charged with assault and battery causing serious bodily injury and improper disposal of a body, after human remains were found in a duffel bag in Cambridge, Massachusetts. The remains were identified as Jonathan Camilien, 26, who knew Colina. Further charges may be added as the investigation continues.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "human remains"
+      },
+      {
+        "id": 1,
+        "text": "Carlos Colina, 32,"
+      },
+      {
+        "id": 2,
+        "text": "Cambridge"
+      },
+      {
+        "id": 3,
+        "text": "Massachusetts"
+      },
+      {
+        "id": 4,
+        "text": "Jonathan Camilien"
+      },
+      {
+        "id": 5,
+        "text": "26"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "identifiedAs",
+        "tail": 4
+      },
+      {
+        "head": 1,
+        "relation": "age",
+        "tail": 5
+      },
+      {
+        "head": 2,
+        "relation": "locatedIn",
+        "tail": 3
+      }
+    ]
+  },
+  {
+    "document_id": 553,
+    "ragtruth_id": "751",
+    "text": "A man has been charged in connection with the discovery of human remains in a duffel bag in Cambridge, Massachusetts. Carlos Colina, 32, faces charges of assault, battery, and improper disposal of a body. The remains belonged to Jonathan Camilien, 26, and police believe Colina knew the victim. Investigations are ongoing.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "A man"
+      },
+      {
+        "id": 1,
+        "text": "human remains"
+      },
+      {
+        "id": 2,
+        "text": "Jonathan Camilien, 26"
+      },
+      {
+        "id": 3,
+        "text": "Cambridge"
+      },
+      {
+        "id": 4,
+        "text": "Massachusetts"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "belongedTo",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "locatedIn",
+        "tail": 3
+      },
+      {
+        "head": 3,
+        "relation": "locatedIn",
+        "tail": 4
+      }
+    ]
+  },
+  {
+    "document_id": 554,
+    "ragtruth_id": "752",
+    "text": "A man has been charged with assault and battery causing serious bodily injury and improper disposal of a body after human remains were found in a duffel bag in Cambridge, Massachusetts. The discovery was made over the weekend and led to the arrest of Carlos Colina, 32, who is accused of killing his friend, Jonathan Camilien, 26. The remains were found in two different locations and Colina is expected to appear in court on April 14.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "found"
+      },
+      {
+        "id": 1,
+        "text": "A man"
+      },
+      {
+        "id": 2,
+        "text": "human remains"
+      },
+      {
+        "id": 3,
+        "text": "Cambridge"
+      },
+      {
+        "id": 4,
+        "text": "Massachusetts"
+      },
+      {
+        "id": 5,
+        "text": "the weekend"
+      },
+      {
+        "id": 6,
+        "text": "two"
+      },
+      {
+        "id": 7,
+        "text": "April 14"
+      }
+    ],
+    "relations": [
+      {
+        "head": 2,
+        "relation": "foundIn",
+        "tail": 3
+      },
+      {
+        "head": 2,
+        "relation": "foundIn",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "time",
+        "tail": 5
+      },
+      {
+        "head": 1,
+        "relation": "courtDate",
+        "tail": 7
+      }
+    ]
+  },
+  {
+    "document_id": 555,
+    "ragtruth_id": "753",
+    "text": "Authorities have charged Carlos Colina, 32, with assault and battery causing serious bodily injury and improper disposal of a body after human remains were found in a duffel bag in Cambridge, MA. The remains belong to Jonathan Camilien, 26, whose death is believed to be connected to Colina.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "human remains"
+      },
+      {
+        "id": 1,
+        "text": "Carlos Colina, 32,"
+      },
+      {
+        "id": 2,
+        "text": "Cambridge"
+      },
+      {
+        "id": 3,
+        "text": "MA"
+      },
+      {
+        "id": 4,
+        "text": "Jonathan Camilien"
+      },
+      {
+        "id": 5,
+        "text": "26"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "foundIn",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "foundIn",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "belongTo",
+        "tail": 4
+      }
+    ]
+  },
+  {
+    "document_id": 556,
+    "ragtruth_id": "754",
+    "text": "Sure! Here's the summary within 49 words:\n\nA man, Carlos Colina, was charged with assault and improperly disposing of a body after human remains were found in a duffel bag in Cambridge, MA. The remains were identified as those of Jonathan Camilien, 26, who was known to the suspect. Police found more body parts in an apartment building near the police station.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "human remains"
+      },
+      {
+        "id": 1,
+        "text": "A man, Carlos Colina"
+      },
+      {
+        "id": 2,
+        "text": "49"
+      },
+      {
+        "id": 3,
+        "text": "Cambridge"
+      },
+      {
+        "id": 4,
+        "text": "MA"
+      },
+      {
+        "id": 5,
+        "text": "Jonathan Camilien"
+      },
+      {
+        "id": 6,
+        "text": "26"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "identifiedAs",
+        "tail": 5
+      },
+      {
+        "head": 1,
+        "relation": "knownTo",
+        "tail": 5
+      },
+      {
+        "head": 1,
+        "relation": "foundIn",
+        "tail": 3
+      },
+      {
+        "head": 1,
+        "relation": "foundIn",
+        "tail": 4
+      }
+    ]
+  },
+  {
+    "document_id": 557,
+    "ragtruth_id": "755",
+    "text": "Carlos Colina, 32, was charged with assault and battery causing serious bodily harm and improper disposal of a body after human remains were found in a duffel bag in Cambridge, Massachusetts. The remains belonged to 26-year-old Jonathan Camilien, who knew Colina, according to authorities.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "human remains"
+      },
+      {
+        "id": 1,
+        "text": "Carlos Colina, 32,"
+      },
+      {
+        "id": 2,
+        "text": "Cambridge"
+      },
+      {
+        "id": 3,
+        "text": "Massachusetts"
+      },
+      {
+        "id": 4,
+        "text": "26-year-old"
+      },
+      {
+        "id": 5,
+        "text": "Jonathan Camilien"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "foundIn",
+        "tail": 2
+      },
+      {
+        "head": 2,
+        "relation": "locatedIn",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "belongedTo",
+        "tail": 5
+      },
+      {
+        "head": 5,
+        "relation": "age",
+        "tail": 4
+      }
+    ]
+  },
+  {
+    "document_id": 558,
+    "ragtruth_id": "756",
+    "text": "After 11.5 hours of deliberation, a jury found Dzhokhar Tsarnaev guilty of all 30 counts he faced in the Boston Marathon bombing trial, 17 of which were capital charges, making him eligible for the death penalty. The trial will now move into a penalty phase where the jury will decide whether Tsarnaev will be executed. The jury will weigh factors such as the seriousness of his crimes against mitigating factors such as his family and mental health history. The start date of the penalty phase has not yet been set.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Dzhokhar Tsarnaev"
+      },
+      {
+        "id": 1,
+        "text": "the Boston Marathon bombing trial"
+      },
+      {
+        "id": 2,
+        "text": "a jury"
+      },
+      {
+        "id": 3,
+        "text": "a penalty phase where the jury will decide whether Tsarnaev will be executed"
+      },
+      {
+        "id": 4,
+        "text": "11.5 hours"
+      },
+      {
+        "id": 5,
+        "text": "30"
+      },
+      {
+        "id": 6,
+        "text": "17"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "defendantIn",
+        "tail": 1
+      },
+      {
+        "head": 1,
+        "relation": "hasPhase",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "eligibleFor",
+        "tail": 3
+      },
+      {
+        "head": 2,
+        "relation": "deliberationDuration",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "count",
+        "tail": 5
+      },
+      {
+        "head": 0,
+        "relation": "capitalCharges",
+        "tail": 6
+      }
+    ]
+  },
+  {
+    "document_id": 559,
+    "ragtruth_id": "757",
+    "text": "After deliberating for 11½ hours, jurors found Dzhokhar Tsarnaev guilty on all 30 counts he faced in the Boston Marathon bombing trial. Seventeen of the counts were capital charges, making him eligible for the death penalty. The trial will now move into a penalty phase, where the jury will decide whether Tsarnaev will be executed. The defense strategy focused on persuading the jury to spare Tsarnaev's life, arguing that his older brother was the instigator of the plot. Legal analysts believe the defense faces an uphill battle due to the severity and planning of the attack.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Dzhokhar Tsarnaev"
+      },
+      {
+        "id": 1,
+        "text": "all 30 counts he faced in the Boston Marathon bombing trial"
+      },
+      {
+        "id": 2,
+        "text": "the Boston Marathon bombing trial"
+      },
+      {
+        "id": 3,
+        "text": "jurors"
+      },
+      {
+        "id": 4,
+        "text": "11½ hours"
+      },
+      {
+        "id": 5,
+        "text": "Seventeen"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "guiltyVerdictIn",
+        "tail": 2
+      },
+      {
+        "head": 1,
+        "relation": "count",
+        "tail": 5
+      },
+      {
+        "head": 2,
+        "relation": "deliberationDuration",
+        "tail": 4
+      }
+    ]
+  }
+]

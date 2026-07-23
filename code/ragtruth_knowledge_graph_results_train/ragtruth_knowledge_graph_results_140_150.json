@@ -1,0 +1,841 @@
+[
+  {
+    "document_id": 140,
+    "ragtruth_id": "188",
+    "text": "Aaron Hernandez, the former NFL star, is on trial for the shooting death of Odin Lloyd. Prosecutors presented witnesses in a trial that took months to conclude, while Hernandez's defense wrapped up its case in less than a day. Much of the evidence in the case is circumstantial, and jurors must decide whether Hernandez's boss, Robert Kraft, lied to him about being investigated for Lloyd's death. Other key witnesses include a Nike consultant who testified about Hernandez's shoes, a forensic expert who analyzed the footprint left near Lloyd's body, and Hernandez's fiancée, Shayanna Jenkins. The murder weapon in the case has not been recovered, and much of the testimony has focused on the shoes Hernandez wore the night Lloyd was shot. Hernandez has pleaded not guilty in Lloyd's death and the two separate murder cases against him in Boston.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "trial for the shooting death of Odin Lloyd"
+      },
+      {
+        "id": 1,
+        "text": "Aaron Hernandez, the former NFL star,"
+      },
+      {
+        "id": 2,
+        "text": "Hernandez's defense"
+      },
+      {
+        "id": 3,
+        "text": "its case"
+      },
+      {
+        "id": 4,
+        "text": "Odin Lloyd"
+      },
+      {
+        "id": 5,
+        "text": "the shooting death of Odin Lloyd"
+      },
+      {
+        "id": 6,
+        "text": "Hernandez's shoes"
+      },
+      {
+        "id": 7,
+        "text": "less than a day"
+      },
+      {
+        "id": 8,
+        "text": "Robert Kraft"
+      },
+      {
+        "id": 9,
+        "text": "Nike"
+      },
+      {
+        "id": 10,
+        "text": "Shayanna Jenkins"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "trialFor",
+        "tail": 5
+      },
+      {
+        "head": 5,
+        "relation": "victim",
+        "tail": 4
+      },
+      {
+        "head": 2,
+        "relation": "defenseOf",
+        "tail": 1
+      },
+      {
+        "head": 3,
+        "relation": "caseOf",
+        "tail": 2
+      },
+      {
+        "head": 1,
+        "relation": "boss",
+        "tail": 8
+      },
+      {
+        "head": 1,
+        "relation": "fiancee",
+        "tail": 10
+      },
+      {
+        "head": 6,
+        "relation": "ownedBy",
+        "tail": 1
+      },
+      {
+        "head": 2,
+        "relation": "duration",
+        "tail": 7
+      }
+    ]
+  },
+  {
+    "document_id": 141,
+    "ragtruth_id": "189",
+    "text": "Former NFL star Aaron Hernandez went on trial for the shooting death of semi-pro player Odin Lloyd in Massachusetts. The trial began with the prosecution presenting 131 witnesses to support their claim that Hernandez killed Lloyd. However, Hernandez's defense wrapped up its witnesses in less than a day, indicating that the defense's case may be stronger than initially thought. Key points that jurors will consider include whether or not Hernandez lied to his boss, New England Patriots owner Robert Kraft, about being involved in the murder, and the significance of the shoes Hernandez wore the night of the murder. The prosecution has presented evidence of a distinct impression on the sole of the shoes that matches the size 13 Nike Air Jordan Retro 11 Lows, while the defense has questioned the science behind analyzing footprints. The prosecution has also presented grainy footage from Hernandez's home security system that suggests he was holding a .45-caliber handgun moments after Lloyd was shot to death. The defense has suggested that the object Hernandez is holding in the video may be an iPad rather than a gun. If convicted, Hernandez faces life in prison without parole.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "trial for the shooting death of semi-pro player Odin Lloyd in Massachusetts"
+      },
+      {
+        "id": 1,
+        "text": "the prosecution"
+      },
+      {
+        "id": 2,
+        "text": "Former NFL star Aaron Hernandez"
+      },
+      {
+        "id": 3,
+        "text": "the shooting death of semi-pro player Odin Lloyd in Massachusetts"
+      },
+      {
+        "id": 4,
+        "text": "semi-pro player Odin Lloyd"
+      },
+      {
+        "id": 5,
+        "text": "the shoes Hernandez wore the night of the murder"
+      },
+      {
+        "id": 6,
+        "text": "grainy footage from Hernandez's home security system that suggests he was holding a .45-caliber handgun moments after Lloyd was shot to death"
+      },
+      {
+        "id": 7,
+        "text": "131"
+      },
+      {
+        "id": 8,
+        "text": "less than a day"
+      },
+      {
+        "id": 9,
+        "text": "New England Patriots"
+      },
+      {
+        "id": 10,
+        "text": "Robert Kraft"
+      },
+      {
+        "id": 11,
+        "text": "13"
+      },
+      {
+        "id": 12,
+        "text": "Nike Air Jordan Retro"
+      },
+      {
+        "id": 13,
+        "text": "iPad"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "trialLocation",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "defendant",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "prosecutor",
+        "tail": 1
+      },
+      {
+        "head": 1,
+        "relation": "witnessCount",
+        "tail": 7
+      },
+      {
+        "head": 2,
+        "relation": "killed",
+        "tail": 4
+      },
+      {
+        "head": 2,
+        "relation": "boss",
+        "tail": 10
+      },
+      {
+        "head": 5,
+        "relation": "wornBy",
+        "tail": 2
+      },
+      {
+        "head": 5,
+        "relation": "size",
+        "tail": 11
+      },
+      {
+        "head": 5,
+        "relation": "matches",
+        "tail": 12
+      },
+      {
+        "head": 6,
+        "relation": "fromSystem",
+        "tail": 2
+      },
+      {
+        "head": 6,
+        "relation": "suggestsHolding",
+        "tail": 13
+      }
+    ]
+  },
+  {
+    "document_id": 142,
+    "ragtruth_id": "190",
+    "text": "Former NFL star Aaron Hernandez is on trial for the murder of semi-pro player Odin Lloyd. Prosecutors presented 131 witnesses to support their claim that Hernandez killed Lloyd, while the defense wrapped up its witnesses in less than a day. Key pieces of evidence include a Nike shoe sole that matches the one worn by Hernandez, grainy footage from his home security system that appears to show him holding a gun, and a text message in which Hernandez writes that he is \"buggin\" for showing Lloyd \"the spot\" where he later killed him. The defense has questioned the reliability of the footwear evidence and suggested an alternative explanation for the footage. The trial has highlighted the possibility that Lloyd may have done something to anger Hernandez, leading to a plot to kill him. If convicted, Hernandez faces life in prison without parole.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Prosecutors"
+      },
+      {
+        "id": 1,
+        "text": "Former NFL star Aaron Hernandez"
+      },
+      {
+        "id": 2,
+        "text": "the murder of semi-pro player Odin Lloyd"
+      },
+      {
+        "id": 3,
+        "text": "semi-pro player Odin Lloyd"
+      },
+      {
+        "id": 4,
+        "text": "the defense"
+      },
+      {
+        "id": 5,
+        "text": "131 witnesses"
+      },
+      {
+        "id": 6,
+        "text": "grainy footage from his home security system that appears to show him holding a gun"
+      },
+      {
+        "id": 7,
+        "text": "trial"
+      },
+      {
+        "id": 8,
+        "text": "less than a day"
+      },
+      {
+        "id": 9,
+        "text": "Nike"
+      }
+    ],
+    "relations": [
+      {
+        "head": 2,
+        "relation": "victim",
+        "tail": 3
+      },
+      {
+        "head": 7,
+        "relation": "subjectOf",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "presented",
+        "tail": 5
+      },
+      {
+        "head": 1,
+        "relation": "accusedOfKilling",
+        "tail": 3
+      },
+      {
+        "head": 1,
+        "relation": "evidenceIncludes",
+        "tail": 6
+      },
+      {
+        "head": 1,
+        "relation": "evidenceIncludes",
+        "tail": 9
+      },
+      {
+        "head": 4,
+        "relation": "questioned",
+        "tail": 6
+      },
+      {
+        "head": 7,
+        "relation": "involves",
+        "tail": 1
+      }
+    ]
+  },
+  {
+    "document_id": 143,
+    "ragtruth_id": "191",
+    "text": "The trial of former NFL player Aaron Hernandez, who is accused of killing semi-pro football player Odin Lloyd, is nearing its end. The defense presented its case in less than a day, while the prosecution took months to present 131 witnesses. Key points that jurors will consider include a statement made by Hernandez to his boss, Patriots owner Robert Kraft, in which he denied involvement in the murder and claimed he was in a club at the time of the killing. However, the time of the murder had not been made public yet, raising questions about how Hernandez knew when it occurred. Additionally, Hernandez's fiancée, Shayanna Jenkins, revealed that she disposed of a box containing a marijuana smell, which may contradict the prosecution's theory that the murder weapon was in the box. Testimony also focused on the shoes Hernandez wore the night of the murder, which were identified as Nike Air Jordan Retro 11 Lows, and a footprint found near Lloyd's body that matched the sole of those shoes. The defense questioned the science behind analyzing footprints, and also suggested that a different object, such as an iPad, may have been in Hernandez's hand in a video taken from his home security system. Hernandez has pleaded not guilty to the murder charge, and his arrest has led to the loss of millions of dollars in expected earnings. The motive for the murder is still unclear, but prosecutors suggest that Lloyd may have done or said something that didn't sit well with Hernandez. The case is complex, and evidence collected in Lloyd's death investigation led to two additional murder charges against Hernandez in a separate case in Boston.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "The trial of former NFL player Aaron Hernandez, who is accused of killing semi-pro football player Odin Lloyd"
+      },
+      {
+        "id": 1,
+        "text": "The defense"
+      },
+      {
+        "id": 2,
+        "text": "former NFL player Aaron Hernandez, who is accused of killing semi-pro football player Odin Lloyd"
+      },
+      {
+        "id": 3,
+        "text": "killing"
+      },
+      {
+        "id": 4,
+        "text": "the time of the killing"
+      },
+      {
+        "id": 5,
+        "text": "Hernandez's fiancée, Shayanna Jenkins"
+      },
+      {
+        "id": 6,
+        "text": "the prosecution"
+      },
+      {
+        "id": 7,
+        "text": "a box containing a marijuana smell"
+      },
+      {
+        "id": 8,
+        "text": "semi-pro football player Odin Lloyd"
+      },
+      {
+        "id": 9,
+        "text": "the shoes Hernandez wore the night of the murder, which were identified as Nike Air Jordan Retro 11 Lows"
+      },
+      {
+        "id": 10,
+        "text": "less than a day"
+      },
+      {
+        "id": 11,
+        "text": "months"
+      },
+      {
+        "id": 12,
+        "text": "131"
+      },
+      {
+        "id": 13,
+        "text": "Patriots"
+      },
+      {
+        "id": 14,
+        "text": "Robert Kraft"
+      },
+      {
+        "id": 15,
+        "text": "iPad"
+      },
+      {
+        "id": 16,
+        "text": "millions of dollars"
+      },
+      {
+        "id": 17,
+        "text": "two"
+      },
+      {
+        "id": 18,
+        "text": "Boston"
+      }
+    ],
+    "relations": [
+      {
+        "head": 2,
+        "relation": "accusedOf",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "aboutPerson",
+        "tail": 2
+      },
+      {
+        "head": 5,
+        "relation": "spouse",
+        "tail": 2
+      },
+      {
+        "head": 2,
+        "relation": "boss",
+        "tail": 14
+      },
+      {
+        "head": 2,
+        "relation": "arrestLedToLossOf",
+        "tail": 16
+      },
+      {
+        "head": 2,
+        "relation": "chargedIn",
+        "tail": 17
+      },
+      {
+        "head": 2,
+        "relation": "chargedIn",
+        "tail": 18
+      }
+    ]
+  },
+  {
+    "document_id": 144,
+    "ragtruth_id": "192",
+    "text": "A family of four from Delaware fell seriously ill whilst on vacation in the U.S. Virgin Islands, possibly due to pesticide exposure. Two weeks ago, Steve Esmond, his two sons and their mother became sick while renting a villa at the Sirenusa resort in St. John. The mother, Theresa Devine, was treated in hospital and released and is now in occupational therapy, while Esmond is in stable condition and improving. The two boys remain in a critical condition. According to the U.S. Environmental Protection Agency (EPA) the illnesses may have been caused by a pesticide used in the villa. The EPA's preliminary tests showed the presence of methyl bromide in the villa. This pesticide is restricted in the U.S. due to its acute toxicity and is not permitted to be used indoors. The use of methyl bromide can result in serious health issues, including damage to the central nervous and respiratory systems. The U.S. Department of Justice has begun a criminal investigation into the incident.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Steve Esmond"
+      },
+      {
+        "id": 1,
+        "text": "his two sons"
+      },
+      {
+        "id": 2,
+        "text": "their mother"
+      },
+      {
+        "id": 3,
+        "text": "a villa at the Sirenusa resort in St. John"
+      },
+      {
+        "id": 4,
+        "text": "the U.S. Environmental Protection Agency (EPA)"
+      },
+      {
+        "id": 5,
+        "text": "methyl bromide"
+      },
+      {
+        "id": 6,
+        "text": "four"
+      },
+      {
+        "id": 7,
+        "text": "Delaware"
+      },
+      {
+        "id": 8,
+        "text": "U.S."
+      },
+      {
+        "id": 9,
+        "text": "Two weeks ago"
+      },
+      {
+        "id": 10,
+        "text": "U.S."
+      },
+      {
+        "id": 11,
+        "text": "The U.S. Department of Justice"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "hasChild",
+        "tail": 1
+      },
+      {
+        "head": 2,
+        "relation": "spouse",
+        "tail": 0
+      },
+      {
+        "head": 3,
+        "relation": "locatedIn",
+        "tail": 8
+      },
+      {
+        "head": 4,
+        "relation": "testedPresenceOf",
+        "tail": 5
+      },
+      {
+        "head": 5,
+        "relation": "restrictedIn",
+        "tail": 10
+      }
+    ]
+  },
+  {
+    "document_id": 145,
+    "ragtruth_id": "193",
+    "text": "A Delaware father and his two teenage sons are in critical condition after becoming sick, possibly from pesticide exposure, during a trip to the U.S. Virgin Islands. The family was renting a villa at the Sirenusa resort on St. John when they fell ill over two weeks ago. The boys' mother was also treated at a hospital and released. The U.S. Environmental Protection Agency (EPA) has reported that a preliminary test shows the presence of methyl bromide, a restricted pesticide, in the villa. Exposure to methyl bromide can cause serious health effects, including damage to the central nervous and respiratory systems. The use of this pesticide is only permitted outdoors, and it is not allowed to be used indoors. The EPA is investigating whether the family was made ill after a fumigation at the resort and if any environmental regulations were violated. The rental agent for the villa, Sea Glass Vacations, had recently treated the unit below the family's for pests, but not the family's unit. The company has terminated its contract with the pest control services provider, Terminix. The U.S. Department of Justice has initiated a criminal investigation into the incident. The family's attorney is confident that the responsible parties will be held accountable.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "A Delaware father"
+      },
+      {
+        "id": 1,
+        "text": "A Delaware father and his two teenage sons"
+      },
+      {
+        "id": 2,
+        "text": "his two teenage sons"
+      },
+      {
+        "id": 3,
+        "text": "a villa"
+      },
+      {
+        "id": 4,
+        "text": "methyl bromide"
+      },
+      {
+        "id": 5,
+        "text": "The U.S. Environmental Protection Agency (EPA)"
+      },
+      {
+        "id": 6,
+        "text": "the Sirenusa resort on St. John"
+      },
+      {
+        "id": 7,
+        "text": "The rental agent for the villa, Sea Glass Vacations,"
+      },
+      {
+        "id": 8,
+        "text": "U.S."
+      },
+      {
+        "id": 9,
+        "text": "two weeks ago"
+      },
+      {
+        "id": 10,
+        "text": "Terminix"
+      },
+      {
+        "id": 11,
+        "text": "The U.S. Department of Justice"
+      }
+    ],
+    "relations": [
+      {
+        "head": 3,
+        "relation": "locatedAt",
+        "tail": 6
+      },
+      {
+        "head": 1,
+        "relation": "rented",
+        "tail": 3
+      },
+      {
+        "head": 5,
+        "relation": "reportedPresenceOf",
+        "tail": 4
+      },
+      {
+        "head": 5,
+        "relation": "investigating",
+        "tail": 1
+      },
+      {
+        "head": 7,
+        "relation": "terminatedContractWith",
+        "tail": 10
+      },
+      {
+        "head": 11,
+        "relation": "initiatedInvestigationInto",
+        "tail": 1
+      }
+    ]
+  },
+  {
+    "document_id": 146,
+    "ragtruth_id": "194",
+    "text": "A Delaware father and his two sons are recovering from critical illnesses possibly caused by pesticide exposure during a vacation in the U.S. Virgin Islands. The family rented a villa at the Sirenusa resort, where they became sick and were rushed to the hospital. The U.S. Environmental Protection Agency (EPA) has preliminary tested the villa and found evidence of the presence of a highly toxic pesticide, methyl bromide. The pesticide is not allowed to be used indoors, and only certified professionals are permitted to use it in certain agricultural settings. The EPA is investigating the incident and determining if any regulations or laws were violated. The family's attorney has stated that many questions remain and that the responsible parties will be held accountable.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "A Delaware father"
+      },
+      {
+        "id": 1,
+        "text": "A Delaware father and his two sons"
+      },
+      {
+        "id": 2,
+        "text": "a villa"
+      },
+      {
+        "id": 3,
+        "text": "a highly toxic pesticide, methyl bromide"
+      },
+      {
+        "id": 4,
+        "text": "The U.S. Environmental Protection Agency (EPA)"
+      },
+      {
+        "id": 5,
+        "text": "pesticide exposure during a vacation in the U.S. Virgin Islands"
+      },
+      {
+        "id": 6,
+        "text": "Sirenusa"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "rented",
+        "tail": 2
+      },
+      {
+        "head": 2,
+        "relation": "locatedAt",
+        "tail": 6
+      },
+      {
+        "head": 4,
+        "relation": "tested",
+        "tail": 2
+      },
+      {
+        "head": 2,
+        "relation": "hasEvidenceOf",
+        "tail": 3
+      },
+      {
+        "head": 5,
+        "relation": "causedBy",
+        "tail": 3
+      }
+    ]
+  },
+  {
+    "document_id": 147,
+    "ragtruth_id": "195",
+    "text": "A family of four, including two teenage boys, fell ill while on vacation in the U.S. Virgin Islands and are now recovering in a hospital. The father, Steve Esmond, is in stable condition, while the two boys are in critical condition. The cause of their illness is believed to be exposure to a pesticide called methyl bromide, which is restricted in the US due to its acute toxicity. The pesticide was found in the villa where the family was staying, and paramedics were called after the family members began experiencing seizures and other symptoms. The U.S. Environmental Protection Agency (EPA) is investigating whether any environmental regulations or laws were violated. The resort where the family was staying, Sirenusa, has ended its contract with the pest control company, Terminix, and the U.S. Department of Justice has initiated a criminal investigation.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "two teenage boys"
+      },
+      {
+        "id": 1,
+        "text": "A family of four, including two teenage boys"
+      },
+      {
+        "id": 2,
+        "text": "a pesticide called methyl bromide, which is restricted in the US due to its acute toxicity"
+      },
+      {
+        "id": 3,
+        "text": "The resort where the family was staying, Sirenusa,"
+      },
+      {
+        "id": 4,
+        "text": "U.S."
+      },
+      {
+        "id": 5,
+        "text": "Steve Esmond"
+      },
+      {
+        "id": 6,
+        "text": "The U.S. Environmental Protection Agency"
+      },
+      {
+        "id": 7,
+        "text": "EPA"
+      },
+      {
+        "id": 8,
+        "text": "Terminix"
+      },
+      {
+        "id": 9,
+        "text": "the U.S. Department of Justice"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "locatedInVacationDestination",
+        "tail": 4
+      },
+      {
+        "head": 1,
+        "relation": "includesMember",
+        "tail": 0
+      },
+      {
+        "head": 1,
+        "relation": "illnessCause",
+        "tail": 2
+      },
+      {
+        "head": 3,
+        "relation": "contractEndedWith",
+        "tail": 8
+      }
+    ]
+  },
+  {
+    "document_id": 148,
+    "ragtruth_id": "196",
+    "text": "A Delaware family, including two teenage boys, fell ill while on vacation in the US Virgin Islands, possibly due to pesticide exposure. The father is in stable condition, while the boys remain in critical condition. The family was staying at a villa in St. John when they became sick, and paramedics were called after the father was found unconscious and the boys had seizures. Tests revealed the presence of methyl bromide, a pesticide that is restricted in the US due to its toxicity. The EPA is investigating whether the family was exposed during a fumigation at the resort. The family's attorney says they have confidence in the medical professionals and are hopeful for a full recovery, but many questions remain about how the pesticide was used in a residential area.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "two teenage boys"
+      },
+      {
+        "id": 1,
+        "text": "A Delaware family, including two teenage boys"
+      },
+      {
+        "id": 2,
+        "text": "The father"
+      },
+      {
+        "id": 3,
+        "text": "a villa in St. John"
+      },
+      {
+        "id": 4,
+        "text": "methyl bromide, a pesticide that is restricted in the US due to its toxicity"
+      },
+      {
+        "id": 5,
+        "text": "US"
+      },
+      {
+        "id": 6,
+        "text": "EPA"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "stayedAt",
+        "tail": 3
+      },
+      {
+        "head": 1,
+        "relation": "locatedIn",
+        "tail": 5
+      },
+      {
+        "head": 6,
+        "relation": "investigates",
+        "tail": 1
+      }
+    ]
+  },
+  {
+    "document_id": 149,
+    "ragtruth_id": "197",
+    "text": "A Delaware father and his two teenage sons remain in critical condition after falling ill from suspected pesticide exposure during a trip to the U.S. Virgin Islands. The family was renting a villa at the Sirenusa resort when they became sick, with the father found unconscious and the boys and their mother having seizures. The U.S. Environmental Protection Agency (EPA) has identified the presence of methyl bromide, a restricted and acutely toxic pesticide, at the villa. The EPA is investigating whether the family was made ill after a fumigation at the resort and whether any environmental regulations or laws were violated. The resort has ended its contract with the pest control company, Terminix, and the U.S. Department of Justice has initiated a criminal investigation. The family's attorney has expressed confidence that the responsible parties will be brought to justice.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "A Delaware father"
+      },
+      {
+        "id": 1,
+        "text": "A Delaware father and his two teenage sons"
+      },
+      {
+        "id": 2,
+        "text": "his two teenage sons"
+      },
+      {
+        "id": 3,
+        "text": "a villa at the Sirenusa resort"
+      },
+      {
+        "id": 4,
+        "text": "The U.S. Environmental Protection Agency (EPA)"
+      },
+      {
+        "id": 5,
+        "text": "the Sirenusa resort"
+      },
+      {
+        "id": 6,
+        "text": "U.S."
+      },
+      {
+        "id": 7,
+        "text": "Terminix"
+      },
+      {
+        "id": 8,
+        "text": "the U.S. Department of Justice"
+      }
+    ],
+    "relations": [
+      {
+        "head": 3,
+        "relation": "locatedIn",
+        "tail": 5
+      },
+      {
+        "head": 1,
+        "relation": "travelDestination",
+        "tail": 6
+      },
+      {
+        "head": 4,
+        "relation": "identifiedPresenceOf",
+        "tail": 3
+      },
+      {
+        "head": 5,
+        "relation": "contractEndedWith",
+        "tail": 7
+      }
+    ]
+  }
+]

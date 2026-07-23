@@ -1,0 +1,687 @@
+[
+  {
+    "document_id": 410,
+    "ragtruth_id": "536",
+    "text": "In 2013, a cyberattack known as \"Dark Seoul\" caused chaos in South Korea, affecting several banks and media outlets. In December 2017, South Korean investigators claimed that North Korea was behind the attack. The malware used in both attacks matched that of North Korea's \"Kimsuky\" group. This is despite North Korea denying any involvement in the attacks. The latest incident involved an attempt to steal sensitive data from South Korea's nuclear operator, including plant blueprints and personnel information. However, no critical data was stolen. The attack raised concerns about the safety and security of the country's nuclear power plants. Investigations are ongoing, but some IP addresses used in the December incursion were traced back to Shenyang, China, which is near the North Korean border. Many experts believe that North Korea is investing more in cyberwarfare due to its cheaper cost compared to conventional weapons and its potential to cause significant economic damage to its southern rival.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "a cyberattack known as \"Dark Seoul\""
+      },
+      {
+        "id": 1,
+        "text": "North Korea"
+      },
+      {
+        "id": 2,
+        "text": "matched"
+      },
+      {
+        "id": 3,
+        "text": "both attacks"
+      },
+      {
+        "id": 4,
+        "text": "South Korea"
+      },
+      {
+        "id": 5,
+        "text": "The latest incident"
+      },
+      {
+        "id": 6,
+        "text": "cyberwarfare"
+      },
+      {
+        "id": 7,
+        "text": "2013"
+      },
+      {
+        "id": 8,
+        "text": "December 2017"
+      },
+      {
+        "id": 9,
+        "text": "South Korean"
+      },
+      {
+        "id": 10,
+        "text": "Kimsuky"
+      },
+      {
+        "id": 11,
+        "text": "IP"
+      },
+      {
+        "id": 12,
+        "text": "December"
+      },
+      {
+        "id": 13,
+        "text": "Shenyang"
+      },
+      {
+        "id": 14,
+        "text": "China"
+      },
+      {
+        "id": 15,
+        "text": "North Korean"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "occurredIn",
+        "tail": 7
+      },
+      {
+        "head": 0,
+        "relation": "occurredIn",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "attributedTo",
+        "tail": 1
+      },
+      {
+        "head": 3,
+        "relation": "attributedTo",
+        "tail": 1
+      },
+      {
+        "head": 3,
+        "relation": "matched",
+        "tail": 2
+      },
+      {
+        "head": 1,
+        "relation": "hasGroup",
+        "tail": 10
+      },
+      {
+        "head": 5,
+        "relation": "involvedAttemptToStealDataFrom",
+        "tail": 4
+      },
+      {
+        "head": 11,
+        "relation": "usedIn",
+        "tail": 12
+      },
+      {
+        "head": 11,
+        "relation": "tracedBackTo",
+        "tail": 13
+      },
+      {
+        "head": 13,
+        "relation": "locatedIn",
+        "tail": 14
+      },
+      {
+        "head": 1,
+        "relation": "investingIn",
+        "tail": 6
+      }
+    ]
+  },
+  {
+    "document_id": 411,
+    "ragtruth_id": "537",
+    "text": "Here is a summary of the article in 177 words:\n\nSouth Korea has accused North Korea of launching cyberattacks on several of its banks and media outlets, as well as on its nuclear operator. The attacks, which occurred in 2013 and December of last year, were carried out using similar malicious codes and tactics as previous attacks attributed to North Korea. The attacks disrupted networks and wiped hard drives, and in one case, attempted to steal sensitive information from the nuclear operator. Investigators have found evidence linking the attacks to North Korea, including the use of similar codes and IP addresses traced back to Shenyang, China, which is accessible from the North Korean border. North Korea has denied responsibility for the attacks, but many experts believe the country is investing more in cyberwarfare due to its limited resources and ability to cause significant economic damage to its southern rival.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "South Korea"
+      },
+      {
+        "id": 1,
+        "text": "cyberattacks on several of its banks and media outlets, as well as on its nuclear operator"
+      },
+      {
+        "id": 2,
+        "text": "North Korea"
+      },
+      {
+        "id": 3,
+        "text": "its nuclear operator"
+      },
+      {
+        "id": 4,
+        "text": "177"
+      },
+      {
+        "id": 5,
+        "text": "one"
+      },
+      {
+        "id": 6,
+        "text": "IP"
+      },
+      {
+        "id": 7,
+        "text": "Shenyang"
+      },
+      {
+        "id": 8,
+        "text": "China"
+      },
+      {
+        "id": 9,
+        "text": "North Korean"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "target",
+        "tail": 0
+      },
+      {
+        "head": 1,
+        "relation": "target",
+        "tail": 3
+      },
+      {
+        "head": 1,
+        "relation": "attributedTo",
+        "tail": 2
+      },
+      {
+        "head": 6,
+        "relation": "tracedBackTo",
+        "tail": 7
+      },
+      {
+        "head": 7,
+        "relation": "locatedIn",
+        "tail": 8
+      }
+    ]
+  },
+  {
+    "document_id": 412,
+    "ragtruth_id": "538",
+    "text": "South Korea has faced two major cyberattacks, \"Dark Seoul\" in 2013 and a recent attack on the country's nuclear operator in December 2014, both suspected to be from North Korea. The attacks paralyzed computer systems, deleted files, and attempted to steal sensitive data. Investigators found similarities between the malicious codes used in the attacks and those used by North Korea. Experts believe North Korea is investing in cyberwarfare as it is cheaper than conventional weapons and can cause significant economic damage to South Korea. However, many in South Korea feel that not enough effort is being made to defend against cyberattacks, which could cause up to $25 billion in economic damage by 2020.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "South Korea"
+      },
+      {
+        "id": 1,
+        "text": "two major cyberattacks, \"Dark Seoul\" in 2013 and a recent attack on the country's nuclear operator in December 2014"
+      },
+      {
+        "id": 2,
+        "text": "North Korea"
+      },
+      {
+        "id": 3,
+        "text": "cyberwarfare"
+      },
+      {
+        "id": 4,
+        "text": "up to $25 billion"
+      },
+      {
+        "id": 5,
+        "text": "2020"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "attackedBy",
+        "tail": 2
+      },
+      {
+        "head": 3,
+        "relation": "investedInBy",
+        "tail": 2
+      },
+      {
+        "head": 3,
+        "relation": "causesDamageTo",
+        "tail": 0
+      },
+      {
+        "head": 1,
+        "relation": "causesDamageUpTo",
+        "tail": 4
+      },
+      {
+        "head": 1,
+        "relation": "byDate",
+        "tail": 5
+      }
+    ]
+  },
+  {
+    "document_id": 413,
+    "ragtruth_id": "539",
+    "text": "In 2013 and 2014, South Korea experienced two major cyberattacks, known as \"Dark Seoul\" and an attempt to breach the country's nuclear operator. Investigators have concluded that North Korea was responsible for both attacks, and have shared their findings with CNN. The first attack, which occurred in March 2013, affected 48,000 computers at various banks and media outlets, deleting files and disrupting operations. The second attack, in December 2014, targeted the nuclear operator and attempted to steal sensitive data. Both attacks used malicious codes, and the latter attack was described as a \"spear-fishing\" exercise. South Korean authorities have traced some of the IP addresses used in the December attack back to Shenyang, China, which is accessible from the North Korean border. North Korea has denied any involvement, but many experts believe that the country is investing in cyberwarfare as a cost-effective way to cause economic damage to its southern rival. The attacks have raised concerns about the security of South Korea's critical infrastructure and the need for greater investment in cybersecurity measures.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "South Korea"
+      },
+      {
+        "id": 1,
+        "text": "two major cyberattacks, known as \"Dark Seoul\" and an attempt to breach the country's nuclear operator"
+      },
+      {
+        "id": 2,
+        "text": "Investigators"
+      },
+      {
+        "id": 3,
+        "text": "the country's nuclear operator"
+      },
+      {
+        "id": 4,
+        "text": "The second attack, in December 2014,"
+      },
+      {
+        "id": 5,
+        "text": "December 2014"
+      },
+      {
+        "id": 6,
+        "text": "China"
+      },
+      {
+        "id": 7,
+        "text": "2013"
+      },
+      {
+        "id": 8,
+        "text": "2014"
+      },
+      {
+        "id": 9,
+        "text": "CNN"
+      },
+      {
+        "id": 10,
+        "text": "first"
+      },
+      {
+        "id": 11,
+        "text": "March 2013"
+      },
+      {
+        "id": 12,
+        "text": "48,000"
+      },
+      {
+        "id": 13,
+        "text": "South Korean"
+      },
+      {
+        "id": 14,
+        "text": "IP"
+      },
+      {
+        "id": 15,
+        "text": "Shenyang"
+      },
+      {
+        "id": 16,
+        "text": "North Korean"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "occurredIn",
+        "tail": 7
+      },
+      {
+        "head": 1,
+        "relation": "occurredIn",
+        "tail": 8
+      },
+      {
+        "head": 1,
+        "relation": "responsibleParty",
+        "tail": 16
+      },
+      {
+        "head": 4,
+        "relation": "occurredIn",
+        "tail": 5
+      },
+      {
+        "head": 4,
+        "relation": "target",
+        "tail": 3
+      },
+      {
+        "head": 1,
+        "relation": "target",
+        "tail": 3
+      },
+      {
+        "head": 1,
+        "relation": "affected",
+        "tail": 12
+      },
+      {
+        "head": 1,
+        "relation": "reportedTo",
+        "tail": 9
+      },
+      {
+        "head": 4,
+        "relation": "tracedTo",
+        "tail": 15
+      },
+      {
+        "head": 4,
+        "relation": "tracedTo",
+        "tail": 6
+      }
+    ]
+  },
+  {
+    "document_id": 414,
+    "ragtruth_id": "546",
+    "text": "A SkyWest Airlines flight made an emergency landing in Buffalo, New York, after a passenger lost consciousness. The plane descended 28,000 feet in three minutes. The Federal Aviation Administration initially reported a pressurization problem and said it would investigate. However, it later issued a statement that did not reference a pressurization problem. The passenger received medical attention before being released.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "A SkyWest Airlines flight"
+      },
+      {
+        "id": 1,
+        "text": "The Federal Aviation Administration"
+      },
+      {
+        "id": 2,
+        "text": "a passenger"
+      },
+      {
+        "id": 3,
+        "text": "Buffalo"
+      },
+      {
+        "id": 4,
+        "text": "New York"
+      },
+      {
+        "id": 5,
+        "text": "28,000 feet"
+      },
+      {
+        "id": 6,
+        "text": "three minutes"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "emergencyLandingIn",
+        "tail": 3
+      },
+      {
+        "head": 3,
+        "relation": "locatedIn",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "descendedBy",
+        "tail": 5
+      },
+      {
+        "head": 0,
+        "relation": "descendedIn",
+        "tail": 6
+      }
+    ]
+  },
+  {
+    "document_id": 415,
+    "ragtruth_id": "547",
+    "text": "A SkyWest Airlines flight made an emergency landing in Buffalo, New York, after a passenger lost consciousness. The passenger received medical attention and was released. The flight is expected to accommodate the 75 passengers to their original destination later in the afternoon. The Federal Aviation Administration initially reported a pressurization problem but later issued a statement that did not reference it. There was also no problem with the plane's door. The plane descended rapidly, causing a roller coaster-like sensation.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "a passenger"
+      },
+      {
+        "id": 1,
+        "text": "A SkyWest Airlines flight"
+      },
+      {
+        "id": 2,
+        "text": "the 75 passengers"
+      },
+      {
+        "id": 3,
+        "text": "a pressurization problem"
+      },
+      {
+        "id": 4,
+        "text": "Buffalo"
+      },
+      {
+        "id": 5,
+        "text": "New York"
+      },
+      {
+        "id": 6,
+        "text": "later in the afternoon"
+      },
+      {
+        "id": 7,
+        "text": "The Federal Aviation Administration"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "emergencyLandingIn",
+        "tail": 4
+      },
+      {
+        "head": 4,
+        "relation": "locatedIn",
+        "tail": 5
+      },
+      {
+        "head": 1,
+        "relation": "accommodates",
+        "tail": 2
+      },
+      {
+        "head": 1,
+        "relation": "expectedToReachDestinationTime",
+        "tail": 6
+      },
+      {
+        "head": 7,
+        "relation": "reported",
+        "tail": 3
+      }
+    ]
+  },
+  {
+    "document_id": 416,
+    "ragtruth_id": "548",
+    "text": "A SkyWest Airlines flight made an emergency landing in Buffalo, NY after a passenger passed out. The passenger received medical care before being released. No pressurization or door problems were reported. The FAA is investigating. Flight 5622 descended rapidly due to a mechanical issue.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "a passenger"
+      },
+      {
+        "id": 1,
+        "text": "A SkyWest Airlines flight"
+      },
+      {
+        "id": 2,
+        "text": "Buffalo"
+      },
+      {
+        "id": 3,
+        "text": "NY"
+      },
+      {
+        "id": 4,
+        "text": "FAA"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "landingPlace",
+        "tail": 2
+      },
+      {
+        "head": 1,
+        "relation": "landingPlace",
+        "tail": 3
+      },
+      {
+        "head": 4,
+        "relation": "investigates",
+        "tail": 1
+      }
+    ]
+  },
+  {
+    "document_id": 417,
+    "ragtruth_id": "549",
+    "text": "Here is a summary of the news in 45 words or less:\n\nSkyWest Airlines flight makes emergency landing in Buffalo after passenger loses consciousness. Passenger received medical attention and will be rescheduled to final destination. No signs of pressurization issue, despite initial FAA report.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "passenger"
+      },
+      {
+        "id": 1,
+        "text": "45"
+      },
+      {
+        "id": 2,
+        "text": "SkyWest Airlines"
+      },
+      {
+        "id": 3,
+        "text": "Buffalo"
+      },
+      {
+        "id": 4,
+        "text": "FAA"
+      }
+    ],
+    "relations": [
+      {
+        "head": 2,
+        "relation": "emergencyLandingIn",
+        "tail": 3
+      },
+      {
+        "head": 2,
+        "relation": "involves",
+        "tail": 0
+      },
+      {
+        "head": 2,
+        "relation": "reportedBy",
+        "tail": 4
+      }
+    ]
+  },
+  {
+    "document_id": 418,
+    "ragtruth_id": "550",
+    "text": "A SkyWest Airlines flight made an emergency landing in Buffalo due to a passenger losing consciousness. The passenger received medical attention and the flight will continue to Hartford later. There were initial reports of a pressurization problem, but the FAA has since clarified that there was no issue.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "a passenger"
+      },
+      {
+        "id": 1,
+        "text": "A SkyWest Airlines flight"
+      },
+      {
+        "id": 2,
+        "text": "Buffalo"
+      },
+      {
+        "id": 3,
+        "text": "Hartford"
+      },
+      {
+        "id": 4,
+        "text": "FAA"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "emergencyLandingIn",
+        "tail": 2
+      },
+      {
+        "head": 1,
+        "relation": "destination",
+        "tail": 3
+      },
+      {
+        "head": 1,
+        "relation": "causedBy",
+        "tail": 0
+      }
+    ]
+  },
+  {
+    "document_id": 419,
+    "ragtruth_id": "551",
+    "text": "A SkyWest Airlines flight made an emergency landing in Buffalo, NY, due to a passenger losing consciousness. The passenger received medical attention and was released, while the other passengers were accommodated on another flight to their original destination. Initial reports of a pressurization problem were later disputed by the airline and the FAA.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "a passenger"
+      },
+      {
+        "id": 1,
+        "text": "the other passengers"
+      },
+      {
+        "id": 2,
+        "text": "SkyWest Airlines"
+      },
+      {
+        "id": 3,
+        "text": "Buffalo"
+      },
+      {
+        "id": 4,
+        "text": "NY"
+      },
+      {
+        "id": 5,
+        "text": "FAA"
+      }
+    ],
+    "relations": [
+      {
+        "head": 2,
+        "relation": "emergencyLandingIn",
+        "tail": 3
+      },
+      {
+        "head": 2,
+        "relation": "emergencyLandingIn",
+        "tail": 4
+      }
+    ]
+  }
+]

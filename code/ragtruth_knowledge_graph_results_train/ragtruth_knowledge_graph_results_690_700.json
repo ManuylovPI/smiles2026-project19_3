@@ -1,0 +1,728 @@
+[
+  {
+    "document_id": 690,
+    "ragtruth_id": "936",
+    "text": "Jodi Arias has been sentenced to life in prison without possibility of early release for the 2008 murder of her ex-boyfriend, Travis Alexander. Arias, found guilty of first-degree murder in 2013, was eligible for the death penalty due to the cruelty of the murder. However, two juries could not reach a unanimous decision on this, removing the death penalty option. Arias expressed remorse for her crime before sentencing. She will serve her sentence at the Arizona State Prison Complex-Perryville.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Jodi Arias"
+      },
+      {
+        "id": 1,
+        "text": "the 2008 murder of her ex-boyfriend, Travis Alexander"
+      },
+      {
+        "id": 2,
+        "text": "the death penalty"
+      },
+      {
+        "id": 3,
+        "text": "sentenced"
+      },
+      {
+        "id": 4,
+        "text": "two"
+      },
+      {
+        "id": 5,
+        "text": "the Arizona State Prison Complex-Perryville"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "victim",
+        "tail": 0
+      },
+      {
+        "head": 0,
+        "relation": "sentence",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "imprisonedAt",
+        "tail": 5
+      },
+      {
+        "head": 1,
+        "relation": "eligibleFor",
+        "tail": 2
+      }
+    ]
+  },
+  {
+    "document_id": 691,
+    "ragtruth_id": "937",
+    "text": "Jodi Arias has been sentenced to life in prison for the murder of her ex-boyfriend, Travis Alexander, in 2008. The judge decided that Arias should spend the rest of her life behind bars, without the possibility of early release. Arias expressed remorse for her actions before the sentence was handed down. Travis Alexander's sisters gave emotional victim impact statements, with one sister saying she is trying to block memories of her brother. Arias was found guilty of first-degree murder in 2013, but two separate juries were unable to reach a unanimous decision on the death penalty.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Jodi Arias"
+      },
+      {
+        "id": 1,
+        "text": "sentenced"
+      },
+      {
+        "id": 2,
+        "text": "her ex-boyfriend, Travis Alexander"
+      },
+      {
+        "id": 3,
+        "text": "one sister"
+      },
+      {
+        "id": 4,
+        "text": "2008"
+      },
+      {
+        "id": 5,
+        "text": "first"
+      },
+      {
+        "id": 6,
+        "text": "2013"
+      },
+      {
+        "id": 7,
+        "text": "two"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "sentence",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "victim",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "sentenceDate",
+        "tail": 6
+      },
+      {
+        "head": 0,
+        "relation": "crimeDate",
+        "tail": 4
+      }
+    ]
+  },
+  {
+    "document_id": 692,
+    "ragtruth_id": "938",
+    "text": "Jodi Arias, 34, was sentenced to life in prison by Maricopa County Judge Sherry Stephens for the 2008 murder of her ex-boyfriend, Travis Alexander. Arias expressed remorse for her actions and said she wished there was a way to take them back. The jury that convicted her found the murder to be especially cruel, but was unable to reach a unanimous decision on the death penalty. The death penalty was ultimately taken off the table, leaving Arias' sentence up to the judge. She will serve her sentence at the Lumley Unit in the Arizona State Prison Complex-Perryville.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Jodi Arias, 34"
+      },
+      {
+        "id": 1,
+        "text": "her actions"
+      },
+      {
+        "id": 2,
+        "text": "the 2008 murder of her ex-boyfriend, Travis Alexander"
+      },
+      {
+        "id": 3,
+        "text": "the death penalty"
+      },
+      {
+        "id": 4,
+        "text": "sentenced"
+      },
+      {
+        "id": 5,
+        "text": "Maricopa County Judge Sherry Stephens"
+      },
+      {
+        "id": 6,
+        "text": "the Lumley Unit"
+      },
+      {
+        "id": 7,
+        "text": "the Arizona State Prison Complex-Perryville"
+      }
+    ],
+    "relations": [
+      {
+        "head": 2,
+        "relation": "victim",
+        "tail": 0
+      },
+      {
+        "head": 0,
+        "relation": "sentence",
+        "tail": 4
+      },
+      {
+        "head": 4,
+        "relation": "byJudge",
+        "tail": 5
+      },
+      {
+        "head": 4,
+        "relation": "servedAt",
+        "tail": 6
+      },
+      {
+        "head": 6,
+        "relation": "locatedIn",
+        "tail": 7
+      }
+    ]
+  },
+  {
+    "document_id": 693,
+    "ragtruth_id": "939",
+    "text": "Jodi Arias was sentenced to life in prison without the possibility of parole after being convicted of murdering her ex-boyfriend Travis Alexander in 2008. Arias expressed remorse for her actions and Alexander's sisters delivered victim impact statements. Arias will serve her sentence at a prison complex in Arizona.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Jodi Arias"
+      },
+      {
+        "id": 1,
+        "text": "her ex-boyfriend Travis Alexander"
+      },
+      {
+        "id": 2,
+        "text": "sentenced"
+      },
+      {
+        "id": 3,
+        "text": "2008"
+      },
+      {
+        "id": 4,
+        "text": "Arizona"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "sentence",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "murdered",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "crimeDate",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "servingSentenceIn",
+        "tail": 4
+      }
+    ]
+  },
+  {
+    "document_id": 694,
+    "ragtruth_id": "940",
+    "text": "Sure! Here's the summary within 72 words:\n\nJodi Arias was sentenced to life in prison for the 2008 murder of her ex-boyfriend Travis Alexander. She expressed remorse before the sentence was handed down, saying she was \"disgusted\" and \"repulsed\" with herself. Travis' sisters gave victim impact statements, with one stating she wishes she could forget her brother to cope with his brutal death. Arias will serve her sentence at an Arizona state prison.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Jodi Arias"
+      },
+      {
+        "id": 1,
+        "text": "sentenced"
+      },
+      {
+        "id": 2,
+        "text": "her ex-boyfriend Travis Alexander"
+      },
+      {
+        "id": 3,
+        "text": "one"
+      },
+      {
+        "id": 4,
+        "text": "the 2008 murder of her ex-boyfriend Travis Alexander"
+      },
+      {
+        "id": 5,
+        "text": "72"
+      },
+      {
+        "id": 6,
+        "text": "Arizona"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "sentence",
+        "tail": 1
+      },
+      {
+        "head": 4,
+        "relation": "victim",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "servedAt",
+        "tail": 6
+      }
+    ]
+  },
+  {
+    "document_id": 695,
+    "ragtruth_id": "941",
+    "text": "Jodi Arias was sentenced to life in prison without the possibility of parole for the murder of her ex-boyfriend Travis Alexander. Arias expressed remorse for her actions, but the judge determined that she should spend the rest of her life behind bars. Travis' sisters gave victim impact statements, with one saying she tries to block her brother from her memory because it hurts too much. Arias, 34, was found guilty of first-degree murder in 2013, but two juries were unable to reach a unanimous decision on her sentence.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Jodi Arias"
+      },
+      {
+        "id": 1,
+        "text": "her ex-boyfriend Travis Alexander"
+      },
+      {
+        "id": 2,
+        "text": "one"
+      },
+      {
+        "id": 3,
+        "text": "her memory"
+      },
+      {
+        "id": 4,
+        "text": "sentenced"
+      },
+      {
+        "id": 5,
+        "text": "first"
+      },
+      {
+        "id": 6,
+        "text": "2013"
+      },
+      {
+        "id": 7,
+        "text": "two"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "sentence",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "victim",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "convictedIn",
+        "tail": 6
+      }
+    ]
+  },
+  {
+    "document_id": 696,
+    "ragtruth_id": "942",
+    "text": "The Italian Coast Guard has rescued 978 migrants from the Mediterranean Sea, who were heading to Europe from Africa and the Middle East. Most of these migrants come from West Africa, Somalia, and Syria, using Libya as a transit point. Since the beginning of the year, at least 480 migrants have died while crossing the Mediterranean.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "978 migrants from the Mediterranean Sea, who were heading to Europe from Africa and the Middle East"
+      },
+      {
+        "id": 1,
+        "text": "the Mediterranean Sea"
+      },
+      {
+        "id": 2,
+        "text": "The Italian Coast Guard"
+      },
+      {
+        "id": 3,
+        "text": "West Africa"
+      },
+      {
+        "id": 4,
+        "text": "Somalia"
+      },
+      {
+        "id": 5,
+        "text": "Syria"
+      },
+      {
+        "id": 6,
+        "text": "Libya"
+      },
+      {
+        "id": 7,
+        "text": "the beginning of the year"
+      },
+      {
+        "id": 8,
+        "text": "at least 480"
+      }
+    ],
+    "relations": [
+      {
+        "head": 2,
+        "relation": "rescued",
+        "tail": 0
+      },
+      {
+        "head": 0,
+        "relation": "from",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "origin",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "origin",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "origin",
+        "tail": 5
+      },
+      {
+        "head": 0,
+        "relation": "transitPoint",
+        "tail": 6
+      },
+      {
+        "head": 8,
+        "relation": "during",
+        "tail": 7
+      },
+      {
+        "head": 8,
+        "relation": "crossing",
+        "tail": 1
+      }
+    ]
+  },
+  {
+    "document_id": 697,
+    "ragtruth_id": "943",
+    "text": "Desperate migrants, mostly from Africa and the Middle East, continue to make the dangerous journey to Europe. Over 978 migrants were rescued in the Mediterranean Sea off the coast of Libya. Italy has seen over 10,000 migrants arrive in the first three months of 2015, with at least 2,000 rescued in the first weekend of April. The majority of migrants come from West Africa, Somalia, and Syria, using Libya as a transit country. Tragically, at least 480 migrants have died crossing the Mediterranean this year, often due to bad weather and overcrowded vessels. Last year at this time, there were fewer than 50 reported deaths. The migrants include asylum seekers, victims of trafficking or violence, unaccompanied children, and pregnant women.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Libya"
+      },
+      {
+        "id": 1,
+        "text": "the Mediterranean Sea"
+      },
+      {
+        "id": 2,
+        "text": "Africa"
+      },
+      {
+        "id": 3,
+        "text": "the Middle East"
+      },
+      {
+        "id": 4,
+        "text": "Europe"
+      },
+      {
+        "id": 5,
+        "text": "Over 978"
+      },
+      {
+        "id": 6,
+        "text": "Italy"
+      },
+      {
+        "id": 7,
+        "text": "10,000"
+      },
+      {
+        "id": 8,
+        "text": "the first three months of 2015"
+      },
+      {
+        "id": 9,
+        "text": "at least 2,000"
+      },
+      {
+        "id": 10,
+        "text": "the first weekend of April"
+      },
+      {
+        "id": 11,
+        "text": "West Africa"
+      },
+      {
+        "id": 12,
+        "text": "Somalia"
+      },
+      {
+        "id": 13,
+        "text": "Syria"
+      },
+      {
+        "id": 14,
+        "text": "at least 480"
+      },
+      {
+        "id": 15,
+        "text": "this year"
+      },
+      {
+        "id": 16,
+        "text": "Last year"
+      },
+      {
+        "id": 17,
+        "text": "fewer than 50"
+      }
+    ],
+    "relations": [
+      {
+        "head": 4,
+        "relation": "destination",
+        "tail": 2
+      },
+      {
+        "head": 4,
+        "relation": "destination",
+        "tail": 3
+      },
+      {
+        "head": 1,
+        "relation": "rescueLocation",
+        "tail": 0
+      },
+      {
+        "head": 6,
+        "relation": "arrivalCount",
+        "tail": 7
+      },
+      {
+        "head": 6,
+        "relation": "arrivalTime",
+        "tail": 8
+      },
+      {
+        "head": 6,
+        "relation": "rescuedCount",
+        "tail": 9
+      },
+      {
+        "head": 6,
+        "relation": "rescueTime",
+        "tail": 10
+      },
+      {
+        "head": 11,
+        "relation": "origin",
+        "tail": 0
+      },
+      {
+        "head": 12,
+        "relation": "origin",
+        "tail": 0
+      },
+      {
+        "head": 13,
+        "relation": "origin",
+        "tail": 0
+      },
+      {
+        "head": 1,
+        "relation": "crossingLocation",
+        "tail": 15
+      },
+      {
+        "head": 1,
+        "relation": "deathCount",
+        "tail": 14
+      },
+      {
+        "head": 1,
+        "relation": "deathCount",
+        "tail": 17
+      },
+      {
+        "head": 1,
+        "relation": "deathTime",
+        "tail": 15
+      },
+      {
+        "head": 1,
+        "relation": "deathTime",
+        "tail": 16
+      }
+    ]
+  },
+  {
+    "document_id": 698,
+    "ragtruth_id": "944",
+    "text": "Italian Coast Guard rescues 978 migrants from the Mediterranean Sea; Most migrants come from West Africa and use Libya as a country of transit; At least 480 migrants have died in the Mediterranean since January; This is an increase compared to the same period last year when only about 50 deaths were reported.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "the Mediterranean Sea"
+      },
+      {
+        "id": 1,
+        "text": "died"
+      },
+      {
+        "id": 2,
+        "text": "Italian Coast Guard"
+      },
+      {
+        "id": 3,
+        "text": "978"
+      },
+      {
+        "id": 4,
+        "text": "West Africa"
+      },
+      {
+        "id": 5,
+        "text": "Libya"
+      },
+      {
+        "id": 6,
+        "text": "At least 480"
+      },
+      {
+        "id": 7,
+        "text": "January"
+      },
+      {
+        "id": 8,
+        "text": "the same period last year"
+      },
+      {
+        "id": 9,
+        "text": "only about 50"
+      }
+    ],
+    "relations": [
+      {
+        "head": 2,
+        "relation": "rescued",
+        "tail": 3
+      },
+      {
+        "head": 3,
+        "relation": "origin",
+        "tail": 4
+      },
+      {
+        "head": 3,
+        "relation": "transitCountry",
+        "tail": 5
+      },
+      {
+        "head": 1,
+        "relation": "location",
+        "tail": 0
+      },
+      {
+        "head": 1,
+        "relation": "time",
+        "tail": 7
+      },
+      {
+        "head": 1,
+        "relation": "comparedTo",
+        "tail": 8
+      },
+      {
+        "head": 1,
+        "relation": "deathCount",
+        "tail": 6
+      },
+      {
+        "head": 1,
+        "relation": "deathCount",
+        "tail": 9
+      }
+    ]
+  },
+  {
+    "document_id": 699,
+    "ragtruth_id": "945",
+    "text": "Here is a summary of the news in 48 words:\n\nDesperate migrants from Africa and the Middle East continue to head to Europe, with 978 rescued off the coast of Libya last Friday. Many are asylum seekers, fleeing violence and trafficking, and at least 480 have died crossing the Mediterranean so far this year.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "48"
+      },
+      {
+        "id": 1,
+        "text": "Africa"
+      },
+      {
+        "id": 2,
+        "text": "the Middle East"
+      },
+      {
+        "id": 3,
+        "text": "Europe"
+      },
+      {
+        "id": 4,
+        "text": "978"
+      },
+      {
+        "id": 5,
+        "text": "Libya"
+      },
+      {
+        "id": 6,
+        "text": "last Friday"
+      },
+      {
+        "id": 7,
+        "text": "at least 480"
+      },
+      {
+        "id": 8,
+        "text": "Mediterranean"
+      },
+      {
+        "id": 9,
+        "text": "this year"
+      }
+    ],
+    "relations": [
+      {
+        "head": 4,
+        "relation": "rescuedOffCoastOf",
+        "tail": 5
+      },
+      {
+        "head": 7,
+        "relation": "diedCrossing",
+        "tail": 8
+      }
+    ]
+  }
+]

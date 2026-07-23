@@ -1,0 +1,610 @@
+[
+  {
+    "document_id": 620,
+    "ragtruth_id": "824",
+    "text": "\"Star Wars\" Digital HD Collection Released with Exclusive Content; New Gay Character Introduced in \"Star Wars\"; Sound Designer Discusses Alien Sounds in Exclusive Video.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Exclusive Content"
+      },
+      {
+        "id": 1,
+        "text": "New Gay Character Introduced"
+      },
+      {
+        "id": 2,
+        "text": "Sound Designer Discusses Alien Sounds"
+      },
+      {
+        "id": 3,
+        "text": "Exclusive Video"
+      }
+    ],
+    "relations": [
+      {
+        "head": 2,
+        "relation": "in",
+        "tail": 3
+      }
+    ]
+  },
+  {
+    "document_id": 621,
+    "ragtruth_id": "825",
+    "text": "Star Wars fans get special features with digital release, including an exclusive look at the sound design and the introduction of the franchise's first openly gay character.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Star Wars"
+      },
+      {
+        "id": 1,
+        "text": "first"
+      }
+    ],
+    "relations": []
+  },
+  {
+    "document_id": 622,
+    "ragtruth_id": "826",
+    "text": "Sure! Here is the summary you requested within 32 words:\n\nFans of the Star Wars franchise can enjoy the first six films digitally starting on Friday, with exclusive behind-the-scenes content and the first-ever depiction of a gay character. Sound designer Ben Burtt discusses capturing the sounds of the insect-like Geonosians in a new video.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "32"
+      },
+      {
+        "id": 1,
+        "text": "first"
+      },
+      {
+        "id": 2,
+        "text": "six"
+      },
+      {
+        "id": 3,
+        "text": "Friday"
+      },
+      {
+        "id": 4,
+        "text": "first"
+      },
+      {
+        "id": 5,
+        "text": "Ben Burtt"
+      },
+      {
+        "id": 6,
+        "text": "Geonosians"
+      }
+    ],
+    "relations": [
+      {
+        "head": 5,
+        "relation": "discusses",
+        "tail": 6
+      }
+    ]
+  },
+  {
+    "document_id": 623,
+    "ragtruth_id": "827",
+    "text": "Star Wars fans can buy digital HD copies of the first six films on Friday. Bonus features include a look at sound design, like the insect-like Geonosians, and the introduction of the franchise's first gay character.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Star Wars"
+      },
+      {
+        "id": 1,
+        "text": "first"
+      },
+      {
+        "id": 2,
+        "text": "six"
+      },
+      {
+        "id": 3,
+        "text": "Friday"
+      },
+      {
+        "id": 4,
+        "text": "Geonosians"
+      },
+      {
+        "id": 5,
+        "text": "first"
+      }
+    ],
+    "relations": []
+  },
+  {
+    "document_id": 624,
+    "ragtruth_id": "828",
+    "text": "Tornadoes were reported in several areas of Kansas on Wednesday night, with three sightings near Aetna, 125 miles southwest of Wichita. Other storms were reported in Potosi, Missouri, where wind damage and flooding were reported. The National Weather Service warned there could be more storms in the Midwest, Mississippi River Valley, Tennessee River Valley and near the southern Great Lakes on Thursday.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Kansas"
+      },
+      {
+        "id": 1,
+        "text": "Wednesday night"
+      },
+      {
+        "id": 2,
+        "text": "three"
+      },
+      {
+        "id": 3,
+        "text": "Aetna"
+      },
+      {
+        "id": 4,
+        "text": "125 miles"
+      },
+      {
+        "id": 5,
+        "text": "Wichita"
+      },
+      {
+        "id": 6,
+        "text": "Potosi"
+      },
+      {
+        "id": 7,
+        "text": "Missouri"
+      },
+      {
+        "id": 8,
+        "text": "The National Weather Service"
+      },
+      {
+        "id": 9,
+        "text": "Midwest"
+      },
+      {
+        "id": 10,
+        "text": "Mississippi River Valley"
+      },
+      {
+        "id": 11,
+        "text": "Tennessee River Valley"
+      },
+      {
+        "id": 12,
+        "text": "Great Lakes"
+      },
+      {
+        "id": 13,
+        "text": "Thursday"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "reportedOn",
+        "tail": 1
+      },
+      {
+        "head": 3,
+        "relation": "distanceFrom",
+        "tail": 5
+      },
+      {
+        "head": 6,
+        "relation": "locatedIn",
+        "tail": 7
+      },
+      {
+        "head": 8,
+        "relation": "warnedAbout",
+        "tail": 9
+      },
+      {
+        "head": 8,
+        "relation": "warnedAbout",
+        "tail": 10
+      },
+      {
+        "head": 8,
+        "relation": "warnedAbout",
+        "tail": 11
+      },
+      {
+        "head": 8,
+        "relation": "warnedAbout",
+        "tail": 12
+      },
+      {
+        "head": 8,
+        "relation": "warnedOn",
+        "tail": 13
+      }
+    ]
+  },
+  {
+    "document_id": 625,
+    "ragtruth_id": "829",
+    "text": "Severe storms in Kansas triggered tornado sirens and reports of twisters. A tornado was spotted near Goddard, but it moved away from the city. Other tornado sightings occurred in southwestern Kansas. The storms also affected Missouri, with reports of a possible tornado in Potosi, causing wind damage and flooding. More storms are expected in the Midwest, Mississippi River Valley, Tennessee River Valley, and near the southern Great Lakes.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "A tornado"
+      },
+      {
+        "id": 1,
+        "text": "Goddard"
+      },
+      {
+        "id": 2,
+        "text": "Severe storms in Kansas"
+      },
+      {
+        "id": 3,
+        "text": "Kansas"
+      },
+      {
+        "id": 4,
+        "text": "Missouri"
+      },
+      {
+        "id": 5,
+        "text": "Potosi"
+      },
+      {
+        "id": 6,
+        "text": "Midwest"
+      },
+      {
+        "id": 7,
+        "text": "Mississippi River Valley"
+      },
+      {
+        "id": 8,
+        "text": "Tennessee River Valley"
+      },
+      {
+        "id": 9,
+        "text": "Great Lakes"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "spottedNear",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "movedAwayFrom",
+        "tail": 1
+      },
+      {
+        "head": 2,
+        "relation": "affected",
+        "tail": 4
+      },
+      {
+        "head": 2,
+        "relation": "affected",
+        "tail": 3
+      },
+      {
+        "head": 2,
+        "relation": "expectedIn",
+        "tail": 6
+      },
+      {
+        "head": 2,
+        "relation": "expectedIn",
+        "tail": 7
+      },
+      {
+        "head": 2,
+        "relation": "expectedIn",
+        "tail": 8
+      },
+      {
+        "head": 2,
+        "relation": "expectedNear",
+        "tail": 9
+      }
+    ]
+  },
+  {
+    "document_id": 626,
+    "ragtruth_id": "830",
+    "text": "Tornado sirens sounded in Kansas and Missouri on Wednesday night as multiple storms with potential for tornadoes passed through the area. According to the Storm Prediction Center, three tornado sightings were reported in southwestern Kansas and one was possible in Missouri. Damage was reported in Potosi, Missouri, and Farmington, Illinois, due to hail and flooding. Another round of storms is expected in the Midwest and near the southern Great Lakes on Thursday.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Kansas and Missouri"
+      },
+      {
+        "id": 1,
+        "text": "Missouri"
+      },
+      {
+        "id": 2,
+        "text": "Wednesday night"
+      },
+      {
+        "id": 3,
+        "text": "the Storm Prediction Center"
+      },
+      {
+        "id": 4,
+        "text": "three"
+      },
+      {
+        "id": 5,
+        "text": "Kansas"
+      },
+      {
+        "id": 6,
+        "text": "Potosi"
+      },
+      {
+        "id": 7,
+        "text": "Farmington"
+      },
+      {
+        "id": 8,
+        "text": "Illinois"
+      },
+      {
+        "id": 9,
+        "text": "Midwest"
+      },
+      {
+        "id": 10,
+        "text": "Great Lakes"
+      },
+      {
+        "id": 11,
+        "text": "Thursday"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "locatedIn",
+        "tail": 5
+      },
+      {
+        "head": 0,
+        "relation": "locatedIn",
+        "tail": 1
+      },
+      {
+        "head": 6,
+        "relation": "locatedIn",
+        "tail": 1
+      },
+      {
+        "head": 7,
+        "relation": "locatedIn",
+        "tail": 8
+      }
+    ]
+  },
+  {
+    "document_id": 627,
+    "ragtruth_id": "831",
+    "text": "Here is a summary of the article in 65 words or less:\n\nSeveral tornadoes touched down in Kansas and Missouri on Wednesday night, causing damage and flooding. Reports of twisters also emerged in surrounding areas. The National Weather Service issued warnings for multiple states, with more storms expected on Thursday. Nighttime tornadoes are particularly dangerous, experts say.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "65"
+      },
+      {
+        "id": 1,
+        "text": "Kansas"
+      },
+      {
+        "id": 2,
+        "text": "Missouri"
+      },
+      {
+        "id": 3,
+        "text": "Wednesday night"
+      },
+      {
+        "id": 4,
+        "text": "The National Weather Service"
+      },
+      {
+        "id": 5,
+        "text": "Thursday"
+      },
+      {
+        "id": 6,
+        "text": "Nighttime"
+      }
+    ],
+    "relations": [
+      {
+        "head": 4,
+        "relation": "issuedWarningsFor",
+        "tail": 1
+      },
+      {
+        "head": 4,
+        "relation": "issuedWarningsFor",
+        "tail": 2
+      },
+      {
+        "head": 4,
+        "relation": "issuedWarningsOn",
+        "tail": 5
+      }
+    ]
+  },
+  {
+    "document_id": 628,
+    "ragtruth_id": "832",
+    "text": "Sure! Here's the summary within 65 words:\n\nTornado warnings in Kansas and Missouri as severe storms brought reports of twisters and heavy hail. Three tornadoes sighted near Aetna, MO, with damage to buildings and trees. Storms continue to threaten the Midwest and South through Thursday.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "65"
+      },
+      {
+        "id": 1,
+        "text": "Kansas"
+      },
+      {
+        "id": 2,
+        "text": "Missouri"
+      },
+      {
+        "id": 3,
+        "text": "Three"
+      },
+      {
+        "id": 4,
+        "text": "Aetna"
+      },
+      {
+        "id": 5,
+        "text": "MO"
+      },
+      {
+        "id": 6,
+        "text": "Midwest"
+      },
+      {
+        "id": 7,
+        "text": "South"
+      },
+      {
+        "id": 8,
+        "text": "Thursday"
+      }
+    ],
+    "relations": [
+      {
+        "head": 4,
+        "relation": "locatedIn",
+        "tail": 5
+      },
+      {
+        "head": 1,
+        "relation": "threatenedBy",
+        "tail": 6
+      },
+      {
+        "head": 1,
+        "relation": "threatenedBy",
+        "tail": 7
+      },
+      {
+        "head": 2,
+        "relation": "threatenedBy",
+        "tail": 6
+      },
+      {
+        "head": 2,
+        "relation": "threatenedBy",
+        "tail": 7
+      },
+      {
+        "head": 6,
+        "relation": "threatenedThrough",
+        "tail": 8
+      },
+      {
+        "head": 7,
+        "relation": "threatenedThrough",
+        "tail": 8
+      }
+    ]
+  },
+  {
+    "document_id": 629,
+    "ragtruth_id": "833",
+    "text": "Several tornadoes touched down in Kansas and Missouri on Wednesday night, with one missing Wichita by less than 15 miles. Other towns, such as Potosi, Missouri, were affected, with reports of wind damage and flooding. More storms are expected in the Midwest and surrounding regions on Thursday.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Missouri"
+      },
+      {
+        "id": 1,
+        "text": "Kansas"
+      },
+      {
+        "id": 2,
+        "text": "Wednesday night"
+      },
+      {
+        "id": 3,
+        "text": "one"
+      },
+      {
+        "id": 4,
+        "text": "Wichita"
+      },
+      {
+        "id": 5,
+        "text": "less than 15 miles"
+      },
+      {
+        "id": 6,
+        "text": "Potosi"
+      },
+      {
+        "id": 7,
+        "text": "Midwest"
+      },
+      {
+        "id": 8,
+        "text": "Thursday"
+      }
+    ],
+    "relations": [
+      {
+        "head": 3,
+        "relation": "missedBy",
+        "tail": 4
+      },
+      {
+        "head": 3,
+        "relation": "distance",
+        "tail": 5
+      },
+      {
+        "head": 6,
+        "relation": "locatedIn",
+        "tail": 0
+      },
+      {
+        "head": 3,
+        "relation": "occurredIn",
+        "tail": 1
+      },
+      {
+        "head": 3,
+        "relation": "occurredIn",
+        "tail": 0
+      },
+      {
+        "head": 3,
+        "relation": "time",
+        "tail": 2
+      },
+      {
+        "head": 3,
+        "relation": "expectedIn",
+        "tail": 7
+      },
+      {
+        "head": 3,
+        "relation": "expectedOn",
+        "tail": 8
+      }
+    ]
+  }
+]

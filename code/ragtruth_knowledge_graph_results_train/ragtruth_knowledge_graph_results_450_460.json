@@ -1,0 +1,792 @@
+[
+  {
+    "document_id": 450,
+    "ragtruth_id": "594",
+    "text": "DC Comics announced that Frank Miller will return to write the final chapter in his \"The Dark Knight Returns\" trilogy. The new comic, \"The Dark Knight III: The Master Race\", will be released in the fall.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Frank Miller"
+      },
+      {
+        "id": 1,
+        "text": "the final chapter in his \"The Dark Knight Returns\" trilogy"
+      },
+      {
+        "id": 2,
+        "text": "DC Comics"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "partOfTrilogy",
+        "tail": 0
+      },
+      {
+        "head": 1,
+        "relation": "publisher",
+        "tail": 2
+      }
+    ]
+  },
+  {
+    "document_id": 451,
+    "ragtruth_id": "595",
+    "text": "Frank Miller, the popular comic book writer, is returning to his famous story \"The Dark Knight Returns.\" DC Comics announced the final chapter in the trilogy, titled \"The Dark Knight III: The Master Race,\" set to be released in the fall. Miller will be joined by artist Brian Azzarello.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Frank Miller, the popular comic book writer"
+      },
+      {
+        "id": 1,
+        "text": "The Dark Knight Returns"
+      },
+      {
+        "id": 2,
+        "text": "DC Comics"
+      },
+      {
+        "id": 3,
+        "text": "The Dark Knight III: The Master Race"
+      },
+      {
+        "id": 4,
+        "text": "Brian Azzarello"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "creator",
+        "tail": 0
+      },
+      {
+        "head": 3,
+        "relation": "publisher",
+        "tail": 2
+      },
+      {
+        "head": 3,
+        "relation": "artist",
+        "tail": 4
+      }
+    ]
+  },
+  {
+    "document_id": 452,
+    "ragtruth_id": "596",
+    "text": "Frank Miller is returning to write \"The Dark Knight III: The Master Race,\" the final chapter in his \"The Dark Knight Returns\" trilogy. The new book will follow Bruce Wayne as he deals with a new threat to Gotham City.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Frank Miller"
+      },
+      {
+        "id": 1,
+        "text": "\"The Dark Knight III: The Master Race,\" the final chapter in his \"The Dark Knight Returns\" trilogy"
+      },
+      {
+        "id": 2,
+        "text": "Bruce Wayne"
+      },
+      {
+        "id": 3,
+        "text": "Gotham City"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "writer",
+        "tail": 0
+      },
+      {
+        "head": 1,
+        "relation": "partOfSeries",
+        "tail": 0
+      },
+      {
+        "head": 1,
+        "relation": "follows",
+        "tail": 2
+      },
+      {
+        "head": 1,
+        "relation": "about",
+        "tail": 2
+      },
+      {
+        "head": 1,
+        "relation": "setIn",
+        "tail": 3
+      }
+    ]
+  },
+  {
+    "document_id": 453,
+    "ragtruth_id": "597",
+    "text": "Frank Miller is returning to his iconic \"The Dark Knight Returns\" series with a new installment, \"The Dark Knight III: The Master Race,\" 30 years after the original.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Frank Miller"
+      },
+      {
+        "id": 1,
+        "text": "The Dark Knight Returns"
+      },
+      {
+        "id": 2,
+        "text": "The Dark Knight III: The Master Race"
+      },
+      {
+        "id": 3,
+        "text": "30 years"
+      }
+    ],
+    "relations": [
+      {
+        "head": 2,
+        "relation": "series",
+        "tail": 1
+      },
+      {
+        "head": 2,
+        "relation": "creator",
+        "tail": 0
+      },
+      {
+        "head": 2,
+        "relation": "timeAfter",
+        "tail": 3
+      }
+    ]
+  },
+  {
+    "document_id": 454,
+    "ragtruth_id": "598",
+    "text": "Frank Miller returns to his iconic \"The Dark Knight Returns\" series with \"The Dark Knight III: The Master Race\", the final chapter, due out this fall. Batman remains Miller's favorite hero, and he promises to deliver a daunting sequel alongside artist Brian Azzarello.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Frank Miller"
+      },
+      {
+        "id": 1,
+        "text": "The Dark Knight Returns"
+      },
+      {
+        "id": 2,
+        "text": "The Dark Knight III: The Master Race"
+      },
+      {
+        "id": 3,
+        "text": "this fall"
+      },
+      {
+        "id": 4,
+        "text": "Brian Azzarello"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "creator",
+        "tail": 0
+      },
+      {
+        "head": 2,
+        "relation": "partOfSeries",
+        "tail": 1
+      },
+      {
+        "head": 2,
+        "relation": "releaseDate",
+        "tail": 3
+      },
+      {
+        "head": 2,
+        "relation": "collaborator",
+        "tail": 4
+      }
+    ]
+  },
+  {
+    "document_id": 455,
+    "ragtruth_id": "599",
+    "text": "Frank Miller returns to his iconic Batman story with \"The Dark Knight III: The Master Race,\" the final chapter in his \"The Dark Knight Returns\" trilogy, to be released this fall.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Frank Miller"
+      },
+      {
+        "id": 1,
+        "text": "Batman"
+      },
+      {
+        "id": 2,
+        "text": "The Dark Knight III: The Master Race"
+      },
+      {
+        "id": 3,
+        "text": "The Dark Knight Returns"
+      },
+      {
+        "id": 4,
+        "text": "this fall"
+      }
+    ],
+    "relations": [
+      {
+        "head": 2,
+        "relation": "partOfTrilogy",
+        "tail": 3
+      },
+      {
+        "head": 2,
+        "relation": "creator",
+        "tail": 0
+      },
+      {
+        "head": 3,
+        "relation": "creator",
+        "tail": 0
+      },
+      {
+        "head": 2,
+        "relation": "character",
+        "tail": 1
+      },
+      {
+        "head": 2,
+        "relation": "releaseDate",
+        "tail": 4
+      }
+    ]
+  },
+  {
+    "document_id": 456,
+    "ragtruth_id": "624",
+    "text": "Giovanni Lo Porto, a charity worker from Italy, was kidnapped in Pakistan in 2012 and was then killed in a US drone strike in 2015. Lo Porto had gone to Pakistan to work on a reconstruction project following flooding in the country. He and his German colleague, Bernd Muehlenbeck, were abducted by four armed men. Muehlenbeck was released in 2014, but Lo Porto was killed in a drone strike along with fellow hostage, Warren Weinstein. The drone strike also killed al Qaeda leader, Ahmed Farouq. Lo Porto had been working for German aid organisation, Welthungerlife. He was a project manager for the group’s clean water and sanitation programme. His friends and family had campaigned for his release after his abduction. The Pakistani Taliban and al Qaeda both denied kidnapping him.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Giovanni Lo Porto, a charity worker from Italy"
+      },
+      {
+        "id": 1,
+        "text": "Pakistan"
+      },
+      {
+        "id": 2,
+        "text": "his German colleague, Bernd Muehlenbeck"
+      },
+      {
+        "id": 3,
+        "text": "a drone strike"
+      },
+      {
+        "id": 4,
+        "text": "German aid organisation, Welthungerlife"
+      },
+      {
+        "id": 5,
+        "text": "kidnapped"
+      },
+      {
+        "id": 6,
+        "text": "al Qaeda"
+      },
+      {
+        "id": 7,
+        "text": "2012"
+      },
+      {
+        "id": 8,
+        "text": "US"
+      },
+      {
+        "id": 9,
+        "text": "2015"
+      },
+      {
+        "id": 10,
+        "text": "four"
+      },
+      {
+        "id": 11,
+        "text": "2014"
+      },
+      {
+        "id": 12,
+        "text": "Warren Weinstein"
+      },
+      {
+        "id": 13,
+        "text": "Ahmed Farouq"
+      },
+      {
+        "id": 14,
+        "text": "Pakistani"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "nationality",
+        "tail": 14
+      },
+      {
+        "head": 0,
+        "relation": "countryOfWork",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "employer",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "abductionPlace",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "abductionDate",
+        "tail": 7
+      },
+      {
+        "head": 0,
+        "relation": "deathPlace",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "deathDate",
+        "tail": 9
+      },
+      {
+        "head": 0,
+        "relation": "killedBy",
+        "tail": 3
+      },
+      {
+        "head": 2,
+        "relation": "abductedWith",
+        "tail": 0
+      },
+      {
+        "head": 2,
+        "relation": "releaseDate",
+        "tail": 11
+      },
+      {
+        "head": 3,
+        "relation": "killed",
+        "tail": 12
+      },
+      {
+        "head": 3,
+        "relation": "killed",
+        "tail": 13
+      },
+      {
+        "head": 6,
+        "relation": "deniedKidnapping",
+        "tail": 0
+      }
+    ]
+  },
+  {
+    "document_id": 457,
+    "ragtruth_id": "625",
+    "text": "Giovanni Lo Porto, an Italian aid worker, was killed in a U.S. drone strike in 2015 while being held hostage by al Qaeda in Pakistan. Lo Porto had been working on a reconstruction project in Pakistan following deadly flooding in 2010. He was abducted along with colleague Bernd Muehlenbeck in 2012. Two years later, the drone strike accidentally killed Lo Porto and American hostage Warren Weinstein. The strike also killed al Qaeda leader Ahmed Farouq, who was a U.S. citizen. Lo Porto had studied Peace and Conflict Studies at London Metropolitan University and was described as passionate and committed to helping others. He was working with the German aid organization Welthungerlife on a clean water and sanitation program. Lo Porto's family and friends had advocated for his release, but he was never freed. The Italian government expressed deep sorrow for his death, and his former charity was left speechless and confused.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Giovanni Lo Porto, an Italian aid worker"
+      },
+      {
+        "id": 1,
+        "text": "Pakistan"
+      },
+      {
+        "id": 2,
+        "text": "a U.S. drone strike"
+      },
+      {
+        "id": 3,
+        "text": "al Qaeda"
+      },
+      {
+        "id": 4,
+        "text": "killed"
+      },
+      {
+        "id": 5,
+        "text": "the German aid organization Welthungerlife"
+      },
+      {
+        "id": 6,
+        "text": "2015"
+      },
+      {
+        "id": 7,
+        "text": "2010"
+      },
+      {
+        "id": 8,
+        "text": "Bernd Muehlenbeck"
+      },
+      {
+        "id": 9,
+        "text": "2012"
+      },
+      {
+        "id": 10,
+        "text": "Two years later"
+      },
+      {
+        "id": 11,
+        "text": "American"
+      },
+      {
+        "id": 12,
+        "text": "Warren Weinstein"
+      },
+      {
+        "id": 13,
+        "text": "Ahmed Farouq"
+      },
+      {
+        "id": 14,
+        "text": "U.S."
+      },
+      {
+        "id": 15,
+        "text": "London Metropolitan University"
+      },
+      {
+        "id": 16,
+        "text": "Italian"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "killedBy",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "deathPlace",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "hostageOf",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "workedIn",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "abductedIn",
+        "tail": 9
+      },
+      {
+        "head": 2,
+        "relation": "deathYear",
+        "tail": 6
+      },
+      {
+        "head": 2,
+        "relation": "killed",
+        "tail": 0
+      },
+      {
+        "head": 2,
+        "relation": "killed",
+        "tail": 12
+      },
+      {
+        "head": 2,
+        "relation": "killed",
+        "tail": 13
+      },
+      {
+        "head": 13,
+        "relation": "memberOf",
+        "tail": 3
+      },
+      {
+        "head": 13,
+        "relation": "citizenship",
+        "tail": 14
+      },
+      {
+        "head": 0,
+        "relation": "educatedAt",
+        "tail": 15
+      },
+      {
+        "head": 0,
+        "relation": "workedWith",
+        "tail": 5
+      }
+    ]
+  },
+  {
+    "document_id": 458,
+    "ragtruth_id": "626",
+    "text": "Giovanni Lo Porto, an Italian aid worker, was kidnapped by four armed men from his home in Pakistan on January 19, 2012. He was working with a German aid organization, Welthungerlife, on a reconstruction project following devastating floods in the country. Two years later, Lo Porto was killed accidentally by a U.S. drone strike while he and another hostage, Warren Weinstein, were being held by al Qaeda. Lo Porto had grown up in Sicily and studied at London Metropolitan University, where he was remembered as a passionate, friendly, and open-minded individual. He was passionate about helping others and dedicated his life to fighting hunger and poverty worldwide. His work took him to some of the most needy places in the world, including Pakistan. In October 2011, Lo Porto began working with 8 to 10 fellow international staffers and 100 to 200 locals on a clean water and sanitation project. His family and friends urged Italy's government and newspaper editors to get his story out after he was taken captive, but Lo Porto never got the chance to be freed. Italian Foreign Minister Paolo Gentiloni expressed his deepest sorrow for Lo Porto's death and blamed the U.S. for the error that led to his demise.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Giovanni Lo Porto, an Italian aid worker"
+      },
+      {
+        "id": 1,
+        "text": "Pakistan"
+      },
+      {
+        "id": 2,
+        "text": "Italian Foreign Minister Paolo Gentiloni"
+      },
+      {
+        "id": 3,
+        "text": "killed"
+      },
+      {
+        "id": 4,
+        "text": "four"
+      },
+      {
+        "id": 5,
+        "text": "January 19, 2012"
+      },
+      {
+        "id": 6,
+        "text": "German"
+      },
+      {
+        "id": 7,
+        "text": "Welthungerlife"
+      },
+      {
+        "id": 8,
+        "text": "Two years later"
+      },
+      {
+        "id": 9,
+        "text": "U.S."
+      },
+      {
+        "id": 10,
+        "text": "Warren Weinstein"
+      },
+      {
+        "id": 11,
+        "text": "al Qaeda"
+      },
+      {
+        "id": 12,
+        "text": "Sicily"
+      },
+      {
+        "id": 13,
+        "text": "London Metropolitan University"
+      },
+      {
+        "id": 14,
+        "text": "October 2011"
+      },
+      {
+        "id": 15,
+        "text": "8 to 10"
+      },
+      {
+        "id": 16,
+        "text": "100 to 200"
+      },
+      {
+        "id": 17,
+        "text": "Italy"
+      },
+      {
+        "id": 18,
+        "text": "U.S."
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "kidnappedIn",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "kidnappedOn",
+        "tail": 5
+      },
+      {
+        "head": 0,
+        "relation": "workedWith",
+        "tail": 7
+      },
+      {
+        "head": 0,
+        "relation": "heldBy",
+        "tail": 11
+      },
+      {
+        "head": 0,
+        "relation": "grewUpIn",
+        "tail": 12
+      },
+      {
+        "head": 0,
+        "relation": "educatedAt",
+        "tail": 13
+      },
+      {
+        "head": 0,
+        "relation": "beganWorkingIn",
+        "tail": 14
+      },
+      {
+        "head": 0,
+        "relation": "workedIn",
+        "tail": 1
+      },
+      {
+        "head": 2,
+        "relation": "nationality",
+        "tail": 17
+      }
+    ]
+  },
+  {
+    "document_id": 459,
+    "ragtruth_id": "627",
+    "text": "Giovanni Lo Porto, an Italian aid worker, was abducted by al Qaeda in Pakistan in 2012 and later killed in a US drone strike. He was working on a reconstruction project in Multan, Pakistan, where he was born and raised. Lo Porto studied peace and conflict studies at London Metropolitan University and was a project manager for the German aid organization Welthungerlife. Despite efforts by the Italian government to secure his release, Lo Porto was killed two years after his abduction. His death has left his family and colleagues shocked and devastated.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Giovanni Lo Porto, an Italian aid worker"
+      },
+      {
+        "id": 1,
+        "text": "Pakistan"
+      },
+      {
+        "id": 2,
+        "text": "abducted"
+      },
+      {
+        "id": 3,
+        "text": "killed"
+      },
+      {
+        "id": 4,
+        "text": "al Qaeda"
+      },
+      {
+        "id": 5,
+        "text": "2012"
+      },
+      {
+        "id": 6,
+        "text": "US"
+      },
+      {
+        "id": 7,
+        "text": "Multan"
+      },
+      {
+        "id": 8,
+        "text": "London Metropolitan University"
+      },
+      {
+        "id": 9,
+        "text": "German"
+      },
+      {
+        "id": 10,
+        "text": "Welthungerlife"
+      },
+      {
+        "id": 11,
+        "text": "Italian"
+      },
+      {
+        "id": 12,
+        "text": "two years"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "abductedBy",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "abductedIn",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "abductedIn",
+        "tail": 7
+      },
+      {
+        "head": 0,
+        "relation": "abductedInYear",
+        "tail": 5
+      },
+      {
+        "head": 0,
+        "relation": "killedBy",
+        "tail": 6
+      },
+      {
+        "head": 0,
+        "relation": "educatedAt",
+        "tail": 8
+      },
+      {
+        "head": 0,
+        "relation": "employer",
+        "tail": 10
+      },
+      {
+        "head": 0,
+        "relation": "workedIn",
+        "tail": 7
+      },
+      {
+        "head": 0,
+        "relation": "bornIn",
+        "tail": 7
+      },
+      {
+        "head": 0,
+        "relation": "bornIn",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "killedAfter",
+        "tail": 12
+      }
+    ]
+  }
+]

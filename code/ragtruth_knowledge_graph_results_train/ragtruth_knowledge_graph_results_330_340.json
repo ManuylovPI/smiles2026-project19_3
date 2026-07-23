@@ -1,0 +1,660 @@
+[
+  {
+    "document_id": 330,
+    "ragtruth_id": "438",
+    "text": "A trailer for \"Batman v. Superman: Dawn of Justice\" has been remade by YouTuber Bobby Burns, who used classic superhero footage to create his own version. Instead of Ben Affleck and Henry Cavill, Burns' trailer imagines what it would be like if classic characters Adam West and Christopher Reeve took their places. The video has since gone viral.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "YouTuber Bobby Burns, who used classic superhero footage to create his own version"
+      },
+      {
+        "id": 1,
+        "text": "A trailer for \"Batman v. Superman: Dawn of Justice\""
+      },
+      {
+        "id": 2,
+        "text": "Ben Affleck and Henry Cavill"
+      },
+      {
+        "id": 3,
+        "text": "Adam West"
+      },
+      {
+        "id": 4,
+        "text": "Christopher Reeve"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "remadeBy",
+        "tail": 0
+      }
+    ]
+  },
+  {
+    "document_id": 331,
+    "ragtruth_id": "439",
+    "text": "A YouTuber named Bobby Burns has created a viral video by replacing Ben Affleck and Henry Cavill with Adam West and Christopher Reeve in the trailer for \"Batman v. Superman: Dawn of Justice.\" Burns said he came up with the idea after seeing the trailer and thinking about how it would be if the film was made in the past. The reaction to his video has been positive.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "A YouTuber named Bobby Burns"
+      },
+      {
+        "id": 1,
+        "text": "replacing"
+      },
+      {
+        "id": 2,
+        "text": "the trailer for \"Batman v. Superman: Dawn of Justice"
+      },
+      {
+        "id": 3,
+        "text": "Batman v. Superman: Dawn of Justice"
+      },
+      {
+        "id": 4,
+        "text": "a viral video"
+      },
+      {
+        "id": 5,
+        "text": "Ben Affleck"
+      },
+      {
+        "id": 6,
+        "text": "Henry Cavill"
+      },
+      {
+        "id": 7,
+        "text": "Adam West"
+      },
+      {
+        "id": 8,
+        "text": "Christopher Reeve"
+      }
+    ],
+    "relations": [
+      {
+        "head": 4,
+        "relation": "createdBy",
+        "tail": 0
+      },
+      {
+        "head": 2,
+        "relation": "partOfFilm",
+        "tail": 3
+      }
+    ]
+  },
+  {
+    "document_id": 332,
+    "ragtruth_id": "440",
+    "text": "A fan created a parody trailer for \"Batman v. Superman: Dawn of Justice\" using classic superhero footage featuring Adam West and Christopher Reeve instead of Ben Affleck and Henry Cavill. The 18-year-old creator started making YouTube videos when he was 11 and has since worked for the Made In Network in Nashville, Tennessee. His parody trailer received positive feedback from viewers.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "A fan"
+      },
+      {
+        "id": 1,
+        "text": "a parody trailer for \"Batman v. Superman: Dawn of Justice\""
+      },
+      {
+        "id": 2,
+        "text": "Adam West"
+      },
+      {
+        "id": 3,
+        "text": "Christopher Reeve"
+      },
+      {
+        "id": 4,
+        "text": "Ben Affleck"
+      },
+      {
+        "id": 5,
+        "text": "Henry Cavill"
+      },
+      {
+        "id": 6,
+        "text": "YouTube"
+      },
+      {
+        "id": 7,
+        "text": "11"
+      },
+      {
+        "id": 8,
+        "text": "the Made In Network"
+      },
+      {
+        "id": 9,
+        "text": "Nashville"
+      },
+      {
+        "id": 10,
+        "text": "Tennessee"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "creator",
+        "tail": 0
+      },
+      {
+        "head": 1,
+        "relation": "features",
+        "tail": 2
+      },
+      {
+        "head": 1,
+        "relation": "features",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "startedMakingVideosAtAge",
+        "tail": 7
+      },
+      {
+        "head": 0,
+        "relation": "workedFor",
+        "tail": 8
+      },
+      {
+        "head": 8,
+        "relation": "locatedIn",
+        "tail": 9
+      },
+      {
+        "head": 9,
+        "relation": "locatedIn",
+        "tail": 10
+      }
+    ]
+  },
+  {
+    "document_id": 333,
+    "ragtruth_id": "441",
+    "text": "A YouTuber named Bobby Burns created a viral video remaking the trailer for \"Batman v. Superman: Dawn of Justice\" using classic footage from the 1960s \"Batman\" TV series starring Adam West and the 1970s \"Superman\" films starring Christopher Reeve. Burns, 18, created the video in response to the recent trailer release and has received positive feedback from fans.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "A YouTuber named Bobby Burns"
+      },
+      {
+        "id": 1,
+        "text": "a viral video remaking the trailer for \"Batman v. Superman: Dawn of Justice\""
+      },
+      {
+        "id": 2,
+        "text": "the 1960s"
+      },
+      {
+        "id": 3,
+        "text": "Batman\" TV"
+      },
+      {
+        "id": 4,
+        "text": "Adam West"
+      },
+      {
+        "id": 5,
+        "text": "the 1970s"
+      },
+      {
+        "id": 6,
+        "text": "Superman"
+      },
+      {
+        "id": 7,
+        "text": "Christopher Reeve"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "creator",
+        "tail": 0
+      },
+      {
+        "head": 3,
+        "relation": "starring",
+        "tail": 4
+      },
+      {
+        "head": 6,
+        "relation": "starring",
+        "tail": 7
+      }
+    ]
+  },
+  {
+    "document_id": 334,
+    "ragtruth_id": "442",
+    "text": "A YouTuber named Bobby Burns created a viral fan trailer for \"Batman v. Superman: Dawn of Justice\" that imagines the movie with Adam West and Christopher Reeve instead of Ben Affleck and Henry Cavill. Burns, 18, started making YouTube videos at age 11 and was inspired by the classic \"Batman\" TV series. His edit gained a great reaction within four hours of being uploaded.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Batman v. Superman: Dawn of Justice"
+      },
+      {
+        "id": 1,
+        "text": "A YouTuber named Bobby Burns"
+      },
+      {
+        "id": 2,
+        "text": "Adam West"
+      },
+      {
+        "id": 3,
+        "text": "Christopher Reeve"
+      },
+      {
+        "id": 4,
+        "text": "Ben Affleck"
+      },
+      {
+        "id": 5,
+        "text": "Henry Cavill"
+      },
+      {
+        "id": 6,
+        "text": "YouTube"
+      },
+      {
+        "id": 7,
+        "text": "age 11"
+      },
+      {
+        "id": 8,
+        "text": "Batman\" TV"
+      },
+      {
+        "id": 9,
+        "text": "four hours"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "createdBy",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "castReplacement",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "castReplacement",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "castReplaced",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "castReplaced",
+        "tail": 5
+      },
+      {
+        "head": 1,
+        "relation": "startedMakingVideosAtAge",
+        "tail": 7
+      },
+      {
+        "head": 1,
+        "relation": "inspiredBy",
+        "tail": 8
+      },
+      {
+        "head": 1,
+        "relation": "uploadedOn",
+        "tail": 6
+      },
+      {
+        "head": 1,
+        "relation": "reactionWithin",
+        "tail": 9
+      }
+    ]
+  },
+  {
+    "document_id": 335,
+    "ragtruth_id": "443",
+    "text": "A fan-made trailer for \"Batman v. Superman: Dawn of Justice\" featuring classic superhero footage of Adam West and Christopher Reeve has gone viral. Creator Bobby Burns, 18, wanted to contrast the old with the new and received a positive reaction from fans.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Batman v. Superman: Dawn"
+      },
+      {
+        "id": 1,
+        "text": "Justice"
+      },
+      {
+        "id": 2,
+        "text": "Adam West"
+      },
+      {
+        "id": 3,
+        "text": "Christopher Reeve"
+      },
+      {
+        "id": 4,
+        "text": "Creator Bobby Burns"
+      },
+      {
+        "id": 5,
+        "text": "18"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "partOf",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "features",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "features",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "creator",
+        "tail": 4
+      },
+      {
+        "head": 4,
+        "relation": "age",
+        "tail": 5
+      }
+    ]
+  },
+  {
+    "document_id": 336,
+    "ragtruth_id": "450",
+    "text": "The author of a 2006 novel, Peter Gallagher, has accused \"Avengers\" and \"Cabin\" director, Joss Whedon, of stealing his idea for the 2012 film \"The Cabin in the Woods\". Gallagher is suing Whedon, Drew Goddard (who co-wrote the script), Lionsgate and Whedon's Mutant Enemy production company for copyright infringement and is asking for $10 million in damages. Gallagher claims that Whedon and Goddard took the idea for \"The Cabin in the Woods\" from his 2006 novel \"The Little White Trip: A Night In the Pines\", and alleges similarities in the works' premises, characters' names and personalities, and certain scenes.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "The author of a 2006 novel, Peter Gallagher"
+      },
+      {
+        "id": 1,
+        "text": "\"Avengers\" and \"Cabin\" director, Joss Whedon,"
+      },
+      {
+        "id": 2,
+        "text": "Drew Goddard (who co-wrote the script)"
+      },
+      {
+        "id": 3,
+        "text": "the 2012 film \"The Cabin in the Woods\""
+      },
+      {
+        "id": 4,
+        "text": "a 2006 novel"
+      },
+      {
+        "id": 5,
+        "text": "Lionsgate"
+      },
+      {
+        "id": 6,
+        "text": "$10 million"
+      }
+    ],
+    "relations": [
+      {
+        "head": 3,
+        "relation": "basedOn",
+        "tail": 4
+      },
+      {
+        "head": 3,
+        "relation": "coWriter",
+        "tail": 2
+      }
+    ]
+  },
+  {
+    "document_id": 337,
+    "ragtruth_id": "451",
+    "text": "Joss Whedon, the director of \"Avengers: Age of Ultron,\" is facing a lawsuit accusing him of stealing the idea for the 2012 horror movie \"The Cabin in the Woods.\" The author of a 2006 novel, Peter Gallagher, claims that Whedon and director Drew Goddard took the idea from his book, \"The Little White Trip: A Night In the Pines.\" Gallagher is suing for copyright infringement and is seeking $10 million in damages. He alleges similarities in the premises, character names, and certain scenes between the book and the movie. Representatives for Whedon and Goddard have not commented on the lawsuit.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Joss Whedon, the director of \"Avengers: Age of Ultron"
+      },
+      {
+        "id": 1,
+        "text": "the idea for the 2012 horror movie \"The Cabin in the Woods"
+      },
+      {
+        "id": 2,
+        "text": "The author of a 2006 novel, Peter Gallagher"
+      },
+      {
+        "id": 3,
+        "text": "a lawsuit accusing him of stealing the idea for the 2012 horror movie \"The Cabin in the Woods"
+      },
+      {
+        "id": 4,
+        "text": "his book, \"The Little White Trip: A Night In the Pines"
+      },
+      {
+        "id": 5,
+        "text": "the 2012 horror movie \"The Cabin in the Woods"
+      },
+      {
+        "id": 6,
+        "text": "Whedon and director Drew Goddard"
+      },
+      {
+        "id": 7,
+        "text": "director Drew Goddard"
+      },
+      {
+        "id": 8,
+        "text": "$10 million"
+      }
+    ],
+    "relations": [
+      {
+        "head": 5,
+        "relation": "ideaSource",
+        "tail": 4
+      },
+      {
+        "head": 3,
+        "relation": "accuses",
+        "tail": 0
+      },
+      {
+        "head": 3,
+        "relation": "accuses",
+        "tail": 6
+      },
+      {
+        "head": 2,
+        "relation": "sues",
+        "tail": 3
+      },
+      {
+        "head": 2,
+        "relation": "seeksDamages",
+        "tail": 8
+      }
+    ]
+  },
+  {
+    "document_id": 338,
+    "ragtruth_id": "452",
+    "text": "Joss Whedon, the director of \"Avengers: Age of Ultron,\" is facing a lawsuit accusing him of stealing the idea for the 2012 film \"The Cabin in the Woods.\" The lawsuit was filed by Peter Gallagher, who claims Whedon and \"Cabin\" director Drew Goddard took his idea for the book \"The Little White Trip: A Night In the Pines\" without permission and used it to create the film. Gallagher is seeking $10 million in damages. The similarities between the two works include a group of young people being terrorized by monsters while staying at a cabin, as well as similar character names and personalities.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Joss Whedon, the director of \"Avengers: Age of Ultron"
+      },
+      {
+        "id": 1,
+        "text": "a lawsuit accusing him of stealing the idea for the 2012 film \"The Cabin in the Woods"
+      },
+      {
+        "id": 2,
+        "text": "the 2012 film \"The Cabin in the Woods"
+      },
+      {
+        "id": 3,
+        "text": "the idea for the 2012 film \"The Cabin in the Woods"
+      },
+      {
+        "id": 4,
+        "text": "his"
+      },
+      {
+        "id": 5,
+        "text": "Peter Gallagher"
+      },
+      {
+        "id": 6,
+        "text": "Drew Goddard"
+      },
+      {
+        "id": 7,
+        "text": "$10 million"
+      },
+      {
+        "id": 8,
+        "text": "two"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "filedBy",
+        "tail": 5
+      },
+      {
+        "head": 1,
+        "relation": "accuses",
+        "tail": 0
+      },
+      {
+        "head": 1,
+        "relation": "accuses",
+        "tail": 3
+      },
+      {
+        "head": 1,
+        "relation": "accuses",
+        "tail": 2
+      },
+      {
+        "head": 2,
+        "relation": "director",
+        "tail": 6
+      },
+      {
+        "head": 2,
+        "relation": "usedIdea",
+        "tail": 3
+      },
+      {
+        "head": 5,
+        "relation": "seeksDamages",
+        "tail": 7
+      }
+    ]
+  },
+  {
+    "document_id": 339,
+    "ragtruth_id": "453",
+    "text": "Author Peter Gallagher has accused Joss Whedon and Drew Goddard of stealing the idea for their 2012 movie \"The Cabin in the Woods\" from his 2006 novel \"The Little White Trip: A Night In the Pines\". Gallagher is seeking $10 million in damages for copyright infringement and has filed the lawsuit in California federal court. The complaint highlights similarities between the two works' premises, characters' names and personalities, and certain scenes involving the characters finding strange items in their cabins. Lionsgate and Mutant Enemy, Whedon's production company, are also named as defendants in the lawsuit.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Joss Whedon and Drew Goddard"
+      },
+      {
+        "id": 1,
+        "text": "Author Peter Gallagher"
+      },
+      {
+        "id": 2,
+        "text": "the lawsuit"
+      },
+      {
+        "id": 3,
+        "text": "characters'"
+      },
+      {
+        "id": 4,
+        "text": "Joss Whedon"
+      },
+      {
+        "id": 5,
+        "text": "2012"
+      },
+      {
+        "id": 6,
+        "text": "\"The Cabin in the Woods"
+      },
+      {
+        "id": 7,
+        "text": "2006"
+      },
+      {
+        "id": 8,
+        "text": "The Little White Trip: A Night In the Pines"
+      },
+      {
+        "id": 9,
+        "text": "$10 million"
+      },
+      {
+        "id": 10,
+        "text": "California"
+      },
+      {
+        "id": 11,
+        "text": "two"
+      },
+      {
+        "id": 12,
+        "text": "Mutant Enemy"
+      }
+    ],
+    "relations": [
+      {
+        "head": 6,
+        "relation": "basedOn",
+        "tail": 8
+      },
+      {
+        "head": 2,
+        "relation": "filedIn",
+        "tail": 10
+      },
+      {
+        "head": 12,
+        "relation": "ownedBy",
+        "tail": 4
+      }
+    ]
+  }
+]

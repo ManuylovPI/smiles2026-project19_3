@@ -1,0 +1,609 @@
+[
+  {
+    "document_id": 630,
+    "ragtruth_id": "846",
+    "text": "A passenger on a Toronto to Atlanta Air Canada flight attempted to choke a fellow passenger with a cord. Oliver Minatel, a professional footballer, was asleep when he felt something around his neck. Other passengers intervened and the attacker was kept under surveillance for the remainder of the flight. The attacker was not restrained but was told to keep his seatbelt on. On arrival, the man was escorted from the plane by US authorities and taken for medical/mental evaluation. No federal charges are currently pending. The attacker had said that the football team were there to kill him.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "a fellow passenger"
+      },
+      {
+        "id": 1,
+        "text": "A passenger on a Toronto to Atlanta Air Canada flight"
+      },
+      {
+        "id": 2,
+        "text": "a Toronto to Atlanta Air Canada flight"
+      },
+      {
+        "id": 3,
+        "text": "US"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "passengerOn",
+        "tail": 2
+      }
+    ]
+  },
+  {
+    "document_id": 631,
+    "ragtruth_id": "847",
+    "text": "A passenger on an Air Canada flight from Toronto to Atlanta was attacked by a stranger who tried to choke him. The incident occurred about half an hour before the flight landed, and the man was not restrained for the rest of the trip. The flight crew told him to stay seated with his seat belt on, but he continued to try and get out of his seat. The flight landed at Atlanta's Hartsfield airport, where the suspect was escorted off the plane and taken for medical/mental evaluation. The victim, a professional soccer player traveling with his team, was unharmed. Witnesses saw the suspect try to choke the victim with the cord of his headphones.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "A passenger on an Air Canada flight from Toronto to Atlanta"
+      },
+      {
+        "id": 1,
+        "text": "attacked"
+      },
+      {
+        "id": 2,
+        "text": "an Air Canada flight from Toronto to Atlanta"
+      },
+      {
+        "id": 3,
+        "text": "Atlanta"
+      },
+      {
+        "id": 4,
+        "text": "a stranger who tried to choke him"
+      },
+      {
+        "id": 5,
+        "text": "about half an hour"
+      },
+      {
+        "id": 6,
+        "text": "Hartsfield"
+      }
+    ],
+    "relations": [
+      {
+        "head": 2,
+        "relation": "destination",
+        "tail": 3
+      },
+      {
+        "head": 1,
+        "relation": "timeBeforeLanding",
+        "tail": 5
+      },
+      {
+        "head": 1,
+        "relation": "occurredOn",
+        "tail": 2
+      },
+      {
+        "head": 2,
+        "relation": "landedAt",
+        "tail": 6
+      }
+    ]
+  },
+  {
+    "document_id": 632,
+    "ragtruth_id": "848",
+    "text": "A passenger on an Atlanta-bound Air Canada flight reported that a stranger sitting behind him tried to choke him on the plane. The incident occurred about a half-hour before the flight landed and was stopped by other passengers before the police were involved. The passenger, Oliver Minatel, is a professional soccer player who was traveling with his team. Several witnesses said they saw the suspect try to choke Minatel with a headphone cord. The suspect was not restrained for the rest of the trip, but the flight crew told him to stay seated with his seatbelt on. The incident has resulted in a review of security measures on the plane.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "A passenger on an Atlanta-bound Air Canada flight"
+      },
+      {
+        "id": 1,
+        "text": "an Atlanta-bound Air Canada flight"
+      },
+      {
+        "id": 2,
+        "text": "tried"
+      },
+      {
+        "id": 3,
+        "text": "Several witnesses"
+      },
+      {
+        "id": 4,
+        "text": "a stranger sitting behind him"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "reported",
+        "tail": 2
+      },
+      {
+        "head": 2,
+        "relation": "occurredOn",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "travelingOn",
+        "tail": 1
+      },
+      {
+        "head": 3,
+        "relation": "witnessed",
+        "tail": 2
+      },
+      {
+        "head": 4,
+        "relation": "triedToChoke",
+        "tail": 0
+      }
+    ]
+  },
+  {
+    "document_id": 633,
+    "ragtruth_id": "849",
+    "text": "A passenger on an Air Canada flight from Toronto to Atlanta attempted to choke another passenger with a cord from his headphones. The incident occurred about an hour before landing and the suspect was not restrained for the rest of the flight. The victim, a professional soccer player, was able to force the cord down and other passengers helped him. The suspect was escorted off the plane by authorities and is currently undergoing medical and mental evaluation. The soccer team the victim was traveling with released a statement expressing gratitude for the help of other passengers and relief that the victim is okay.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "another passenger"
+      },
+      {
+        "id": 1,
+        "text": "attempted"
+      },
+      {
+        "id": 2,
+        "text": "an Air Canada flight from Toronto to Atlanta"
+      },
+      {
+        "id": 3,
+        "text": "a cord from his headphones"
+      },
+      {
+        "id": 4,
+        "text": "about an hour"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "occurredOn",
+        "tail": 4
+      },
+      {
+        "head": 1,
+        "relation": "occurredDuring",
+        "tail": 2
+      }
+    ]
+  },
+  {
+    "document_id": 634,
+    "ragtruth_id": "850",
+    "text": "Sure! Here is the summary you requested:\n\nAn Air Canada flight from Toronto to Atlanta was met with chaos when a passenger attempted to choke another passenger. Oliver Minatel, a professional soccer player, reported feeling something around his neck while sleeping and found the passenger behind him trying to strangle him with the cord of his headphones. The suspect was restrained by other passengers and eventually escorted off the plane. No federal charges have been filed, but the incident is being investigated by the FBI and local authorities.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "another passenger"
+      },
+      {
+        "id": 1,
+        "text": "a passenger"
+      },
+      {
+        "id": 2,
+        "text": "An Air Canada flight from Toronto to Atlanta"
+      },
+      {
+        "id": 3,
+        "text": "FBI"
+      }
+    ],
+    "relations": [
+      {
+        "head": 2,
+        "relation": "hasPassenger",
+        "tail": 1
+      },
+      {
+        "head": 2,
+        "relation": "hasPassenger",
+        "tail": 0
+      },
+      {
+        "head": 1,
+        "relation": "attemptedToChoke",
+        "tail": 0
+      },
+      {
+        "head": 1,
+        "relation": "restrainedBy",
+        "tail": 0
+      },
+      {
+        "head": 2,
+        "relation": "investigatedBy",
+        "tail": 3
+      }
+    ]
+  },
+  {
+    "document_id": 635,
+    "ragtruth_id": "851",
+    "text": "A passenger on an Air Canada flight from Toronto to Atlanta reportedly tried to choke a sleeping passenger, Oliver Minatel, with a cord from his headphones. The suspect, who was not restrained, was met by authorities upon landing and taken for medical and mental evaluation. No federal charges are currently pending, but the incident is being reviewed by the US Attorney's Office. The victim, a professional soccer player, is safe and set to play in a game the following day. Witnesses, including a nearby passenger and members of the soccer team, helped to intervene and ensure the safety of those on board.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "A passenger on an Air Canada flight from Toronto to Atlanta"
+      },
+      {
+        "id": 1,
+        "text": "tried"
+      },
+      {
+        "id": 2,
+        "text": "a sleeping passenger, Oliver Minatel"
+      },
+      {
+        "id": 3,
+        "text": "US"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "triedToChoke",
+        "tail": 2
+      },
+      {
+        "head": 1,
+        "relation": "reviewedBy",
+        "tail": 3
+      }
+    ]
+  },
+  {
+    "document_id": 636,
+    "ragtruth_id": "858",
+    "text": "The Department of Justice (DOJ) has begun talks with the city of Ferguson to restructure the police department. The discussions follow a six month review by the DOJ, which was initiated by protests and activism after the police killing of Michael Brown. The report from the DOJ condemned the Ferguson Police Department and court system for their discriminatory treatment of black citizens, including illegal traffic stops, arrests and the use of excessive force, as well as the levying of excessive court fines and fees. The DOJ report also recommended new training for police officers and structural changes to the court system. The city council will now be 50% black after recent elections. The DOJ report suggested the possibility of disbanding the police department and integrating it with St. Louis County. The Department of Justice is now in negotiation with Ferguson's leadership to determine the future shape of the police department.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "talks"
+      },
+      {
+        "id": 1,
+        "text": "The Department of Justice (DOJ)"
+      },
+      {
+        "id": 2,
+        "text": "the police department"
+      },
+      {
+        "id": 3,
+        "text": "the Ferguson Police Department and court system"
+      },
+      {
+        "id": 4,
+        "text": "The report from the DOJ"
+      },
+      {
+        "id": 5,
+        "text": "court system"
+      },
+      {
+        "id": 6,
+        "text": "the city of Ferguson"
+      },
+      {
+        "id": 7,
+        "text": "six month"
+      },
+      {
+        "id": 8,
+        "text": "Michael Brown"
+      },
+      {
+        "id": 9,
+        "text": "50%"
+      },
+      {
+        "id": 10,
+        "text": "St. Louis County"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "with",
+        "tail": 6
+      },
+      {
+        "head": 0,
+        "relation": "about",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "followedBy",
+        "tail": 7
+      },
+      {
+        "head": 4,
+        "relation": "author",
+        "tail": 1
+      },
+      {
+        "head": 4,
+        "relation": "condemned",
+        "tail": 3
+      },
+      {
+        "head": 4,
+        "relation": "recommended",
+        "tail": 5
+      },
+      {
+        "head": 4,
+        "relation": "recommended",
+        "tail": 2
+      },
+      {
+        "head": 4,
+        "relation": "suggested",
+        "tail": 2
+      },
+      {
+        "head": 4,
+        "relation": "suggestedIntegrationWith",
+        "tail": 10
+      },
+      {
+        "head": 1,
+        "relation": "inNegotiationWith",
+        "tail": 6
+      },
+      {
+        "head": 1,
+        "relation": "inNegotiationWith",
+        "tail": 0
+      }
+    ]
+  },
+  {
+    "document_id": 637,
+    "ragtruth_id": "859",
+    "text": "The Department of Justice (DOJ) will begin negotiations with the city of Ferguson to restructure the police department due to allegations of racial discrimination. The DOJ's review of the Ferguson Police Department was prompted by months of protests following the killing of Michael Brown by a police officer. The report revealed a police department and court system that targeted its own citizens through illegal traffic stops, excessive force, and excessive court fines and fees. The recommendations in the report include new training and supervision for police officers and revisions to the court system. The town's government has also undergone changes, with the resignation of the town manager and police chief, and the election of two black city council members. However, it is uncertain what kind of change will occur in Ferguson. The DOJ's negotiations will determine the shape of the new police department, and there is a possibility of disbanding the department in favor of regional policing integration with St. Louis County. Activists and residents must ensure that their vision for a new police department is represented in the negotiations. There is also an opportunity for broader structural change in Ferguson and throughout St. Louis County, as the current governing structure mirrors that of many suburbs in the United States. The low voter turnout in municipal elections and the power imbalance between elected officials and non-elected leaders contribute to unaccountable and non-representative government. The example of Ferguson should inspire self-examination in working class suburbs across the country. The extent of the change in Ferguson depends on the actions of activists and residents who have already had a significant impact on the town's leadership.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "The Department of Justice (DOJ)"
+      },
+      {
+        "id": 1,
+        "text": "the police department"
+      },
+      {
+        "id": 2,
+        "text": "The DOJ's review of the Ferguson Police Department"
+      },
+      {
+        "id": 3,
+        "text": "a police department and court system that targeted its own citizens through illegal traffic stops, excessive force, and excessive court fines and fees"
+      },
+      {
+        "id": 4,
+        "text": "the city of Ferguson"
+      },
+      {
+        "id": 5,
+        "text": "negotiations with the city of Ferguson to restructure the police department due to allegations of racial discrimination"
+      },
+      {
+        "id": 6,
+        "text": "Activists and residents"
+      },
+      {
+        "id": 7,
+        "text": "St. Louis County"
+      },
+      {
+        "id": 8,
+        "text": "the United States"
+      },
+      {
+        "id": 9,
+        "text": "months"
+      },
+      {
+        "id": 10,
+        "text": "Michael Brown"
+      },
+      {
+        "id": 11,
+        "text": "two"
+      },
+      {
+        "id": 12,
+        "text": "the new police department"
+      }
+    ],
+    "relations": [
+      {
+        "head": 2,
+        "relation": "promptedBy",
+        "tail": 9
+      },
+      {
+        "head": 2,
+        "relation": "about",
+        "tail": 1
+      },
+      {
+        "head": 5,
+        "relation": "involves",
+        "tail": 4
+      },
+      {
+        "head": 5,
+        "relation": "involves",
+        "tail": 1
+      },
+      {
+        "head": 5,
+        "relation": "determines",
+        "tail": 12
+      },
+      {
+        "head": 5,
+        "relation": "with",
+        "tail": 7
+      },
+      {
+        "head": 4,
+        "relation": "in",
+        "tail": 7
+      },
+      {
+        "head": 4,
+        "relation": "in",
+        "tail": 8
+      },
+      {
+        "head": 4,
+        "relation": "dependsOn",
+        "tail": 6
+      },
+      {
+        "head": 4,
+        "relation": "involves",
+        "tail": 11
+      }
+    ]
+  },
+  {
+    "document_id": 638,
+    "ragtruth_id": "860",
+    "text": "Ferguson, Missouri, is facing significant changes after the Department of Justice (DOJ) announced it will negotiate with the city to restructure its police department. The DOJ has accused the Ferguson Police Department of engaging in a pattern and practice of racial discrimination. The report revealed that the police department used illegal traffic stops and arrests, excessive force, and unfair court fines and fees to target and oppress the town's African-American residents. The town's former police chief and mayor have resigned, and new leaders have been appointed, including a black mayor and two black city council members. The DOJ's negotiations with Ferguson will determine the future of its police department, and activists and residents must ensure that their vision for a more equitable and representative government is represented. Ferguson's experience highlights the need for reform in local governments across the country, particularly in suburbs with weak elected leaders and a lack of accountability.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "the Department of Justice (DOJ)"
+      },
+      {
+        "id": 1,
+        "text": "Ferguson, Missouri"
+      },
+      {
+        "id": 2,
+        "text": "its police department"
+      },
+      {
+        "id": 3,
+        "text": "negotiate"
+      },
+      {
+        "id": 4,
+        "text": "activists and residents"
+      },
+      {
+        "id": 5,
+        "text": "African-American"
+      },
+      {
+        "id": 6,
+        "text": "two"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "negotiatesWith",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "accuses",
+        "tail": 2
+      },
+      {
+        "head": 2,
+        "relation": "targets",
+        "tail": 5
+      },
+      {
+        "head": 1,
+        "relation": "hasPoliceDepartment",
+        "tail": 2
+      }
+    ]
+  },
+  {
+    "document_id": 639,
+    "ragtruth_id": "861",
+    "text": "The Department of Justice (DOJ) will begin negotiating with the city of Ferguson, Missouri to restructure the police department amid allegations of racial discrimination. The DOJ report found that the police department engaged in a pattern and practice of racial discrimination, including illegal traffic stops and arrests, and the use of excessive force. The municipal court system also faced criticism for using court fines and fees to ensnare residents in a cycle of debt. Two black candidates were elected to the city council, changing its racial composition. The police chief and mayor have resigned, and the DOJ's negotiations will determine the shape of the new police department. Local activists are pushing for a regional policing integration with St. Louis County, while also advocating for broader structural changes to the governance system in Ferguson and across St. Louis County. The outcome of these negotiations and the level of ambition and discipline shown by activists will determine the scope and breadth of change in Ferguson.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "The Department of Justice (DOJ)"
+      },
+      {
+        "id": 1,
+        "text": "the police department"
+      },
+      {
+        "id": 2,
+        "text": "the city council"
+      },
+      {
+        "id": 3,
+        "text": "negotiating"
+      },
+      {
+        "id": 4,
+        "text": "the city of Ferguson, Missouri"
+      },
+      {
+        "id": 5,
+        "text": "St. Louis County"
+      },
+      {
+        "id": 6,
+        "text": "Two"
+      },
+      {
+        "id": 7,
+        "text": "the new police department"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "negotiatingWith",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "negotiatingAbout",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "determinesShapeOf",
+        "tail": 7
+      },
+      {
+        "head": 2,
+        "relation": "changedRacialCompositionBy",
+        "tail": 6
+      },
+      {
+        "head": 3,
+        "relation": "willDetermineScopeOfChangeIn",
+        "tail": 4
+      }
+    ]
+  }
+]

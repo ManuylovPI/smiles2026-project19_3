@@ -1,0 +1,529 @@
+[
+  {
+    "document_id": 270,
+    "ragtruth_id": "366",
+    "text": "On Tuesday's \"Late Late Show\" actor Jon Cryer, known for his role in \"Two and a Half Men\", reprised his famous dance routine from the 1986 John Hughes film \"Pretty in Pink\". Host James Corden joined Cryer in the routine, fulfilling a childhood dream.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "his"
+      },
+      {
+        "id": 1,
+        "text": "his famous dance routine from the 1986 John Hughes film \"Pretty in Pink\""
+      },
+      {
+        "id": 2,
+        "text": "Tuesday"
+      },
+      {
+        "id": 3,
+        "text": "Late Late Show"
+      },
+      {
+        "id": 4,
+        "text": "Jon Cryer"
+      },
+      {
+        "id": 5,
+        "text": "Two and a Half Men"
+      },
+      {
+        "id": 6,
+        "text": "James Corden"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "performedBy",
+        "tail": 4
+      },
+      {
+        "head": 1,
+        "relation": "performedWith",
+        "tail": 6
+      },
+      {
+        "head": 3,
+        "relation": "host",
+        "tail": 6
+      }
+    ]
+  },
+  {
+    "document_id": 271,
+    "ragtruth_id": "367",
+    "text": "Actor Jon Cryer recreated his iconic dance scene from the 1986 film \"Pretty in Pink\" on the \"Late Late Show.\" Dancing to Otis Redding's \"Try a Little Tenderness,\" Cryer performed the routine with host James Corden, fulfilling a childhood dream. The recreation delighted fans of the film, many of whom are now middle-aged.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Actor Jon Cryer"
+      },
+      {
+        "id": 1,
+        "text": "his iconic dance scene from the 1986 film \"Pretty in Pink\""
+      },
+      {
+        "id": 2,
+        "text": "recreated"
+      },
+      {
+        "id": 3,
+        "text": "the 1986 film \"Pretty in Pink\""
+      },
+      {
+        "id": 4,
+        "text": "Late Late Show"
+      },
+      {
+        "id": 5,
+        "text": "Otis Redding's"
+      },
+      {
+        "id": 6,
+        "text": "James Corden"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "fromFilm",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "performedOn",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "performedWith",
+        "tail": 6
+      }
+    ]
+  },
+  {
+    "document_id": 272,
+    "ragtruth_id": "368",
+    "text": "Actor Jon Cryer reprised his iconic \"Late Late Show\" dance scene from \"Pretty in the Pink\" on CBS, dancing in tandem with host James Corden. The original scene was popular among fans and many watched it repeatedly. The film's original fans were likely excited about seeing the routine again, even if they are now middle-aged.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Actor Jon Cryer"
+      },
+      {
+        "id": 1,
+        "text": "his iconic \"Late Late Show\" dance scene from \"Pretty in the Pink\" on CBS"
+      },
+      {
+        "id": 2,
+        "text": "\"Pretty in the Pink\""
+      },
+      {
+        "id": 3,
+        "text": "The film's original fans"
+      },
+      {
+        "id": 4,
+        "text": "James Corden"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "fromFilm",
+        "tail": 2
+      },
+      {
+        "head": 1,
+        "relation": "hostedOn",
+        "tail": 4
+      }
+    ]
+  },
+  {
+    "document_id": 273,
+    "ragtruth_id": "369",
+    "text": "Jon Cryer reprised his iconic dance routine from the 1986 John Hughes film \"Pretty in Pink\" during an appearance on \"The Late Late Show with James Corden.\" Cryer danced alongside Corden, recreating the scene where he lip-syncs to Otis Redding's \"Try a Little Tenderness\" in a record store. The performance brought back nostalgia for fans of all ages.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Jon Cryer"
+      },
+      {
+        "id": 1,
+        "text": "James Corden"
+      },
+      {
+        "id": 2,
+        "text": "reprised"
+      },
+      {
+        "id": 3,
+        "text": "1986"
+      },
+      {
+        "id": 4,
+        "text": "John Hughes"
+      },
+      {
+        "id": 5,
+        "text": "Pretty in Pink"
+      },
+      {
+        "id": 6,
+        "text": "The Late Late Show"
+      },
+      {
+        "id": 7,
+        "text": "Otis Redding's"
+      }
+    ],
+    "relations": [
+      {
+        "head": 5,
+        "relation": "director",
+        "tail": 4
+      },
+      {
+        "head": 5,
+        "relation": "releaseYear",
+        "tail": 3
+      },
+      {
+        "head": 5,
+        "relation": "performedBy",
+        "tail": 0
+      },
+      {
+        "head": 6,
+        "relation": "host",
+        "tail": 1
+      }
+    ]
+  },
+  {
+    "document_id": 274,
+    "ragtruth_id": "370",
+    "text": "Jon Cryer reprised his iconic \"Pretty in Pink\" record store dance on the \"Late Late Show\" with James Corden, celebrating his 50th birthday and bringing nostalgia to fans of the 1986 John Hughes film.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Jon Cryer"
+      },
+      {
+        "id": 1,
+        "text": "Pretty in Pink"
+      },
+      {
+        "id": 2,
+        "text": "Late Late Show"
+      },
+      {
+        "id": 3,
+        "text": "James Corden"
+      },
+      {
+        "id": 4,
+        "text": "50th"
+      },
+      {
+        "id": 5,
+        "text": "1986"
+      },
+      {
+        "id": 6,
+        "text": "John Hughes"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "dancePerformedOn",
+        "tail": 2
+      },
+      {
+        "head": 1,
+        "relation": "with",
+        "tail": 3
+      },
+      {
+        "head": 1,
+        "relation": "director",
+        "tail": 6
+      },
+      {
+        "head": 1,
+        "relation": "publicationYear",
+        "tail": 5
+      }
+    ]
+  },
+  {
+    "document_id": 275,
+    "ragtruth_id": "371",
+    "text": "Jon Cryer reprised his iconic dance scene from the 1986 film \"Pretty in Pink\" on \"The Late Late Show with James Corden,\" dancing to Otis Redding's \"Try a Little Tenderness\" alongside Corden, fulfilling a childhood dream for the host.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Jon Cryer"
+      },
+      {
+        "id": 1,
+        "text": "James Corden"
+      },
+      {
+        "id": 2,
+        "text": "1986"
+      },
+      {
+        "id": 3,
+        "text": "\"Pretty in Pink"
+      },
+      {
+        "id": 4,
+        "text": "The Late Late Show"
+      },
+      {
+        "id": 5,
+        "text": "Otis Redding's"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "film",
+        "tail": 3
+      },
+      {
+        "head": 4,
+        "relation": "host",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "dancedTo",
+        "tail": 5
+      }
+    ]
+  },
+  {
+    "document_id": 276,
+    "ragtruth_id": "372",
+    "text": "A jury of Rolling Stone's media peers has dissected the magazine's disastrous, discredited story about rape on the campus of the University of Virginia, and the emerging consensus is that Rolling Stone's lapses and sloppy blunders amount to journalistic malpractice -- made all the worse by the magazine's refusal to fire anybody or reorganise its newsroom operation. The original story, \"A Rape on Campus,\" registered 2.7 million hits following its publication in November -- more than any non-celebrity story in the magazine's history. However, the story began to unravel almost immediately when Washington Post reporter T. Rees Shapiro took a closer look, leading Rolling Stone to back away from the story and request a review by the Columbia University Graduate School of Journalism. That review reveals startling lapses in basic journalistic practice on the part of Rolling Stone's writer and editors. Despite this, the magazine has not fired or disciplined anyone, and senior editors are unanimous in their belief that the story's failure does not require them to change their editorial systems. This attitude has led to expressions of disbelief among seasoned journalists.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Rolling Stone's"
+      },
+      {
+        "id": 1,
+        "text": "the magazine's disastrous, discredited story about rape on the campus of the University of Virginia"
+      },
+      {
+        "id": 2,
+        "text": "a review by the Columbia University Graduate School of Journalism"
+      },
+      {
+        "id": 3,
+        "text": "startling lapses in basic journalistic practice on the part of Rolling Stone's writer and editors"
+      },
+      {
+        "id": 4,
+        "text": "senior editors"
+      },
+      {
+        "id": 5,
+        "text": "2.7 million"
+      },
+      {
+        "id": 6,
+        "text": "November"
+      },
+      {
+        "id": 7,
+        "text": "Washington Post"
+      },
+      {
+        "id": 8,
+        "text": "T. Rees Shapiro"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "publicationHits",
+        "tail": 5
+      },
+      {
+        "head": 1,
+        "relation": "publicationDate",
+        "tail": 6
+      },
+      {
+        "head": 0,
+        "relation": "requestedReview",
+        "tail": 2
+      },
+      {
+        "head": 2,
+        "relation": "reveals",
+        "tail": 3
+      }
+    ]
+  },
+  {
+    "document_id": 277,
+    "ragtruth_id": "373",
+    "text": "Rolling Stone's coverage of a rape story on the University of Virginia campus has been deemed as journalistic malpractice by a jury of media peers. The magazine's mistakes in reporting and editing the story were regrettable but understandable, however, the decision not to fire anyone or reorganize the newsroom operation is seen as unacceptable. The original story, titled \"A Rape on Campus,\" gained significant attention with 2.7 million hits on the Rolling Stone website, but it quickly began to unravel when inconsistencies were discovered. Rolling Stone writer Sabrina Rubin Erdely failed to verify the identity of the attacker, did not speak to three of the victim's friends, and did not give the accused fraternity a fair chance to respond to the allegations. Throughout the process, neither Erdely nor the editors or fact checkers at Rolling Stone paused to reconsider or decline to run the story, even when the victim's behavior became questionable. Critics argue that the magazine's lapses in basic journalistic practices would not be accepted in a freshman classroom. Rolling Stone's publisher, Jann Wenner, has decided not to take any disciplinary action, causing disbelief among seasoned journalists. The editors who were responsible for the blunder also seem unwilling to revamp their operation to prevent future mistakes. This failure to hold individuals accountable and the refusal to change editorial systems has raised concerns about the magazine's credibility. Until Rolling Stone learns from this incident and makes necessary changes to their hiring, editing, and fact-checking processes, it is likely that similar mistakes will occur in the future.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Rolling Stone's"
+      },
+      {
+        "id": 1,
+        "text": "a rape story on the University of Virginia campus"
+      },
+      {
+        "id": 2,
+        "text": "Rolling Stone writer Sabrina Rubin Erdely"
+      },
+      {
+        "id": 3,
+        "text": "the victim's"
+      },
+      {
+        "id": 4,
+        "text": "the editors"
+      },
+      {
+        "id": 5,
+        "text": "the blunder"
+      },
+      {
+        "id": 6,
+        "text": "2.7 million"
+      },
+      {
+        "id": 7,
+        "text": "the Rolling Stone"
+      },
+      {
+        "id": 8,
+        "text": "three"
+      },
+      {
+        "id": 9,
+        "text": "Jann Wenner"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "coverage",
+        "tail": 1
+      },
+      {
+        "head": 1,
+        "relation": "hits",
+        "tail": 6
+      },
+      {
+        "head": 1,
+        "relation": "website",
+        "tail": 7
+      },
+      {
+        "head": 2,
+        "relation": "writerOf",
+        "tail": 1
+      },
+      {
+        "head": 2,
+        "relation": "didNotSpeakTo",
+        "tail": 8
+      },
+      {
+        "head": 0,
+        "relation": "publisher",
+        "tail": 9
+      },
+      {
+        "head": 4,
+        "relation": "responsibleFor",
+        "tail": 5
+      }
+    ]
+  },
+  {
+    "document_id": 278,
+    "ragtruth_id": "374",
+    "text": "Rolling Stone has faced criticism for its reporting and editing mistakes in its now-discredited story about sexual violence at the University of Virginia. The magazine's failure to verify key details and its refusal to allow the accused fraternity a fair chance to respond led to a nationwide debate about the prevalence of sexual violence on college campuses. However, the Columbia University Graduate School of Journalism found that Rolling Stone's errors were due to a combination of factors, including a lack of experience and oversight. Despite calls for accountability, Rolling Stone has not fired or disciplined anyone involved in the story.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Rolling Stone"
+      },
+      {
+        "id": 1,
+        "text": "its now-discredited story about sexual violence at the University of Virginia"
+      },
+      {
+        "id": 2,
+        "text": "the Columbia University Graduate School of Journalism"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "about",
+        "tail": 0
+      },
+      {
+        "head": 0,
+        "relation": "foundBy",
+        "tail": 2
+      }
+    ]
+  },
+  {
+    "document_id": 279,
+    "ragtruth_id": "375",
+    "text": "A recent investigation by the Columbia University Graduate School of Journalism found that Rolling Stone's discredited story on sexual assault at the University of Virginia contained numerous lapses in journalistic practice. The magazine's failure to verify the identity of the attacker, lack of response from the fraternity, and refusal to give sources a fair chance to respond led to the unraveling of the story. Despite these findings, Rolling Stone has yet to take disciplinary action against any staff members involved in the story. Many in the media industry have expressed disappointment and concern over Rolling Stone's lack of accountability, with some calling for firings or reorganization of the newsroom. The magazine's editors seem unwilling to change their processes, with one managing editor stating that they simply need to \"do what they've always done\" to avoid similar mistakes in the future. This lack of willingness to adapt and improve has led some to question whether Rolling Stone is truly committed to producing high-quality journalism.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Rolling Stone's"
+      },
+      {
+        "id": 1,
+        "text": "Rolling Stone's discredited story on sexual assault at the University of Virginia"
+      },
+      {
+        "id": 2,
+        "text": "found"
+      },
+      {
+        "id": 3,
+        "text": "The magazine's editors"
+      },
+      {
+        "id": 4,
+        "text": "the Columbia University Graduate School of Journalism"
+      },
+      {
+        "id": 5,
+        "text": "one"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "investigatedBy",
+        "tail": 4
+      }
+    ]
+  }
+]

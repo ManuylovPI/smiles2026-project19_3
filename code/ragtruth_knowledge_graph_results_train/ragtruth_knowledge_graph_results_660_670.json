@@ -1,0 +1,978 @@
+[
+  {
+    "document_id": 660,
+    "ragtruth_id": "894",
+    "text": "The entire Star Wars saga is now available on digital HD, and actress Mindy Kaling's brother admitted to faking his race to get into medical school, causing controversy about affirmative action. Meanwhile, the fast food chain Burger King is sponsoring the wedding of Joel Burger and Ashley King, who have gained internet fame for their aptly named union. In entertainment news, fans of the CW series \"The Vampire Diaries\" are mourning the departure of star Nina Dobrev, and the cast of the upcoming movie \"Suicide Squad\" assembled for the first time in a photo on Twitter.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "actress Mindy Kaling's brother"
+      },
+      {
+        "id": 1,
+        "text": "Joel Burger and Ashley King, who have gained internet fame for their aptly named union"
+      },
+      {
+        "id": 2,
+        "text": "Burger King"
+      },
+      {
+        "id": 3,
+        "text": "CW"
+      },
+      {
+        "id": 4,
+        "text": "The Vampire Diaries"
+      },
+      {
+        "id": 5,
+        "text": "Nina Dobrev"
+      },
+      {
+        "id": 6,
+        "text": "Suicide Squad"
+      },
+      {
+        "id": 7,
+        "text": "first"
+      },
+      {
+        "id": 8,
+        "text": "Twitter"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "sponsoredBy",
+        "tail": 2
+      },
+      {
+        "head": 4,
+        "relation": "castMember",
+        "tail": 5
+      },
+      {
+        "head": 6,
+        "relation": "postedOn",
+        "tail": 8
+      }
+    ]
+  },
+  {
+    "document_id": 661,
+    "ragtruth_id": "895",
+    "text": "This week, \"Star Wars\" fans were excited to hear that the entire saga would be released on digital HD. Mindy Kaling's brother made headlines by revealing that he pretended to be black to get into medical school, which his sister disapproves of. Fans of \"Dukes of Hazzard\" mourned the loss of actor James Best, while \"L.A. Law\" actor Richard Dysart and Clint Eastwood co-star Geoffrey Lewis also passed away. Joel Burger and Ashley King, a couple with the last names of Burger and King, scored a free wedding from Burger King. Michelle Obama danced with the \"So You Think You Can Dance\" all-stars during the Easter egg roll. \"Vampire Diaries\" fans were devastated by the news of Nina Dobrev leaving the show. Other notable news includes Anne Hathaway's performance on \"Lip Sync Battle,\" James Corden's \"Grease\" performance for LA drivers, and the first photo of the cast of \"Suicide Squad\" on Twitter.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Mindy Kaling's brother"
+      },
+      {
+        "id": 1,
+        "text": "\"Vampire Diaries\""
+      },
+      {
+        "id": 2,
+        "text": "This week"
+      },
+      {
+        "id": 3,
+        "text": "Dukes of Hazzard"
+      },
+      {
+        "id": 4,
+        "text": "James Best"
+      },
+      {
+        "id": 5,
+        "text": "L.A. Law"
+      },
+      {
+        "id": 6,
+        "text": "Richard Dysart"
+      },
+      {
+        "id": 7,
+        "text": "Clint Eastwood"
+      },
+      {
+        "id": 8,
+        "text": "Geoffrey Lewis"
+      },
+      {
+        "id": 9,
+        "text": "Joel Burger"
+      },
+      {
+        "id": 10,
+        "text": "Ashley King"
+      },
+      {
+        "id": 11,
+        "text": "Burger"
+      },
+      {
+        "id": 12,
+        "text": "King"
+      },
+      {
+        "id": 13,
+        "text": "Burger King"
+      },
+      {
+        "id": 14,
+        "text": "Michelle Obama"
+      },
+      {
+        "id": 15,
+        "text": "Easter"
+      },
+      {
+        "id": 16,
+        "text": "Anne Hathaway's"
+      },
+      {
+        "id": 17,
+        "text": "Lip Sync Battle"
+      },
+      {
+        "id": 18,
+        "text": "James Corden's"
+      },
+      {
+        "id": 19,
+        "text": "Grease"
+      },
+      {
+        "id": 20,
+        "text": "LA"
+      },
+      {
+        "id": 21,
+        "text": "first"
+      },
+      {
+        "id": 22,
+        "text": "Suicide Squad"
+      },
+      {
+        "id": 23,
+        "text": "Twitter"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "sister",
+        "tail": 0
+      },
+      {
+        "head": 1,
+        "relation": "castMemberLeaving",
+        "tail": 0
+      },
+      {
+        "head": 13,
+        "relation": "providedWeddingTo",
+        "tail": 9
+      },
+      {
+        "head": 13,
+        "relation": "providedWeddingTo",
+        "tail": 10
+      },
+      {
+        "head": 14,
+        "relation": "dancedWith",
+        "tail": 15
+      }
+    ]
+  },
+  {
+    "document_id": 662,
+    "ragtruth_id": "896",
+    "text": "This week's top news stories included the release of the entire \"Star Wars\" saga on digital HD, Mindy Kaling's brother confessing to pretending to be black to get into medical school, the passing of several notable actors, a free wedding for a Burger King employee, Michelle Obama's energetic performance during the Easter egg roll, and the departure of \"Vampire Diaries\" star Nina Dobrev. In entertainment news, Anne Hathaway's cover of Miley Cyrus' \"Wrecking Ball\" went viral on social media, while the cast of \"Suicide Squad\" came together for the first time in a Twitter photo.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "week"
+      },
+      {
+        "id": 1,
+        "text": "Mindy Kaling's"
+      },
+      {
+        "id": 2,
+        "text": "Burger King"
+      },
+      {
+        "id": 3,
+        "text": "Michelle Obama's"
+      },
+      {
+        "id": 4,
+        "text": "Easter"
+      },
+      {
+        "id": 5,
+        "text": "Vampire Diaries"
+      },
+      {
+        "id": 6,
+        "text": "Nina Dobrev"
+      },
+      {
+        "id": 7,
+        "text": "Anne Hathaway's"
+      },
+      {
+        "id": 8,
+        "text": "Miley Cyrus'"
+      },
+      {
+        "id": 9,
+        "text": "Suicide Squad"
+      },
+      {
+        "id": 10,
+        "text": "first"
+      }
+    ],
+    "relations": []
+  },
+  {
+    "document_id": 663,
+    "ragtruth_id": "897",
+    "text": "Here is a summary of the news in 112 words:\n\nThis week saw a number of exciting stories trending online, including the release of the \"Star Wars\" saga on digital HD, actress Mindy Kaling's brother's controversial claims about faking his race to get into medical school, and the passing of actors James Best and Geoffrey Lewis. Fans also celebrated the upcoming wedding of Burger King and the free wedding the couple received, as well as First Lady Michelle Obama's dance routine with the \"So You Think You Can Dance\" all-stars. Additionally, there was a wave of sadness over the departure of \"Vampire Diaries\" star Nina Dobrev from the CW series, and fans enjoyed viral videos of Anne Hathaway's lip sync battle performance and James Corden's \"Grease\"-themed traffic jam performance.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "actress Mindy Kaling's brother's"
+      },
+      {
+        "id": 1,
+        "text": "\"Vampire Diaries\""
+      },
+      {
+        "id": 2,
+        "text": "112"
+      },
+      {
+        "id": 3,
+        "text": "This week"
+      },
+      {
+        "id": 4,
+        "text": "the \"Star Wars"
+      },
+      {
+        "id": 5,
+        "text": "James Best"
+      },
+      {
+        "id": 6,
+        "text": "Geoffrey Lewis"
+      },
+      {
+        "id": 7,
+        "text": "Burger King"
+      },
+      {
+        "id": 8,
+        "text": "First"
+      },
+      {
+        "id": 9,
+        "text": "Michelle Obama's"
+      },
+      {
+        "id": 10,
+        "text": "Nina Dobrev"
+      },
+      {
+        "id": 11,
+        "text": "Anne Hathaway's"
+      },
+      {
+        "id": 12,
+        "text": "James Corden's"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "star",
+        "tail": 10
+      }
+    ]
+  },
+  {
+    "document_id": 664,
+    "ragtruth_id": "898",
+    "text": "Here is a summary of the news in 112 words:\n\nThis week, Star Wars fans rejoiced as the entire saga was released on digital HD, while Mindy Kaling's brother sparked controversy by revealing he pretended to be black to get into medical school. Actor James Best, known for his role as Rosco P. Coltrane in The Dukes of Hazzard, passed away, and fast food chain Burger King gifted a couple a free wedding after they named their son Burger King. First Lady Michelle Obama danced with the So You Think You Can Dance all-stars during the Easter egg roll, and Nina Dobrev left The Vampire Diaries, causing a fan meltdown. Finally, Anne Hathaway performed a hilarious lip sync of Miley Cyrus' Wrecking Ball on Spike's Lip Sync Battle, and the cast of Suicide Squad assembled for the first time in a Twitter photo.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Mindy Kaling's brother"
+      },
+      {
+        "id": 1,
+        "text": "Actor James Best, known for his role as Rosco P. Coltrane in The Dukes of Hazzard"
+      },
+      {
+        "id": 2,
+        "text": "a couple"
+      },
+      {
+        "id": 3,
+        "text": "112"
+      },
+      {
+        "id": 4,
+        "text": "This week"
+      },
+      {
+        "id": 5,
+        "text": "Burger King"
+      },
+      {
+        "id": 6,
+        "text": "Burger King"
+      },
+      {
+        "id": 7,
+        "text": "First"
+      },
+      {
+        "id": 8,
+        "text": "Michelle Obama"
+      },
+      {
+        "id": 9,
+        "text": "Easter"
+      },
+      {
+        "id": 10,
+        "text": "Nina Dobrev"
+      },
+      {
+        "id": 11,
+        "text": "The Vampire Diaries"
+      },
+      {
+        "id": 12,
+        "text": "Anne Hathaway"
+      },
+      {
+        "id": 13,
+        "text": "Miley Cyrus'"
+      },
+      {
+        "id": 14,
+        "text": "Suicide Squad"
+      },
+      {
+        "id": 15,
+        "text": "first"
+      }
+    ],
+    "relations": [
+      {
+        "head": 2,
+        "relation": "namedSon",
+        "tail": 6
+      }
+    ]
+  },
+  {
+    "document_id": 665,
+    "ragtruth_id": "899",
+    "text": "Here are the top news stories from this week:\n\n* The entire \"Star Wars\" saga was released on digital HD, making it possible to stream the films from the comfort of home.\n* Mindy Kaling's brother, Vijay Chokal-Ingam, revealed that he pretended to be black to get into medical school, sparking controversy and criticism from his sister and others.\n* Actor James Best, known for his role as Sheriff Rosco P. Coltrane in \"The Dukes of Hazzard,\" passed away.\n* A couple named Joel Burger and Ashley King received a free wedding from Burger King after the fast food chain learned of their upcoming nuptials.\n* First Lady Michelle Obama showed off her dance moves during the Easter egg roll event at the White House, impressing many with her moves.\n* Fans were devastated by the announcement that Nina Dobrev will be leaving \"The Vampire Diaries\" after six seasons.\n* Other popular news included a viral video of Anne Hathaway performing a lip sync of Miley Cyrus' \"Wrecking Ball\" on \"Lip Sync Battle,\" a cast photo of the upcoming film \"Suicide Squad,\" and a heartwarming \"Humans of New York\" post about a woman named Beyonce.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Mindy Kaling's brother, Vijay Chokal-Ingam"
+      },
+      {
+        "id": 1,
+        "text": "Mindy Kaling's"
+      },
+      {
+        "id": 2,
+        "text": "Actor James Best, known for his role as Sheriff Rosco P. Coltrane in \"The Dukes of Hazzard"
+      },
+      {
+        "id": 3,
+        "text": "Burger King"
+      },
+      {
+        "id": 4,
+        "text": "A couple named Joel Burger and Ashley King"
+      },
+      {
+        "id": 5,
+        "text": "First Lady Michelle Obama"
+      },
+      {
+        "id": 6,
+        "text": "her dance moves"
+      },
+      {
+        "id": 7,
+        "text": "this week"
+      },
+      {
+        "id": 8,
+        "text": "Easter"
+      },
+      {
+        "id": 9,
+        "text": "the White House"
+      },
+      {
+        "id": 10,
+        "text": "Nina Dobrev"
+      },
+      {
+        "id": 11,
+        "text": "The Vampire Diaries"
+      },
+      {
+        "id": 12,
+        "text": "six seasons"
+      },
+      {
+        "id": 13,
+        "text": "Anne Hathaway"
+      },
+      {
+        "id": 14,
+        "text": "Miley Cyrus'"
+      },
+      {
+        "id": 15,
+        "text": "Lip Sync Battle"
+      },
+      {
+        "id": 16,
+        "text": "Suicide Squad"
+      },
+      {
+        "id": 17,
+        "text": "Humans of New York"
+      },
+      {
+        "id": 18,
+        "text": "Beyonce"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "siblingOf",
+        "tail": 1
+      },
+      {
+        "head": 2,
+        "relation": "role",
+        "tail": 2
+      },
+      {
+        "head": 4,
+        "relation": "receivedWeddingFrom",
+        "tail": 3
+      },
+      {
+        "head": 5,
+        "relation": "performedAt",
+        "tail": 8
+      },
+      {
+        "head": 5,
+        "relation": "performedAt",
+        "tail": 9
+      },
+      {
+        "head": 10,
+        "relation": "leavingAfter",
+        "tail": 12
+      },
+      {
+        "head": 10,
+        "relation": "leaving",
+        "tail": 11
+      },
+      {
+        "head": 13,
+        "relation": "performedOn",
+        "tail": 15
+      },
+      {
+        "head": 13,
+        "relation": "performedSongBy",
+        "tail": 14
+      },
+      {
+        "head": 17,
+        "relation": "about",
+        "tail": 18
+      }
+    ]
+  },
+  {
+    "document_id": 666,
+    "ragtruth_id": "900",
+    "text": "President Obama's nomination of Loretta Lynch to become the country's first African-American woman attorney general has taken new historical relevance as the wait for a confirmation vote by the full Senate enters its sixth month. The period between the Senate Judiciary Committee's vote to confirm and the full Senate vote is the longest for any attorney general nominee in recent history. Despite accusations of racism by observers who feel that Lynch's confirmation vote has been delayed due to her being African-American, Senate Republicans adamantly deny the allegations. They claim that the delay is due to an ongoing partisan battle, and that it is part of a fight over a human trafficking bill that has stalled in the Senate, and retaliation for President Obama's 2014 executive actions on immigration.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "the wait for a confirmation vote by the full Senate"
+      },
+      {
+        "id": 1,
+        "text": "a confirmation vote by the full Senate"
+      },
+      {
+        "id": 2,
+        "text": "the full Senate"
+      },
+      {
+        "id": 3,
+        "text": "Loretta Lynch"
+      },
+      {
+        "id": 4,
+        "text": "accusations of racism by observers who feel that Lynch's confirmation vote has been delayed due to her being African-American"
+      },
+      {
+        "id": 5,
+        "text": "Senate Republicans"
+      },
+      {
+        "id": 6,
+        "text": "delayed"
+      },
+      {
+        "id": 7,
+        "text": "President Obama's"
+      },
+      {
+        "id": 8,
+        "text": "first"
+      },
+      {
+        "id": 9,
+        "text": "African-American"
+      },
+      {
+        "id": 10,
+        "text": "its sixth month"
+      },
+      {
+        "id": 11,
+        "text": "the Senate Judiciary Committee's"
+      },
+      {
+        "id": 12,
+        "text": "2014"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "waitFor",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "duration",
+        "tail": 10
+      },
+      {
+        "head": 1,
+        "relation": "confirmedBy",
+        "tail": 11
+      },
+      {
+        "head": 3,
+        "relation": "nomineeOf",
+        "tail": 7
+      },
+      {
+        "head": 3,
+        "relation": "attorneyGeneralStatus",
+        "tail": 8
+      },
+      {
+        "head": 3,
+        "relation": "attorneyGeneralStatus",
+        "tail": 9
+      },
+      {
+        "head": 4,
+        "relation": "about",
+        "tail": 3
+      },
+      {
+        "head": 4,
+        "relation": "about",
+        "tail": 6
+      },
+      {
+        "head": 6,
+        "relation": "reason",
+        "tail": 5
+      },
+      {
+        "head": 6,
+        "relation": "reason",
+        "tail": 12
+      }
+    ]
+  },
+  {
+    "document_id": 667,
+    "ragtruth_id": "901",
+    "text": "Loretta Lynch's nomination to become the first African-American woman attorney general is facing historic delays in the confirmation process. It has now been six months since her nomination, longer than any previous attorney general nominee in recent history. Lynch, currently the U.S. attorney for the Eastern District of New York, was cleared by the Senate Judiciary Committee in February but has yet to receive a confirmation vote from the full Senate. This delay has sparked accusations of racism, with some suggesting that Lynch's confirmation vote has been delayed because she is African-American. Supporters of Lynch have organized protests and meetings with Republican senators in North Carolina, urging them to support her confirmation. However, Republicans deny that the delay is due to race and instead point to ongoing partisan battles and disputes over issues such as human trafficking and immigration. Lynch's father, a retired Baptist preacher who was active in the civil rights movement, believes that his daughter's confirmation is being delayed because of her commitment to enforcing the law and her consciousness shaped by the civil rights movement. Despite the uncertain outcome of her nomination, Lynch's father plans to express his pride in her accomplishments.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Loretta Lynch's"
+      },
+      {
+        "id": 1,
+        "text": "Loretta Lynch's nomination to become the first African-American woman attorney general"
+      },
+      {
+        "id": 2,
+        "text": "historic delays in the confirmation process"
+      },
+      {
+        "id": 3,
+        "text": "Republican senators in North Carolina"
+      },
+      {
+        "id": 4,
+        "text": "Lynch's father, a retired Baptist preacher who was active in the civil rights movement"
+      },
+      {
+        "id": 5,
+        "text": "the civil rights movement"
+      },
+      {
+        "id": 6,
+        "text": "six months"
+      },
+      {
+        "id": 7,
+        "text": "the Senate Judiciary Committee"
+      },
+      {
+        "id": 8,
+        "text": "February"
+      },
+      {
+        "id": 9,
+        "text": "Senate"
+      },
+      {
+        "id": 10,
+        "text": "African-American"
+      },
+      {
+        "id": 11,
+        "text": "Republicans"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "delayedBy",
+        "tail": 2
+      },
+      {
+        "head": 1,
+        "relation": "duration",
+        "tail": 6
+      },
+      {
+        "head": 1,
+        "relation": "clearedBy",
+        "tail": 7
+      },
+      {
+        "head": 1,
+        "relation": "clearedIn",
+        "tail": 8
+      },
+      {
+        "head": 1,
+        "relation": "confirmationVoteFrom",
+        "tail": 9
+      },
+      {
+        "head": 1,
+        "relation": "delayedBecauseOf",
+        "tail": 10
+      },
+      {
+        "head": 1,
+        "relation": "supportedBy",
+        "tail": 3
+      },
+      {
+        "head": 4,
+        "relation": "activeIn",
+        "tail": 5
+      }
+    ]
+  },
+  {
+    "document_id": 668,
+    "ragtruth_id": "902",
+    "text": "President Obama's nomination of Loretta Lynch to become the country's first African-American woman attorney general has been in limbo for six months as the Senate has yet to schedule a vote on her confirmation. Lynch, currently the US attorney for the Eastern District of New York, faced obstacles during her confirmation process due to her race, gender and controversial political views. By the time the Senate returns from Easter recess on Monday, it will have been longer than the previous eight nominees for the job combined. Lynch's parents, married for 60 years, still live in Durham, North Carolina, where they watched the announcement on television. Although Lynch is the first African-American woman to be nominated for the position, many believe that her confirmation has been delayed due to her race. However, some politicians, including Senator Dick Durbin, argue that the delay is part of an ongoing partisan battle over issues such as a human trafficking bill and immigration. Despite the delays and criticisms, Lynch has received support from some individuals and organizations, including North Carolina NAACP branch president Rev. William Barber II.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Loretta Lynch"
+      },
+      {
+        "id": 1,
+        "text": "the Senate"
+      },
+      {
+        "id": 2,
+        "text": "her confirmation process"
+      },
+      {
+        "id": 3,
+        "text": "Lynch's parents"
+      },
+      {
+        "id": 4,
+        "text": "the job"
+      },
+      {
+        "id": 5,
+        "text": "her confirmation"
+      },
+      {
+        "id": 6,
+        "text": "her race"
+      },
+      {
+        "id": 7,
+        "text": "delayed"
+      },
+      {
+        "id": 8,
+        "text": "North Carolina"
+      },
+      {
+        "id": 9,
+        "text": "Obama"
+      },
+      {
+        "id": 10,
+        "text": "first"
+      },
+      {
+        "id": 11,
+        "text": "African-American"
+      },
+      {
+        "id": 12,
+        "text": "six months"
+      },
+      {
+        "id": 13,
+        "text": "Easter"
+      },
+      {
+        "id": 14,
+        "text": "Monday"
+      },
+      {
+        "id": 15,
+        "text": "eight"
+      },
+      {
+        "id": 16,
+        "text": "60 years"
+      },
+      {
+        "id": 17,
+        "text": "Durham"
+      },
+      {
+        "id": 18,
+        "text": "first"
+      },
+      {
+        "id": 19,
+        "text": "African-American"
+      },
+      {
+        "id": 20,
+        "text": "Dick Durbin"
+      },
+      {
+        "id": 21,
+        "text": "William Barber II"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "nominatedBy",
+        "tail": 9
+      },
+      {
+        "head": 0,
+        "relation": "confirmationStatus",
+        "tail": 7
+      },
+      {
+        "head": 2,
+        "relation": "delayedBy",
+        "tail": 6
+      },
+      {
+        "head": 5,
+        "relation": "delayedBy",
+        "tail": 6
+      },
+      {
+        "head": 3,
+        "relation": "livesIn",
+        "tail": 17
+      },
+      {
+        "head": 17,
+        "relation": "locatedIn",
+        "tail": 8
+      },
+      {
+        "head": 0,
+        "relation": "supportedBy",
+        "tail": 21
+      },
+      {
+        "head": 0,
+        "relation": "supportedBy",
+        "tail": 8
+      }
+    ]
+  },
+  {
+    "document_id": 669,
+    "ragtruth_id": "903",
+    "text": "Attorney General Nominee Loretta Lynch's Confirmation Delayed Due to Race? Loretta Lynch, President Obama's nominee for Attorney General, has been waiting for a confirmation vote by the full Senate since February 26, despite being the first African-American woman nominated for the position. While some argue that the delay is due to partisan battles over a human trafficking bill or immigration Executive actions, others suggest that Lynch's race may be a factor. Despite denials from Senate Republicans, some believe that the delay is due to racial bias. Supporters of Lynch have organized to convince North Carolina's two Republican senators to support her confirmation, while the NAACP has held protests outside their offices. The nomination has been compared to the Civil Rights Movement, with some arguing that Lynch's experience and commitment to enforcing the 14th and 15th Amendments make her a threat to those who fear greater equality for African Americans.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Attorney General Nominee Loretta Lynch's"
+      },
+      {
+        "id": 1,
+        "text": "Attorney General"
+      },
+      {
+        "id": 2,
+        "text": "Delayed"
+      },
+      {
+        "id": 3,
+        "text": "the full Senate"
+      },
+      {
+        "id": 4,
+        "text": "Attorney General Nominee Loretta Lynch's Confirmation"
+      },
+      {
+        "id": 5,
+        "text": "North Carolina's two Republican senators"
+      },
+      {
+        "id": 6,
+        "text": "February 26"
+      },
+      {
+        "id": 7,
+        "text": "first"
+      },
+      {
+        "id": 8,
+        "text": "African-American"
+      },
+      {
+        "id": 9,
+        "text": "Republicans"
+      },
+      {
+        "id": 10,
+        "text": "NAACP"
+      },
+      {
+        "id": 11,
+        "text": "the Civil Rights Movement"
+      },
+      {
+        "id": 12,
+        "text": "the 14th and 15th"
+      },
+      {
+        "id": 13,
+        "text": "African Americans"
+      }
+    ],
+    "relations": [
+      {
+        "head": 4,
+        "relation": "nomineeFor",
+        "tail": 1
+      },
+      {
+        "head": 4,
+        "relation": "delayedBy",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "waitingForConfirmationVoteBy",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "sinceDate",
+        "tail": 6
+      },
+      {
+        "head": 0,
+        "relation": "first",
+        "tail": 7
+      },
+      {
+        "head": 0,
+        "relation": "ethnicity",
+        "tail": 8
+      },
+      {
+        "head": 4,
+        "relation": "comparedTo",
+        "tail": 11
+      },
+      {
+        "head": 0,
+        "relation": "supportsAmendments",
+        "tail": 12
+      },
+      {
+        "head": 0,
+        "relation": "threatTo",
+        "tail": 13
+      }
+    ]
+  }
+]

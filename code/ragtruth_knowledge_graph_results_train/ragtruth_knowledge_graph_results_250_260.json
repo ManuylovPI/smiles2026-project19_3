@@ -1,0 +1,767 @@
+[
+  {
+    "document_id": 250,
+    "ragtruth_id": "328",
+    "text": "A measles outbreak in California that affected over 130 people since December has ended, according to the California Department of Public Health. The outbreak was caused by the B3 strain of measles and mostly affected unvaccinated individuals. Prompt investigation and vaccination efforts helped control the outbreak, which began with visitors to Disney theme parks. Measles is highly contagious and can cause serious health complications.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "A measles outbreak in California that affected over 130 people since December"
+      },
+      {
+        "id": 1,
+        "text": "measles"
+      },
+      {
+        "id": 2,
+        "text": "the California Department of Public Health"
+      },
+      {
+        "id": 3,
+        "text": "B3"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "causedByStrain",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "beganWith",
+        "tail": 0
+      }
+    ]
+  },
+  {
+    "document_id": 251,
+    "ragtruth_id": "329",
+    "text": "A measles outbreak in California that affected 131 people has ended, according to the state's department of public health. The outbreak lasted from December to April and was caused by the B3 strain of the virus. Seventy percent of those infected were unvaccinated. Prompt investigations, contact tracing, and increased awareness among healthcare providers helped control the outbreak.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "California"
+      },
+      {
+        "id": 1,
+        "text": "A measles outbreak in California that affected 131 people"
+      },
+      {
+        "id": 2,
+        "text": "measles"
+      },
+      {
+        "id": 3,
+        "text": "131 people"
+      },
+      {
+        "id": 4,
+        "text": "December to April"
+      },
+      {
+        "id": 5,
+        "text": "B3"
+      },
+      {
+        "id": 6,
+        "text": "Seventy percent"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "location",
+        "tail": 0
+      },
+      {
+        "head": 1,
+        "relation": "affected",
+        "tail": 3
+      },
+      {
+        "head": 1,
+        "relation": "duration",
+        "tail": 4
+      },
+      {
+        "head": 1,
+        "relation": "cause",
+        "tail": 5
+      }
+    ]
+  },
+  {
+    "document_id": 252,
+    "ragtruth_id": "336",
+    "text": "The remains of up to 400 unaccounted for service members from the USS Oklahoma at Pearl Harbor will be exhumed this year, the Defense Department has announced. The hope is that most of the battleship's sailors and Marines can be identified and returned to their families. The USS Oklahoma sank when it was hit by torpedoes on December 7, 1941, during the Japanese attack on Pearl Harbor, killing 429 sailors and Marines.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "the USS Oklahoma at Pearl Harbor"
+      },
+      {
+        "id": 1,
+        "text": "most of the battleship's sailors and Marines"
+      },
+      {
+        "id": 2,
+        "text": "Pearl Harbor"
+      },
+      {
+        "id": 3,
+        "text": "up to 400 unaccounted for service members from the USS Oklahoma at Pearl Harbor"
+      },
+      {
+        "id": 4,
+        "text": "this year"
+      },
+      {
+        "id": 5,
+        "text": "the Defense Department"
+      },
+      {
+        "id": 6,
+        "text": "December 7, 1941"
+      },
+      {
+        "id": 7,
+        "text": "Japanese"
+      }
+    ],
+    "relations": [
+      {
+        "head": 3,
+        "relation": "locatedAt",
+        "tail": 2
+      },
+      {
+        "head": 3,
+        "relation": "announcedBy",
+        "tail": 5
+      },
+      {
+        "head": 0,
+        "relation": "sankAt",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "date",
+        "tail": 6
+      },
+      {
+        "head": 0,
+        "relation": "attackedBy",
+        "tail": 7
+      }
+    ]
+  },
+  {
+    "document_id": 253,
+    "ragtruth_id": "337",
+    "text": "The Defense Department has announced plans to exhume the remains of up to 400 unaccounted for service members tied to the USS Oklahoma at Pearl Harbor. The goal is to identify as many of the sailors and Marines as possible and return them to their families. The USS Oklahoma sank in 1941 during the Japanese attack on Pearl Harbor, resulting in the death of 429 crew members. Some remains were previously identified, and in 2003, five more were identified with the help of a Pearl Harbor survivor. Next of kin will be notified, and identified service members will receive full military honors for burial.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "up to 400 unaccounted for service members tied to the USS Oklahoma at Pearl Harbor"
+      },
+      {
+        "id": 1,
+        "text": "as many of the sailors and Marines"
+      },
+      {
+        "id": 2,
+        "text": "the USS Oklahoma"
+      },
+      {
+        "id": 3,
+        "text": "Pearl Harbor"
+      },
+      {
+        "id": 4,
+        "text": "The Defense Department"
+      },
+      {
+        "id": 5,
+        "text": "1941"
+      },
+      {
+        "id": 6,
+        "text": "Japanese"
+      },
+      {
+        "id": 7,
+        "text": "429"
+      },
+      {
+        "id": 8,
+        "text": "2003"
+      },
+      {
+        "id": 9,
+        "text": "five"
+      }
+    ],
+    "relations": [
+      {
+        "head": 2,
+        "relation": "sankIn",
+        "tail": 5
+      },
+      {
+        "head": 2,
+        "relation": "sankAt",
+        "tail": 3
+      },
+      {
+        "head": 2,
+        "relation": "attackBy",
+        "tail": 6
+      },
+      {
+        "head": 2,
+        "relation": "crewMembersKilled",
+        "tail": 7
+      },
+      {
+        "head": 0,
+        "relation": "tiedTo",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "locatedAt",
+        "tail": 3
+      },
+      {
+        "head": 4,
+        "relation": "announcedPlansFor",
+        "tail": 0
+      },
+      {
+        "head": 1,
+        "relation": "returnedTo",
+        "tail": 1
+      },
+      {
+        "head": 1,
+        "relation": "families",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "identifiedIn",
+        "tail": 8
+      },
+      {
+        "head": 9,
+        "relation": "identifiedWithHelpOf",
+        "tail": 3
+      }
+    ]
+  },
+  {
+    "document_id": 254,
+    "ragtruth_id": "338",
+    "text": "The Defense Department has announced that remains of up to nearly 400 unaccounted for service members tied to the USS Oklahoma at Pearl Harbor will be exhumed this year. The aim is to identify as many sailors and Marines as possible. Families of the deceased will be notified starting Tuesday, and service members who are identified will be returned to their families for burial with full military honors.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "up to nearly 400 unaccounted for service members tied to the USS Oklahoma at Pearl Harbor"
+      },
+      {
+        "id": 1,
+        "text": "service members who are identified"
+      },
+      {
+        "id": 2,
+        "text": "The Defense Department"
+      },
+      {
+        "id": 3,
+        "text": "this year"
+      },
+      {
+        "id": 4,
+        "text": "Marines"
+      },
+      {
+        "id": 5,
+        "text": "Tuesday"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "tiedTo",
+        "tail": 0
+      },
+      {
+        "head": 0,
+        "relation": "exhumedIn",
+        "tail": 3
+      },
+      {
+        "head": 2,
+        "relation": "announced",
+        "tail": 0
+      },
+      {
+        "head": 0,
+        "relation": "includes",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "notificationStartDate",
+        "tail": 5
+      }
+    ]
+  },
+  {
+    "document_id": 255,
+    "ragtruth_id": "339",
+    "text": "The US Defense Department has announced plans to exhume the remains of up to 400 unaccounted for service members from the USS Oklahoma, which sank during the Japanese attack on Pearl Harbor in 1941. The goal is to identify as many of the sailors and Marines as possible, with the help of historical evidence and DNA testing. The remains will be returned to their families with full military honors.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "up to 400 unaccounted for service members from the USS Oklahoma, which sank during the Japanese attack on Pearl Harbor in 1941"
+      },
+      {
+        "id": 1,
+        "text": "the remains of up to 400 unaccounted for service members from the USS Oklahoma, which sank during the Japanese attack on Pearl Harbor in 1941"
+      },
+      {
+        "id": 2,
+        "text": "The US Defense Department"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "returnedTo",
+        "tail": 1
+      }
+    ]
+  },
+  {
+    "document_id": 256,
+    "ragtruth_id": "340",
+    "text": "The US Defense Department plans to exhume the remains of up to 400 unidentified service members from the USS Oklahoma at Pearl Harbor this year, in hopes of identifying them using advanced technology. The effort follows the successful identification of five crew members in 2003, with the help of a Pearl Harbor survivor. The USS Oklahoma sank during the Japanese attack on December 7, 1941, killing 429 sailors and Marines.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "up to 400 unidentified service members"
+      },
+      {
+        "id": 1,
+        "text": "exhume"
+      },
+      {
+        "id": 2,
+        "text": "Pearl Harbor"
+      },
+      {
+        "id": 3,
+        "text": "the USS Oklahoma"
+      },
+      {
+        "id": 4,
+        "text": "The US Defense Department"
+      },
+      {
+        "id": 5,
+        "text": "this year"
+      },
+      {
+        "id": 6,
+        "text": "five"
+      },
+      {
+        "id": 7,
+        "text": "2003"
+      },
+      {
+        "id": 8,
+        "text": "Japanese"
+      },
+      {
+        "id": 9,
+        "text": "December 7, 1941"
+      },
+      {
+        "id": 10,
+        "text": "429"
+      },
+      {
+        "id": 11,
+        "text": "Marines"
+      }
+    ],
+    "relations": [
+      {
+        "head": 4,
+        "relation": "plansTo",
+        "tail": 1
+      },
+      {
+        "head": 1,
+        "relation": "object",
+        "tail": 0
+      },
+      {
+        "head": 1,
+        "relation": "from",
+        "tail": 3
+      },
+      {
+        "head": 1,
+        "relation": "at",
+        "tail": 2
+      },
+      {
+        "head": 1,
+        "relation": "time",
+        "tail": 5
+      },
+      {
+        "head": 1,
+        "relation": "follows",
+        "tail": 1
+      },
+      {
+        "head": 1,
+        "relation": "successfulIdentificationCount",
+        "tail": 6
+      },
+      {
+        "head": 1,
+        "relation": "successfulIdentificationDate",
+        "tail": 7
+      },
+      {
+        "head": 3,
+        "relation": "sankDuring",
+        "tail": 8
+      },
+      {
+        "head": 3,
+        "relation": "attackDate",
+        "tail": 9
+      },
+      {
+        "head": 3,
+        "relation": "killed",
+        "tail": 10
+      },
+      {
+        "head": 3,
+        "relation": "killed",
+        "tail": 11
+      }
+    ]
+  },
+  {
+    "document_id": 257,
+    "ragtruth_id": "341",
+    "text": "The remains of up to 400 service members from the USS Oklahoma will be exhumed this year in an effort to identify and return them to their families. The battleship sank during the Japanese attack on Pearl Harbor in 1941, resulting in the deaths of 429 sailors and Marines. Thirty-five were identified and buried shortly after the attack, while the remaining unidentified remains were interred at the National Memorial Cemetery of the Pacific. Five service members have been identified since 2003, thanks in part to the efforts of Pearl Harbor survivor Ray Emory. Emory, now 93, has made it his mission to ensure that graves are properly identified. Next of kin are being notified, and identified service members will be returned to their families for burial with full military honors.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "up to 400 service members from the USS Oklahoma"
+      },
+      {
+        "id": 1,
+        "text": "the USS Oklahoma"
+      },
+      {
+        "id": 2,
+        "text": "the Japanese attack on Pearl Harbor in 1941"
+      },
+      {
+        "id": 3,
+        "text": "Pearl Harbor"
+      },
+      {
+        "id": 4,
+        "text": "Pearl Harbor survivor Ray Emory"
+      },
+      {
+        "id": 5,
+        "text": "identified service members"
+      },
+      {
+        "id": 6,
+        "text": "their families"
+      },
+      {
+        "id": 7,
+        "text": "this year"
+      },
+      {
+        "id": 8,
+        "text": "429"
+      },
+      {
+        "id": 9,
+        "text": "Marines"
+      },
+      {
+        "id": 10,
+        "text": "Thirty-five"
+      },
+      {
+        "id": 11,
+        "text": "the National Memorial Cemetery of the Pacific"
+      },
+      {
+        "id": 12,
+        "text": "Five"
+      },
+      {
+        "id": 13,
+        "text": "2003"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "sankDuring",
+        "tail": 2
+      },
+      {
+        "head": 2,
+        "relation": "location",
+        "tail": 3
+      },
+      {
+        "head": 2,
+        "relation": "date",
+        "tail": 13
+      },
+      {
+        "head": 1,
+        "relation": "deathToll",
+        "tail": 8
+      },
+      {
+        "head": 1,
+        "relation": "deathToll",
+        "tail": 9
+      },
+      {
+        "head": 5,
+        "relation": "returnedTo",
+        "tail": 6
+      },
+      {
+        "head": 0,
+        "relation": "returnedTo",
+        "tail": 6
+      },
+      {
+        "head": 0,
+        "relation": "exhumedIn",
+        "tail": 7
+      },
+      {
+        "head": 0,
+        "relation": "fromShip",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "buriedAt",
+        "tail": 11
+      },
+      {
+        "head": 12,
+        "relation": "since",
+        "tail": 13
+      },
+      {
+        "head": 4,
+        "relation": "survivorOf",
+        "tail": 3
+      }
+    ]
+  },
+  {
+    "document_id": 258,
+    "ragtruth_id": "342",
+    "text": "Kenyan authorities suspect that Mohamed Mohamud, a former teacher at a Madrassa (Islamic religious school) in Garissa, Kenya, is the mastermind behind a deadly attack on a nearby university, which left 147 people dead. The attack was carried out by Al-Shabaab militants, a group with which Mohamud is now associated. Mohamud is believed to be in command of an Al-Shabaab militia that is responsible for numerous cross-border attacks into Kenya from Somalia. The Kenyan government is concerned that Al-Shabaab is recruiting disaffected youth from inside the country. Sheikh Khalif Abdi Hussein, the principal at the Madrassa, insists the school has nothing to do with Mohamud's violent ideas.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "a deadly attack on a nearby university, which left 147 people dead"
+      },
+      {
+        "id": 1,
+        "text": "Mohamed Mohamud, a former teacher at a Madrassa (Islamic religious school) in Garissa, Kenya"
+      },
+      {
+        "id": 2,
+        "text": "Kenya"
+      },
+      {
+        "id": 3,
+        "text": "Al-Shabaab militants, a group with which Mohamud is now associated"
+      },
+      {
+        "id": 4,
+        "text": "a Madrassa (Islamic religious school) in Garissa, Kenya"
+      },
+      {
+        "id": 5,
+        "text": "Kenyan"
+      },
+      {
+        "id": 6,
+        "text": "Al-Shabaab"
+      },
+      {
+        "id": 7,
+        "text": "Somalia"
+      },
+      {
+        "id": 8,
+        "text": "Khalif Abdi Hussein"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "perpetrator",
+        "tail": 3
+      },
+      {
+        "head": 1,
+        "relation": "associatedWith",
+        "tail": 3
+      },
+      {
+        "head": 1,
+        "relation": "commanding",
+        "tail": 6
+      },
+      {
+        "head": 6,
+        "relation": "attacksInto",
+        "tail": 2
+      },
+      {
+        "head": 6,
+        "relation": "originatesFrom",
+        "tail": 7
+      }
+    ]
+  },
+  {
+    "document_id": 259,
+    "ragtruth_id": "343",
+    "text": "Last week, a deadly attack at a university in Garissa, Kenya, led to three days of national mourning and the closure of a nearby Islamic religious school. The suspected \"mastermind\" behind the attack, Mohamed Mohamud, was a former teacher at the school. Mohamud is now believed to be in command of an Al-Shabaab militia based near Kenya's border with Somalia. Al-Shabaab, an Islamist militant group allied with al Qaeda, has been carrying out cross-border attacks into Kenya. The Kenyan government is concerned about the recruitment of disaffected youth within the country by Al-Shabaab. President Kenyatta addressed the nation, acknowledging that the planners and financiers of the attack are embedded within Kenyan communities. Authorities are now faced with the challenge of countering this real threat to stability.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "a deadly attack at a university in Garissa, Kenya"
+      },
+      {
+        "id": 1,
+        "text": "a nearby Islamic religious school"
+      },
+      {
+        "id": 2,
+        "text": "The suspected \"mastermind\" behind the attack, Mohamed Mohamud"
+      },
+      {
+        "id": 3,
+        "text": "Kenya"
+      },
+      {
+        "id": 4,
+        "text": "an Al-Shabaab militia based near Kenya's border with Somalia"
+      },
+      {
+        "id": 5,
+        "text": "Last week"
+      },
+      {
+        "id": 6,
+        "text": "three days"
+      },
+      {
+        "id": 7,
+        "text": "Al-Shabaab"
+      },
+      {
+        "id": 8,
+        "text": "Islamist"
+      },
+      {
+        "id": 9,
+        "text": "al Qaeda"
+      },
+      {
+        "id": 10,
+        "text": "Kenyatta"
+      },
+      {
+        "id": 11,
+        "text": "Kenyan"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "location",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "closureTarget",
+        "tail": 1
+      },
+      {
+        "head": 2,
+        "relation": "formerTeacherAt",
+        "tail": 1
+      },
+      {
+        "head": 2,
+        "relation": "commandOf",
+        "tail": 4
+      },
+      {
+        "head": 4,
+        "relation": "basedIn",
+        "tail": 3
+      },
+      {
+        "head": 7,
+        "relation": "alliedWith",
+        "tail": 9
+      },
+      {
+        "head": 7,
+        "relation": "attacksIn",
+        "tail": 3
+      },
+      {
+        "head": 3,
+        "relation": "concernedAbout",
+        "tail": 4
+      },
+      {
+        "head": 10,
+        "relation": "addressed",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "plannersEmbeddedIn",
+        "tail": 11
+      }
+    ]
+  }
+]

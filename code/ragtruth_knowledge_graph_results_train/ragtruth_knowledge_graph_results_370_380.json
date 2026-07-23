@@ -1,0 +1,1036 @@
+[
+  {
+    "document_id": 370,
+    "ragtruth_id": "496",
+    "text": "A severe storm hit Sydney and surrounding areas, leaving over 250,000 homes and businesses without power and isolating 4,500 people. Destructive winds and flooding have caused four deaths and prompted over 13,000 calls for help. Schools and public transportation have been disrupted, and a local creek overflowed into a neighborhood, causing flooding.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Sydney"
+      },
+      {
+        "id": 1,
+        "text": "over 250,000"
+      },
+      {
+        "id": 2,
+        "text": "4,500"
+      },
+      {
+        "id": 3,
+        "text": "four"
+      },
+      {
+        "id": 4,
+        "text": "over 13,000"
+      }
+    ],
+    "relations": []
+  },
+  {
+    "document_id": 371,
+    "ragtruth_id": "497",
+    "text": "A powerful storm has left 250,000 homes and businesses without power in Sydney and surrounding areas, with 4,500 people isolated by floodwaters. The storm brought destructive winds, flooding, and four deaths. Emergency services have received 13,000 calls for help and have conducted 144 rescues. Schools, colleges, and public transportation have been disrupted. The storm was caused by an intense low-pressure system, with wind gusts reaching 135 km/h (85 mph) and 200 mm (7.87 in) of rainfall in some areas.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "A powerful storm"
+      },
+      {
+        "id": 1,
+        "text": "250,000"
+      },
+      {
+        "id": 2,
+        "text": "Sydney"
+      },
+      {
+        "id": 3,
+        "text": "4,500"
+      },
+      {
+        "id": 4,
+        "text": "four"
+      },
+      {
+        "id": 5,
+        "text": "13,000"
+      },
+      {
+        "id": 6,
+        "text": "144"
+      },
+      {
+        "id": 7,
+        "text": "135"
+      },
+      {
+        "id": 8,
+        "text": "85 mph"
+      },
+      {
+        "id": 9,
+        "text": "200 mm"
+      },
+      {
+        "id": 10,
+        "text": "7.87"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "affectedArea",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "powerOutageHomesBusinesses",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "isolatedPeople",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "deathToll",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "helpCalls",
+        "tail": 5
+      },
+      {
+        "head": 0,
+        "relation": "rescues",
+        "tail": 6
+      },
+      {
+        "head": 0,
+        "relation": "windGustSpeed",
+        "tail": 7
+      },
+      {
+        "head": 0,
+        "relation": "rainfall",
+        "tail": 9
+      }
+    ]
+  },
+  {
+    "document_id": 372,
+    "ragtruth_id": "498",
+    "text": "Officer Michael Slager's five-year career with the North Charleston Police Department in South Carolina ended after he resorted to deadly force following a routine traffic stop. Slager, 33, has been fired, officials said Wednesday. His wife is eight months' pregnant and the city will continue paying for her medical insurance until the baby is born, North Charleston Mayor Keith Summey told reporters. Slager initially told investigators that he used a Taser in a confrontation Saturday with Walter Scott, who was pulled over for a busted taillight. But Scott went for the Taser, according to Slager. A widely circulated video of the shooting death of the 50-year-old unarmed African-American man by the white police officer tells another story: Scott attempts to run. His back is to Slager, who, from a few yards away, raises his gun and fires. Slager is now charged with murder. The FBI is involved in the investigation of the slaying of the father of four. \"Shots fired and the subject is down,\" Slager said moments after the shooting, according to reports. \"He took my Taser.\"",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Officer Michael Slager's"
+      },
+      {
+        "id": 1,
+        "text": "the North Charleston Police Department in South Carolina"
+      },
+      {
+        "id": 2,
+        "text": "His wife"
+      },
+      {
+        "id": 3,
+        "text": "Walter Scott, who was pulled over for a busted taillight"
+      },
+      {
+        "id": 4,
+        "text": "a Taser"
+      },
+      {
+        "id": 5,
+        "text": "the shooting death of the 50-year-old unarmed African-American man by the white police officer"
+      },
+      {
+        "id": 6,
+        "text": "five-year"
+      },
+      {
+        "id": 7,
+        "text": "Wednesday"
+      },
+      {
+        "id": 8,
+        "text": "eight months'"
+      },
+      {
+        "id": 9,
+        "text": "Keith Summey"
+      },
+      {
+        "id": 10,
+        "text": "Saturday"
+      },
+      {
+        "id": 11,
+        "text": "FBI"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "employedBy",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "careerDuration",
+        "tail": 6
+      },
+      {
+        "head": 0,
+        "relation": "firedOn",
+        "tail": 7
+      },
+      {
+        "head": 2,
+        "relation": "pregnancyDuration",
+        "tail": 8
+      },
+      {
+        "head": 1,
+        "relation": "medicalInsurancePaidFor",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "used",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "confrontationDate",
+        "tail": 10
+      },
+      {
+        "head": 5,
+        "relation": "involves",
+        "tail": 3
+      },
+      {
+        "head": 5,
+        "relation": "involves",
+        "tail": 0
+      },
+      {
+        "head": 11,
+        "relation": "investigates",
+        "tail": 5
+      }
+    ]
+  },
+  {
+    "document_id": 373,
+    "ragtruth_id": "499",
+    "text": "Officer Michael Slager has been fired from the North Charleston Police Department in South Carolina after he used deadly force during a routine traffic stop. Slager initially claimed that he used a Taser in a confrontation with Walter Scott, the man he pulled over for a broken taillight, but a video of the incident tells a different story. In the video, Scott can be seen attempting to run away before Slager shoots him in the back. Slager has now been charged with murder and the FBI is involved in the investigation. This is not the first complaint against Slager, as he was previously accused of using excessive force and tasing a man without reason. The man who filed the complaint plans to file a lawsuit against Slager. Slager had been with the police department for five years and was considered proficient with a Taser. He had passed all necessary certifications and training, including in firearms and Taser use. He had also completed courses on bias-based profiling and ethics. Slager's career history also includes a nonpreventable traffic accident and prior discussions with a supervisor about procedures for conducting motor vehicle stops. Walter Scott, the victim in this incident, was an unarmed African-American man and the father of four. The shooting has sparked outrage and condemnation from South Carolina senators and the governor.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Officer Michael Slager"
+      },
+      {
+        "id": 1,
+        "text": "a confrontation with Walter Scott, the man he pulled over for a broken taillight"
+      },
+      {
+        "id": 2,
+        "text": "a video of the incident"
+      },
+      {
+        "id": 3,
+        "text": "Walter Scott, the man he pulled over for a broken taillight"
+      },
+      {
+        "id": 4,
+        "text": "This"
+      },
+      {
+        "id": 5,
+        "text": "the North Charleston Police Department in South Carolina"
+      },
+      {
+        "id": 6,
+        "text": "South Carolina"
+      },
+      {
+        "id": 7,
+        "text": "Taser"
+      },
+      {
+        "id": 8,
+        "text": "FBI"
+      },
+      {
+        "id": 9,
+        "text": "first"
+      },
+      {
+        "id": 10,
+        "text": "five years"
+      },
+      {
+        "id": 11,
+        "text": "Taser"
+      },
+      {
+        "id": 12,
+        "text": "Taser"
+      },
+      {
+        "id": 13,
+        "text": "African-American"
+      },
+      {
+        "id": 14,
+        "text": "four"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "employedBy",
+        "tail": 5
+      },
+      {
+        "head": 0,
+        "relation": "usedWeapon",
+        "tail": 7
+      },
+      {
+        "head": 0,
+        "relation": "usedWeapon",
+        "tail": 11
+      },
+      {
+        "head": 0,
+        "relation": "usedWeapon",
+        "tail": 12
+      },
+      {
+        "head": 0,
+        "relation": "chargedBy",
+        "tail": 8
+      },
+      {
+        "head": 3,
+        "relation": "victimOf",
+        "tail": 1
+      },
+      {
+        "head": 3,
+        "relation": "ethnicity",
+        "tail": 13
+      },
+      {
+        "head": 3,
+        "relation": "numberOfChildren",
+        "tail": 14
+      },
+      {
+        "head": 5,
+        "relation": "locatedIn",
+        "tail": 6
+      }
+    ]
+  },
+  {
+    "document_id": 374,
+    "ragtruth_id": "500",
+    "text": "Officer Michael Slager, 33, was fired from his job with the North Charleston Police Department in South Carolina after he shot and killed an unarmed African-American man during a traffic stop. Slager had been on the force for five years and had a history of misconduct, including allegations of using excessive force and filing false reports. The city will continue to pay for his wife's medical care until their baby is born. The FBI is investigating the shooting, which was caught on camera. Slager's lawyers say he acted in self-defense, but the video appears to show him raising his gun and firing without provocation.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Officer Michael Slager, 33"
+      },
+      {
+        "id": 1,
+        "text": "the North Charleston Police Department in South Carolina"
+      },
+      {
+        "id": 2,
+        "text": "shot"
+      },
+      {
+        "id": 3,
+        "text": "African-American"
+      },
+      {
+        "id": 4,
+        "text": "five years"
+      },
+      {
+        "id": 5,
+        "text": "FBI"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "employedBy",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "shot",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "workedForDuration",
+        "tail": 4
+      },
+      {
+        "head": 5,
+        "relation": "investigates",
+        "tail": 2
+      }
+    ]
+  },
+  {
+    "document_id": 375,
+    "ragtruth_id": "501",
+    "text": "Officer Michael Slager of the North Charleston Police Department in South Carolina has been fired and charged with murder after a video surfaced of him shooting an unarmed black man, Walter Scott, during a routine traffic stop. Slager claimed that Scott grabbed his Taser, but the video shows Scott running away before Slager fires his gun. Slager had previously been involved in two other complaints against him, including one where he tased a man without cause and another where he failed to file a report after an African-American woman called police about her children being harassed. Slager had been with the department since 2010 and was married with two stepchildren. His mother has stated that she cannot imagine him committing such a act and that he loves being a police officer. The FBI is investigating the shooting.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Officer Michael Slager of the North Charleston Police Department in South Carolina"
+      },
+      {
+        "id": 1,
+        "text": "an unarmed black man, Walter Scott"
+      },
+      {
+        "id": 2,
+        "text": "a video"
+      },
+      {
+        "id": 3,
+        "text": "his Taser"
+      },
+      {
+        "id": 4,
+        "text": "an African-American woman"
+      },
+      {
+        "id": 5,
+        "text": "the North Charleston Police Department in South Carolina"
+      },
+      {
+        "id": 6,
+        "text": "His mother"
+      },
+      {
+        "id": 7,
+        "text": "shooting"
+      },
+      {
+        "id": 8,
+        "text": "two"
+      },
+      {
+        "id": 9,
+        "text": "2010"
+      },
+      {
+        "id": 10,
+        "text": "two"
+      },
+      {
+        "id": 11,
+        "text": "FBI"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "memberOf",
+        "tail": 5
+      },
+      {
+        "head": 0,
+        "relation": "shootingVictim",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "evidence",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "complaintCount",
+        "tail": 8
+      },
+      {
+        "head": 0,
+        "relation": "employmentStartDate",
+        "tail": 9
+      },
+      {
+        "head": 0,
+        "relation": "spouseCount",
+        "tail": 10
+      },
+      {
+        "head": 7,
+        "relation": "investigatedBy",
+        "tail": 11
+      }
+    ]
+  },
+  {
+    "document_id": 376,
+    "ragtruth_id": "502",
+    "text": "Officer Michael Slager, a five-year veteran of the North Charleston Police Department, has been fired and charged with murder after a video showed him shooting and killing unarmed African American man Walter Scott during a routine traffic stop. Slager initially claimed he used a Taser, but the video shows him firing his gun at Scott as he runs away. Slager's mother defended her son, saying he is not capable of such an act. The FBI is investigating the shooting, which has sparked outrage and calls for justice. Slager has a previous record of using excessive force, including a complaint filed in 2013 for tasing a man for no reason. The shooting has raised questions about racial bias and police brutality.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Officer Michael Slager, a five-year veteran of the North Charleston Police Department"
+      },
+      {
+        "id": 1,
+        "text": "a video"
+      },
+      {
+        "id": 2,
+        "text": "unarmed African American man Walter Scott"
+      },
+      {
+        "id": 3,
+        "text": "Slager's mother"
+      },
+      {
+        "id": 4,
+        "text": "killing"
+      },
+      {
+        "id": 5,
+        "text": "Taser"
+      },
+      {
+        "id": 6,
+        "text": "FBI"
+      },
+      {
+        "id": 7,
+        "text": "2013"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "shootingVictim",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "usedWeapon",
+        "tail": 5
+      },
+      {
+        "head": 6,
+        "relation": "investigates",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "complaintDate",
+        "tail": 7
+      }
+    ]
+  },
+  {
+    "document_id": 377,
+    "ragtruth_id": "503",
+    "text": "Officer Michael Slager, a five-year veteran of the North Charleston Police Department in South Carolina, has been fired after a video emerged showing him fatally shooting an unarmed black man, Walter Scott, during a traffic stop. Slager initially claimed that Scott took his Taser, but the video shows Slager firing his gun as Scott runs away. Slager is now charged with murder. The FBI is investigating the shooting, which has sparked widespread outrage. Slager's personnel records show that he was proficient with the Taser and had received training in its use, but the video raises questions about whether he used it appropriately. Slager has also been named in a previous police complaint for allegedly using excessive force. The victim, Walter Scott, was a 50-year-old father of four.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Officer Michael Slager, a five-year veteran of the North Charleston Police Department in South Carolina"
+      },
+      {
+        "id": 1,
+        "text": "an unarmed black man, Walter Scott"
+      },
+      {
+        "id": 2,
+        "text": "a video"
+      },
+      {
+        "id": 3,
+        "text": "his Taser"
+      },
+      {
+        "id": 4,
+        "text": "shooting"
+      },
+      {
+        "id": 5,
+        "text": "FBI"
+      },
+      {
+        "id": 6,
+        "text": "50-year-old"
+      },
+      {
+        "id": 7,
+        "text": "four"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "firedAfter",
+        "tail": 2
+      },
+      {
+        "head": 4,
+        "relation": "involves",
+        "tail": 0
+      },
+      {
+        "head": 4,
+        "relation": "victim",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "chargedWith",
+        "tail": 4
+      },
+      {
+        "head": 4,
+        "relation": "investigatedBy",
+        "tail": 5
+      },
+      {
+        "head": 0,
+        "relation": "used",
+        "tail": 3
+      },
+      {
+        "head": 1,
+        "relation": "age",
+        "tail": 6
+      },
+      {
+        "head": 1,
+        "relation": "children",
+        "tail": 7
+      }
+    ]
+  },
+  {
+    "document_id": 378,
+    "ragtruth_id": "504",
+    "text": "Ex-New England Patriot Aaron Hernandez has pleaded not guilty to orchestrating the murder of Odin Lloyd, a man who was dating the sister of his fiancee, Shayanna Jenkins. Hernandez is charged with multiple offenses including murder and two weapons charges. Prosecutors allege that Hernandez executed Lloyd in June 2013, and that evidence found at the scene led to Hernandez being charged with two more murders in Boston. Hernandez is also accused of shooting Alexander Bradley in the face in February 2013, four months before Lloyd's death. Bradley testified against Hernandez in the Lloyd case, and is suing Hernandez for the alleged shooting. Hernandez's fiancee, Shayanna Jenkins, is also implicated in the case, and is accused of perjury for lying to a grand jury about guns in their home. The trial has involved a complex cast of characters including Hernandez's fiancee, her sister, who was dating the victim, and Hernandez's cousin, in whose garage police found the SUV linked to the Boston double homicide.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Ex-New England Patriot Aaron Hernandez"
+      },
+      {
+        "id": 1,
+        "text": "the murder of Odin Lloyd, a man who was dating the sister of his fiancee, Shayanna Jenkins"
+      },
+      {
+        "id": 2,
+        "text": "Odin Lloyd, a man who was dating the sister of his fiancee, Shayanna Jenkins"
+      },
+      {
+        "id": 3,
+        "text": "Alexander Bradley"
+      },
+      {
+        "id": 4,
+        "text": "shooting"
+      },
+      {
+        "id": 5,
+        "text": "the sister of his fiancee, Shayanna Jenkins"
+      },
+      {
+        "id": 6,
+        "text": "the Lloyd case"
+      },
+      {
+        "id": 7,
+        "text": "Hernandez's fiancee"
+      },
+      {
+        "id": 8,
+        "text": "Boston"
+      },
+      {
+        "id": 9,
+        "text": "two"
+      },
+      {
+        "id": 10,
+        "text": "June 2013"
+      },
+      {
+        "id": 11,
+        "text": "two"
+      },
+      {
+        "id": 12,
+        "text": "February 2013"
+      },
+      {
+        "id": 13,
+        "text": "four months"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "pleadedNotGuiltyTo",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "chargedWith",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "executed",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "chargedWith",
+        "tail": 8
+      },
+      {
+        "head": 0,
+        "relation": "shot",
+        "tail": 3
+      },
+      {
+        "head": 3,
+        "relation": "testifiedAgainst",
+        "tail": 0
+      },
+      {
+        "head": 3,
+        "relation": "sues",
+        "tail": 0
+      },
+      {
+        "head": 7,
+        "relation": "implicatedIn",
+        "tail": 6
+      },
+      {
+        "head": 7,
+        "relation": "accusedOf",
+        "tail": 6
+      },
+      {
+        "head": 2,
+        "relation": "dated",
+        "tail": 5
+      }
+    ]
+  },
+  {
+    "document_id": 379,
+    "ragtruth_id": "505",
+    "text": "Former New England Patriot, Aaron Hernandez, is currently on trial for the murder of Odin Lloyd, who was dating the sister of Hernandez’s fiancée. Hernandez has pleaded not guilty to murder and two weapons charges. The trial began in January and the jury began deliberations on Tuesday. The prosecutor, William McCauley, called Hernandez the trigger man during closing arguments. Although the motive for the murder is still unclear, it is not legally required to secure a conviction. However, jurors generally prefer to know the motive. The evidence collected in Lloyd’s death has also led to two more murder charges against Hernandez in a separate case in Boston. This trial is scheduled to begin in May but may be pushed back. The trial has involved several key individuals, including two sisters who played important roles in the lives of both Hernandez and Lloyd.\n\nOdin Lloyd was a 27-year-old semi-pro football player who was found dead less than a mile from Hernandez’s home in North Attleboro, Massachusetts. He had been shot six times. Daniel de Abreu and Safiro Furtado were also killed in a separate incident outside a Boston nightclub. Hernandez is alleged to have been involved in their murders as well. Alexander Bradley, Hernandez’s former right-hand man, claims that Hernandez shot him in the face in February 2013 and is now suing him. Carlos Ortiz and Ernest Wallace are also charged with murder in Lloyd’s death. Hernandez’s fiancée, Shayanna Jenkins, is charged with perjury and her sister, Shaneah Jenkins, was dating Lloyd at the time of his death. Other individuals involved in the case include Tanya Cummings-Singleton, Thaddeus Singleton, Shaquilla Thibou, Terri Hernandez, Dennis Hernandez, and DJ Hernandez.\n\nThe prosecution team leading the case against Hernandez includes District Attorney Samuel Sutter, Assistant District Attorneys William McCauley and Patrick Bomberg. The defense team consists of attorneys James Sultan, Michael Fee, and Charles Rankin, who are confident that Hernandez will be exonerated.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Former New England Patriot, Aaron Hernandez"
+      },
+      {
+        "id": 1,
+        "text": "trial for the murder of Odin Lloyd, who was dating the sister of Hernandez’s fiancée"
+      },
+      {
+        "id": 2,
+        "text": "the murder of Odin Lloyd, who was dating the sister of Hernandez’s fiancée"
+      },
+      {
+        "id": 3,
+        "text": "the motive for the murder"
+      },
+      {
+        "id": 4,
+        "text": "Odin Lloyd, who was dating the sister of Hernandez’s fiancée"
+      },
+      {
+        "id": 5,
+        "text": "Boston"
+      },
+      {
+        "id": 6,
+        "text": "Daniel de Abreu and Safiro Furtado"
+      },
+      {
+        "id": 7,
+        "text": "Alexander Bradley, Hernandez’s former right-hand man"
+      },
+      {
+        "id": 8,
+        "text": "Lloyd’s death"
+      },
+      {
+        "id": 9,
+        "text": "Hernandez’s fiancée, Shayanna Jenkins"
+      },
+      {
+        "id": 10,
+        "text": "the case"
+      },
+      {
+        "id": 11,
+        "text": "The prosecution team leading the case against Hernandez"
+      },
+      {
+        "id": 12,
+        "text": "two"
+      },
+      {
+        "id": 13,
+        "text": "January"
+      },
+      {
+        "id": 14,
+        "text": "Tuesday"
+      },
+      {
+        "id": 15,
+        "text": "William McCauley"
+      },
+      {
+        "id": 16,
+        "text": "two"
+      },
+      {
+        "id": 17,
+        "text": "May"
+      },
+      {
+        "id": 18,
+        "text": "two"
+      },
+      {
+        "id": 19,
+        "text": "27-year-old"
+      },
+      {
+        "id": 20,
+        "text": "North Attleboro"
+      },
+      {
+        "id": 21,
+        "text": "Massachusetts"
+      },
+      {
+        "id": 22,
+        "text": "six"
+      },
+      {
+        "id": 23,
+        "text": "February 2013"
+      },
+      {
+        "id": 24,
+        "text": "Carlos Ortiz"
+      },
+      {
+        "id": 25,
+        "text": "Ernest Wallace"
+      },
+      {
+        "id": 26,
+        "text": "Shaneah Jenkins"
+      },
+      {
+        "id": 27,
+        "text": "Tanya Cummings-Singleton"
+      },
+      {
+        "id": 28,
+        "text": "Thaddeus Singleton"
+      },
+      {
+        "id": 29,
+        "text": "Shaquilla Thibou"
+      },
+      {
+        "id": 30,
+        "text": "Terri Hernandez"
+      },
+      {
+        "id": 31,
+        "text": "Dennis Hernandez"
+      },
+      {
+        "id": 32,
+        "text": "DJ Hernandez"
+      },
+      {
+        "id": 33,
+        "text": "Samuel Sutter"
+      },
+      {
+        "id": 34,
+        "text": "William McCauley"
+      },
+      {
+        "id": 35,
+        "text": "Patrick Bomberg"
+      },
+      {
+        "id": 36,
+        "text": "James Sultan"
+      },
+      {
+        "id": 37,
+        "text": "Michael Fee"
+      },
+      {
+        "id": 38,
+        "text": "Charles Rankin"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "subjectOfTrial",
+        "tail": 0
+      },
+      {
+        "head": 2,
+        "relation": "victim",
+        "tail": 4
+      },
+      {
+        "head": 1,
+        "relation": "beganIn",
+        "tail": 13
+      },
+      {
+        "head": 1,
+        "relation": "beganIn",
+        "tail": 14
+      },
+      {
+        "head": 2,
+        "relation": "motive",
+        "tail": 3
+      },
+      {
+        "head": 8,
+        "relation": "ledToChargesAgainst",
+        "tail": 0
+      },
+      {
+        "head": 8,
+        "relation": "involvedIn",
+        "tail": 6
+      },
+      {
+        "head": 4,
+        "relation": "foundDeadIn",
+        "tail": 20
+      },
+      {
+        "head": 4,
+        "relation": "foundDeadIn",
+        "tail": 21
+      },
+      {
+        "head": 4,
+        "relation": "shotCount",
+        "tail": 22
+      },
+      {
+        "head": 6,
+        "relation": "killedIn",
+        "tail": 5
+      },
+      {
+        "head": 7,
+        "relation": "shotBy",
+        "tail": 0
+      },
+      {
+        "head": 7,
+        "relation": "shotIn",
+        "tail": 23
+      },
+      {
+        "head": 9,
+        "relation": "spouse",
+        "tail": 0
+      },
+      {
+        "head": 26,
+        "relation": "dated",
+        "tail": 4
+      },
+      {
+        "head": 11,
+        "relation": "ledBy",
+        "tail": 33
+      },
+      {
+        "head": 11,
+        "relation": "includes",
+        "tail": 34
+      },
+      {
+        "head": 11,
+        "relation": "includes",
+        "tail": 35
+      },
+      {
+        "head": 10,
+        "relation": "against",
+        "tail": 0
+      },
+      {
+        "head": 10,
+        "relation": "includes",
+        "tail": 27
+      },
+      {
+        "head": 10,
+        "relation": "includes",
+        "tail": 28
+      },
+      {
+        "head": 10,
+        "relation": "includes",
+        "tail": 29
+      },
+      {
+        "head": 10,
+        "relation": "includes",
+        "tail": 30
+      },
+      {
+        "head": 10,
+        "relation": "includes",
+        "tail": 31
+      },
+      {
+        "head": 10,
+        "relation": "includes",
+        "tail": 32
+      }
+    ]
+  }
+]

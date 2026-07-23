@@ -1,0 +1,753 @@
+[
+  {
+    "document_id": 510,
+    "ragtruth_id": "696",
+    "text": "The FBI has confirmed that Zulkifli bin Hir, known as Marwan, was killed in a disastrous raid in the Philippines in January. Marwan, a Malaysian bomb maker, was one of the FBI's most wanted terrorists and believed to be a member of southeast Asian terror group Jemaah Islamiyah's central command. He was indicted on terror charges in a California court in 2007 and accused of being a supplier of IEDs to terrorist organisations and of conducting bomb making training for terror groups, including the Philippines-based Abu Sayyaf. The raid that resulted in Marwan's death, however, resulted in the deaths of 44 police officers, and threatened a peace agreement signed last year with the Moro Islamic Liberation Front (MILF). The report alleges that the pursuit of Marwan overrode the mechanisms established to alert the MILF to such operations. As a result, the report concludes that \"the best chance the southern Philippines has ever had for peace may now be in jeopardy.\"",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Zulkifli bin Hir, known as Marwan"
+      },
+      {
+        "id": 1,
+        "text": "The FBI"
+      },
+      {
+        "id": 2,
+        "text": "the Philippines"
+      },
+      {
+        "id": 3,
+        "text": "a disastrous raid in the Philippines in January"
+      },
+      {
+        "id": 4,
+        "text": "killed"
+      },
+      {
+        "id": 5,
+        "text": "the Moro Islamic Liberation Front (MILF)"
+      },
+      {
+        "id": 6,
+        "text": "The report"
+      },
+      {
+        "id": 7,
+        "text": "Asian"
+      },
+      {
+        "id": 8,
+        "text": "Jemaah Islamiyah's"
+      },
+      {
+        "id": 9,
+        "text": "California"
+      },
+      {
+        "id": 10,
+        "text": "2007"
+      },
+      {
+        "id": 11,
+        "text": "Abu Sayyaf"
+      },
+      {
+        "id": 12,
+        "text": "44"
+      },
+      {
+        "id": 13,
+        "text": "last year"
+      },
+      {
+        "id": 14,
+        "text": "Philippines"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "killedIn",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "memberOf",
+        "tail": 8
+      },
+      {
+        "head": 0,
+        "relation": "indictedIn",
+        "tail": 9
+      },
+      {
+        "head": 0,
+        "relation": "indictedYear",
+        "tail": 10
+      },
+      {
+        "head": 0,
+        "relation": "supplierOf",
+        "tail": 11
+      },
+      {
+        "head": 0,
+        "relation": "trained",
+        "tail": 11
+      },
+      {
+        "head": 3,
+        "relation": "deathOf",
+        "tail": 0
+      },
+      {
+        "head": 3,
+        "relation": "deathToll",
+        "tail": 12
+      },
+      {
+        "head": 3,
+        "relation": "threatenedAgreementWith",
+        "tail": 5
+      },
+      {
+        "head": 6,
+        "relation": "alleges",
+        "tail": 0
+      },
+      {
+        "head": 6,
+        "relation": "alertMechanismsEstablishedFor",
+        "tail": 5
+      }
+    ]
+  },
+  {
+    "document_id": 511,
+    "ragtruth_id": "697",
+    "text": "The FBI has confirmed that the Malaysian bomb maker known as Marwan, who was one of its most wanted terrorists, was killed in a raid in the Philippines in January. Marwan, whose real name is Zulkifli bin Hir, was believed to be a member of the southeast Asian terror group Jemaah Islamiyah's central command. DNA tests have confirmed that the dead man from the raid was indeed Marwan. The FBI had been offering a $5 million reward for information leading to his capture since his indictment on terror charges in 2007. Marwan was accused of supplying IEDs to terrorist organizations and conducting bomb making training for groups such as Abu Sayyaf. The raid in January, which targeted Marwan, resulted in the deaths of 44 members of the police's elite Special Action Force (SAF) unit. The clash also shattered a three-year ceasefire with the Moro Islamic Liberation Front (MILF) and threatened the peace agreement in the region. The botched mission and the focus on killing Marwan has been criticized for jeopardizing the peace process. Despite controversy, the FBI expressed condolences to the fallen officers and confirmed Marwan's death.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "The FBI"
+      },
+      {
+        "id": 1,
+        "text": "the Malaysian bomb maker known as Marwan, who was one of its most wanted terrorists"
+      },
+      {
+        "id": 2,
+        "text": "a raid in the Philippines in January"
+      },
+      {
+        "id": 3,
+        "text": "January"
+      },
+      {
+        "id": 4,
+        "text": "44 members of the police's elite Special Action Force (SAF) unit"
+      },
+      {
+        "id": 5,
+        "text": "killed"
+      },
+      {
+        "id": 6,
+        "text": "Asian"
+      },
+      {
+        "id": 7,
+        "text": "Jemaah Islamiyah's"
+      },
+      {
+        "id": 8,
+        "text": "$5 million"
+      },
+      {
+        "id": 9,
+        "text": "2007"
+      },
+      {
+        "id": 10,
+        "text": "Abu Sayyaf"
+      },
+      {
+        "id": 11,
+        "text": "three-year"
+      },
+      {
+        "id": 12,
+        "text": "the Moro Islamic Liberation Front"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "killedIn",
+        "tail": 2
+      },
+      {
+        "head": 1,
+        "relation": "realName",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "offeredReward",
+        "tail": 8
+      },
+      {
+        "head": 0,
+        "relation": "sinceIndictmentYear",
+        "tail": 9
+      },
+      {
+        "head": 1,
+        "relation": "trainedGroup",
+        "tail": 10
+      },
+      {
+        "head": 2,
+        "relation": "targeted",
+        "tail": 1
+      },
+      {
+        "head": 2,
+        "relation": "resultedInDeathsOf",
+        "tail": 4
+      },
+      {
+        "head": 2,
+        "relation": "shatteredCeasefireWith",
+        "tail": 12
+      }
+    ]
+  },
+  {
+    "document_id": 512,
+    "ragtruth_id": "698",
+    "text": "The FBI has confirmed that Marwan, a Malaysian bomb maker wanted by the bureau for his ties to the Jemaah Islamiyah terror group, was killed during a failed raid on a Philippine village in January. The raid, which resulted in the deaths of 44 police officers, targeted an area controlled by a splinter group linked to ISIS. According to a report released last month, Marwan's allegiance to ISIS and his role in aiding terror attacks was exaggerated by US intelligence agencies. Marwan's death marks the end of a chapter in the fight against terrorism in the region.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "The FBI"
+      },
+      {
+        "id": 1,
+        "text": "a failed raid on a Philippine village in January"
+      },
+      {
+        "id": 2,
+        "text": "Marwan, a Malaysian bomb maker wanted by the bureau for his ties to the Jemaah Islamiyah terror group"
+      },
+      {
+        "id": 3,
+        "text": "ISIS"
+      },
+      {
+        "id": 4,
+        "text": "killed"
+      },
+      {
+        "id": 5,
+        "text": "last month"
+      },
+      {
+        "id": 6,
+        "text": "US"
+      }
+    ],
+    "relations": [
+      {
+        "head": 2,
+        "relation": "wantedBy",
+        "tail": 0
+      },
+      {
+        "head": 2,
+        "relation": "killedIn",
+        "tail": 1
+      },
+      {
+        "head": 1,
+        "relation": "targeted",
+        "tail": 3
+      },
+      {
+        "head": 2,
+        "relation": "allegianceTo",
+        "tail": 3
+      },
+      {
+        "head": 2,
+        "relation": "exaggeratedBy",
+        "tail": 6
+      }
+    ]
+  },
+  {
+    "document_id": 513,
+    "ragtruth_id": "699",
+    "text": "The FBI has confirmed that Marwan, a high-value bomb maker wanted since 2007, was killed in a raid in the Philippines in January. The raid, led by the Philippine military, resulted in the death of 44 members of the Special Action Force (SAF) unit. Despite initial reports of Marwan's death in 2012, the FBI has now confirmed through DNA testing that the dead man was indeed Marwan. The raid had been planned to capture Marwan, who was believed to be a member of the Jemaah Islamiyah terror group and a key supplier of improvised explosive devices (IEDs) to other terror organizations. However, the raid went awry, resulting in the deaths of many innocent people and raising questions about the prioritization of the mission. The FBI has expressed its condolences to the families of the fallen SAF members and acknowledged that the operation had the potential to threaten the recently signed peace agreement between the Philippines government and the Moro Islamic Liberation Front (MILF).",
+    "entities": [
+      {
+        "id": 0,
+        "text": "a raid in the Philippines in January"
+      },
+      {
+        "id": 1,
+        "text": "Marwan, a high-value bomb maker wanted since 2007"
+      },
+      {
+        "id": 2,
+        "text": "The FBI"
+      },
+      {
+        "id": 3,
+        "text": "the death of 44 members of the Special Action Force (SAF) unit"
+      },
+      {
+        "id": 4,
+        "text": "44 members of the Special Action Force (SAF) unit"
+      },
+      {
+        "id": 5,
+        "text": "the Special Action Force (SAF) unit"
+      },
+      {
+        "id": 6,
+        "text": "the Philippines"
+      },
+      {
+        "id": 7,
+        "text": "2012"
+      },
+      {
+        "id": 8,
+        "text": "Marwan"
+      },
+      {
+        "id": 9,
+        "text": "Islamiyah"
+      },
+      {
+        "id": 10,
+        "text": "the Moro Islamic Liberation Front"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "killedIn",
+        "tail": 0
+      },
+      {
+        "head": 0,
+        "relation": "ledBy",
+        "tail": 6
+      },
+      {
+        "head": 3,
+        "relation": "resultedInDeathOf",
+        "tail": 4
+      },
+      {
+        "head": 1,
+        "relation": "deathReportedIn",
+        "tail": 7
+      },
+      {
+        "head": 1,
+        "relation": "memberOf",
+        "tail": 9
+      },
+      {
+        "head": 0,
+        "relation": "plannedToCapture",
+        "tail": 8
+      },
+      {
+        "head": 0,
+        "relation": "threatenedPeaceAgreementBetween",
+        "tail": 10
+      }
+    ]
+  },
+  {
+    "document_id": 514,
+    "ragtruth_id": "700",
+    "text": "Here is a summary of the article in 181 words:\n\nThe FBI has confirmed that Zulkifli bin Hir, also known as Marwan, a top Malaysian bomb maker and most wanted terrorist, was killed in a disastrous raid in the Philippines in January. Marwan was linked to the Southeast Asian terror group Jemaah Islamiyah and had been on the FBI's most wanted list since 2007. The FBI offered a $5 million reward for information leading to his capture. However, the raid to capture him resulted in the death of 44 Philippine police commandos and sparked controversy over the prioritization of killing Marwan over maintaining peace in the region. The Institute for Policy Analysis of Conflict argues that the mission threatened the peace agreement with the Moro Islamic Liberation Front and may have jeopardized the best chance for peace in the southern Philippines.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Zulkifli bin Hir, also known as Marwan, a top Malaysian bomb maker and most wanted terrorist"
+      },
+      {
+        "id": 1,
+        "text": "The FBI"
+      },
+      {
+        "id": 2,
+        "text": "a disastrous raid in the Philippines in January"
+      },
+      {
+        "id": 3,
+        "text": "181"
+      },
+      {
+        "id": 4,
+        "text": "Southeast Asian"
+      },
+      {
+        "id": 5,
+        "text": "Jemaah Islamiyah"
+      },
+      {
+        "id": 6,
+        "text": "2007"
+      },
+      {
+        "id": 7,
+        "text": "$5 million"
+      },
+      {
+        "id": 8,
+        "text": "44"
+      },
+      {
+        "id": 9,
+        "text": "Philippine"
+      },
+      {
+        "id": 10,
+        "text": "The Institute for Policy Analysis of Conflict"
+      },
+      {
+        "id": 11,
+        "text": "the Moro Islamic Liberation Front"
+      },
+      {
+        "id": 12,
+        "text": "Philippines"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "killedIn",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "memberOf",
+        "tail": 5
+      },
+      {
+        "head": 0,
+        "relation": "wantedBy",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "wantedSince",
+        "tail": 6
+      },
+      {
+        "head": 1,
+        "relation": "offeredReward",
+        "tail": 7
+      },
+      {
+        "head": 2,
+        "relation": "location",
+        "tail": 12
+      },
+      {
+        "head": 2,
+        "relation": "involvedInDeathOf",
+        "tail": 8
+      },
+      {
+        "head": 2,
+        "relation": "threatenedPeaceAgreementWith",
+        "tail": 11
+      }
+    ]
+  },
+  {
+    "document_id": 515,
+    "ragtruth_id": "701",
+    "text": "The FBI has confirmed that Zulkifli bin Hir, aka Marwan, a wanted terrorist and bomb maker linked to Jemaah Islamiyah, was killed in a raid in the Philippines in January. DNA tests confirm that the man killed was indeed Marwan, who had been indicted on terror charges in a California court. The raid, carried out by the Philippines' Special Action Force, resulted in the deaths of 44 commandos, and a subsequent firefight between the SAF and Moro Islamic Liberation Front (MILF) fighters led to the deaths of 18 MILF fighters and possibly some BIFF fighters. The operation had been criticized for its single-minded focus on killing Marwan, which may have jeopardized the peace agreement between the Philippines government and the MILF. The FBI had offered a $5 million reward for information leading to Marwan's capture.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Zulkifli bin Hir, aka Marwan, a wanted terrorist and bomb maker linked to Jemaah Islamiyah"
+      },
+      {
+        "id": 1,
+        "text": "a raid in the Philippines in January"
+      },
+      {
+        "id": 2,
+        "text": "the Philippines"
+      },
+      {
+        "id": 3,
+        "text": "Moro Islamic Liberation Front (MILF)"
+      },
+      {
+        "id": 4,
+        "text": "The FBI"
+      },
+      {
+        "id": 5,
+        "text": "44"
+      },
+      {
+        "id": 6,
+        "text": "SAF"
+      },
+      {
+        "id": 7,
+        "text": "18"
+      },
+      {
+        "id": 8,
+        "text": "BIFF"
+      },
+      {
+        "id": 9,
+        "text": "$5 million"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "killedIn",
+        "tail": 1
+      },
+      {
+        "head": 1,
+        "relation": "locatedIn",
+        "tail": 2
+      },
+      {
+        "head": 1,
+        "relation": "carriedOutBy",
+        "tail": 6
+      },
+      {
+        "head": 1,
+        "relation": "deathToll",
+        "tail": 5
+      },
+      {
+        "head": 1,
+        "relation": "deathToll",
+        "tail": 7
+      },
+      {
+        "head": 4,
+        "relation": "offeredReward",
+        "tail": 9
+      }
+    ]
+  },
+  {
+    "document_id": 516,
+    "ragtruth_id": "702",
+    "text": "Chelsea Manning, the soldier imprisoned for 35 years for leaking thousands of classified documents, has joined Twitter. She will dictate her tweets to communications firm Fitzgibbon Media to upload on her behalf, as she is not allowed internet access in prison. Manning has stated she wants her Twitter feed to be a two way conversation.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Chelsea Manning, the soldier imprisoned for 35 years for leaking thousands of classified documents"
+      },
+      {
+        "id": 1,
+        "text": "Twitter"
+      },
+      {
+        "id": 2,
+        "text": "Fitzgibbon Media"
+      },
+      {
+        "id": 3,
+        "text": "two"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "joined",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "usesServiceOf",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "wantsFeedToBe",
+        "tail": 3
+      }
+    ]
+  },
+  {
+    "document_id": 517,
+    "ragtruth_id": "703",
+    "text": "Imprisoned soldier Chelsea Manning has joined Twitter and will be dictating her tweets to a communications firm to be posted on her behalf. Manning, who is serving a 35-year sentence for leaking classified documents, is not allowed internet access in prison. She has been granted hormone therapy for her gender dysphoria. Manning was convicted of stealing and disseminating classified material to WikiLeaks and has written opinion pieces for The New York Times and The Guardian from prison.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Imprisoned soldier Chelsea Manning"
+      },
+      {
+        "id": 1,
+        "text": "Twitter"
+      },
+      {
+        "id": 2,
+        "text": "WikiLeaks"
+      },
+      {
+        "id": 3,
+        "text": "The New York Times"
+      },
+      {
+        "id": 4,
+        "text": "Guardian"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "memberOf",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "associatedWith",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "wroteFor",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "wroteFor",
+        "tail": 4
+      }
+    ]
+  },
+  {
+    "document_id": 518,
+    "ragtruth_id": "704",
+    "text": "Imprisoned soldier Chelsea Manning has joined Twitter, using a voice phone and outside help to post tweets about her experiences. Manning, who identifies as female and was previously known as Bradley Manning, has been in prison for the past seven years and was sentenced to 35 years for stealing and leaking classified documents to WikiLeaks. Manning began hormone therapy in August and was granted the legal name Chelsea Elizabeth Manning last year.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Imprisoned soldier Chelsea Manning"
+      },
+      {
+        "id": 1,
+        "text": "Twitter"
+      },
+      {
+        "id": 2,
+        "text": "the past seven years"
+      },
+      {
+        "id": 3,
+        "text": "35 years"
+      },
+      {
+        "id": 4,
+        "text": "WikiLeaks"
+      },
+      {
+        "id": 5,
+        "text": "August"
+      },
+      {
+        "id": 6,
+        "text": "Chelsea Elizabeth Manning"
+      },
+      {
+        "id": 7,
+        "text": "last year"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "joined",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "durationInPrison",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "sentenceLength",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "leakedTo",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "hormoneTherapyStart",
+        "tail": 5
+      },
+      {
+        "head": 0,
+        "relation": "legalName",
+        "tail": 6
+      },
+      {
+        "head": 0,
+        "relation": "nameGrantedTime",
+        "tail": 7
+      }
+    ]
+  },
+  {
+    "document_id": 519,
+    "ragtruth_id": "705",
+    "text": "Imprisoned whistleblower Chelsea Manning has joined Twitter, using a voice phone to dictate her tweets to a communications firm. With nearly 26,000 followers, she plans to use the platform to share her thoughts and experiences. Manning, who identifies as transgender and was convicted of leaking classified documents to WikiLeaks, is not allowed internet access in prison but will communicate through her lawyer.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Imprisoned whistleblower Chelsea Manning"
+      },
+      {
+        "id": 1,
+        "text": "Twitter"
+      },
+      {
+        "id": 2,
+        "text": "nearly 26,000"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "joined",
+        "tail": 1
+      },
+      {
+        "head": 1,
+        "relation": "followers",
+        "tail": 2
+      }
+    ]
+  }
+]

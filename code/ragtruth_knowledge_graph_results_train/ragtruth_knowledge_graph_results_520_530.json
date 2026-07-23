@@ -1,0 +1,587 @@
+[
+  {
+    "document_id": 520,
+    "ragtruth_id": "706",
+    "text": "Sure! Here's the summary in 68 words:\n\nChelsea Manning, imprisoned for leaking classified documents, has joined Twitter to communicate with the world. She will use a voice phone to dictate tweets to a communications firm, despite not having internet access in prison. Manning identifies as transgender and has been granted hormone therapy for gender dysphoria.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Chelsea Manning, imprisoned for leaking classified documents"
+      },
+      {
+        "id": 1,
+        "text": "68"
+      },
+      {
+        "id": 2,
+        "text": "Twitter"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "joined",
+        "tail": 2
+      }
+    ]
+  },
+  {
+    "document_id": 521,
+    "ragtruth_id": "707",
+    "text": "Imprisoned soldier Chelsea Manning has joined Twitter, using a voice phone to dictate her tweets to a communications firm. Despite having no internet access in prison, Manning hopes to use Twitter to engage in conversation and has already gained over 26,000 followers.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Imprisoned soldier Chelsea Manning"
+      },
+      {
+        "id": 1,
+        "text": "Twitter"
+      },
+      {
+        "id": 2,
+        "text": "over 26,000"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "joined",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "followers",
+        "tail": 2
+      }
+    ]
+  },
+  {
+    "document_id": 522,
+    "ragtruth_id": "708",
+    "text": "Thai Smile, a subsidiary of Thai Airways, has unveiled an Adventure Time themed Airbus A320, complete with characters from the Cartoon Network show adorning both the exterior and interior of the plane. The Adventure Time plane is a result of a partnership between Thai Smile and Cartoon Network Amazone, a new water park in Pattaya.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "an Adventure Time themed Airbus A320, complete with characters from the Cartoon Network show adorning both the exterior and interior of the plane"
+      },
+      {
+        "id": 1,
+        "text": "Adventure Time"
+      },
+      {
+        "id": 2,
+        "text": "Thai Smile, a subsidiary of Thai Airways"
+      },
+      {
+        "id": 3,
+        "text": "Pattaya"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "themedAfter",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "partneredWith",
+        "tail": 2
+      },
+      {
+        "head": 2,
+        "relation": "locatedIn",
+        "tail": 3
+      }
+    ]
+  },
+  {
+    "document_id": 523,
+    "ragtruth_id": "709",
+    "text": "Thai Smile, a subsidiary of Thai Airways, has unveiled a new livery on one of its planes featuring characters from the TV show \"Adventure Time.\" The Airbus A320 at Bangkok's Suvarnabhumi International Airport is covered in images of Jake, Finn, and Princess Bubblegum. The interior of the plane also has an Adventure Time theme. The partnership between Thai Smile and Cartoon Network Amazone resulted in this unique plane design. The first Adventure Time flight will take place on April 4, traveling from Bangkok to Phuket.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Thai Smile, a subsidiary of Thai Airways"
+      },
+      {
+        "id": 1,
+        "text": "one of its planes featuring characters from the TV show \"Adventure Time"
+      },
+      {
+        "id": 2,
+        "text": "the TV show \"Adventure Time"
+      },
+      {
+        "id": 3,
+        "text": "a new livery on one of its planes featuring characters from the TV show \"Adventure Time"
+      },
+      {
+        "id": 4,
+        "text": "Bangkok's"
+      },
+      {
+        "id": 5,
+        "text": "Jake"
+      },
+      {
+        "id": 6,
+        "text": "Finn"
+      },
+      {
+        "id": 7,
+        "text": "first"
+      },
+      {
+        "id": 8,
+        "text": "April 4"
+      },
+      {
+        "id": 9,
+        "text": "Phuket"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "subsidiaryOf",
+        "tail": 0
+      },
+      {
+        "head": 3,
+        "relation": "depicts",
+        "tail": 5
+      },
+      {
+        "head": 3,
+        "relation": "depicts",
+        "tail": 6
+      },
+      {
+        "head": 3,
+        "relation": "theme",
+        "tail": 2
+      },
+      {
+        "head": 1,
+        "relation": "theme",
+        "tail": 2
+      },
+      {
+        "head": 3,
+        "relation": "partneredWith",
+        "tail": 0
+      },
+      {
+        "head": 3,
+        "relation": "firstFlightDate",
+        "tail": 8
+      },
+      {
+        "head": 3,
+        "relation": "origin",
+        "tail": 4
+      },
+      {
+        "head": 3,
+        "relation": "destination",
+        "tail": 9
+      }
+    ]
+  },
+  {
+    "document_id": 524,
+    "ragtruth_id": "710",
+    "text": "Thai Airways subsidiary Thai Smile has partnered with Turner Broadcasting's Cartoon Network Amazone to create a new Airbus A320 livery featuring characters from the popular animated series \"Adventure Time\". The interior of the plane is also themed after the show, with decorations covering the overhead bins, head rests, and air sickness bags. The first flight will take off from Bangkok to Phuket on April 4th.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Airbus A320"
+      },
+      {
+        "id": 1,
+        "text": "the popular animated series \"Adventure Time\""
+      },
+      {
+        "id": 2,
+        "text": "Thai Airways"
+      },
+      {
+        "id": 3,
+        "text": "Thai Smile"
+      },
+      {
+        "id": 4,
+        "text": "Turner Broadcasting's"
+      },
+      {
+        "id": 5,
+        "text": "Cartoon Network Amazone"
+      },
+      {
+        "id": 6,
+        "text": "first"
+      },
+      {
+        "id": 7,
+        "text": "Bangkok"
+      },
+      {
+        "id": 8,
+        "text": "Phuket"
+      },
+      {
+        "id": 9,
+        "text": "April 4th"
+      }
+    ],
+    "relations": [
+      {
+        "head": 3,
+        "relation": "subsidiaryOf",
+        "tail": 2
+      },
+      {
+        "head": 3,
+        "relation": "partneredWith",
+        "tail": 5
+      },
+      {
+        "head": 0,
+        "relation": "liveryFeaturing",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "themedAfter",
+        "tail": 1
+      },
+      {
+        "head": 6,
+        "relation": "departurePlace",
+        "tail": 7
+      },
+      {
+        "head": 6,
+        "relation": "arrivalPlace",
+        "tail": 8
+      },
+      {
+        "head": 6,
+        "relation": "departureDate",
+        "tail": 9
+      }
+    ]
+  },
+  {
+    "document_id": 525,
+    "ragtruth_id": "711",
+    "text": "Thai Airways subsidiary Thai Smile unveils new Adventure Time-themed aircraft, featuring characters from the popular Cartoon Network show. Plane's interior includes character-covered overhead bins and headrests. Inaugural flight takes place on April 4 from Bangkok to Phuket.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Adventure Time"
+      },
+      {
+        "id": 1,
+        "text": "new Adventure Time-themed aircraft, featuring characters from the popular Cartoon Network show"
+      },
+      {
+        "id": 2,
+        "text": "Thai Airways"
+      },
+      {
+        "id": 3,
+        "text": "Thai Smile"
+      },
+      {
+        "id": 4,
+        "text": "April 4"
+      },
+      {
+        "id": 5,
+        "text": "Bangkok"
+      },
+      {
+        "id": 6,
+        "text": "Phuket"
+      }
+    ],
+    "relations": [
+      {
+        "head": 3,
+        "relation": "subsidiaryOf",
+        "tail": 2
+      },
+      {
+        "head": 1,
+        "relation": "theme",
+        "tail": 0
+      },
+      {
+        "head": 1,
+        "relation": "inauguralFlightDate",
+        "tail": 4
+      },
+      {
+        "head": 1,
+        "relation": "departurePlace",
+        "tail": 5
+      },
+      {
+        "head": 1,
+        "relation": "destinationPlace",
+        "tail": 6
+      }
+    ]
+  },
+  {
+    "document_id": 526,
+    "ragtruth_id": "712",
+    "text": "Sure! Here's the summary within 51 words:\n\nThai Smile, a subsidiary of Thai Airways, unveiled an Adventure Time-themed Airbus A320 with colorful livery at Bangkok's Suvarnabhumi Airport. The plane features characters from the hit Cartoon Network show inside and out, including Jake, Finn, and Princess Bubblegum. The inaugural flight takes place on April 4 from Bangkok to Phuket.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "an Adventure Time-themed Airbus A320 with colorful livery"
+      },
+      {
+        "id": 1,
+        "text": "Bangkok's"
+      },
+      {
+        "id": 2,
+        "text": "51"
+      },
+      {
+        "id": 3,
+        "text": "Thai Smile"
+      },
+      {
+        "id": 4,
+        "text": "Thai Airways"
+      },
+      {
+        "id": 5,
+        "text": "Suvarnabhumi Airport"
+      },
+      {
+        "id": 6,
+        "text": "Cartoon Network"
+      },
+      {
+        "id": 7,
+        "text": "Jake"
+      },
+      {
+        "id": 8,
+        "text": "Finn"
+      },
+      {
+        "id": 9,
+        "text": "April 4"
+      },
+      {
+        "id": 10,
+        "text": "Phuket"
+      }
+    ],
+    "relations": [
+      {
+        "head": 3,
+        "relation": "subsidiaryOf",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "location",
+        "tail": 5
+      },
+      {
+        "head": 0,
+        "relation": "features",
+        "tail": 6
+      },
+      {
+        "head": 0,
+        "relation": "features",
+        "tail": 7
+      },
+      {
+        "head": 0,
+        "relation": "features",
+        "tail": 8
+      },
+      {
+        "head": 0,
+        "relation": "inauguralFlightDate",
+        "tail": 9
+      },
+      {
+        "head": 0,
+        "relation": "departurePlace",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "destination",
+        "tail": 10
+      }
+    ]
+  },
+  {
+    "document_id": 527,
+    "ragtruth_id": "713",
+    "text": "Thai Smile, a subsidiary of Thai Airways, has unveiled a new Airbus A320 with a livery featuring characters from the popular Cartoon Network show \"Adventure Time.\" The plane's interior is also themed around the show, with overhead bins, head rests, and air sickness bags featuring the faces of characters. The plane is a result of a partnership between Thai Smile and Cartoon Network Amazone, a new water park near Pattaya, Thailand. The inaugural flight takes place on April 4, heading from Bangkok to Phuket.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "a new Airbus A320 with a livery featuring characters from the popular Cartoon Network show \"Adventure Time"
+      },
+      {
+        "id": 1,
+        "text": "the popular Cartoon Network show \"Adventure Time"
+      },
+      {
+        "id": 2,
+        "text": "Thai Smile, a subsidiary of Thai Airways"
+      },
+      {
+        "id": 3,
+        "text": "Pattaya"
+      },
+      {
+        "id": 4,
+        "text": "Thailand"
+      },
+      {
+        "id": 5,
+        "text": "April 4"
+      },
+      {
+        "id": 6,
+        "text": "Bangkok"
+      },
+      {
+        "id": 7,
+        "text": "Phuket"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "theme",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "partneredWith",
+        "tail": 2
+      },
+      {
+        "head": 2,
+        "relation": "subsidiaryOf",
+        "tail": 4
+      },
+      {
+        "head": 5,
+        "relation": "departurePlace",
+        "tail": 6
+      },
+      {
+        "head": 5,
+        "relation": "arrivalPlace",
+        "tail": 7
+      }
+    ]
+  },
+  {
+    "document_id": 528,
+    "ragtruth_id": "714",
+    "text": "NFL legend Deion Sanders publicly called out his son, Deion Sanders Jr., on Twitter for claiming to only eat \"hood doughnuts.\" Sanders reminded his son of his privileged upbringing, including a trust fund, a condo, and his own clothing line, \"Well Off.\"",
+    "entities": [
+      {
+        "id": 0,
+        "text": "NFL legend Deion Sanders"
+      },
+      {
+        "id": 1,
+        "text": "his son, Deion Sanders Jr."
+      },
+      {
+        "id": 2,
+        "text": "Twitter"
+      },
+      {
+        "id": 3,
+        "text": "Well Off"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "father",
+        "tail": 0
+      },
+      {
+        "head": 1,
+        "relation": "mentionedOn",
+        "tail": 2
+      },
+      {
+        "head": 1,
+        "relation": "owns",
+        "tail": 3
+      }
+    ]
+  },
+  {
+    "document_id": 529,
+    "ragtruth_id": "715",
+    "text": "NFL legend Deion Sanders publicly called out his son, Deion Sanders Jr., on Twitter for saying he only eats \"hood doughnuts.\" Sanders Sr. reminded his son of his privileged upbringing and successful ventures, urging him to stop embracing the \"hood stuff.\" Sanders Jr. retweeted his father's comments.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "NFL legend Deion Sanders"
+      },
+      {
+        "id": 1,
+        "text": "he"
+      },
+      {
+        "id": 2,
+        "text": "Sanders Jr."
+      },
+      {
+        "id": 3,
+        "text": "Deion Sanders Jr."
+      },
+      {
+        "id": 4,
+        "text": "Twitter"
+      }
+    ],
+    "relations": [
+      {
+        "head": 3,
+        "relation": "child",
+        "tail": 0
+      },
+      {
+        "head": 2,
+        "relation": "child",
+        "tail": 0
+      },
+      {
+        "head": 0,
+        "relation": "postedOn",
+        "tail": 4
+      },
+      {
+        "head": 2,
+        "relation": "retweeted",
+        "tail": 0
+      }
+    ]
+  }
+]

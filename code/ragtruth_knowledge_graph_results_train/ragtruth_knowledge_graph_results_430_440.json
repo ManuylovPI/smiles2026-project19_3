@@ -1,0 +1,803 @@
+[
+  {
+    "document_id": 430,
+    "ragtruth_id": "562",
+    "text": "Adrianne Haslet-Davis, a survivor of the Boston Marathon bombing, testified in court about her experience during the attack. She described how she and her husband, Adam, were injured and how she begged for whiskey while lying on the ground. She also described how her husband kept telling her he was sorry. The prosecution presented an image of the bomber, Dzhokhar Tsarnaev, taken when he was in a holding cell, showing him with a middle finger raised. The defense argued that the image was presented out of context. Other witnesses testified about the victims of the bombing, including Sean Collier, an MIT police officer who was killed, and Lingzi Lu, a graduate student who was originally from China. The family of Collier and Lu described their loved ones and how their lives were affected by the bombing. The prosecution is expected to rest its case on Friday. According to a poll, 53% of people believe that Tsarnaev should face the death penalty.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Adrianne Haslet-Davis, a survivor of the Boston Marathon bombing,"
+      },
+      {
+        "id": 1,
+        "text": "the Boston Marathon bombing"
+      },
+      {
+        "id": 2,
+        "text": "her husband, Adam"
+      },
+      {
+        "id": 3,
+        "text": "he"
+      },
+      {
+        "id": 4,
+        "text": "an image of the bomber, Dzhokhar Tsarnaev, taken when he was in a holding cell, showing him with a middle finger raised"
+      },
+      {
+        "id": 5,
+        "text": "Sean Collier, an MIT police officer who was killed"
+      },
+      {
+        "id": 6,
+        "text": "Lingzi Lu, a graduate student who was originally from China"
+      },
+      {
+        "id": 7,
+        "text": "Collier and Lu"
+      },
+      {
+        "id": 8,
+        "text": "The prosecution"
+      },
+      {
+        "id": 9,
+        "text": "Friday"
+      },
+      {
+        "id": 10,
+        "text": "53%"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "survivorOf",
+        "tail": 1
+      },
+      {
+        "head": 2,
+        "relation": "spouse",
+        "tail": 0
+      },
+      {
+        "head": 4,
+        "relation": "depicts",
+        "tail": 3
+      },
+      {
+        "head": 5,
+        "relation": "victimOf",
+        "tail": 1
+      },
+      {
+        "head": 6,
+        "relation": "victimOf",
+        "tail": 1
+      },
+      {
+        "head": 7,
+        "relation": "lovedOnesOf",
+        "tail": 5
+      },
+      {
+        "head": 7,
+        "relation": "lovedOnesOf",
+        "tail": 6
+      },
+      {
+        "head": 8,
+        "relation": "expectedToRestCaseOn",
+        "tail": 9
+      }
+    ]
+  },
+  {
+    "document_id": 431,
+    "ragtruth_id": "563",
+    "text": "Adrianne Haslet-Davis and her husband, Adam Davis, were injured in the Boston Marathon bombing while watching the race near the finish line. They were newlyweds and had returned from a tour in Afghanistan with the Air Force. Haslet-Davis recounted the horrific details of the bombing and its aftermath, including how she crawled on broken glass and begged for whiskey to ease her pain. Her husband, who was also injured, kept telling her he was sorry and that he loved her. The couple's testimony was part of the penalty phase of the trial of Dzhokhar Tsarnaev, who was convicted of carrying out the bombing that killed three people and injured over 200 others. The prosecution is seeking the death penalty for Tsarnaev, while his defense team argues that he should not receive capital punishment. The jury also heard from Jinyan Zhao, whose niece Lingzi Lu was killed in the bombing. Zhao described how her family buried Lu in Boston and how they still feel connected to the city. Additionally, the jury heard from Sean Collier's family, including his brother and stepfather, who spoke about his desire to be a police officer from a young age. Collier was shot and killed by the Tsarnaev brothers during their attempt to evade capture. MIT Police Chief John DiFava also testified about the impact of Collier's death on the department and how it has changed the way they operate.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Adrianne Haslet-Davis"
+      },
+      {
+        "id": 1,
+        "text": "Boston Marathon"
+      },
+      {
+        "id": 2,
+        "text": "Adrianne Haslet-Davis and her husband, Adam Davis,"
+      },
+      {
+        "id": 3,
+        "text": "the Boston Marathon bombing"
+      },
+      {
+        "id": 4,
+        "text": "Her husband, who was also injured,"
+      },
+      {
+        "id": 5,
+        "text": "Dzhokhar Tsarnaev, who was convicted of carrying out the bombing that killed three people and injured over 200 others"
+      },
+      {
+        "id": 6,
+        "text": "Jinyan Zhao, whose niece Lingzi Lu was killed in the bombing"
+      },
+      {
+        "id": 7,
+        "text": "her family"
+      },
+      {
+        "id": 8,
+        "text": "Boston"
+      },
+      {
+        "id": 9,
+        "text": "The jury"
+      },
+      {
+        "id": 10,
+        "text": "Sean Collier's"
+      },
+      {
+        "id": 11,
+        "text": "the Tsarnaev brothers"
+      },
+      {
+        "id": 12,
+        "text": "killed"
+      },
+      {
+        "id": 13,
+        "text": "MIT"
+      },
+      {
+        "id": 14,
+        "text": "Afghanistan"
+      },
+      {
+        "id": 15,
+        "text": "the Air Force"
+      },
+      {
+        "id": 16,
+        "text": "John DiFava"
+      }
+    ],
+    "relations": [
+      {
+        "head": 2,
+        "relation": "injuredIn",
+        "tail": 3
+      },
+      {
+        "head": 2,
+        "relation": "returnedFrom",
+        "tail": 14
+      },
+      {
+        "head": 2,
+        "relation": "returnedWith",
+        "tail": 15
+      },
+      {
+        "head": 5,
+        "relation": "convictedOf",
+        "tail": 3
+      },
+      {
+        "head": 5,
+        "relation": "seekingPenalty",
+        "tail": 12
+      },
+      {
+        "head": 6,
+        "relation": "nieceKilledIn",
+        "tail": 3
+      },
+      {
+        "head": 7,
+        "relation": "buriedIn",
+        "tail": 8
+      },
+      {
+        "head": 10,
+        "relation": "killedBy",
+        "tail": 11
+      }
+    ]
+  },
+  {
+    "document_id": 432,
+    "ragtruth_id": "564",
+    "text": "Hillary Clinton's campaign video, which includes 20 women and three separate mentions of motherhood, suggests that her campaign will focus heavily on the women vote. However, recent elections suggest that such a strategy may not be successful. During the 2014 midterms, Democrats who focused their campaign on women's issues at the expense of other real issues did not fare well. Candidates who used this strategy were often defeated in both red and blue states, indicating that voters care about more than just women's issues. While Clinton is likely to secure the women vote no matter what, she must also figure out a way to appeal to male voters, as exit polls from 2014 showed that the Democrats' deficit among men was actually greater than the Republicans' deficit among women.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Hillary Clinton's"
+      },
+      {
+        "id": 1,
+        "text": "Democrats who focused their campaign on women's issues at the expense of other real issues"
+      },
+      {
+        "id": 2,
+        "text": "focused"
+      },
+      {
+        "id": 3,
+        "text": "the women vote"
+      },
+      {
+        "id": 4,
+        "text": "2014"
+      },
+      {
+        "id": 5,
+        "text": "20"
+      },
+      {
+        "id": 6,
+        "text": "three"
+      },
+      {
+        "id": 7,
+        "text": "Democrats"
+      },
+      {
+        "id": 8,
+        "text": "Republicans"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "focusOn",
+        "tail": 3
+      },
+      {
+        "head": 1,
+        "relation": "focusOn",
+        "tail": 2
+      }
+    ]
+  },
+  {
+    "document_id": 433,
+    "ragtruth_id": "565",
+    "text": "Hillary Clinton's campaign rollout video emphasizes her focus on women and being a woman. The video features 38 people, with 20 of them being women, and mentions motherhood three times. However, history has shown that overplaying to women in political campaigns has not been successful. In the 2014 midterm elections, Democrats who heavily pandered to women's issues did not fare well. For example, in Colorado, Senator Mark Udall focused on women's reproductive issues but still ended up behind among men. Similarly, in New York, a female Democratic candidate accused her opponent of a \"war on women\" but failed to gain support. Exit polls from 2014 showed that while women voted for Democrats by a four-point margin, men voted for Republicans by a 16-point margin. Therefore, Clinton should focus on courting men rather than solely targeting women in her campaign.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Hillary Clinton's"
+      },
+      {
+        "id": 1,
+        "text": "Hillary Clinton's campaign rollout video"
+      },
+      {
+        "id": 2,
+        "text": "38 people"
+      },
+      {
+        "id": 3,
+        "text": "a female Democratic candidate"
+      },
+      {
+        "id": 4,
+        "text": "2014"
+      },
+      {
+        "id": 5,
+        "text": "20"
+      },
+      {
+        "id": 6,
+        "text": "three"
+      },
+      {
+        "id": 7,
+        "text": "Democrats"
+      },
+      {
+        "id": 8,
+        "text": "Colorado"
+      },
+      {
+        "id": 9,
+        "text": "Mark Udall"
+      },
+      {
+        "id": 10,
+        "text": "New York"
+      },
+      {
+        "id": 11,
+        "text": "Exit"
+      },
+      {
+        "id": 12,
+        "text": "Democrats"
+      },
+      {
+        "id": 13,
+        "text": "four"
+      },
+      {
+        "id": 14,
+        "text": "Republicans"
+      },
+      {
+        "id": 15,
+        "text": "16"
+      }
+    ],
+    "relations": []
+  },
+  {
+    "document_id": 434,
+    "ragtruth_id": "566",
+    "text": "The article highlights how Hillary Clinton's campaign is focusing heavily on women and being a woman as part of its outreach. It also notes that this strategy is predictable given the trend of women voting in higher proportions than men in every presidential election since 1980. However, the article suggests that Clinton does not need to worry too much about a woman-centered campaign as it has been successful in the past. Instead, the article argues that Clinton should focus on courting men as they are the group that she needs to win the election. The article provides examples of previous campaigns that overplayed to women and failed, including those of Sen. Mark Udall in Colorado, Martha Robertson in New York, and Sen. Mary Landrieu in Louisiana.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Hillary Clinton's campaign"
+      },
+      {
+        "id": 1,
+        "text": "The article"
+      },
+      {
+        "id": 2,
+        "text": "focusing"
+      },
+      {
+        "id": 3,
+        "text": "Hillary Clinton's"
+      },
+      {
+        "id": 4,
+        "text": "a woman-centered campaign"
+      },
+      {
+        "id": 5,
+        "text": "men"
+      },
+      {
+        "id": 6,
+        "text": "1980"
+      },
+      {
+        "id": 7,
+        "text": "Mark Udall"
+      },
+      {
+        "id": 8,
+        "text": "Colorado"
+      },
+      {
+        "id": 9,
+        "text": "Martha Robertson"
+      },
+      {
+        "id": 10,
+        "text": "New York"
+      },
+      {
+        "id": 11,
+        "text": "Mary Landrieu"
+      },
+      {
+        "id": 12,
+        "text": "Louisiana"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "focusesOn",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "campaignType",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "successfulInPast",
+        "tail": 4
+      },
+      {
+        "head": 3,
+        "relation": "shouldFocusOn",
+        "tail": 5
+      },
+      {
+        "head": 7,
+        "relation": "locatedIn",
+        "tail": 8
+      },
+      {
+        "head": 9,
+        "relation": "locatedIn",
+        "tail": 10
+      },
+      {
+        "head": 11,
+        "relation": "locatedIn",
+        "tail": 12
+      }
+    ]
+  },
+  {
+    "document_id": 435,
+    "ragtruth_id": "567",
+    "text": "Hillary Clinton's campaign video focuses on women and gender, but past elections suggest this strategy may not be effective. Despite being a woman herself, Clinton's campaign failed to win over men in 2014 midterm elections. In Colorado, a Democratic candidate named Mark Udall focused on women's reproductive rights but still lost to his male opponent. Similarly, in New York, a Democratic congressional candidate named Martha Robertson was laughed at for accusing her opponent of waging a \"war on women.\" In Louisiana, incumbent Senator Mary Landrieu blamed sexism for her party's unpopularity in the South, but voters chose her Republican opponent instead. In Texas, Wendy Davis's campaign largely focused on abortion rights, but she still lost to her male opponent by 20 points. According to exit polls, men voted for Republicans over Democrats by a larger margin than women voted for Democrats over Republicans. Therefore, Clinton may need to find ways to appeal to men rather than solely focusing on women if she wants to win the presidency.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "focuses"
+      },
+      {
+        "id": 1,
+        "text": "Hillary Clinton's"
+      },
+      {
+        "id": 2,
+        "text": "a Democratic candidate named Mark Udall"
+      },
+      {
+        "id": 3,
+        "text": "a Democratic congressional candidate named Martha Robertson"
+      },
+      {
+        "id": 4,
+        "text": "incumbent Senator Mary Landrieu"
+      },
+      {
+        "id": 5,
+        "text": "Wendy Davis's"
+      },
+      {
+        "id": 6,
+        "text": "2014"
+      },
+      {
+        "id": 7,
+        "text": "Colorado"
+      },
+      {
+        "id": 8,
+        "text": "New York"
+      },
+      {
+        "id": 9,
+        "text": "Louisiana"
+      },
+      {
+        "id": 10,
+        "text": "South"
+      },
+      {
+        "id": 11,
+        "text": "Republican"
+      },
+      {
+        "id": 12,
+        "text": "Texas"
+      },
+      {
+        "id": 13,
+        "text": "20"
+      },
+      {
+        "id": 14,
+        "text": "Republicans"
+      },
+      {
+        "id": 15,
+        "text": "Democrats"
+      },
+      {
+        "id": 16,
+        "text": "Democrats"
+      },
+      {
+        "id": 17,
+        "text": "Republicans"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "campaignFocus",
+        "tail": 0
+      },
+      {
+        "head": 1,
+        "relation": "campaignFocus",
+        "tail": 0
+      },
+      {
+        "head": 2,
+        "relation": "lostTo",
+        "tail": 11
+      },
+      {
+        "head": 3,
+        "relation": "laughedAtFor",
+        "tail": 0
+      },
+      {
+        "head": 4,
+        "relation": "lostTo",
+        "tail": 11
+      },
+      {
+        "head": 5,
+        "relation": "lostTo",
+        "tail": 11
+      },
+      {
+        "head": 5,
+        "relation": "lostBy",
+        "tail": 13
+      },
+      {
+        "head": 14,
+        "relation": "votedFor",
+        "tail": 17
+      },
+      {
+        "head": 16,
+        "relation": "votedFor",
+        "tail": 14
+      }
+    ]
+  },
+  {
+    "document_id": 436,
+    "ragtruth_id": "568",
+    "text": "Hillary Clinton's campaign focuses on women and motherhood, but past elections show that this approach may not be effective. Despite women comprising a majority of voters, Democrats who emphasized gender issues lost in 2014, while Republicans won by a larger margin among men. Clinton should consider courting male voters to win the presidency.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "focuses"
+      },
+      {
+        "id": 1,
+        "text": "Hillary Clinton's"
+      },
+      {
+        "id": 2,
+        "text": "Democrats"
+      },
+      {
+        "id": 3,
+        "text": "2014"
+      },
+      {
+        "id": 4,
+        "text": "Republicans"
+      }
+    ],
+    "relations": [
+      {
+        "head": 2,
+        "relation": "lostIn",
+        "tail": 3
+      },
+      {
+        "head": 4,
+        "relation": "wonIn",
+        "tail": 3
+      }
+    ]
+  },
+  {
+    "document_id": 437,
+    "ragtruth_id": "569",
+    "text": "Hillary Clinton's campaign video emphasizes women and motherhood, with 20 women and 3 men featured in the 2-minute ad. However, this woman-centric approach may not be the best strategy, as seen in previous elections where Democrats who overtly pandered to women lost. In the 2014 midterm elections, Democrats who focused on women's issues, such as Mark Udall and Martha Robertson, performed poorly among men, leading to their defeat. Instead of courting only women, Clinton should focus on winning over men as well.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Hillary Clinton's campaign video"
+      },
+      {
+        "id": 1,
+        "text": "Democrats who focused on women's issues, such as Mark Udall and Martha Robertson"
+      },
+      {
+        "id": 2,
+        "text": "Hillary Clinton's"
+      },
+      {
+        "id": 3,
+        "text": "20"
+      },
+      {
+        "id": 4,
+        "text": "3"
+      },
+      {
+        "id": 5,
+        "text": "Democrats"
+      },
+      {
+        "id": 6,
+        "text": "2014"
+      }
+    ],
+    "relations": [
+      {
+        "head": 2,
+        "relation": "featuredCountWomen",
+        "tail": 3
+      },
+      {
+        "head": 2,
+        "relation": "featuredCountMen",
+        "tail": 4
+      },
+      {
+        "head": 1,
+        "relation": "defeatedIn",
+        "tail": 6
+      }
+    ]
+  },
+  {
+    "document_id": 438,
+    "ragtruth_id": "570",
+    "text": "On April 2, 73-year old Robert Bates, a reserve deputy sheriff, shot and killed a man while participating in a real police operation. Bates, also an insurance company CEO, was involved in more than 100 operations with the violent crimes task force. During the incident, Bates thought he was going to use a Taser on Eric Harris, who deputies had just tackled after he sold an undercover officer a pistol and then ran away. However, Bates was holding his gun instead of a Taser. He fired one shot and killed Harris. Bates had donated $2,500 to Sheriff Stanley Glanz's re-election campaign, cars to the department and equipment, leading to speculation that he was given special access to real policing. The Tulsa police department has 130 reserve deputies, many of whom are wealthy individuals who make donations to the police. Bates' involvement in police operations and his fatal mistake have raised questions about the role and training of volunteer police officers.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "73-year old Robert Bates, a reserve deputy sheriff"
+      },
+      {
+        "id": 1,
+        "text": "a man"
+      },
+      {
+        "id": 2,
+        "text": "a Taser"
+      },
+      {
+        "id": 3,
+        "text": "the department"
+      },
+      {
+        "id": 4,
+        "text": "killed"
+      },
+      {
+        "id": 5,
+        "text": "April 2"
+      },
+      {
+        "id": 6,
+        "text": "more than 100"
+      },
+      {
+        "id": 7,
+        "text": "one"
+      },
+      {
+        "id": 8,
+        "text": "2,500"
+      },
+      {
+        "id": 9,
+        "text": "Stanley Glanz's"
+      },
+      {
+        "id": 10,
+        "text": "130"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "deathDate",
+        "tail": 5
+      },
+      {
+        "head": 0,
+        "relation": "involvedIn",
+        "tail": 6
+      },
+      {
+        "head": 0,
+        "relation": "donatedAmount",
+        "tail": 8
+      },
+      {
+        "head": 0,
+        "relation": "donatedTo",
+        "tail": 9
+      },
+      {
+        "head": 0,
+        "relation": "donatedTo",
+        "tail": 3
+      },
+      {
+        "head": 3,
+        "relation": "hasReserveDeputies",
+        "tail": 10
+      }
+    ]
+  },
+  {
+    "document_id": 439,
+    "ragtruth_id": "571",
+    "text": "A 73-year-old reserve deputy sheriff, Robert Bates, shot and killed a man, Eric Harris, during a police operation in Tulsa County. Bates, who had participated in over 100 operations with the violent crimes task force, mistakenly used his gun instead of a Taser on Harris, who was already subdued by other officers. It is questionable why Bates, a retired insurance company CEO, was involved in the operation in the first place. There are suspicions that Bates received special treatment due to his donations to the sheriff's re-election campaign and the department. The incident raises concerns about the use of reserve deputies, many of whom are wealthy donors to the police. While some volunteer police officers, like New York City's auxiliary police, provide valuable non-enforcement assistance, the incident in Tulsa County highlights the need to draw a line between professional officers and overzealous volunteers. The fallout from this incident may lead to the discontinuation of such volunteer programs, but it would be a mistake to completely end them, as they can provide opportunities for potential officers to gain experience and determine if policing is the right career for them. However, there should be stricter regulations and screening processes to prevent incidents like this from happening again.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "A 73-year-old reserve deputy sheriff, Robert Bates,"
+      },
+      {
+        "id": 1,
+        "text": "a man, Eric Harris"
+      },
+      {
+        "id": 2,
+        "text": "a police operation in Tulsa County"
+      },
+      {
+        "id": 3,
+        "text": "The incident"
+      },
+      {
+        "id": 4,
+        "text": "Tulsa County"
+      },
+      {
+        "id": 5,
+        "text": "such volunteer programs"
+      },
+      {
+        "id": 6,
+        "text": "potential officers"
+      },
+      {
+        "id": 7,
+        "text": "Bates"
+      },
+      {
+        "id": 8,
+        "text": "over 100"
+      },
+      {
+        "id": 9,
+        "text": "first"
+      },
+      {
+        "id": 10,
+        "text": "New York City's"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "shotAndKilled",
+        "tail": 1
+      },
+      {
+        "head": 2,
+        "relation": "location",
+        "tail": 4
+      },
+      {
+        "head": 3,
+        "relation": "location",
+        "tail": 4
+      }
+    ]
+  }
+]

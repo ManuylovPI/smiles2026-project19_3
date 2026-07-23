@@ -1,0 +1,628 @@
+[
+  {
+    "document_id": 650,
+    "ragtruth_id": "872",
+    "text": "7-Eleven is hosting its first Bring-Your-Own-Cup Slurpee Day on Saturday from 11 a.m. to 7 p.m., where customers can fill their own cup of choice with a medium Slurpee for $1.49. In-store displays with a 10-inch diameter hole will ensure that cups are sanitary and not too large for Slurpee consumption. Customers can get creative with their cup choices, such as sand buckets or trophies. This event is not to be confused with Free Slurpee Day, which is traditionally celebrated each July 11.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "7-Eleven"
+      },
+      {
+        "id": 1,
+        "text": "customers"
+      },
+      {
+        "id": 2,
+        "text": "Customers"
+      },
+      {
+        "id": 3,
+        "text": "its first Bring-Your-Own-Cup Slurpee Day"
+      },
+      {
+        "id": 4,
+        "text": "Saturday"
+      },
+      {
+        "id": 5,
+        "text": "11 a.m. to 7 p.m."
+      },
+      {
+        "id": 6,
+        "text": "1.49"
+      },
+      {
+        "id": 7,
+        "text": "10-inch"
+      },
+      {
+        "id": 8,
+        "text": "each July 11"
+      }
+    ],
+    "relations": [
+      {
+        "head": 3,
+        "relation": "hostedBy",
+        "tail": 0
+      },
+      {
+        "head": 3,
+        "relation": "date",
+        "tail": 4
+      },
+      {
+        "head": 3,
+        "relation": "time",
+        "tail": 5
+      },
+      {
+        "head": 3,
+        "relation": "price",
+        "tail": 6
+      },
+      {
+        "head": 3,
+        "relation": "celebratedOn",
+        "tail": 8
+      }
+    ]
+  },
+  {
+    "document_id": 651,
+    "ragtruth_id": "873",
+    "text": "On Saturday, 7-Eleven is hosting the first Bring Your Own Cup Slurpee Day where customers can fill their personal cup with a Slurpee for $1.49. Participants can bring any non-breakable container, from small to oversized, to fill with their favorite drink.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "customers"
+      },
+      {
+        "id": 1,
+        "text": "Participants"
+      },
+      {
+        "id": 2,
+        "text": "Saturday"
+      },
+      {
+        "id": 3,
+        "text": "7-Eleven"
+      },
+      {
+        "id": 4,
+        "text": "first"
+      },
+      {
+        "id": 5,
+        "text": "Bring Your Own Cup Slurpee Day"
+      },
+      {
+        "id": 6,
+        "text": "1.49"
+      }
+    ],
+    "relations": [
+      {
+        "head": 5,
+        "relation": "hostedBy",
+        "tail": 3
+      },
+      {
+        "head": 5,
+        "relation": "date",
+        "tail": 2
+      },
+      {
+        "head": 5,
+        "relation": "price",
+        "tail": 6
+      }
+    ]
+  },
+  {
+    "document_id": 652,
+    "ragtruth_id": "874",
+    "text": "Sure! Here's the summary in 37 words:\n\n7-Eleven hosts Bring-Your-Own-Cup Slurpee Day on Sat., $1.49 fills any sanitary cup, promoting creative cup choices.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "37"
+      },
+      {
+        "id": 1,
+        "text": "1.49"
+      }
+    ],
+    "relations": []
+  },
+  {
+    "document_id": 653,
+    "ragtruth_id": "875",
+    "text": "On Saturday, 7-Eleven is hosting Bring-Your-Own-Cup Slurpee Day in US stores, where customers can fill their own container for $1.49.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "customers"
+      },
+      {
+        "id": 1,
+        "text": "Saturday"
+      },
+      {
+        "id": 2,
+        "text": "7-Eleven"
+      },
+      {
+        "id": 3,
+        "text": "Bring-Your-Own-Cup Slurpee Day"
+      },
+      {
+        "id": 4,
+        "text": "US"
+      },
+      {
+        "id": 5,
+        "text": "1.49"
+      }
+    ],
+    "relations": [
+      {
+        "head": 3,
+        "relation": "hostedBy",
+        "tail": 2
+      },
+      {
+        "head": 3,
+        "relation": "date",
+        "tail": 1
+      },
+      {
+        "head": 2,
+        "relation": "location",
+        "tail": 4
+      },
+      {
+        "head": 3,
+        "relation": "price",
+        "tail": 5
+      }
+    ]
+  },
+  {
+    "document_id": 654,
+    "ragtruth_id": "888",
+    "text": "The audacious Hatton Garden heist in London's jewellery district over the Easter weekend was reminiscent of the infamous 1971 Baker Street bank robbery, where thieves dug a tunnel to access the bank's vault. The Hatton Garden robbery was meticulously planned and executed, with the thieves potentially observing the premises for months before deciding on an opportune moment to strike. According to a former Scotland Yard detective, inside information is a crucial component in identifying a criminal opportunity; this will be a focus for detectives investigating the Hatton Garden heist. The thieves will also have needed to trust each other implicitly and typically come from the same social and ethnic groups. Cash and goods that can easily be converted to cash, such as gold, jewellery and watches, are typically the primary targets for such robberies. Detectives will now be looking closely at the possibility of inside involvement, analysing CCTV footage, logging vehicle movements, and examining any identifiable stolen goods that have been circulated to known markets. Despite the audacity of the crime, the focus remains on the relentless pursuit of those responsible.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "The audacious Hatton Garden heist in London's jewellery district over the Easter weekend"
+      },
+      {
+        "id": 1,
+        "text": "Hatton Garden"
+      },
+      {
+        "id": 2,
+        "text": "inside information"
+      },
+      {
+        "id": 3,
+        "text": "the thieves"
+      },
+      {
+        "id": 4,
+        "text": "1971"
+      },
+      {
+        "id": 5,
+        "text": "Baker Street"
+      },
+      {
+        "id": 6,
+        "text": "months"
+      },
+      {
+        "id": 7,
+        "text": "Scotland Yard"
+      },
+      {
+        "id": 8,
+        "text": "CCTV"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "location",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "date",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "investigatedBy",
+        "tail": 7
+      },
+      {
+        "head": 0,
+        "relation": "involves",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "requires",
+        "tail": 2
+      },
+      {
+        "head": 3,
+        "relation": "observedFor",
+        "tail": 6
+      },
+      {
+        "head": 0,
+        "relation": "uses",
+        "tail": 8
+      }
+    ]
+  },
+  {
+    "document_id": 655,
+    "ragtruth_id": "889",
+    "text": "Over the Easter weekend, a gang of burglars executed a daring heist in the heart of London's jewelry district, reminiscent of a movie like \"Ocean's Eleven.\" Unlike the current trend of cybercrime, this gang went back to basics, breaking into a vault and stealing from safety deposit boxes. Such heists are rare in London, with the last similar incident occurring in 1971. Former Scotland Yard detective, Roy Ramm, explains that sophisticated heists like this are not a natural progression for burglars who typically start with smaller domestic break-ins. Many neighborhood criminals commit burglaries to support drug habits and end up stealing things they cannot sell, resulting in the dumping of valuable items. More specialized criminals who target museums or country houses steal only what they can quickly convert to untraceable cash. The planning behind this heist would have been meticulous, with observation of the target and careful timing. The gang would have obtained vehicles, equipment, and untraceable disposable phones, as well as planned escape routes and disposal of evidence. Cash is usually the first choice for stolen goods, followed by items that can quickly be converted to cash. The London detectives investigating the heist will be closely examining the possibility of inside involvement and weaknesses in the target business's security. Forensic science will play a significant role in analyzing evidence, including DNA, CCTV footage, and vehicle movements. Rewards for information will be offered, and known criminals' movements will be analyzed. The stolen goods will be circulated to known markets, both domestically and internationally. The investigation will be relentless, as these major crimes are seen as an exciting challenge to the professionalism of the detectives involved.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "a gang of burglars"
+      },
+      {
+        "id": 1,
+        "text": "London's"
+      },
+      {
+        "id": 2,
+        "text": "a daring heist"
+      },
+      {
+        "id": 3,
+        "text": "Many neighborhood criminals"
+      },
+      {
+        "id": 4,
+        "text": "More specialized criminals who target museums or country houses"
+      },
+      {
+        "id": 5,
+        "text": "The London detectives investigating the heist"
+      },
+      {
+        "id": 6,
+        "text": "the Easter weekend"
+      },
+      {
+        "id": 7,
+        "text": "1971"
+      },
+      {
+        "id": 8,
+        "text": "Scotland Yard"
+      },
+      {
+        "id": 9,
+        "text": "Roy Ramm"
+      },
+      {
+        "id": 10,
+        "text": "first"
+      },
+      {
+        "id": 11,
+        "text": "CCTV"
+      }
+    ],
+    "relations": [
+      {
+        "head": 2,
+        "relation": "time",
+        "tail": 6
+      },
+      {
+        "head": 2,
+        "relation": "location",
+        "tail": 1
+      },
+      {
+        "head": 2,
+        "relation": "investigatedBy",
+        "tail": 5
+      },
+      {
+        "head": 9,
+        "relation": "formerAffiliation",
+        "tail": 8
+      },
+      {
+        "head": 2,
+        "relation": "similarIncidentDate",
+        "tail": 7
+      },
+      {
+        "head": 2,
+        "relation": "firstChoice",
+        "tail": 10
+      },
+      {
+        "head": 2,
+        "relation": "evidenceIncludes",
+        "tail": 11
+      }
+    ]
+  },
+  {
+    "document_id": 656,
+    "ragtruth_id": "890",
+    "text": "Last weekend, a group of thieves successfully stole a large sum of money from a safe deposit box in London. This heist is being compared to the famous \"Ocean 11\" movie due to its daring and elaborate planning. However, unlike cyber crimes, this heist was carried out in person and required a significant amount of physical force. The gang consisted of several individuals, including a man named Roy Ramm, who served as a commander at Scotland Yard for 27 years. According to Ramm, most burglars and robbers commit their crimes to fund drug habits and support other criminal activities. The Hatton Garden raid was meticulously planned, with the target observed for months and the timing carefully chosen. The gang used a combination of inside information and street intelligence to execute the crime. The police are currently investigating the heist and will be looking closely for any signs of inside involvement. The forensic assault on the crime scene will be extensive, with investigators searching for any trace evidence that might lead to the identification of the culprits.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "stole"
+      },
+      {
+        "id": 1,
+        "text": "the famous \"Ocean 11\" movie"
+      },
+      {
+        "id": 2,
+        "text": "a group of thieves"
+      },
+      {
+        "id": 3,
+        "text": "a man named Roy Ramm, who served as a commander at Scotland Yard for 27 years"
+      },
+      {
+        "id": 4,
+        "text": "most burglars and robbers"
+      },
+      {
+        "id": 5,
+        "text": "Last weekend"
+      },
+      {
+        "id": 6,
+        "text": "London"
+      },
+      {
+        "id": 7,
+        "text": "months"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "comparedTo",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "location",
+        "tail": 6
+      },
+      {
+        "head": 0,
+        "relation": "time",
+        "tail": 5
+      },
+      {
+        "head": 2,
+        "relation": "member",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "duration",
+        "tail": 7
+      }
+    ]
+  },
+  {
+    "document_id": 657,
+    "ragtruth_id": "891",
+    "text": "A daring heist occurred in London over the Easter weekend, as a group of thieves broke into a vault and stole dozens of safety deposit boxes. The raid was reminiscent of the movie \"Ocean's Eleven,\" with the gang using basic tactics and careful planning to execute the crime. The thieves, who have not been caught, are believed to have used inside information to carry out the heist. London detectives are investigating the crime, which is thought to have been committed by a group of working-class criminals who are addicted to drugs and use burglary to fund their habits. The thieves are believed to have planned the heist for months, using cloned vehicles and fake identification to evade detection. The investigation is ongoing, and detectives are working to identify the thieves and recover the stolen items.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "A daring heist"
+      },
+      {
+        "id": 1,
+        "text": "a group of thieves"
+      },
+      {
+        "id": 2,
+        "text": "London"
+      },
+      {
+        "id": 3,
+        "text": "investigating"
+      },
+      {
+        "id": 4,
+        "text": "dozens of safety deposit boxes"
+      },
+      {
+        "id": 5,
+        "text": "the Easter weekend"
+      },
+      {
+        "id": 6,
+        "text": "Ocean's Eleven"
+      },
+      {
+        "id": 7,
+        "text": "months"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "location",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "time",
+        "tail": 5
+      },
+      {
+        "head": 0,
+        "relation": "perpetrator",
+        "tail": 1
+      },
+      {
+        "head": 3,
+        "relation": "investigates",
+        "tail": 0
+      },
+      {
+        "head": 0,
+        "relation": "inspiredBy",
+        "tail": 6
+      },
+      {
+        "head": 0,
+        "relation": "duration",
+        "tail": 7
+      }
+    ]
+  },
+  {
+    "document_id": 658,
+    "ragtruth_id": "892",
+    "text": "Here is a summary of the article in 200 words or less:\n\nA daring heist at a London vault over the Easter weekend has left authorities searching for a gang of thieves who made off with an estimated £30 million in valuables. The heist, reminiscent of the movie \"Ocean's 11,\" was carried out with a level of planning and sophistication that is rare in modern criminal activity. The gang used a 40-yard tunnel to reach the safe deposit boxes and used explosives and a thermal lance to gain access. Police suspect that the heist may have been an inside job, as the target business was known to have lax security measures. The investigation will focus on identifying the individuals involved and determining how they were able to carry out the heist without detection. The detectives investigating the case view the heist as a challenging professional opportunity, rather than a personal affront, and will pursue all leads aggressively.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "A daring heist at a London vault over the Easter weekend"
+      },
+      {
+        "id": 1,
+        "text": "a gang of thieves who made off with an estimated £30 million in valuables"
+      },
+      {
+        "id": 2,
+        "text": "a London vault"
+      },
+      {
+        "id": 3,
+        "text": "200"
+      },
+      {
+        "id": 4,
+        "text": "40-yard"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "location",
+        "tail": 2
+      },
+      {
+        "head": 1,
+        "relation": "usedTunnelLength",
+        "tail": 4
+      }
+    ]
+  },
+  {
+    "document_id": 659,
+    "ragtruth_id": "893",
+    "text": "Last weekend's daring heist at a London vault has sparked comparisons to the movie \"Ocean 11.\" However, unlike the Hollywood portrayal, the gang responsible did not use high-tech methods to manipulate digital security systems. Instead, they used traditional methods, such as digging a tunnel and using a thermal lance to break into the safe deposit boxes. This heist is reminiscent of the 1971 Baker Street bank robbery, which was also carried out using traditional methods. Roy Ramm, a former Scotland Yard commander, believes that such heists are planned by career criminals who have a high level of intelligence and street smarts. They often use inside information to identify vulnerabilities in their target's security measures. The planning process involves careful observation, selecting the right time to strike, and assembling a team of trusted individuals with the necessary skills. Once inside, they focus on stealing items that can be easily converted to cash, such as cash, gold, and jewelry. The London detectives investigating the Hatton Garden heist will be looking for signs of inside involvement and will analyze all aspects of the target business's operations to identify potential vulnerabilities. Forensic science will play a significant role in the investigation, including DNA analysis, CCTV footage, and vehicle tracking. The police view these types of crimes as a challenge to their professionalism and will leave no stone unturned in their search for the perpetrators.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "the movie \"Ocean 11"
+      },
+      {
+        "id": 1,
+        "text": "the gang responsible"
+      },
+      {
+        "id": 2,
+        "text": "Last weekend's daring heist at a London vault"
+      },
+      {
+        "id": 3,
+        "text": "career criminals who have a high level of intelligence and street smarts"
+      },
+      {
+        "id": 4,
+        "text": "a team of trusted individuals with the necessary skills"
+      },
+      {
+        "id": 5,
+        "text": "London"
+      },
+      {
+        "id": 6,
+        "text": "The police"
+      },
+      {
+        "id": 7,
+        "text": "1971"
+      },
+      {
+        "id": 8,
+        "text": "Baker Street"
+      },
+      {
+        "id": 9,
+        "text": "Roy Ramm"
+      },
+      {
+        "id": 10,
+        "text": "Scotland Yard"
+      },
+      {
+        "id": 11,
+        "text": "CCTV"
+      }
+    ],
+    "relations": [
+      {
+        "head": 2,
+        "relation": "comparedTo",
+        "tail": 0
+      },
+      {
+        "head": 2,
+        "relation": "locatedIn",
+        "tail": 5
+      },
+      {
+        "head": 2,
+        "relation": "reminiscentOf",
+        "tail": 8
+      },
+      {
+        "head": 9,
+        "relation": "formerCommanderOf",
+        "tail": 10
+      },
+      {
+        "head": 2,
+        "relation": "investigatedBy",
+        "tail": 5
+      },
+      {
+        "head": 2,
+        "relation": "uses",
+        "tail": 11
+      }
+    ]
+  }
+]

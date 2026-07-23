@@ -1,0 +1,687 @@
+[
+  {
+    "document_id": 0,
+    "ragtruth_id": "0",
+    "text": "The Anne Frank House has revealed that Anne Frank and her older sister, Margot, likely died at least a month earlier than previously believed. The sisters, who were imprisoned in Nazi concentration camps during the Holocaust, were thought to have died in March 1945, just two weeks before the Bergen-Belsen camp was liberated. However, new research examining archives from the Red Cross, the International Tracing Service, the Bergen-Belsen Memorial, and survivor testimonies suggests that the sisters did not survive until March. The exact dates of their deaths remain unclear, but it is thought that both had symptoms of typhus, the disease they succumbed to, before February 7, 1945.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Anne Frank"
+      },
+      {
+        "id": 1,
+        "text": "Anne Frank and her older sister, Margot"
+      },
+      {
+        "id": 2,
+        "text": "March 1945, just two weeks before the Bergen-Belsen camp was liberated"
+      },
+      {
+        "id": 3,
+        "text": "died"
+      },
+      {
+        "id": 4,
+        "text": "at least a month earlier"
+      },
+      {
+        "id": 5,
+        "text": "the Red Cross"
+      },
+      {
+        "id": 6,
+        "text": "the International Tracing Service"
+      },
+      {
+        "id": 7,
+        "text": "the Bergen-Belsen Memorial"
+      },
+      {
+        "id": 8,
+        "text": "February 7, 1945"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "deathDate",
+        "tail": 2
+      },
+      {
+        "head": 1,
+        "relation": "deathDate",
+        "tail": 8
+      },
+      {
+        "head": 1,
+        "relation": "deathTimeRelative",
+        "tail": 4
+      }
+    ]
+  },
+  {
+    "document_id": 1,
+    "ragtruth_id": "1",
+    "text": "New research released by the Anne Frank House reveals that Anne Frank and her older sister, Margot, died at least a month earlier than previously believed. The research involved re-examining archives and survivor testimonies, contradicting the previous date of death determined by Dutch authorities. In 1944, the sisters were arrested and sent to Auschwitz-Birkenau, and later separated and sent to the Bergen-Belsen camp. Witnesses described the terrible conditions at the camp, with overcrowding, lack of basic necessities, and a deadly typhus outbreak. The researchers concluded that it is unlikely the sisters survived until March, as witnesses reported symptoms before February 7. The exact dates of their deaths remain unclear. Despite the hardships she faced, Anne Frank's diary continues to be a beloved and influential book.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Anne Frank"
+      },
+      {
+        "id": 1,
+        "text": "New research released by the Anne Frank House"
+      },
+      {
+        "id": 2,
+        "text": "Anne Frank and her older sister, Margot"
+      },
+      {
+        "id": 3,
+        "text": "the Bergen-Belsen camp"
+      },
+      {
+        "id": 4,
+        "text": "died"
+      },
+      {
+        "id": 5,
+        "text": "at least a month earlier"
+      },
+      {
+        "id": 6,
+        "text": "Dutch"
+      },
+      {
+        "id": 7,
+        "text": "1944"
+      },
+      {
+        "id": 8,
+        "text": "Auschwitz-Birkenau"
+      },
+      {
+        "id": 9,
+        "text": "March"
+      },
+      {
+        "id": 10,
+        "text": "February 7"
+      }
+    ],
+    "relations": [
+      {
+        "head": 2,
+        "relation": "deathDate",
+        "tail": 5
+      },
+      {
+        "head": 2,
+        "relation": "deathPlace",
+        "tail": 3
+      },
+      {
+        "head": 2,
+        "relation": "arrestedIn",
+        "tail": 7
+      },
+      {
+        "head": 2,
+        "relation": "sentTo",
+        "tail": 8
+      },
+      {
+        "head": 2,
+        "relation": "sentTo",
+        "tail": 3
+      }
+    ]
+  },
+  {
+    "document_id": 2,
+    "ragtruth_id": "2",
+    "text": "New research conducted by the Anne Frank House has revealed that Anne Frank and her sister Margot likely died in the Bergen-Belsen concentration camp at least a month earlier than previously believed. The researchers examined archives of the Red Cross, the International Training Service, and the Bergen-Belsen Memorial, as well as testimonies from survivors. Anne and Margot were separated from their mother and sent to work as slave labor in the camp, where they lived in overcrowded conditions with little water, sanitation, or food. The sisters contracted typhus, which was rampant in the camp, and are believed to have died before February 7, 2022. The exact dates of their deaths remain unclear, but witness accounts suggest that they had symptoms of the disease before then. The discovery has led to a reevaluation of the events surrounding Anne Frank's death and has prompted the Anne Frank House to issue a corrected statement regarding the date of her passing.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Anne Frank"
+      },
+      {
+        "id": 1,
+        "text": "Anne Frank and her sister Margot"
+      },
+      {
+        "id": 2,
+        "text": "her sister Margot"
+      },
+      {
+        "id": 3,
+        "text": "the Bergen-Belsen concentration camp"
+      },
+      {
+        "id": 4,
+        "text": "died"
+      },
+      {
+        "id": 5,
+        "text": "typhus, which was rampant in the camp"
+      },
+      {
+        "id": 6,
+        "text": "February 7, 2022"
+      },
+      {
+        "id": 7,
+        "text": "revealed"
+      },
+      {
+        "id": 8,
+        "text": "the Anne Frank House"
+      },
+      {
+        "id": 9,
+        "text": "at least a month earlier"
+      },
+      {
+        "id": 10,
+        "text": "the Red Cross"
+      },
+      {
+        "id": 11,
+        "text": "the International Training Service"
+      },
+      {
+        "id": 12,
+        "text": "the Bergen-Belsen Memorial"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "diedIn",
+        "tail": 3
+      },
+      {
+        "head": 2,
+        "relation": "diedIn",
+        "tail": 3
+      },
+      {
+        "head": 1,
+        "relation": "diedBefore",
+        "tail": 6
+      },
+      {
+        "head": 2,
+        "relation": "diedBefore",
+        "tail": 6
+      },
+      {
+        "head": 1,
+        "relation": "diedEarlierThan",
+        "tail": 9
+      },
+      {
+        "head": 2,
+        "relation": "diedEarlierThan",
+        "tail": 9
+      },
+      {
+        "head": 1,
+        "relation": "causeOfDeath",
+        "tail": 5
+      },
+      {
+        "head": 2,
+        "relation": "causeOfDeath",
+        "tail": 5
+      }
+    ]
+  },
+  {
+    "document_id": 3,
+    "ragtruth_id": "3",
+    "text": "Here is a summary of the article in 115 words or less:\n\nAnne Frank died of typhus in a Nazi concentration camp at age 15, two weeks after her supposed death on March 31, 1945. New research suggests that she and her sister Margot likely died at least a month earlier, contradicting previous estimates. The sisters were sent to the Bergen-Belsen camp in Germany after being arrested in Amsterdam in 1944. They endured harsh conditions, including lack of lighting, water, and sanitation, and were exposed to typhus due to poor hygiene. Witnesses reported that Anne and Margot exhibited symptoms before February 7, leading researchers to conclude that they likely died before March. Despite this, Anne's diary remains a powerful symbol of hope and resilience.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Anne Frank"
+      },
+      {
+        "id": 1,
+        "text": "she and her sister Margot"
+      },
+      {
+        "id": 2,
+        "text": "a Nazi concentration camp"
+      },
+      {
+        "id": 3,
+        "text": "typhus"
+      },
+      {
+        "id": 4,
+        "text": "her sister Margot"
+      },
+      {
+        "id": 5,
+        "text": "exhibited"
+      },
+      {
+        "id": 6,
+        "text": "115"
+      },
+      {
+        "id": 7,
+        "text": "age 15, two weeks"
+      },
+      {
+        "id": 8,
+        "text": "March 31, 1945"
+      },
+      {
+        "id": 9,
+        "text": "at least a month earlier"
+      },
+      {
+        "id": 10,
+        "text": "Amsterdam"
+      },
+      {
+        "id": 11,
+        "text": "1944"
+      },
+      {
+        "id": 12,
+        "text": "February 7"
+      },
+      {
+        "id": 13,
+        "text": "March"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "diedOf",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "diedIn",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "ageAtDeath",
+        "tail": 7
+      },
+      {
+        "head": 0,
+        "relation": "deathDate",
+        "tail": 8
+      },
+      {
+        "head": 1,
+        "relation": "diedEarlierBy",
+        "tail": 9
+      },
+      {
+        "head": 1,
+        "relation": "sentTo",
+        "tail": 2
+      },
+      {
+        "head": 1,
+        "relation": "arrestedIn",
+        "tail": 10
+      },
+      {
+        "head": 1,
+        "relation": "arrestedInYear",
+        "tail": 11
+      },
+      {
+        "head": 1,
+        "relation": "symptomsBefore",
+        "tail": 12
+      },
+      {
+        "head": 1,
+        "relation": "diedBefore",
+        "tail": 13
+      }
+    ]
+  },
+  {
+    "document_id": 4,
+    "ragtruth_id": "4",
+    "text": "Seventy years ago, Anne Frank died of typhus in a Nazi concentration camp at the age of 15. New research suggests she and her sister Margot died earlier than previously thought, likely in February 1945 due to typhus. The sisters were sent to the Bergen-Belsen concentration camp after being separated from their mother, and witnesses described the conditions as brutal, with little food, water, or sanitation. The exact dates of death remain unknown, but it is believed that Margot died before Anne, who remained hopeful until the end.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Anne Frank"
+      },
+      {
+        "id": 1,
+        "text": "typhus"
+      },
+      {
+        "id": 2,
+        "text": "she and her sister Margot"
+      },
+      {
+        "id": 3,
+        "text": "a Nazi concentration camp"
+      },
+      {
+        "id": 4,
+        "text": "her sister Margot"
+      },
+      {
+        "id": 5,
+        "text": "Seventy years ago"
+      },
+      {
+        "id": 6,
+        "text": "the age of 15"
+      },
+      {
+        "id": 7,
+        "text": "February 1945"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "causeOfDeath",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "deathPlace",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "ageAtDeath",
+        "tail": 6
+      },
+      {
+        "head": 0,
+        "relation": "deathDate",
+        "tail": 5
+      },
+      {
+        "head": 2,
+        "relation": "deathDate",
+        "tail": 7
+      },
+      {
+        "head": 4,
+        "relation": "deathDate",
+        "tail": 7
+      }
+    ]
+  },
+  {
+    "document_id": 5,
+    "ragtruth_id": "5",
+    "text": "New research suggests that Anne Frank and her sister Margot died at least a month earlier than previously thought. According to the Anne Frank House, the sisters likely died in February or early March 1945, rather than the previously believed date of March 31. The researchers re-examined archives and testimonies of survivors, concluding that the sisters did not survive past February 7, due to the spread of typhus in the Bergen-Belsen concentration camp. Witnesses described the harsh conditions in the camp, including overcrowding, poor hygiene, and the spread of diseases like typhus. Despite the dire circumstances, Anne remained hopeful and convinced she would survive. Her diary remains a powerful symbol of her resilience and a reminder of the horrors of the Holocaust.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Anne Frank"
+      },
+      {
+        "id": 1,
+        "text": "Anne Frank and her sister Margot"
+      },
+      {
+        "id": 2,
+        "text": "the Bergen-Belsen concentration camp"
+      },
+      {
+        "id": 3,
+        "text": "typhus"
+      },
+      {
+        "id": 4,
+        "text": "at least a month earlier"
+      },
+      {
+        "id": 5,
+        "text": "February"
+      },
+      {
+        "id": 6,
+        "text": "early March 1945"
+      },
+      {
+        "id": 7,
+        "text": "March 31"
+      },
+      {
+        "id": 8,
+        "text": "past February 7"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "deathDate",
+        "tail": 5
+      },
+      {
+        "head": 1,
+        "relation": "deathDate",
+        "tail": 6
+      },
+      {
+        "head": 1,
+        "relation": "deathDate",
+        "tail": 7
+      },
+      {
+        "head": 1,
+        "relation": "deathDate",
+        "tail": 8
+      },
+      {
+        "head": 1,
+        "relation": "deathCause",
+        "tail": 3
+      },
+      {
+        "head": 1,
+        "relation": "deathPlace",
+        "tail": 2
+      }
+    ]
+  },
+  {
+    "document_id": 6,
+    "ragtruth_id": "6",
+    "text": "Andrew Getty, oil tycoon J. Paul Getty's grandson, has died at the age of 47. The Los Angeles Police Department said Getty's death appears to have been from natural causes, and there was no foul play involved. A spokesman said Getty had several health issues and an autopsy will be conducted. There is currently no criminal investigation underway. The Getty family fortune is estimated to be about $5 billion.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Andrew Getty, oil tycoon J. Paul Getty's grandson"
+      },
+      {
+        "id": 1,
+        "text": "died"
+      },
+      {
+        "id": 2,
+        "text": "the age of 47"
+      },
+      {
+        "id": 3,
+        "text": "The Los Angeles Police Department"
+      },
+      {
+        "id": 4,
+        "text": "Getty"
+      },
+      {
+        "id": 5,
+        "text": "about $5 billion"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "age",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "deathInvestigationBy",
+        "tail": 3
+      },
+      {
+        "head": 4,
+        "relation": "fortune",
+        "tail": 5
+      }
+    ]
+  },
+  {
+    "document_id": 7,
+    "ragtruth_id": "7",
+    "text": "Andrew Getty, one of the heirs to billions of oil money, has died of natural causes, according to the Los Angeles Police Department. The coroner's preliminary assessment suggests no foul play was involved. Getty, 47, had multiple health issues and an autopsy will be conducted. No criminal investigation is underway. Getty's parents released a statement confirming their son's death and asking for privacy. Andrew Getty was one of the grandchildren of oil tycoon J. Paul Getty, and the Getty family fortune is estimated to be around $5 billion. Getty had recently filed for a restraining order against an ex-girlfriend and cited his serious medical condition as a reason.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Andrew Getty, one of the heirs to billions of oil money"
+      },
+      {
+        "id": 1,
+        "text": "Getty's parents"
+      },
+      {
+        "id": 2,
+        "text": "died"
+      },
+      {
+        "id": 3,
+        "text": "the Los Angeles Police Department"
+      },
+      {
+        "id": 4,
+        "text": "one"
+      },
+      {
+        "id": 5,
+        "text": "J. Paul Getty"
+      },
+      {
+        "id": 6,
+        "text": "Getty"
+      },
+      {
+        "id": 7,
+        "text": "around $5 billion"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "death",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "reportedBy",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "parent",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "grandchildOf",
+        "tail": 5
+      },
+      {
+        "head": 6,
+        "relation": "fortune",
+        "tail": 7
+      }
+    ]
+  },
+  {
+    "document_id": 8,
+    "ragtruth_id": "8",
+    "text": "Andrew Getty, one of the heirs to billions of oil money, appears to have died of natural causes. There was no foul play involved in his death, and an autopsy is scheduled. He had several health issues and some medication was found at his home. Andrew Getty was 47 years old and had recently filed for a restraining order against an ex-girlfriend. He had three brothers and three half-sisters.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Andrew Getty, one of the heirs to billions of oil money"
+      },
+      {
+        "id": 1,
+        "text": "died"
+      },
+      {
+        "id": 2,
+        "text": "47 years old"
+      },
+      {
+        "id": 3,
+        "text": "three"
+      },
+      {
+        "id": 4,
+        "text": "three"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "death",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "age",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "numberOfBrothers",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "numberOfHalfSisters",
+        "tail": 4
+      }
+    ]
+  },
+  {
+    "document_id": 9,
+    "ragtruth_id": "9",
+    "text": "Andrew Getty, a billionaire heir to the Getty oil fortune, has died at 47. The cause of death is believed to be natural, with no signs of foul play. An autopsy will be conducted. Getty had several health issues and was recently granted a restraining order against an ex-girlfriend due to concerns over his medical condition.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Andrew Getty, a billionaire heir to the Getty oil fortune"
+      },
+      {
+        "id": 1,
+        "text": "47"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "age",
+        "tail": 1
+      }
+    ]
+  }
+]

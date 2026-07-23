@@ -1,0 +1,710 @@
+[
+  {
+    "document_id": 380,
+    "ragtruth_id": "506",
+    "text": "Aaron Hernandez, a former New England Patriots player, is on trial for the murder of Odin Lloyd, a man who was dating the sister of Hernandez's fiancée. The trial began in January in Fall River, Massachusetts, and involves a complex group of characters, including two sisters who played important roles in the lives of Hernandez and Lloyd. Hernandez has pleaded not guilty to the charges and the trial is ongoing. The motive behind the murder is unclear, but evidence collected in Lloyd's death has led to additional murder charges against Hernandez in a separate case in Boston.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Aaron Hernandez, a former New England Patriots player"
+      },
+      {
+        "id": 1,
+        "text": "trial"
+      },
+      {
+        "id": 2,
+        "text": "Odin Lloyd, a man who was dating the sister of Hernandez's fiancée"
+      },
+      {
+        "id": 3,
+        "text": "the murder of Odin Lloyd, a man who was dating the sister of Hernandez's fiancée"
+      },
+      {
+        "id": 4,
+        "text": "January"
+      },
+      {
+        "id": 5,
+        "text": "Fall River"
+      },
+      {
+        "id": 6,
+        "text": "Massachusetts"
+      },
+      {
+        "id": 7,
+        "text": "two"
+      },
+      {
+        "id": 8,
+        "text": "Lloyd."
+      },
+      {
+        "id": 9,
+        "text": "Boston"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "trialFor",
+        "tail": 3
+      },
+      {
+        "head": 1,
+        "relation": "beganIn",
+        "tail": 4
+      },
+      {
+        "head": 1,
+        "relation": "beganIn",
+        "tail": 5
+      },
+      {
+        "head": 1,
+        "relation": "beganIn",
+        "tail": 6
+      },
+      {
+        "head": 0,
+        "relation": "chargedIn",
+        "tail": 3
+      },
+      {
+        "head": 3,
+        "relation": "victim",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "additionalChargesIn",
+        "tail": 9
+      }
+    ]
+  },
+  {
+    "document_id": 381,
+    "ragtruth_id": "507",
+    "text": "Former New England Patriot Aaron Hernandez has gone on trial for the murder of Odin Lloyd, a man who was dating the sister of Hernandez's fiancee and may have become his future brother-in-law. Prosecutors allege that Hernandez orchestrated Lloyd's execution, while the defense argues that he was planning a future, not a murder. The trial has involved a complex cast of characters, including two sisters who played important roles in the lives of Hernandez and Lloyd. Evidence collected in Lloyd's death led to two more murder charges against Hernandez in a separate case in Boston, which is scheduled to begin in May. The trial has been marked by conflicting testimony and motives, with some witnesses claiming that Lloyd was a innocent victim and others suggesting that he was involved in illegal activities. The outcome of the trial could have significant implications for Hernandez's future, as well as for the lives of those involved in the case.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Former New England Patriot Aaron Hernandez"
+      },
+      {
+        "id": 1,
+        "text": "Odin Lloyd, a man who was dating the sister of Hernandez's fiancee and may have become his future brother-in-law"
+      },
+      {
+        "id": 2,
+        "text": "trial"
+      },
+      {
+        "id": 3,
+        "text": "a separate case in Boston, which is scheduled to begin in May"
+      },
+      {
+        "id": 4,
+        "text": "two"
+      },
+      {
+        "id": 5,
+        "text": "two"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "trial",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "chargedIn",
+        "tail": 3
+      },
+      {
+        "head": 3,
+        "relation": "scheduledToBeginIn",
+        "tail": 5
+      }
+    ]
+  },
+  {
+    "document_id": 382,
+    "ragtruth_id": "508",
+    "text": "Former New England Patriots player Aaron Hernandez is on trial for the murder of Odin Lloyd, who was dating the sister of Hernandez's fiancée. Prosecutors argue that Hernandez orchestrated Lloyd's execution, and they present evidence linking Hernandez to the crime, including a text message from Lloyd to his sister stating that he was with \"NFL\" just before he was killed. The trial involves a complex web of characters, including two sisters who played important roles in the lives of Hernandez and Lloyd, and multiple alleged accomplices. The prosecution argues that Hernandez was motivated to kill Lloyd because he was angry that Lloyd had talked to his sister, and that he used his wealth and influence to cover up the crime. The defense argues that Hernandez was not involved in the murder and that the prosecution's case is based on circumstantial evidence. The trial is ongoing, and the jury began deliberations on Tuesday.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Former New England Patriots player Aaron Hernandez"
+      },
+      {
+        "id": 1,
+        "text": "Odin Lloyd, who was dating the sister of Hernandez's fiancée"
+      },
+      {
+        "id": 2,
+        "text": "Prosecutors"
+      },
+      {
+        "id": 3,
+        "text": "the murder of Odin Lloyd, who was dating the sister of Hernandez's fiancée"
+      },
+      {
+        "id": 4,
+        "text": "the sister of Hernandez's fiancée"
+      },
+      {
+        "id": 5,
+        "text": "trial for the murder of Odin Lloyd, who was dating the sister of Hernandez's fiancée"
+      },
+      {
+        "id": 6,
+        "text": "NFL"
+      },
+      {
+        "id": 7,
+        "text": "two"
+      },
+      {
+        "id": 8,
+        "text": "Tuesday"
+      }
+    ],
+    "relations": [
+      {
+        "head": 5,
+        "relation": "trialFor",
+        "tail": 3
+      },
+      {
+        "head": 3,
+        "relation": "victim",
+        "tail": 1
+      },
+      {
+        "head": 1,
+        "relation": "dating",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "orchestrated",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "involvedIn",
+        "tail": 3
+      },
+      {
+        "head": 5,
+        "relation": "deliberationsBeganOn",
+        "tail": 8
+      }
+    ]
+  },
+  {
+    "document_id": 383,
+    "ragtruth_id": "509",
+    "text": "Former New England Patriots player Aaron Hernandez is on trial for the murder of Odin Lloyd, who was dating Hernandez's fiancée's sister. Hernandez has pleaded not guilty and the trial began in January. Prosecutors argue that Hernandez orchestrated the shooting death of Lloyd, while the defense claims that Hernandez was not involved. The trial has involved a complex cast of characters, including two sisters who played important roles in the lives of Hernandez and Lloyd. The motive for the murder is still unclear, but evidence collected in Lloyd's death led to two more murder charges against Hernandez in a separate case in Boston. The trial has been ongoing since January, and the jury began deliberations on Tuesday.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Former New England Patriots player Aaron Hernandez"
+      },
+      {
+        "id": 1,
+        "text": "trial for the murder of Odin Lloyd, who was dating Hernandez's fiancée's sister"
+      },
+      {
+        "id": 2,
+        "text": "the murder of Odin Lloyd, who was dating Hernandez's fiancée's sister"
+      },
+      {
+        "id": 3,
+        "text": "Odin Lloyd, who was dating Hernandez's fiancée's sister"
+      },
+      {
+        "id": 4,
+        "text": "January"
+      },
+      {
+        "id": 5,
+        "text": "two"
+      },
+      {
+        "id": 6,
+        "text": "two"
+      },
+      {
+        "id": 7,
+        "text": "Boston"
+      },
+      {
+        "id": 8,
+        "text": "Tuesday"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "beganIn",
+        "tail": 4
+      },
+      {
+        "head": 2,
+        "relation": "victim",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "chargedWith",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "chargedIn",
+        "tail": 7
+      },
+      {
+        "head": 1,
+        "relation": "deliberationsBeganOn",
+        "tail": 8
+      }
+    ]
+  },
+  {
+    "document_id": 384,
+    "ragtruth_id": "510",
+    "text": "ESPN reporter Britt McHenry was suspended after a video of her insulting a towing company employee was posted online. McHenry has since apologised on Twitter, stating she should \"always choose to be respectful and take the high road.\" However, the apology seems to have fallen on deaf ears with the public, with a petition even being set up on Change.org to have McHenry fired. The article goes on to highlight celebrities who have been caught in stressful situations and dealt with them in a dignified and appropriate manner, including Kelly Clarkson, who responded to journalist Katie Hopkins fat-shaming her by stating it didn't bother her because she's \"awesome.\" Mo'ne Davis, who was insulted by a college baseball player, asked the college to reinstate him, because \"everyone makes mistakes and everyone deserves a second chance.\" Pope Francis responded to an open letter from an Argentine journalist by phoning him directly, while Beyonce handled criticism of lip-syncing the national anthem and Reese Witherspoon's response to being pulled over for suspicion of driving under the influence were also cited as examples of dignified responses to stressful situations.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "ESPN reporter Britt McHenry"
+      },
+      {
+        "id": 1,
+        "text": "apologised"
+      },
+      {
+        "id": 2,
+        "text": "celebrities who have been caught in stressful situations"
+      },
+      {
+        "id": 3,
+        "text": "journalist Katie Hopkins"
+      },
+      {
+        "id": 4,
+        "text": "fat-shaming"
+      },
+      {
+        "id": 5,
+        "text": "a college baseball player"
+      },
+      {
+        "id": 6,
+        "text": "an Argentine journalist"
+      },
+      {
+        "id": 7,
+        "text": "Twitter"
+      },
+      {
+        "id": 8,
+        "text": "Change.org"
+      },
+      {
+        "id": 9,
+        "text": "Kelly Clarkson"
+      },
+      {
+        "id": 10,
+        "text": "Mo'ne Davis"
+      },
+      {
+        "id": 11,
+        "text": "second"
+      },
+      {
+        "id": 12,
+        "text": "Pope Francis"
+      },
+      {
+        "id": 13,
+        "text": "Beyonce"
+      },
+      {
+        "id": 14,
+        "text": "Reese"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "apologyPlatform",
+        "tail": 7
+      },
+      {
+        "head": 9,
+        "relation": "respondedTo",
+        "tail": 3
+      },
+      {
+        "head": 9,
+        "relation": "subjectOf",
+        "tail": 4
+      },
+      {
+        "head": 10,
+        "relation": "askedReinstatementOf",
+        "tail": 5
+      },
+      {
+        "head": 12,
+        "relation": "respondedTo",
+        "tail": 6
+      }
+    ]
+  },
+  {
+    "document_id": 385,
+    "ragtruth_id": "511",
+    "text": "The article discusses the recent incident involving ESPN reporter Britt McHenry and her offensive comments towards a towing company employee. The author, a mother of two young girls, emphasizes the importance of respect and uses this incident as a teaching moment for her children. She admits to occasionally losing her cool in frustrating situations but emphasizes that she would never insult or demean someone.\n\nMcHenry's comments imply that she may think she is better than others due to her career, education, and income. She has since apologized on Twitter but it is unclear if this will satisfy those who witnessed her behavior. Many people on social media have expressed their disappointment in her actions.\n\nThe author then provides examples of how other celebrities have handled stressful situations with grace and dignity. Singer Kelly Clarkson responded gracefully to fat-shaming comments, Little League baseball star Mo'ne Davis asked for a college baseball player to be reinstated after he called her a \"slut,\" and Pope Francis personally called an Argentinian journalist who expressed concern about his meeting with the country's president. Beyoncé admitted to singing along with a pre-recorded track at President Obama's inauguration and Reese Witherspoon apologized after being pulled over for suspicion of DUI.\n\nThe author concludes by expressing hope that McHenry learns from this incident and responds to anger with respect in the future. She asks readers to share other examples of the rich and powerful responding to stressful situations with grace.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "ESPN reporter Britt McHenry"
+      },
+      {
+        "id": 1,
+        "text": "the recent incident involving ESPN reporter Britt McHenry and her offensive comments towards a towing company employee"
+      },
+      {
+        "id": 2,
+        "text": "The author, a mother of two young girls"
+      },
+      {
+        "id": 3,
+        "text": "two young girls"
+      },
+      {
+        "id": 4,
+        "text": "her offensive comments towards a towing company employee"
+      },
+      {
+        "id": 5,
+        "text": "apologized"
+      },
+      {
+        "id": 6,
+        "text": "Many people on social media"
+      },
+      {
+        "id": 7,
+        "text": "a college baseball player"
+      },
+      {
+        "id": 8,
+        "text": "Little League baseball star Mo'ne Davis"
+      },
+      {
+        "id": 9,
+        "text": "Pope Francis"
+      },
+      {
+        "id": 10,
+        "text": "the country's president"
+      },
+      {
+        "id": 11,
+        "text": "Twitter"
+      },
+      {
+        "id": 12,
+        "text": "Kelly Clarkson"
+      },
+      {
+        "id": 13,
+        "text": "Argentinian"
+      },
+      {
+        "id": 14,
+        "text": "Beyoncé"
+      },
+      {
+        "id": 15,
+        "text": "Reese"
+      },
+      {
+        "id": 16,
+        "text": "DUI"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "apology",
+        "tail": 5
+      },
+      {
+        "head": 0,
+        "relation": "comment",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "incident",
+        "tail": 1
+      },
+      {
+        "head": 2,
+        "relation": "parentOf",
+        "tail": 3
+      },
+      {
+        "head": 5,
+        "relation": "postedOn",
+        "tail": 11
+      },
+      {
+        "head": 6,
+        "relation": "disappointedIn",
+        "tail": 0
+      },
+      {
+        "head": 8,
+        "relation": "askedReinstatementOf",
+        "tail": 7
+      },
+      {
+        "head": 9,
+        "relation": "called",
+        "tail": 13
+      },
+      {
+        "head": 9,
+        "relation": "meetingWith",
+        "tail": 10
+      },
+      {
+        "head": 14,
+        "relation": "admitted",
+        "tail": 10
+      },
+      {
+        "head": 15,
+        "relation": "apologized",
+        "tail": 16
+      }
+    ]
+  },
+  {
+    "document_id": 386,
+    "ragtruth_id": "512",
+    "text": "ESPN reporter Britt McHenry made offensive comments to a towing company worker during a live report, which sparked outrage on social media. The video of the encounter went viral, and many people called out McHenry for her behavior. In response to the backlash, McHenry apologized on Twitter and was later suspended by ESPN for a week. The incident highlighted the importance of treating others with respect, regardless of their background or status. Many people shared stories of celebrities who responded to difficult situations with grace and dignity, including Kelly Clarkson, Mo'ne Davis, and Queen Bey. These examples serve as reminders that everyone deserves to be treated with respect and kindness, no matter who they are or what they do.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "ESPN reporter Britt McHenry"
+      },
+      {
+        "id": 1,
+        "text": "outrage on social media"
+      },
+      {
+        "id": 2,
+        "text": "ESPN"
+      },
+      {
+        "id": 3,
+        "text": "the encounter"
+      },
+      {
+        "id": 4,
+        "text": "others"
+      },
+      {
+        "id": 5,
+        "text": "stories of celebrities who responded to difficult situations with grace and dignity, including Kelly Clarkson, Mo'ne Davis, and Queen Bey"
+      },
+      {
+        "id": 6,
+        "text": "everyone"
+      },
+      {
+        "id": 7,
+        "text": "Twitter"
+      },
+      {
+        "id": 8,
+        "text": "a week"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "apologizedOn",
+        "tail": 7
+      },
+      {
+        "head": 0,
+        "relation": "suspendedBy",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "suspensionDuration",
+        "tail": 8
+      }
+    ]
+  },
+  {
+    "document_id": 387,
+    "ragtruth_id": "513",
+    "text": "ESPN reporter Britt McHenry was caught on video berating a towing company employee, using offensive language and insults. McHenry has since apologized on Twitter, saying that she should \"always choose to be respectful and take the high road.\" However, many are questioning whether her apology will be enough, given the nature of her behavior and the fact that she may have set a poor example for others. Other celebrities, such as Katie Hopkins, Kelly Clarkson, Mo'ne Davis, Pope Francis, Beyoncé, Reese Witherspoon, and Queen Bey, have shown grace and dignity in the face of stressful situations, serving as examples of how to handle difficult moments with poise and respect.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "ESPN reporter Britt McHenry"
+      },
+      {
+        "id": 1,
+        "text": "apologized"
+      },
+      {
+        "id": 2,
+        "text": "Twitter"
+      },
+      {
+        "id": 3,
+        "text": "Katie Hopkins"
+      },
+      {
+        "id": 4,
+        "text": "Kelly Clarkson"
+      },
+      {
+        "id": 5,
+        "text": "Mo'ne Davis"
+      },
+      {
+        "id": 6,
+        "text": "Pope Francis"
+      },
+      {
+        "id": 7,
+        "text": "Reese"
+      },
+      {
+        "id": 8,
+        "text": "Queen Bey"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "apologizedOn",
+        "tail": 2
+      }
+    ]
+  },
+  {
+    "document_id": 388,
+    "ragtruth_id": "514",
+    "text": "ESPN reporter Britt McHenry recently made headlines for her rude and disrespectful behavior towards a towing company employee. Her actions have sparked a conversation about the importance of treating others with respect, regardless of their background or position. McHenry's behavior is contrasted with that of other celebrities who have handled stressful situations with grace and dignity, such as Katie Hopkins, Kelly Clarkson, and Reese Witherspoon. These examples serve as a reminder that even in uncomfortable moments, it's important to treat others the way we would want to be treated. The article encourages readers to share their own examples of graceful responses to stressful situations.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "ESPN reporter Britt McHenry"
+      },
+      {
+        "id": 1,
+        "text": "others"
+      },
+      {
+        "id": 2,
+        "text": "her rude and disrespectful behavior towards a towing company employee"
+      },
+      {
+        "id": 3,
+        "text": "readers"
+      },
+      {
+        "id": 4,
+        "text": "Katie Hopkins"
+      },
+      {
+        "id": 5,
+        "text": "Kelly Clarkson"
+      },
+      {
+        "id": 6,
+        "text": "Reese"
+      }
+    ],
+    "relations": []
+  },
+  {
+    "document_id": 389,
+    "ragtruth_id": "515",
+    "text": "ESPN reporter Britt McHenry was suspended for a week after a video surfaced of her berating a towing company employee, using offensive language and displaying a sense of entitlement. The incident sparked a discussion about the importance of treating others with respect, regardless of their profession or social status. The author of this article discussed the issue with her daughters, emphasizing the importance of being respectful and taking the high road, even in difficult situations. The article also highlights examples of celebrities who have handled stressful situations with grace and dignity, such as Kelly Clarkson, Mo'ne Davis, Pope Francis, and Reese Witherspoon. These examples serve as a reminder that even in the face of criticism or adversity, it's important to maintain a level of respect and decorum.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "ESPN reporter Britt McHenry"
+      },
+      {
+        "id": 1,
+        "text": "others"
+      },
+      {
+        "id": 2,
+        "text": "the importance of treating others with respect, regardless of their profession or social status"
+      },
+      {
+        "id": 3,
+        "text": "The author of this article"
+      },
+      {
+        "id": 4,
+        "text": "this article"
+      },
+      {
+        "id": 5,
+        "text": "a week"
+      },
+      {
+        "id": 6,
+        "text": "Kelly Clarkson"
+      },
+      {
+        "id": 7,
+        "text": "Mo'ne Davis"
+      },
+      {
+        "id": 8,
+        "text": "Pope Francis"
+      },
+      {
+        "id": 9,
+        "text": "Reese"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "suspendedFor",
+        "tail": 5
+      },
+      {
+        "head": 4,
+        "relation": "highlights",
+        "tail": 2
+      }
+    ]
+  }
+]

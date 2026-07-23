@@ -1,0 +1,1062 @@
+[
+  {
+    "document_id": 80,
+    "ragtruth_id": "104",
+    "text": "Multiple tornadoes hit the rural Midwest on Thursday, causing widespread damage and leaving one person dead in Illinois. Cathy Olson, who has lived in Rochelle, Illinois for 40 years, saw a massive tornado that destroyed homes and businesses. In Fairdale, one person died as a tornado shredded homes and stripped trees. Rescue efforts are underway in Kirkland, Illinois, where debris is blocking roads and making it difficult for responders to reach trapped residents. Several tornadoes were reported in Oklahoma, Kansas, and Missouri on Wednesday. Hailstones the size of tennis balls fell on Ashton, Illinois. The tornado that hit Grubsteakers in northern Illinois left the restaurant destroyed and trapped several people inside. Sheriff Brian VanVickle, who was newly elected in Rochelle, lost his house and his sister-in-law's house in the tornado. The National Weather Service warned of a \"particularly dangerous situation\" and issued tornado watches that will expire early Friday.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Illinois"
+      },
+      {
+        "id": 1,
+        "text": "Grubsteakers in northern Illinois"
+      },
+      {
+        "id": 2,
+        "text": "Rochelle, Illinois"
+      },
+      {
+        "id": 3,
+        "text": "Sheriff Brian VanVickle, who was newly elected in Rochelle,"
+      },
+      {
+        "id": 4,
+        "text": "The tornado that hit Grubsteakers in northern Illinois"
+      },
+      {
+        "id": 5,
+        "text": "Midwest"
+      },
+      {
+        "id": 6,
+        "text": "Thursday"
+      },
+      {
+        "id": 7,
+        "text": "one"
+      },
+      {
+        "id": 8,
+        "text": "Cathy Olson"
+      },
+      {
+        "id": 9,
+        "text": "40 years"
+      },
+      {
+        "id": 10,
+        "text": "Fairdale"
+      },
+      {
+        "id": 11,
+        "text": "one"
+      },
+      {
+        "id": 12,
+        "text": "Kirkland"
+      },
+      {
+        "id": 13,
+        "text": "Oklahoma"
+      },
+      {
+        "id": 14,
+        "text": "Kansas"
+      },
+      {
+        "id": 15,
+        "text": "Missouri"
+      },
+      {
+        "id": 16,
+        "text": "Wednesday"
+      },
+      {
+        "id": 17,
+        "text": "Ashton"
+      },
+      {
+        "id": 18,
+        "text": "The National Weather Service"
+      },
+      {
+        "id": 19,
+        "text": "early Friday"
+      }
+    ],
+    "relations": [
+      {
+        "head": 8,
+        "relation": "livesIn",
+        "tail": 2
+      },
+      {
+        "head": 8,
+        "relation": "durationOfResidence",
+        "tail": 9
+      },
+      {
+        "head": 3,
+        "relation": "electedIn",
+        "tail": 2
+      }
+    ]
+  },
+  {
+    "document_id": 81,
+    "ragtruth_id": "105",
+    "text": "On Thursday, multiple tornadoes ripped through the rural Midwest, including one that devastated the town of Rochelle, Illinois. Cathy Olson witnessed the massive tornado that destroyed homes and businesses, including a local restaurant. While no fatalities were reported in Rochelle, one person died in the nearby town of Fairdale. The tornado also caused significant damage in neighboring counties, including the destruction of 20 homes and the injury of several people. Emergency responders are still working to reach trapped residents and assess the damage. The National Weather Service issued warnings of severe weather and potential tornadoes across the region, and residents are advised to remain vigilant.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "one that devastated the town of Rochelle, Illinois"
+      },
+      {
+        "id": 1,
+        "text": "the town of Rochelle, Illinois"
+      },
+      {
+        "id": 2,
+        "text": "the rural Midwest"
+      },
+      {
+        "id": 3,
+        "text": "Thursday"
+      },
+      {
+        "id": 4,
+        "text": "Cathy Olson"
+      },
+      {
+        "id": 5,
+        "text": "one"
+      },
+      {
+        "id": 6,
+        "text": "Fairdale"
+      },
+      {
+        "id": 7,
+        "text": "20"
+      },
+      {
+        "id": 8,
+        "text": "The National Weather Service"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "devastated",
+        "tail": 1
+      },
+      {
+        "head": 4,
+        "relation": "witnessed",
+        "tail": 0
+      },
+      {
+        "head": 0,
+        "relation": "causedDamageIn",
+        "tail": 6
+      },
+      {
+        "head": 0,
+        "relation": "destroyedHomes",
+        "tail": 7
+      },
+      {
+        "head": 8,
+        "relation": "issuedWarningsFor",
+        "tail": 2
+      }
+    ]
+  },
+  {
+    "document_id": 82,
+    "ragtruth_id": "106",
+    "text": "A powerful tornado tore through Rochelle, Illinois, causing significant damage and destroying several homes. One person died in a nearby town, and many more were injured. The tornado was reportedly massive, with videos showing it barreling across fields. The town's mayor, Chet Olson, was re-elected the day before the tornado hit, and his home was among those destroyed. The storm also caused hail and damaged buildings in other areas. Despite the destruction, no one was killed or seriously injured in Rochelle. The National Weather Service had warned of a \"particularly dangerous situation\" and tornado watches were in effect throughout the region.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "A powerful tornado"
+      },
+      {
+        "id": 1,
+        "text": "Rochelle, Illinois"
+      },
+      {
+        "id": 2,
+        "text": "The town's mayor, Chet Olson"
+      },
+      {
+        "id": 3,
+        "text": "One"
+      },
+      {
+        "id": 4,
+        "text": "the day"
+      },
+      {
+        "id": 5,
+        "text": "The National Weather Service"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "damaged",
+        "tail": 1
+      },
+      {
+        "head": 2,
+        "relation": "re-electedOn",
+        "tail": 4
+      },
+      {
+        "head": 5,
+        "relation": "warned",
+        "tail": 0
+      }
+    ]
+  },
+  {
+    "document_id": 83,
+    "ragtruth_id": "107",
+    "text": "A tornado swept through the town of Rochelle, Illinois, causing damage but no fatalities. Cathy Olson, a resident, described the twister as \"absolutely massive\" and said it passed by her town, tearing up its fringes. One person died in the nearby town of Fairdale, where homes were shredded and trees were left bare. In Kirkland, responders were unable to assess the damage or injuries due to heavy debris on the roads. Multiple tornadoes touched down in the rural Midwest, including in Iowa and Missouri. The Storm Prediction Center reported eight tornadoes in Oklahoma, Kansas, and Missouri. Residents were fortunate to escape without serious injury or death, despite hail stones the size of tennis balls falling in Ashton, Illinois. The tornado that hit Rochelle cut a 22-mile path through Ogle County and destroyed a local restaurant, Grubsteakers. The sheriff of Ogle County, Brian VanVickle, lost his home and his sister-in-law's home in the storm, but his family was safe. The National Weather Service warned of a \"particularly dangerous situation\" and tornado watches were set to run out early Friday.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "A tornado"
+      },
+      {
+        "id": 1,
+        "text": "Cathy Olson, a resident,"
+      },
+      {
+        "id": 2,
+        "text": "the town of Rochelle, Illinois"
+      },
+      {
+        "id": 3,
+        "text": "Missouri"
+      },
+      {
+        "id": 4,
+        "text": "Illinois"
+      },
+      {
+        "id": 5,
+        "text": "Ogle County"
+      },
+      {
+        "id": 6,
+        "text": "The sheriff of Ogle County, Brian VanVickle,"
+      },
+      {
+        "id": 7,
+        "text": "One"
+      },
+      {
+        "id": 8,
+        "text": "Fairdale"
+      },
+      {
+        "id": 9,
+        "text": "Kirkland"
+      },
+      {
+        "id": 10,
+        "text": "Midwest"
+      },
+      {
+        "id": 11,
+        "text": "Iowa"
+      },
+      {
+        "id": 12,
+        "text": "The Storm Prediction Center"
+      },
+      {
+        "id": 13,
+        "text": "eight"
+      },
+      {
+        "id": 14,
+        "text": "Oklahoma"
+      },
+      {
+        "id": 15,
+        "text": "Kansas"
+      },
+      {
+        "id": 16,
+        "text": "Ashton"
+      },
+      {
+        "id": 17,
+        "text": "22-mile"
+      },
+      {
+        "id": 18,
+        "text": "Grubsteakers"
+      },
+      {
+        "id": 19,
+        "text": "The National Weather Service"
+      },
+      {
+        "id": 20,
+        "text": "early Friday"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "passedThrough",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "causedDamageIn",
+        "tail": 2
+      },
+      {
+        "head": 1,
+        "relation": "residentOf",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "passedBy",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "cutPathThrough",
+        "tail": 5
+      },
+      {
+        "head": 0,
+        "relation": "destroyed",
+        "tail": 18
+      },
+      {
+        "head": 6,
+        "relation": "sheriffOf",
+        "tail": 5
+      },
+      {
+        "head": 6,
+        "relation": "lostHomeIn",
+        "tail": 0
+      },
+      {
+        "head": 12,
+        "relation": "reported",
+        "tail": 13
+      },
+      {
+        "head": 19,
+        "relation": "warnedOf",
+        "tail": 20
+      }
+    ]
+  },
+  {
+    "document_id": 84,
+    "ragtruth_id": "108",
+    "text": "The 16-page handwritten manuscript of Don McLean's pop masterpiece \"American Pie\" has been sold by Christie's for $1.2 million to an unidentified buyer. The song, which was released in 1971, is seen by many as a timeless classic, blending modern poetry and folk ballad with elements of beer-hall chant and high-art rock. McLean wrote the song as a tribute to musicians Buddy Holly, Ritchie Valens and J.P. \"The Big Bopper\" Richardson, who died tragically in an airplane crash in 1959. The song topped the Billboard charts and became a cultural anthem for the new decade, replacing Bob Dylan's \"The Times They Are A Changin\" as the Peoples Almanac. The Recording Industry of America and the National Endowment of the Arts later selected \"American Pie\" as the fifth greatest song of the 20th century. The lyrics of the song have been subject to much interpretation over the years, with potential references to Elvis Presley, the Charles Manson murders, Bob Dylan, and the Rolling Stones.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Don McLean's"
+      },
+      {
+        "id": 1,
+        "text": "The song, which was released in 1971"
+      },
+      {
+        "id": 2,
+        "text": "the new decade"
+      },
+      {
+        "id": 3,
+        "text": "Bob Dylan's"
+      },
+      {
+        "id": 4,
+        "text": "16"
+      },
+      {
+        "id": 5,
+        "text": "American Pie"
+      },
+      {
+        "id": 6,
+        "text": "Christie's"
+      },
+      {
+        "id": 7,
+        "text": "$1.2 million"
+      },
+      {
+        "id": 8,
+        "text": "Buddy Holly"
+      },
+      {
+        "id": 9,
+        "text": "Ritchie Valens"
+      },
+      {
+        "id": 10,
+        "text": "J.P."
+      },
+      {
+        "id": 11,
+        "text": "The Big Bopper\" Richardson"
+      },
+      {
+        "id": 12,
+        "text": "1959"
+      },
+      {
+        "id": 13,
+        "text": "Billboard"
+      },
+      {
+        "id": 14,
+        "text": "The Times"
+      },
+      {
+        "id": 15,
+        "text": "The Recording Industry of America"
+      },
+      {
+        "id": 16,
+        "text": "the National Endowment of the Arts"
+      },
+      {
+        "id": 17,
+        "text": "fifth"
+      },
+      {
+        "id": 18,
+        "text": "the years"
+      },
+      {
+        "id": 19,
+        "text": "Elvis Presley"
+      },
+      {
+        "id": 20,
+        "text": "Charles Manson"
+      },
+      {
+        "id": 21,
+        "text": "the Rolling Stones"
+      }
+    ],
+    "relations": [
+      {
+        "head": 5,
+        "relation": "author",
+        "tail": 0
+      },
+      {
+        "head": 1,
+        "relation": "releaseDate",
+        "tail": 12
+      },
+      {
+        "head": 1,
+        "relation": "composer",
+        "tail": 0
+      },
+      {
+        "head": 1,
+        "relation": "tributeTo",
+        "tail": 8
+      },
+      {
+        "head": 1,
+        "relation": "tributeTo",
+        "tail": 9
+      },
+      {
+        "head": 1,
+        "relation": "tributeTo",
+        "tail": 11
+      },
+      {
+        "head": 1,
+        "relation": "chartedOn",
+        "tail": 13
+      },
+      {
+        "head": 1,
+        "relation": "selectedBy",
+        "tail": 15
+      },
+      {
+        "head": 1,
+        "relation": "selectedBy",
+        "tail": 16
+      },
+      {
+        "head": 1,
+        "relation": "rank",
+        "tail": 17
+      },
+      {
+        "head": 1,
+        "relation": "references",
+        "tail": 19
+      },
+      {
+        "head": 1,
+        "relation": "references",
+        "tail": 20
+      },
+      {
+        "head": 1,
+        "relation": "references",
+        "tail": 3
+      },
+      {
+        "head": 1,
+        "relation": "references",
+        "tail": 21
+      }
+    ]
+  },
+  {
+    "document_id": 85,
+    "ragtruth_id": "109",
+    "text": "The 16-page handwritten manuscript of Don McLean's iconic song \"American Pie\" has been sold for $1.2 million at Christie's. The song, released in 1971, is a hybrid of modern poetry and folk ballad, and is considered an essential Americana poem. McLean wrote the song as a cathartic response to the tragic deaths of Buddy Holly, Ritchie Valens, and J.P. \"The Big Bopper\" Richardson in a plane crash in 1959. The lyrics and melody of \"American Pie\" have been described as a cosmic dream, evoking wistful recollection, blues valentine, and youthful protest. The song topped the Billboard charts and replaced Bob Dylan's \"The Times They Are A Changin\" as the anthem of the new decade. McLean, influenced by Pete Seeger and the Weavers, has performed the song thousands of times, and it continues to captivate audiences. \"American Pie\" is considered an enduring piece of pop art and has been ranked as the fifth greatest song of the 20th century by the Recording Industry of America and the National Endowment of the Arts. The other songs in the top five were \"Over the Rainbow,\" \"White Christmas,\" \"This Land is Your Land,\" and \"Respect.\" The sale of the original lyrics at Christie's marks a new chapter for this timeless song.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Don McLean's"
+      },
+      {
+        "id": 1,
+        "text": "Don McLean's iconic song \"American Pie\""
+      },
+      {
+        "id": 2,
+        "text": "the new decade"
+      },
+      {
+        "id": 3,
+        "text": "sold"
+      },
+      {
+        "id": 4,
+        "text": "Christie's"
+      },
+      {
+        "id": 5,
+        "text": "16"
+      },
+      {
+        "id": 6,
+        "text": "$1.2 million"
+      },
+      {
+        "id": 7,
+        "text": "1971"
+      },
+      {
+        "id": 8,
+        "text": "Buddy Holly"
+      },
+      {
+        "id": 9,
+        "text": "Ritchie Valens"
+      },
+      {
+        "id": 10,
+        "text": "J.P."
+      },
+      {
+        "id": 11,
+        "text": "The Big Bopper\" Richardson"
+      },
+      {
+        "id": 12,
+        "text": "1959"
+      },
+      {
+        "id": 13,
+        "text": "Billboard"
+      },
+      {
+        "id": 14,
+        "text": "Bob Dylan's"
+      },
+      {
+        "id": 15,
+        "text": "The Times They Are A Changin"
+      },
+      {
+        "id": 16,
+        "text": "Pete Seeger"
+      },
+      {
+        "id": 17,
+        "text": "thousands"
+      },
+      {
+        "id": 18,
+        "text": "fifth"
+      },
+      {
+        "id": 19,
+        "text": "the Recording Industry of America"
+      },
+      {
+        "id": 20,
+        "text": "the National Endowment of the Arts"
+      },
+      {
+        "id": 21,
+        "text": "five"
+      },
+      {
+        "id": 22,
+        "text": "Over the Rainbow"
+      },
+      {
+        "id": 23,
+        "text": "White Christmas"
+      },
+      {
+        "id": 24,
+        "text": "This Land is Your Land"
+      },
+      {
+        "id": 25,
+        "text": "Respect"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "releaseDate",
+        "tail": 7
+      },
+      {
+        "head": 1,
+        "relation": "writtenBy",
+        "tail": 0
+      },
+      {
+        "head": 1,
+        "relation": "influencedBy",
+        "tail": 16
+      },
+      {
+        "head": 1,
+        "relation": "influencedBy",
+        "tail": 14
+      },
+      {
+        "head": 1,
+        "relation": "soldAt",
+        "tail": 4
+      },
+      {
+        "head": 1,
+        "relation": "salePrice",
+        "tail": 6
+      },
+      {
+        "head": 1,
+        "relation": "ranked",
+        "tail": 18
+      },
+      {
+        "head": 1,
+        "relation": "rankedBy",
+        "tail": 19
+      },
+      {
+        "head": 1,
+        "relation": "rankedBy",
+        "tail": 20
+      }
+    ]
+  },
+  {
+    "document_id": 86,
+    "ragtruth_id": "110",
+    "text": "Don McLean's \"American Pie\" turned 44 years old in 2021. The song, known for its historical references and memorable chorus, was recently sold at auction for $1.2 million. Written after the tragic deaths of Buddy Holly, Ritchie Valens, and The Big Bopper, the song has become a cultural anthem representing the spirit of the 1960s and 1970s. The lyrics have been interpreted in various ways, with theories surrounding famous figures such as Elvis Presley, Bob Dylan, and the Rolling Stones. \"American Pie\" was chosen as the fifth greatest song of the 20th century by both the Recording Industry of America and the National Endowment of the Arts.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Don McLean's \"American Pie\""
+      },
+      {
+        "id": 1,
+        "text": "44 years old"
+      },
+      {
+        "id": 2,
+        "text": "2021"
+      },
+      {
+        "id": 3,
+        "text": "$1.2 million"
+      },
+      {
+        "id": 4,
+        "text": "Buddy Holly"
+      },
+      {
+        "id": 5,
+        "text": "Ritchie Valens"
+      },
+      {
+        "id": 6,
+        "text": "The Big Bopper"
+      },
+      {
+        "id": 7,
+        "text": "the 1960s"
+      },
+      {
+        "id": 8,
+        "text": "1970s"
+      },
+      {
+        "id": 9,
+        "text": "Elvis Presley"
+      },
+      {
+        "id": 10,
+        "text": "Bob Dylan"
+      },
+      {
+        "id": 11,
+        "text": "the Rolling Stones"
+      },
+      {
+        "id": 12,
+        "text": "fifth"
+      },
+      {
+        "id": 13,
+        "text": "the 20th century"
+      },
+      {
+        "id": 14,
+        "text": "the Recording Industry of America"
+      },
+      {
+        "id": 15,
+        "text": "the National Endowment of the Arts"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "age",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "salePrice",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "writtenAfterDeathsOf",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "writtenAfterDeathsOf",
+        "tail": 5
+      },
+      {
+        "head": 0,
+        "relation": "writtenAfterDeathsOf",
+        "tail": 6
+      },
+      {
+        "head": 0,
+        "relation": "represents",
+        "tail": 7
+      },
+      {
+        "head": 0,
+        "relation": "represents",
+        "tail": 8
+      },
+      {
+        "head": 0,
+        "relation": "associatedWith",
+        "tail": 9
+      },
+      {
+        "head": 0,
+        "relation": "associatedWith",
+        "tail": 10
+      },
+      {
+        "head": 0,
+        "relation": "associatedWith",
+        "tail": 11
+      },
+      {
+        "head": 0,
+        "relation": "rank",
+        "tail": 12
+      },
+      {
+        "head": 0,
+        "relation": "ofCentury",
+        "tail": 13
+      },
+      {
+        "head": 0,
+        "relation": "chosenBy",
+        "tail": 14
+      },
+      {
+        "head": 0,
+        "relation": "chosenBy",
+        "tail": 15
+      }
+    ]
+  },
+  {
+    "document_id": 87,
+    "ragtruth_id": "111",
+    "text": "Don McLean's iconic song \"American Pie\" has become a cultural touchstone, symbolizing the loss of innocence and the turmoil of the 1950s and 1960s. Written in response to the deaths of Buddy Holly, Ritchie Valens, and J.P. \"The Big Bopper\" Richardson in a plane crash, the song has endured for over 40 years and has been recognized as one of the greatest songs of the 20th century. The original lyrics were recently sold at auction for $1.2 million to an anonymous buyer. McLean's unique blend of poetry, folk, and rock has made \"American Pie\" a timeless classic, with a chorus that has become ingrained in popular culture. Despite its complex and open-ended lyrics, the song continues to bring people together and evoke powerful emotions.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Don McLean's iconic song \"American Pie\""
+      },
+      {
+        "id": 1,
+        "text": "Don McLean's"
+      },
+      {
+        "id": 2,
+        "text": "The original lyrics"
+      },
+      {
+        "id": 3,
+        "text": "the 1950s and 1960s"
+      },
+      {
+        "id": 4,
+        "text": "Buddy Holly"
+      },
+      {
+        "id": 5,
+        "text": "Ritchie Valens"
+      },
+      {
+        "id": 6,
+        "text": "J.P."
+      },
+      {
+        "id": 7,
+        "text": "The Big Bopper\" Richardson"
+      },
+      {
+        "id": 8,
+        "text": "over 40 years"
+      },
+      {
+        "id": 9,
+        "text": "the 20th century"
+      },
+      {
+        "id": 10,
+        "text": "$1.2 million"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "creator",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "timePeriod",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "inResponseToDeathsOf",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "inResponseToDeathsOf",
+        "tail": 5
+      },
+      {
+        "head": 0,
+        "relation": "inResponseToDeathsOf",
+        "tail": 6
+      },
+      {
+        "head": 0,
+        "relation": "inResponseToDeathsOf",
+        "tail": 7
+      },
+      {
+        "head": 0,
+        "relation": "duration",
+        "tail": 8
+      },
+      {
+        "head": 0,
+        "relation": "recognizedAs",
+        "tail": 9
+      },
+      {
+        "head": 2,
+        "relation": "soldFor",
+        "tail": 10
+      }
+    ]
+  },
+  {
+    "document_id": 88,
+    "ragtruth_id": "112",
+    "text": "Don McLean's iconic song \"American Pie\" has sold for $1.2 million at auction, 44 years after its release. The song, which has become an essential part of American culture, is a poignant reflection on the loss of innocence and the changing times of the 1950s and 60s. With its memorable chorus and thought-provoking lyrics, \"American Pie\" has captivated audiences for generations and continues to evoke a sense of nostalgia and empowerment. The song's enduring popularity is a testament to its timeless themes and McLean's skill as a songwriter and performer.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Don McLean's iconic song \"American Pie\""
+      },
+      {
+        "id": 1,
+        "text": "Don McLean's"
+      },
+      {
+        "id": 2,
+        "text": "$1.2 million"
+      },
+      {
+        "id": 3,
+        "text": "44 years"
+      },
+      {
+        "id": 4,
+        "text": "the 1950s and 60s"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "soldFor",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "releaseTimeAfter",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "themePeriod",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "creator",
+        "tail": 1
+      }
+    ]
+  },
+  {
+    "document_id": 89,
+    "ragtruth_id": "113",
+    "text": "Don McLean's handwritten manuscript of the lyrics to his iconic song \"American Pie\" was sold at auction for $1.2 million. The 16-page document was purchased by an anonymous buyer. \"American Pie\" is considered a classic of popular music and a cultural touchstone for generations of Americans. The song's lyrics are known by heart by millions and have been interpreted in many ways over the years. McLean has said that the song is not just a nostalgic look back at the past, but also a commentary on the tumultuous times in which it was written. The song's themes of loss, nostalgia, and the passing of an era continue to resonate with audiences today.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Don McLean's handwritten manuscript of the lyrics to his iconic song \"American Pie\""
+      },
+      {
+        "id": 1,
+        "text": "his iconic song \"American Pie\""
+      },
+      {
+        "id": 2,
+        "text": "the lyrics to his iconic song \"American Pie\""
+      },
+      {
+        "id": 3,
+        "text": "Don McLean's"
+      },
+      {
+        "id": 4,
+        "text": "$1.2 million"
+      },
+      {
+        "id": 5,
+        "text": "Americans"
+      },
+      {
+        "id": 6,
+        "text": "millions"
+      },
+      {
+        "id": 7,
+        "text": "the years"
+      },
+      {
+        "id": 8,
+        "text": "today"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "soldFor",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "purchasedBy",
+        "tail": 6
+      },
+      {
+        "head": 1,
+        "relation": "classicOf",
+        "tail": 5
+      },
+      {
+        "head": 2,
+        "relation": "knownByHeartBy",
+        "tail": 6
+      },
+      {
+        "head": 2,
+        "relation": "interpretedOver",
+        "tail": 7
+      },
+      {
+        "head": 1,
+        "relation": "commentaryOn",
+        "tail": 7
+      },
+      {
+        "head": 1,
+        "relation": "resonatesWith",
+        "tail": 8
+      }
+    ]
+  }
+]

@@ -1,0 +1,687 @@
+[
+  {
+    "document_id": 220,
+    "ragtruth_id": "292",
+    "text": "Cynthia Lennon, first wife of John Lennon, passed away at 75 after a brief battle with cancer. She was there for John during his rise to fame with the Beatles and had a tumultuous but loving relationship. She is survived by her son Julian.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Cynthia Lennon, first wife of John Lennon"
+      },
+      {
+        "id": 1,
+        "text": "John Lennon"
+      },
+      {
+        "id": 2,
+        "text": "75"
+      },
+      {
+        "id": 3,
+        "text": "Beatles"
+      },
+      {
+        "id": 4,
+        "text": "Julian"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "spouse",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "ageAtDeath",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "child",
+        "tail": 4
+      }
+    ]
+  },
+  {
+    "document_id": 221,
+    "ragtruth_id": "293",
+    "text": "Cynthia Lennon, the first wife of John Lennon, has passed away at the age of 75. She died at her home in Spain after a short battle with cancer. Cynthia met John when they were both students at art school and they married in 1962. She was there as the Beatles rose to fame and their son Julian was born in 1963. However, the couple divorced in 1968 and Cynthia went on to marry three more times. She wrote two books about her marriage to John and had no contact with the surviving members of the band until a 2006 reunion. Despite the challenges she faced, Cynthia described her life as \"amazing\" and \"wonderful.\"",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Cynthia Lennon, the first wife of John Lennon"
+      },
+      {
+        "id": 1,
+        "text": "John Lennon"
+      },
+      {
+        "id": 2,
+        "text": "they"
+      },
+      {
+        "id": 3,
+        "text": "married"
+      },
+      {
+        "id": 4,
+        "text": "the Beatles"
+      },
+      {
+        "id": 5,
+        "text": "the age of 75"
+      },
+      {
+        "id": 6,
+        "text": "Spain"
+      },
+      {
+        "id": 7,
+        "text": "1962"
+      },
+      {
+        "id": 8,
+        "text": "Julian"
+      },
+      {
+        "id": 9,
+        "text": "1963"
+      },
+      {
+        "id": 10,
+        "text": "1968"
+      },
+      {
+        "id": 11,
+        "text": "three"
+      },
+      {
+        "id": 12,
+        "text": "two"
+      },
+      {
+        "id": 13,
+        "text": "2006"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "spouse",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "deathPlace",
+        "tail": 6
+      },
+      {
+        "head": 0,
+        "relation": "marriageDate",
+        "tail": 7
+      },
+      {
+        "head": 0,
+        "relation": "child",
+        "tail": 8
+      },
+      {
+        "head": 0,
+        "relation": "divorceDate",
+        "tail": 10
+      },
+      {
+        "head": 0,
+        "relation": "numberOfMarriages",
+        "tail": 11
+      },
+      {
+        "head": 0,
+        "relation": "numberOfBooks",
+        "tail": 12
+      },
+      {
+        "head": 4,
+        "relation": "reunionDate",
+        "tail": 13
+      }
+    ]
+  },
+  {
+    "document_id": 222,
+    "ragtruth_id": "294",
+    "text": "Ten years ago, Ray Gricar, a district attorney in Centre County, Pennsylvania, vanished without a trace. Despite an extensive investigation that has included dives to the bottom of lakes, interviewing a member of the Hell's Angels, and the use of NASA technology, the whereabouts of Gricar remain unknown. Police have considered three possibilities: suicide, foul play or that Gricar deliberately disappeared. His abandoned red Mini Cooper was found near a bridge on the Susquehanna River about 55 miles away from his home, and months later his county-issued laptop and hard drive were found separately on the banks of the same river, too damaged to read. The strongest lead came from a search of his Google history, which found that someone had been searching \"how to fry a hard drive\" and \"water damage to a notebook computer\". Gricar's decision not to charge Jerry Sandusky, the former Penn State defensive coordinator, when the first victim came forward in 1998 has led some to suggest a link between the two cases, although investigators have found no evidence to support this. Other theories suggest that Gricar was an enemy of mob-like gangs in central Pennsylvania who were upset at his drug and corruption prosecutions. Despite the case being handed over to state authorities last year, some of Gricar's friends believe the case is irreparable and have lost faith that there will ever be any answers.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Ray Gricar, a district attorney in Centre County, Pennsylvania,"
+      },
+      {
+        "id": 1,
+        "text": "the Susquehanna River"
+      },
+      {
+        "id": 2,
+        "text": "a link between the two cases"
+      },
+      {
+        "id": 3,
+        "text": "the case"
+      },
+      {
+        "id": 4,
+        "text": "Ten years ago"
+      },
+      {
+        "id": 5,
+        "text": "NASA"
+      },
+      {
+        "id": 6,
+        "text": "three"
+      },
+      {
+        "id": 7,
+        "text": "Mini Cooper"
+      },
+      {
+        "id": 8,
+        "text": "about 55 miles"
+      },
+      {
+        "id": 9,
+        "text": "months later"
+      },
+      {
+        "id": 10,
+        "text": "Google"
+      },
+      {
+        "id": 11,
+        "text": "Jerry Sandusky"
+      },
+      {
+        "id": 12,
+        "text": "Penn State"
+      },
+      {
+        "id": 13,
+        "text": "first"
+      },
+      {
+        "id": 14,
+        "text": "1998"
+      },
+      {
+        "id": 15,
+        "text": "Pennsylvania"
+      },
+      {
+        "id": 16,
+        "text": "last year"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "locatedIn",
+        "tail": 15
+      },
+      {
+        "head": 0,
+        "relation": "usedTechnology",
+        "tail": 5
+      },
+      {
+        "head": 0,
+        "relation": "vehicle",
+        "tail": 7
+      },
+      {
+        "head": 7,
+        "relation": "foundNear",
+        "tail": 1
+      },
+      {
+        "head": 7,
+        "relation": "distanceFromHome",
+        "tail": 8
+      },
+      {
+        "head": 7,
+        "relation": "foundAfter",
+        "tail": 9
+      },
+      {
+        "head": 0,
+        "relation": "usedService",
+        "tail": 10
+      },
+      {
+        "head": 0,
+        "relation": "notCharge",
+        "tail": 11
+      },
+      {
+        "head": 11,
+        "relation": "affiliatedWith",
+        "tail": 12
+      },
+      {
+        "head": 11,
+        "relation": "firstVictimDate",
+        "tail": 14
+      },
+      {
+        "head": 3,
+        "relation": "transferredTo",
+        "tail": 16
+      }
+    ]
+  },
+  {
+    "document_id": 223,
+    "ragtruth_id": "295",
+    "text": "The case of Ray Gricar, a prosecutor from Pennsylvania who went missing 10 years ago, remains unsolved and has become one of the most intriguing missing persons stories in the country. Despite extensive investigations, including dives to the bottom of lakes, fliers dropped over Slovenia, and consultation with a psychic, no trace of Gricar has been found. His red Mini Cooper was discovered abandoned near a bridge 55 miles away from his home, and his laptop and hard drive were later found damaged on the banks of a river. Theories about his disappearance range from suicide to foul play or intentionally walking away. Some believe his disappearance may be connected to his decision not to charge Jerry Sandusky, the former Penn State defensive coordinator who was later convicted of sexually abusing boys. Others suggest that Gricar may have been targeted by criminal gangs due to his prosecutions of drug and corruption cases. The case has been plagued by a lack of evidence and a disorganized investigation, leading some to lose hope of ever finding answers. However, the Pennsylvania State Police continue to investigate and hold out hope for a breakthrough in the case.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Ray Gricar, a prosecutor from Pennsylvania who went missing 10 years ago"
+      },
+      {
+        "id": 1,
+        "text": "his disappearance"
+      },
+      {
+        "id": 2,
+        "text": "The case of Ray Gricar, a prosecutor from Pennsylvania who went missing 10 years ago"
+      },
+      {
+        "id": 3,
+        "text": "Slovenia"
+      },
+      {
+        "id": 4,
+        "text": "Mini Cooper"
+      },
+      {
+        "id": 5,
+        "text": "55 miles"
+      },
+      {
+        "id": 6,
+        "text": "Jerry Sandusky"
+      },
+      {
+        "id": 7,
+        "text": "Penn State"
+      },
+      {
+        "id": 8,
+        "text": "the Pennsylvania State Police"
+      }
+    ],
+    "relations": [
+      {
+        "head": 2,
+        "relation": "about",
+        "tail": 0
+      },
+      {
+        "head": 0,
+        "relation": "missingIn",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "ownedVehicle",
+        "tail": 4
+      },
+      {
+        "head": 4,
+        "relation": "foundDistanceFromHome",
+        "tail": 5
+      },
+      {
+        "head": 1,
+        "relation": "mayBeConnectedTo",
+        "tail": 6
+      },
+      {
+        "head": 6,
+        "relation": "affiliatedWith",
+        "tail": 7
+      },
+      {
+        "head": 2,
+        "relation": "investigatedBy",
+        "tail": 8
+      }
+    ]
+  },
+  {
+    "document_id": 224,
+    "ragtruth_id": "296",
+    "text": "Ten years ago, a district attorney named Ray Gricar vanished without a trace in Pennsylvania. Gricar was 59 years old and had just retired. He left behind his live-in girlfriend and his 26-year-old daughter. Despite extensive searches, Gricar's body has never been found. Over the years, investigators have pursued a number of leads, including online searches for ways to destroy a hard drive and a sighting of a woman who was not his girlfriend. However, these leads have not provided any concrete evidence. Some theories suggest that Gricar committed suicide, fell victim to foul play, or deliberately walked away. In recent years, there has been renewed interest in the case due to its connection to the sexual abuse scandal involving former Penn State football coach Jerry Sandusky. Despite state police taking over the investigation in 2014, some believe that the case is damaged beyond repair and that the evidence has been compromised.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "a district attorney named Ray Gricar"
+      },
+      {
+        "id": 1,
+        "text": "his live-in girlfriend"
+      },
+      {
+        "id": 2,
+        "text": "a number of leads, including online searches for ways to destroy a hard drive and a sighting of a woman who was not his girlfriend"
+      },
+      {
+        "id": 3,
+        "text": "the case"
+      },
+      {
+        "id": 4,
+        "text": "Ten years ago"
+      },
+      {
+        "id": 5,
+        "text": "Pennsylvania"
+      },
+      {
+        "id": 6,
+        "text": "59 years old"
+      },
+      {
+        "id": 7,
+        "text": "26-year-old"
+      },
+      {
+        "id": 8,
+        "text": "the years"
+      },
+      {
+        "id": 9,
+        "text": "recent years"
+      },
+      {
+        "id": 10,
+        "text": "Penn State"
+      },
+      {
+        "id": 11,
+        "text": "Jerry Sandusky"
+      },
+      {
+        "id": 12,
+        "text": "2014"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "vanishedIn",
+        "tail": 5
+      },
+      {
+        "head": 0,
+        "relation": "age",
+        "tail": 6
+      },
+      {
+        "head": 0,
+        "relation": "retired",
+        "tail": 8
+      },
+      {
+        "head": 0,
+        "relation": "hasGirlfriend",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "hasDaughterAge",
+        "tail": 7
+      },
+      {
+        "head": 3,
+        "relation": "connectedTo",
+        "tail": 10
+      },
+      {
+        "head": 3,
+        "relation": "connectedTo",
+        "tail": 11
+      },
+      {
+        "head": 3,
+        "relation": "investigationTakenOverIn",
+        "tail": 12
+      }
+    ]
+  },
+  {
+    "document_id": 225,
+    "ragtruth_id": "297",
+    "text": "Ten years ago, Ray Gricar, a veteran district attorney in Centre County, Pennsylvania, disappeared without a trace. Despite numerous investigations and leads, he has never been found. The case has become one of the most intriguing and talked about missing persons stories in the country. Gricar was 59 when he went missing, leaving behind a live-in girlfriend, a successful daughter, and a bank account meant to fund his retirement. His red Mini Cooper was found abandoned near a bridge on the Susquehanna River, and his county-issued laptop and hard drive were later found damaged on the banks of the river. Investigators have followed over 300 reported sightings across the country, consulted a psychic, and interviewed a member of the Hell's Angels, but no one has been able to find Gricar. Theories about his disappearance include suicide, foul play, or deliberately walking away, but no solid evidence has been found. The case has gained national attention, appearing on true-crime television shows, and has been handled by various law enforcement agencies over the years. Despite efforts to reopen the case, investigators have struggled with disorganization and a lack of evidence, leading some to lose faith that answers will ever be found.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Ray Gricar, a veteran district attorney in Centre County, Pennsylvania"
+      },
+      {
+        "id": 1,
+        "text": "the Susquehanna River"
+      },
+      {
+        "id": 2,
+        "text": "the country"
+      },
+      {
+        "id": 3,
+        "text": "disappeared"
+      },
+      {
+        "id": 4,
+        "text": "The case"
+      },
+      {
+        "id": 5,
+        "text": "Ten years ago"
+      },
+      {
+        "id": 6,
+        "text": "59"
+      },
+      {
+        "id": 7,
+        "text": "Mini Cooper"
+      },
+      {
+        "id": 8,
+        "text": "over 300"
+      },
+      {
+        "id": 9,
+        "text": "the years"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "disappearance",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "age",
+        "tail": 6
+      },
+      {
+        "head": 0,
+        "relation": "vehicle",
+        "tail": 7
+      },
+      {
+        "head": 7,
+        "relation": "foundAbandonedNear",
+        "tail": 1
+      },
+      {
+        "head": 4,
+        "relation": "location",
+        "tail": 2
+      },
+      {
+        "head": 4,
+        "relation": "timeSpan",
+        "tail": 9
+      },
+      {
+        "head": 0,
+        "relation": "sightings",
+        "tail": 8
+      }
+    ]
+  },
+  {
+    "document_id": 226,
+    "ragtruth_id": "298",
+    "text": "Ray Gricar, a district attorney in Pennsylvania, disappeared without a trace 10 years ago. Despite numerous searches and investigations, there is no sign of him. Theories include suicide, foul play, and walk-away, but no concrete evidence supports any of these theories. Gricar's case has been compared to that of missing persons cases, and it has received significant media attention. The investigation has been passed from the local police department to the state police, and officials continue to hold out hope for a resolution. However, some of Gricar's friends and family have lost faith that the case will ever be solved.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Ray Gricar, a district attorney in Pennsylvania"
+      },
+      {
+        "id": 1,
+        "text": "Theories include suicide, foul play, and walk-away"
+      },
+      {
+        "id": 2,
+        "text": "Gricar's case"
+      },
+      {
+        "id": 3,
+        "text": "10 years ago"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "disappeared",
+        "tail": 3
+      }
+    ]
+  },
+  {
+    "document_id": 227,
+    "ragtruth_id": "299",
+    "text": "Ten years ago, Ray Gricar, a district attorney in Centre County, Pennsylvania, went missing while taking a day off from work. Despite numerous searches, dives, and investigations, his disappearance remains a mystery. Theories include suicide, foul play, and a deliberate walk-away, but no conclusive evidence has been found. Gricar's Google search history showed queries about destroying a hard drive and water damage to a laptop, leading some to speculate that he may have been trying to cover something up. His disappearance has also been linked to the Jerry Sandusky child sexual abuse scandal, although there is no concrete evidence to support this connection. The case has been reopened and reexamined multiple times, but no new leads have been found. Many believe that Gricar's body may never be found, and the case may remain unsolved forever.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Ray Gricar, a district attorney in Centre County, Pennsylvania"
+      },
+      {
+        "id": 1,
+        "text": "his disappearance"
+      },
+      {
+        "id": 2,
+        "text": "linked"
+      },
+      {
+        "id": 3,
+        "text": "The case"
+      },
+      {
+        "id": 4,
+        "text": "Ten years ago"
+      },
+      {
+        "id": 5,
+        "text": "Google"
+      },
+      {
+        "id": 6,
+        "text": "Jerry Sandusky"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "linkedTo",
+        "tail": 6
+      }
+    ]
+  },
+  {
+    "document_id": 228,
+    "ragtruth_id": "300",
+    "text": "The Washington University rowing team was attacked by a swarm of Asian carp during practice at Creve Coeur Lake. No injuries were reported, but the fish entered the boat, causing panic among the team.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "a swarm of Asian carp"
+      },
+      {
+        "id": 1,
+        "text": "The Washington University rowing team"
+      },
+      {
+        "id": 2,
+        "text": "Creve Coeur Lake"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "attackedBy",
+        "tail": 0
+      },
+      {
+        "head": 1,
+        "relation": "practiceLocation",
+        "tail": 2
+      }
+    ]
+  },
+  {
+    "document_id": 229,
+    "ragtruth_id": "301",
+    "text": "The Washington University rowing team encountered a swarm of Asian carp while practicing at Creve Coeur Lake. The fish attacked the team's boat, causing panic among the members. No one was hurt, but the smell of fish remained.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "a swarm of Asian carp"
+      },
+      {
+        "id": 1,
+        "text": "The Washington University rowing team"
+      },
+      {
+        "id": 2,
+        "text": "Creve Coeur Lake"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "encountered",
+        "tail": 0
+      },
+      {
+        "head": 0,
+        "relation": "attacked",
+        "tail": 1
+      },
+      {
+        "head": 1,
+        "relation": "practicingAt",
+        "tail": 2
+      }
+    ]
+  }
+]

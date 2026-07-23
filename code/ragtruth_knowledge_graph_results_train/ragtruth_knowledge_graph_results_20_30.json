@@ -1,0 +1,754 @@
+[
+  {
+    "document_id": 20,
+    "ragtruth_id": "20",
+    "text": "There are numerous stories of people surviving alone in the ocean for extended periods. One such story is that of Jose Salvador Alvarenga, a Mexican fisherman who spent over a year adrift in the Pacific Ocean before being rescued. Another story is that of Ron Ingraham, a Hawaiian fisherman who was stranded at sea for 12 days before being rescued. These stories highlight the incredible human spirit and the determination to survive against all odds. They also serve as a reminder of the dangers and unpredictability of life at sea.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "These stories"
+      },
+      {
+        "id": 1,
+        "text": "One"
+      },
+      {
+        "id": 2,
+        "text": "Jose Salvador Alvarenga"
+      },
+      {
+        "id": 3,
+        "text": "Mexican"
+      },
+      {
+        "id": 4,
+        "text": "the Pacific Ocean"
+      },
+      {
+        "id": 5,
+        "text": "Ron Ingraham"
+      },
+      {
+        "id": 6,
+        "text": "Hawaiian"
+      },
+      {
+        "id": 7,
+        "text": "12 days"
+      }
+    ],
+    "relations": [
+      {
+        "head": 2,
+        "relation": "nationality",
+        "tail": 3
+      },
+      {
+        "head": 2,
+        "relation": "spentTimeIn",
+        "tail": 4
+      },
+      {
+        "head": 5,
+        "relation": "nationality",
+        "tail": 6
+      },
+      {
+        "head": 5,
+        "relation": "durationStranded",
+        "tail": 7
+      }
+    ]
+  },
+  {
+    "document_id": 21,
+    "ragtruth_id": "21",
+    "text": "There have been several instances of individuals surviving at sea for extended periods of time, often with limited resources and without the aid of technology. These stories are often referred to as \"miracles\" and are testaments to the resilience and determination of the human spirit. Here are a few recent examples:\n\n* Louis Jordan, a 35-year-old sailor from South Carolina, was stranded at sea for five days after his boat capsized during a voyage in the Gulf Stream. He survived by rationing water, trapping and scooping up fish with his laundry, and rigging a makeshift mast and sail. He was eventually spotted by crew members on a German-flagged container ship and reunited with his father.\n* Jose Salvador Alvarenga, a Mexican fisherman, was lost at sea for over a year after his boat drifted off course during a trip from Mexico's Pacific coast. He survived by drinking rainwater and eating raw birds, as well as using his fishing net to catch sea turtles. He was found on a remote atoll in the Marshall Islands by a passing boat and told CNN that his faith in God helped him survive.\n* Ron Ingraham, a 67-year-old fisherman from Hawaii, was stranded at sea for 12 days after his boat was damaged in bad weather. He used a rope to pull himself back on board after a huge wave struck his vessel, but was unable to contact authorities. He was eventually picked up by a Coast Guard vessel and returned to shore weak, hungry, and dehydrated.\n* Adrian Vasquez, an 18-year-old Panamanian boy, was stranded at sea for 26 days after his boat's engine died during a fishing trip. He survived by eating raw fish and drinking rainwater, and was eventually spotted by fishermen north of the Galapagos Islands.\n* Hiromitsu Shinkawa, a 60-year-old man from Japan, survived for two days after a tsunami swept him away from his home during a massive earthquake in 2011. He was found floating in the ocean, barely visible among the debris, and was rescued by crew members on",
+    "entities": [
+      {
+        "id": 0,
+        "text": "several instances of individuals surviving at sea for extended periods of time, often with limited resources and without the aid of technology"
+      },
+      {
+        "id": 1,
+        "text": "Louis Jordan, a 35-year-old sailor from South Carolina"
+      },
+      {
+        "id": 2,
+        "text": "Jose Salvador Alvarenga, a Mexican fisherman"
+      },
+      {
+        "id": 3,
+        "text": "Ron Ingraham, a 67-year-old fisherman from Hawaii"
+      },
+      {
+        "id": 4,
+        "text": "his boat"
+      },
+      {
+        "id": 5,
+        "text": "Adrian Vasquez, an 18-year-old Panamanian boy"
+      },
+      {
+        "id": 6,
+        "text": "Hiromitsu Shinkawa, a 60-year-old man from Japan,"
+      },
+      {
+        "id": 7,
+        "text": "five days"
+      },
+      {
+        "id": 8,
+        "text": "the Gulf Stream"
+      },
+      {
+        "id": 9,
+        "text": "German"
+      },
+      {
+        "id": 10,
+        "text": "Mexico"
+      },
+      {
+        "id": 11,
+        "text": "Pacific coast"
+      },
+      {
+        "id": 12,
+        "text": "the Marshall Islands"
+      },
+      {
+        "id": 13,
+        "text": "CNN"
+      },
+      {
+        "id": 14,
+        "text": "12 days"
+      },
+      {
+        "id": 15,
+        "text": "Coast Guard"
+      },
+      {
+        "id": 16,
+        "text": "26 days"
+      },
+      {
+        "id": 17,
+        "text": "the Galapagos Islands"
+      },
+      {
+        "id": 18,
+        "text": "two days"
+      },
+      {
+        "id": 19,
+        "text": "2011"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "durationStrandedAtSea",
+        "tail": 7
+      },
+      {
+        "head": 1,
+        "relation": "locatedIn",
+        "tail": 8
+      },
+      {
+        "head": 2,
+        "relation": "durationLostAtSea",
+        "tail": 7
+      },
+      {
+        "head": 2,
+        "relation": "locatedIn",
+        "tail": 11
+      },
+      {
+        "head": 2,
+        "relation": "locatedIn",
+        "tail": 12
+      },
+      {
+        "head": 3,
+        "relation": "durationStrandedAtSea",
+        "tail": 14
+      },
+      {
+        "head": 5,
+        "relation": "durationStrandedAtSea",
+        "tail": 16
+      },
+      {
+        "head": 5,
+        "relation": "locatedNorthOf",
+        "tail": 17
+      },
+      {
+        "head": 6,
+        "relation": "durationSurvived",
+        "tail": 18
+      },
+      {
+        "head": 6,
+        "relation": "year",
+        "tail": 19
+      }
+    ]
+  },
+  {
+    "document_id": 22,
+    "ragtruth_id": "22",
+    "text": "There have been several instances of individuals surviving being stranded at sea for extended periods of time, some for weeks or even months. These survivors have relied on ingenuity, resourcefulness, and luck to stay alive, often facing extreme challenges such as hunger, thirst, and exposure to the elements. Examples include Louis Jordan, who was rescued after his sailboat capsized and he was adrift for 20 days, and Jose Salvador Alvarenga, who survived a 13-month ordeal at sea after his fishing boat was blown off course. Another survivor, Ron Ingraham, was rescued after 12 days at sea after his sailboat was damaged in a storm, and an 18-year-old boy named Adrian Vasquez survived 26 days adrift in the Pacific Ocean after his fishing boat's engine died. These stories highlight the human spirit and the will to survive, even in the face of incredible adversity.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "individuals"
+      },
+      {
+        "id": 1,
+        "text": "Louis Jordan, who was rescued after his sailboat capsized and he was adrift for 20 days"
+      },
+      {
+        "id": 2,
+        "text": "Jose Salvador Alvarenga, who survived a 13-month ordeal at sea after his fishing boat was blown off course"
+      },
+      {
+        "id": 3,
+        "text": "Another survivor, Ron Ingraham"
+      },
+      {
+        "id": 4,
+        "text": "an 18-year-old boy named Adrian Vasquez"
+      },
+      {
+        "id": 5,
+        "text": "weeks"
+      },
+      {
+        "id": 6,
+        "text": "months"
+      },
+      {
+        "id": 7,
+        "text": "12 days"
+      },
+      {
+        "id": 8,
+        "text": "26 days"
+      },
+      {
+        "id": 9,
+        "text": "the Pacific Ocean"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "durationAdrift",
+        "tail": 7
+      },
+      {
+        "head": 2,
+        "relation": "durationAtSea",
+        "tail": 6
+      },
+      {
+        "head": 3,
+        "relation": "durationAtSea",
+        "tail": 7
+      },
+      {
+        "head": 4,
+        "relation": "durationAdrift",
+        "tail": 8
+      },
+      {
+        "head": 4,
+        "relation": "location",
+        "tail": 9
+      }
+    ]
+  },
+  {
+    "document_id": 23,
+    "ragtruth_id": "23",
+    "text": "There have been several instances of people surviving for extended periods of time at sea, often against incredible odds. In one case, a man named Louis Jordan was sailing alone when his boat capsized and he was left stranded in the middle of the ocean. He managed to survive for 66 days by using a makeshift mast and sail to catch fish and collect rainwater. Another man, Jose Salvador Alvarenga, was stranded at sea for 438 days after his fishing boat was blown off course and he was unable to communicate with anyone. He survived by eating raw birds, drinking rainwater, and eventually making his way to a remote island. Similarly, Ron Ingraham was stranded at sea for 12 days during a fishing trip, and Adrian Vasquez survived for 26 days at sea after his boat's engine died and he was left drifting in the Pacific Ocean. Finally, Hiromitsu Shinkawa was able to survive a tsunami that hit Japan in 2011 by clinging to the roof of his home and was eventually rescued after being spotted waving a red flag while floating on a pile of debris. These incredible stories of survival against the odds are a testament to the human spirit and the will to live in the face of adversity.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "a man named Louis Jordan"
+      },
+      {
+        "id": 1,
+        "text": "Another man, Jose Salvador Alvarenga"
+      },
+      {
+        "id": 2,
+        "text": "Adrian Vasquez"
+      },
+      {
+        "id": 3,
+        "text": "Hiromitsu Shinkawa"
+      },
+      {
+        "id": 4,
+        "text": "one"
+      },
+      {
+        "id": 5,
+        "text": "66 days"
+      },
+      {
+        "id": 6,
+        "text": "438 days"
+      },
+      {
+        "id": 7,
+        "text": "Ron Ingraham"
+      },
+      {
+        "id": 8,
+        "text": "12 days"
+      },
+      {
+        "id": 9,
+        "text": "26 days"
+      },
+      {
+        "id": 10,
+        "text": "the Pacific Ocean"
+      },
+      {
+        "id": 11,
+        "text": "Japan"
+      },
+      {
+        "id": 12,
+        "text": "2011"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "survivedDuration",
+        "tail": 5
+      },
+      {
+        "head": 1,
+        "relation": "survivedDuration",
+        "tail": 6
+      },
+      {
+        "head": 7,
+        "relation": "survivedDuration",
+        "tail": 8
+      },
+      {
+        "head": 2,
+        "relation": "survivedDuration",
+        "tail": 9
+      },
+      {
+        "head": 2,
+        "relation": "locatedIn",
+        "tail": 10
+      },
+      {
+        "head": 3,
+        "relation": "locatedIn",
+        "tail": 11
+      },
+      {
+        "head": 3,
+        "relation": "eventDate",
+        "tail": 12
+      }
+    ]
+  },
+  {
+    "document_id": 24,
+    "ragtruth_id": "30",
+    "text": "Police in Malegaon, India, have asked residents to photograph their cattle and provide their unique features, such as age and length of tail, to enforce a recent state-wide ban on the sale and consumption of beef. Over 100 owners have complied so far, with more lining up at police stations. \"We are creating a database,\" said Mahesh Sawai, Deputy Superintendent of Malegaon Police. \"If we get an information of a cow slaughter, we can quickly go to the resident's place and check whether it is there or not\". This ruling followed a recent case of cow slaughter in Malegaon.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "residents"
+      },
+      {
+        "id": 1,
+        "text": "their cattle"
+      },
+      {
+        "id": 2,
+        "text": "We"
+      },
+      {
+        "id": 3,
+        "text": "a cow slaughter"
+      },
+      {
+        "id": 4,
+        "text": "Malegaon, India"
+      },
+      {
+        "id": 5,
+        "text": "Over 100"
+      },
+      {
+        "id": 6,
+        "text": "Mahesh Sawai"
+      },
+      {
+        "id": 7,
+        "text": "Superintendent of Malegaon Police"
+      }
+    ],
+    "relations": [
+      {
+        "head": 7,
+        "relation": "deputy",
+        "tail": 6
+      },
+      {
+        "head": 7,
+        "relation": "organization",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "owns",
+        "tail": 1
+      }
+    ]
+  },
+  {
+    "document_id": 25,
+    "ragtruth_id": "31",
+    "text": "Police in the Indian city of Malegaon, Maharashtra, are requiring residents to submit 'mugshot' photos of their cattle and provide information about their unique features, following a state-wide ban on beef. The database is aimed at solving cow slaughter cases and enforcing the law. Over 100 owners have complied with the order so far. The ban includes the killing of bulls and bullocks, with a five-year prison sentence for the consumption or sale of beef. Beef traders protested the decision with a month-long strike, and now plan to file a case in the state's high court. Other Indian states are also tightening laws on cow slaughter.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "residents"
+      },
+      {
+        "id": 1,
+        "text": "their cattle"
+      },
+      {
+        "id": 2,
+        "text": "a state-wide ban on beef"
+      },
+      {
+        "id": 3,
+        "text": "Maharashtra"
+      },
+      {
+        "id": 4,
+        "text": "Indian"
+      },
+      {
+        "id": 5,
+        "text": "Malegaon"
+      },
+      {
+        "id": 6,
+        "text": "Over 100"
+      },
+      {
+        "id": 7,
+        "text": "five-year"
+      },
+      {
+        "id": 8,
+        "text": "Indian"
+      }
+    ],
+    "relations": [
+      {
+        "head": 2,
+        "relation": "appliesIn",
+        "tail": 3
+      },
+      {
+        "head": 2,
+        "relation": "requires",
+        "tail": 0
+      },
+      {
+        "head": 0,
+        "relation": "submitPhotosOf",
+        "tail": 1
+      }
+    ]
+  },
+  {
+    "document_id": 26,
+    "ragtruth_id": "32",
+    "text": "Police in the Indian city of Malegaon are requiring identity cards for cows due to a state-wide ban on the sale and consumption of beef. Residents must provide a mugshot and information about their cow's unique features. The ruling came in the wake of a recent case of cow slaughter and has been praised by some as an effective way to enforce the law. However, beef traders and red meat lovers are not happy with the decision and have filed a case in the state's high court. Other Indian states have also tightened their laws on cow slaughter, with Haryana implementing a maximum punishment of 10 years in prison.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Residents"
+      },
+      {
+        "id": 1,
+        "text": "a state-wide ban on the sale and consumption of beef"
+      },
+      {
+        "id": 2,
+        "text": "The ruling"
+      },
+      {
+        "id": 3,
+        "text": "Other Indian states"
+      },
+      {
+        "id": 4,
+        "text": "Indian"
+      },
+      {
+        "id": 5,
+        "text": "Malegaon"
+      },
+      {
+        "id": 6,
+        "text": "Haryana"
+      },
+      {
+        "id": 7,
+        "text": "10 years"
+      }
+    ],
+    "relations": [
+      {
+        "head": 2,
+        "relation": "refersTo",
+        "tail": 1
+      },
+      {
+        "head": 6,
+        "relation": "locatedIn",
+        "tail": 3
+      },
+      {
+        "head": 6,
+        "relation": "maximumPunishment",
+        "tail": 7
+      }
+    ]
+  },
+  {
+    "document_id": 27,
+    "ragtruth_id": "33",
+    "text": "In the Indian city of Malegaon, police are requiring residents to provide identification cards for their cattle in response to a state-wide ban on beef consumption. Residents must provide photographs of their animals and detailed information about their unique features. The police believe this will help them solve cow slaughter cases and enforce the law. Over 100 owners have complied with the order so far, and more are lining up to have their livestock photographed. The move has sparked controversy, with some calling it an invasion of privacy and others arguing that it is necessary to protect cows, which are considered holy in the majority Hindu population.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "residents"
+      },
+      {
+        "id": 1,
+        "text": "Residents"
+      },
+      {
+        "id": 2,
+        "text": "their animals"
+      },
+      {
+        "id": 3,
+        "text": "police"
+      },
+      {
+        "id": 4,
+        "text": "provide"
+      },
+      {
+        "id": 5,
+        "text": "a state-wide ban on beef consumption"
+      },
+      {
+        "id": 6,
+        "text": "more"
+      },
+      {
+        "id": 7,
+        "text": "requiring"
+      },
+      {
+        "id": 8,
+        "text": "Indian"
+      },
+      {
+        "id": 9,
+        "text": "Malegaon"
+      },
+      {
+        "id": 10,
+        "text": "Over 100"
+      },
+      {
+        "id": 11,
+        "text": "Hindu"
+      }
+    ],
+    "relations": [
+      {
+        "head": 3,
+        "relation": "locatedIn",
+        "tail": 9
+      },
+      {
+        "head": 5,
+        "relation": "appliesTo",
+        "tail": 8
+      },
+      {
+        "head": 0,
+        "relation": "requiredToProvide",
+        "tail": 2
+      },
+      {
+        "head": 1,
+        "relation": "requiredToProvide",
+        "tail": 2
+      },
+      {
+        "head": 10,
+        "relation": "count",
+        "tail": 1
+      }
+    ]
+  },
+  {
+    "document_id": 28,
+    "ragtruth_id": "34",
+    "text": "In Malegaon, India, police require identity cards for cattle after a state-wide ban on beef sales and consumption. Owners must provide photos and details of their cows, and the database aims to help solve cow slaughter cases. Over 100 owners have complied, but beef traders have responded with a month-long strike and plan to challenge the decision in court. The move is part of a broader effort to tighten cow slaughter laws in India, with Haryana implementing the toughest penalties and the home minister promising a country-wide law.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Owners"
+      },
+      {
+        "id": 1,
+        "text": "a state-wide ban on beef sales and consumption"
+      },
+      {
+        "id": 2,
+        "text": "a month-long strike"
+      },
+      {
+        "id": 3,
+        "text": "India"
+      },
+      {
+        "id": 4,
+        "text": "Malegaon"
+      },
+      {
+        "id": 5,
+        "text": "Over 100"
+      },
+      {
+        "id": 6,
+        "text": "Haryana"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "location",
+        "tail": 4
+      },
+      {
+        "head": 1,
+        "relation": "location",
+        "tail": 3
+      },
+      {
+        "head": 2,
+        "relation": "location",
+        "tail": 3
+      },
+      {
+        "head": 2,
+        "relation": "partOf",
+        "tail": 1
+      },
+      {
+        "head": 6,
+        "relation": "location",
+        "tail": 3
+      }
+    ]
+  },
+  {
+    "document_id": 29,
+    "ragtruth_id": "35",
+    "text": "In Malegaon, India, police are requiring cattle owners to provide mugshots and descriptions of their animals to create a database to help enforce a new ban on beef sales and consumption. Over 100 owners have complied so far. The move comes after a recent cow slaughter case and is part of a larger effort to protect cows, which are considered holy in the majority Hindu population. Beef traders have reacted strongly, calling a month-long strike, and some have vowed to challenge the law in court.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "cattle owners"
+      },
+      {
+        "id": 1,
+        "text": "requiring"
+      },
+      {
+        "id": 2,
+        "text": "a new ban on beef sales and consumption"
+      },
+      {
+        "id": 3,
+        "text": "Malegaon"
+      },
+      {
+        "id": 4,
+        "text": "India"
+      },
+      {
+        "id": 5,
+        "text": "Over 100"
+      },
+      {
+        "id": 6,
+        "text": "Hindu"
+      },
+      {
+        "id": 7,
+        "text": "month"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "location",
+        "tail": 3
+      },
+      {
+        "head": 3,
+        "relation": "locatedIn",
+        "tail": 4
+      },
+      {
+        "head": 1,
+        "relation": "requires",
+        "tail": 0
+      },
+      {
+        "head": 1,
+        "relation": "purpose",
+        "tail": 2
+      },
+      {
+        "head": 2,
+        "relation": "duration",
+        "tail": 7
+      }
+    ]
+  }
+]

@@ -1,0 +1,640 @@
+[
+  {
+    "document_id": 280,
+    "ragtruth_id": "376",
+    "text": "Rolling Stone magazine faced intense criticism for its discredited story on a rape at the University of Virginia, with a jury of media peers concluding that the publication committed journalistic malpractice. The story, which was widely read and shared, alleged that a student named Jackie was gang-raped at a fraternity party in 2012. However, the story was found to be full of holes and errors, with the journalist failing to verify key details and fact-check the claims. The Columbia University Graduate School of Journalism conducted an investigation and found that the reporter and editors failed to follow basic journalistic practices, such as verifying the identity of the attacker and giving the fraternity a fair chance to respond. Despite the criticism, Rolling Stone has not fired or disciplined anyone involved in the story, prompting outrage from other journalists and media critics. The incident highlights the dangers of rushing to publish sensational stories without proper fact-checking and verification, and the importance of holding journalists and publications accountable for their mistakes.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Rolling Stone magazine"
+      },
+      {
+        "id": 1,
+        "text": "its discredited story on a rape at the University of Virginia"
+      },
+      {
+        "id": 2,
+        "text": "a rape at the University of Virginia"
+      },
+      {
+        "id": 3,
+        "text": "alleged"
+      },
+      {
+        "id": 4,
+        "text": "a fraternity party"
+      },
+      {
+        "id": 5,
+        "text": "intense criticism"
+      },
+      {
+        "id": 6,
+        "text": "journalists and publications"
+      },
+      {
+        "id": 7,
+        "text": "Jackie"
+      },
+      {
+        "id": 8,
+        "text": "2012"
+      },
+      {
+        "id": 9,
+        "text": "The Columbia University Graduate School of Journalism"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "about",
+        "tail": 2
+      },
+      {
+        "head": 1,
+        "relation": "alleged",
+        "tail": 3
+      },
+      {
+        "head": 1,
+        "relation": "occurredAt",
+        "tail": 4
+      },
+      {
+        "head": 1,
+        "relation": "date",
+        "tail": 8
+      },
+      {
+        "head": 0,
+        "relation": "criticizedFor",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "criticizedFor",
+        "tail": 5
+      },
+      {
+        "head": 9,
+        "relation": "investigated",
+        "tail": 1
+      }
+    ]
+  },
+  {
+    "document_id": 281,
+    "ragtruth_id": "377",
+    "text": "A jury of Rolling Stone's media peers has concluded that the magazine's discredited story about rape on the University of Virginia campus amounts to journalistic malpractice. The magazine's lapses and sloppy blunders are regrettable but understandable, but its decision not to fire or reorganize its newsroom is not. The story, which was based on a single source and lacked proper fact-checking, sparked protests and a national debate about sexual violence on college campuses. The Columbia University Graduate School of Journalism's review revealed startling lapses in basic journalistic practice, including failing to verify the identity of the attacker or give the fraternity a fair chance to respond. Despite criticism from seasoned journalists, Rolling Stone has decided not to fire or discipline anyone involved in the story. The magazine's editors seem unprepared to revamp their operation to prevent similar mistakes in the future, with the managing editor saying they don't need to overhaul their process or institute new ways of doing things. Experts argue that this smug attitude will lead to another mistake in the future.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Rolling Stone's"
+      },
+      {
+        "id": 1,
+        "text": "the magazine's discredited story about rape on the University of Virginia campus"
+      },
+      {
+        "id": 2,
+        "text": "The magazine's editors"
+      },
+      {
+        "id": 3,
+        "text": "The Columbia University Graduate School of Journalism's"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "publisher",
+        "tail": 0
+      },
+      {
+        "head": 1,
+        "relation": "reviewedBy",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "hasEditors",
+        "tail": 2
+      }
+    ]
+  },
+  {
+    "document_id": 282,
+    "ragtruth_id": "378",
+    "text": "Mario Valencia, a 36-year-old man who went on a crime spree in Arizona, was hospitalised after a police car deliberately hit him. Valencia had stolen a gun and ammunition from a Walmart store in Marana, after threatening a store clerk. Despite a cable lock on the gun, Valencia fired a shot into the air before being stopped by the police. Valencia was later charged with 15 offences, including shoplifting the rifle. The police tactic of using a car to stop Valencia has sparked a nationwide discussion. Valencia, who is now in jail, will appear in court again on 18 May.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Mario Valencia, a 36-year-old man who went on a crime spree in Arizona"
+      },
+      {
+        "id": 1,
+        "text": "a gun"
+      },
+      {
+        "id": 2,
+        "text": "Walmart"
+      },
+      {
+        "id": 3,
+        "text": "Marana"
+      },
+      {
+        "id": 4,
+        "text": "15"
+      },
+      {
+        "id": 5,
+        "text": "18 May"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "stole",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "stoleFrom",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "locatedIn",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "chargedWith",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "courtDate",
+        "tail": 5
+      }
+    ]
+  },
+  {
+    "document_id": 283,
+    "ragtruth_id": "379",
+    "text": "In Marana, Arizona, a man named Mario Valencia stole a gun and ammunition from a Walmart. Initially, police believed the gun was locked and unable to fire. However, just 10 seconds later, Valencia fired a shot into the air. Shortly after, he was hit by a police car, ending his crime spree. Valencia faces 15 charges, including shoplifting the rifle. Prior to the Walmart incident, Valencia committed several crimes in Tucson and stole a car. The Walmart clerk acted appropriately and alerted security to call the police. The recovered gun had a cable lock, but the trigger and lever were loose enough to still be used. Valencia is currently in jail and will appear in court on May 18.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "a gun"
+      },
+      {
+        "id": 1,
+        "text": "a man named Mario Valencia"
+      },
+      {
+        "id": 2,
+        "text": "Marana"
+      },
+      {
+        "id": 3,
+        "text": "Arizona"
+      },
+      {
+        "id": 4,
+        "text": "Walmart"
+      },
+      {
+        "id": 5,
+        "text": "just 10 seconds later"
+      },
+      {
+        "id": 6,
+        "text": "15"
+      },
+      {
+        "id": 7,
+        "text": "Walmart"
+      },
+      {
+        "id": 8,
+        "text": "Tucson"
+      },
+      {
+        "id": 9,
+        "text": "Walmart"
+      },
+      {
+        "id": 10,
+        "text": "May 18"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "locatedIn",
+        "tail": 2
+      },
+      {
+        "head": 2,
+        "relation": "locatedIn",
+        "tail": 3
+      },
+      {
+        "head": 1,
+        "relation": "stole",
+        "tail": 0
+      },
+      {
+        "head": 1,
+        "relation": "stoleFrom",
+        "tail": 4
+      },
+      {
+        "head": 1,
+        "relation": "stoleFrom",
+        "tail": 7
+      },
+      {
+        "head": 1,
+        "relation": "stoleFrom",
+        "tail": 9
+      },
+      {
+        "head": 1,
+        "relation": "chargedWith",
+        "tail": 6
+      },
+      {
+        "head": 1,
+        "relation": "chargedWith",
+        "tail": 0
+      },
+      {
+        "head": 1,
+        "relation": "committedCrimeIn",
+        "tail": 8
+      },
+      {
+        "head": 1,
+        "relation": "courtDate",
+        "tail": 10
+      }
+    ]
+  },
+  {
+    "document_id": 284,
+    "ragtruth_id": "380",
+    "text": "Police in Marana, Arizona, are discussing a controversial incident involving a shoplifter who stole a loaded rifle from Walmart. When the suspect, Mario Valencia, was stopped by police, he fired into the air, prompting a police car to crash into him. Valencia has been charged with 15 counts, including shoplifting, and is currently in jail. The rifle he stole had been properly locked and might have been affected by the hard blow caused by the police car. The incident has sparked nationwide discussion about the actions of the police officer who drove into Valencia.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "a shoplifter who stole a loaded rifle from Walmart"
+      },
+      {
+        "id": 1,
+        "text": "a loaded rifle"
+      },
+      {
+        "id": 2,
+        "text": "a police car"
+      },
+      {
+        "id": 3,
+        "text": "a controversial incident involving a shoplifter who stole a loaded rifle from Walmart"
+      },
+      {
+        "id": 4,
+        "text": "Marana"
+      },
+      {
+        "id": 5,
+        "text": "Arizona"
+      },
+      {
+        "id": 6,
+        "text": "15"
+      }
+    ],
+    "relations": [
+      {
+        "head": 3,
+        "relation": "location",
+        "tail": 4
+      },
+      {
+        "head": 4,
+        "relation": "locatedIn",
+        "tail": 5
+      },
+      {
+        "head": 3,
+        "relation": "involves",
+        "tail": 0
+      },
+      {
+        "head": 0,
+        "relation": "stole",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "chargedWith",
+        "tail": 6
+      }
+    ]
+  },
+  {
+    "document_id": 285,
+    "ragtruth_id": "381",
+    "text": "On February 22nd, Mario Valencia entered a Walmart in Marana, Arizona, and stole a .30-30 rifle and ammunition. After committing several crimes in Tucson, he drove to the Walmart and approached an employee in the sporting goods department. Despite being warned not to do anything stupid, the employee gave Valencia the ammunition. As he fled the scene, an officer encountered Valencia and tried to subdue him. However, Valencia pointed the gun at both the officer and himself. Fortunately, the officer was able to use a tactic to stop Valencia without harming him. Valencia has been charged with multiple crimes and is currently in jail awaiting trial.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Mario Valencia"
+      },
+      {
+        "id": 1,
+        "text": "a Walmart in Marana, Arizona"
+      },
+      {
+        "id": 2,
+        "text": "an employee in the sporting goods department"
+      },
+      {
+        "id": 3,
+        "text": "a .30-30 rifle and ammunition"
+      },
+      {
+        "id": 4,
+        "text": "a .30-30 rifle"
+      },
+      {
+        "id": 5,
+        "text": "an officer"
+      },
+      {
+        "id": 6,
+        "text": "February 22nd"
+      },
+      {
+        "id": 7,
+        "text": "Tucson"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "stole",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "stole",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "date",
+        "tail": 6
+      },
+      {
+        "head": 0,
+        "relation": "location",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "location",
+        "tail": 7
+      },
+      {
+        "head": 0,
+        "relation": "pointedAt",
+        "tail": 5
+      },
+      {
+        "head": 0,
+        "relation": "pointedAt",
+        "tail": 0
+      }
+    ]
+  },
+  {
+    "document_id": 286,
+    "ragtruth_id": "382",
+    "text": "A man shoplifted a gun from a Walmart in Arizona and was pursued by police. Despite the gun being locked and unable to fire, the man fired a shot into the air while being pursued, prompting a police car to ram into him. The man was hospitalized and charged with 15 counts, including shoplifting the gun. The police chief defended the officer's actions, saying they were justified.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "a gun"
+      },
+      {
+        "id": 1,
+        "text": "A man"
+      },
+      {
+        "id": 2,
+        "text": "the officer's actions"
+      },
+      {
+        "id": 3,
+        "text": "Walmart"
+      },
+      {
+        "id": 4,
+        "text": "Arizona"
+      },
+      {
+        "id": 5,
+        "text": "15"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "shopliftedFrom",
+        "tail": 3
+      },
+      {
+        "head": 1,
+        "relation": "locatedIn",
+        "tail": 4
+      },
+      {
+        "head": 1,
+        "relation": "chargedWith",
+        "tail": 5
+      }
+    ]
+  },
+  {
+    "document_id": 287,
+    "ragtruth_id": "383",
+    "text": "Mario Valencia, 36, was arrested in Marana, Arizona, after a police officer deliberately struck him with a patrol car while he was holding a shoplifted gun. Valencia had fired the gun into the air before the officer hit him. He faces 15 charges, including shoplifting the rifle from a Walmart. The store clerk had given him the gun and ammunition, believing he would break the case open with the bullets inside. Police say the officer's actions were justified, and Walmart has stated that their clerk acted appropriately. Valencia remains in jail and will appear in court on May 18.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Mario Valencia, 36"
+      },
+      {
+        "id": 1,
+        "text": "a shoplifted gun"
+      },
+      {
+        "id": 2,
+        "text": "a police officer"
+      },
+      {
+        "id": 3,
+        "text": "a Walmart"
+      },
+      {
+        "id": 4,
+        "text": "The store clerk"
+      },
+      {
+        "id": 5,
+        "text": "Marana"
+      },
+      {
+        "id": 6,
+        "text": "Arizona"
+      },
+      {
+        "id": 7,
+        "text": "15"
+      },
+      {
+        "id": 8,
+        "text": "May 18"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "arrestedIn",
+        "tail": 5
+      },
+      {
+        "head": 5,
+        "relation": "locatedIn",
+        "tail": 6
+      },
+      {
+        "head": 0,
+        "relation": "heldGun",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "fired",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "chargedWith",
+        "tail": 7
+      },
+      {
+        "head": 0,
+        "relation": "shopliftedFrom",
+        "tail": 3
+      },
+      {
+        "head": 4,
+        "relation": "worksFor",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "willAppearOn",
+        "tail": 8
+      }
+    ]
+  },
+  {
+    "document_id": 288,
+    "ragtruth_id": "384",
+    "text": "A man named Jason Warnock has been hailed a hero after he rescued a driver whose SUV was dangling over the edge of a cliff in Lewiston, Idaho. After noticing the perilous situation, Warnock climbed up the cliff and managed to extract the driver, 23-year-old Matthew Sitko, from the vehicle just before it fell. Warnock left the scene before he could be identified, but his identity was later revealed when a photo of the rescue went viral. Despite the praise, Warnock insists he doesn't deserve any credit and would rather be fishing in the mountains than reading about himself.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "A man named Jason Warnock"
+      },
+      {
+        "id": 1,
+        "text": "a cliff in Lewiston, Idaho"
+      },
+      {
+        "id": 2,
+        "text": "the vehicle"
+      },
+      {
+        "id": 3,
+        "text": "rescued"
+      },
+      {
+        "id": 4,
+        "text": "23-year-old"
+      },
+      {
+        "id": 5,
+        "text": "Matthew Sitko"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "rescued",
+        "tail": 5
+      },
+      {
+        "head": 2,
+        "relation": "danglingOverEdgeOf",
+        "tail": 1
+      }
+    ]
+  },
+  {
+    "document_id": 289,
+    "ragtruth_id": "385",
+    "text": "A man named Jason Warnock saved a driver from a potentially fatal accident in Lewiston, Idaho. Warnock noticed a fallen tree in the roadway and saw an SUV hanging over the edge of a cliff. He quickly climbed up the hill, broke the window with a tool, and pulled the driver, Matthew Sitko, to safety. Warnock then left the scene before anyone could identify him. A photo of the rescue went viral, revealing his identity. Despite the attention, Warnock remains humble and prefers to go fishing in the mountains rather than be in the spotlight.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "A man named Jason Warnock"
+      },
+      {
+        "id": 1,
+        "text": "a driver"
+      },
+      {
+        "id": 2,
+        "text": "saved"
+      },
+      {
+        "id": 3,
+        "text": "Lewiston"
+      },
+      {
+        "id": 4,
+        "text": "Idaho"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "saved",
+        "tail": 1
+      },
+      {
+        "head": 3,
+        "relation": "locatedIn",
+        "tail": 4
+      }
+    ]
+  }
+]

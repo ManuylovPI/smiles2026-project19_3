@@ -1,0 +1,747 @@
+[
+  {
+    "document_id": 30,
+    "ragtruth_id": "36",
+    "text": "Kevone Charleston, the suspect in 32 commercial robberies dating back to November 2013, was shot and arrested by the FBI in Forsyth County, Georgia. The FBI had been following Charleston when he pulled into a CVS pharmacy. Charleston attempted to flee when confronted by agents, ramming several FBI vehicles in the process. He was stopped and shot approximately 75 yards from the pharmacy; his injuries are not life-threatening. Two FBI agents were injured in the pursuit and subsequent crash, but have since been released from the hospital. The FBI had already identified Charleston as a priority for its violent crimes and major offender squad.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "the FBI"
+      },
+      {
+        "id": 1,
+        "text": "Kevone Charleston, the suspect in 32 commercial robberies dating back to November 2013"
+      },
+      {
+        "id": 2,
+        "text": "a CVS pharmacy"
+      },
+      {
+        "id": 3,
+        "text": "Forsyth County"
+      },
+      {
+        "id": 4,
+        "text": "Georgia"
+      },
+      {
+        "id": 5,
+        "text": "approximately 75 yards"
+      },
+      {
+        "id": 6,
+        "text": "Two"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "arrestedBy",
+        "tail": 0
+      },
+      {
+        "head": 1,
+        "relation": "shotBy",
+        "tail": 0
+      },
+      {
+        "head": 1,
+        "relation": "followedBy",
+        "tail": 0
+      },
+      {
+        "head": 1,
+        "relation": "pulledInto",
+        "tail": 2
+      },
+      {
+        "head": 1,
+        "relation": "shotDistance",
+        "tail": 5
+      },
+      {
+        "head": 1,
+        "relation": "identifiedAsPriorityFor",
+        "tail": 0
+      },
+      {
+        "head": 3,
+        "relation": "locatedIn",
+        "tail": 4
+      }
+    ]
+  },
+  {
+    "document_id": 31,
+    "ragtruth_id": "37",
+    "text": "In a dramatic scene resembling a cop show, an armed robbery suspect was shot and captured by the FBI in Georgia. The suspect, 36-year-old Kevone Charleston, was being followed by agents and task force officers when he pulled into a CVS pharmacy. Charleston, who is suspected of involvement in 32 commercial robberies since 2013, parked his car nearby and pretended to have car trouble before heading towards the store. When confronted by agents, he ran and got into his car, leading to a chase. During the pursuit, several FBI vehicles were rammed or hit by Charleston's car, resulting in injuries to two agents. Charleston was eventually stopped and shot by agents, but his injuries are not life threatening. The agents were treated at a hospital and released. The investigation into Charleston's previous robberies was already ongoing and considered a priority for the FBI.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "an armed robbery suspect"
+      },
+      {
+        "id": 1,
+        "text": "a CVS pharmacy"
+      },
+      {
+        "id": 2,
+        "text": "his car"
+      },
+      {
+        "id": 3,
+        "text": "a chase"
+      },
+      {
+        "id": 4,
+        "text": "the FBI"
+      },
+      {
+        "id": 5,
+        "text": "two agents"
+      },
+      {
+        "id": 6,
+        "text": "Georgia"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "capturedBy",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "locatedIn",
+        "tail": 6
+      },
+      {
+        "head": 0,
+        "relation": "followedBy",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "pulledInto",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "involvedIn",
+        "tail": 3
+      },
+      {
+        "head": 3,
+        "relation": "involvedVehicle",
+        "tail": 2
+      },
+      {
+        "head": 5,
+        "relation": "injuredIn",
+        "tail": 3
+      }
+    ]
+  },
+  {
+    "document_id": 32,
+    "ragtruth_id": "38",
+    "text": "An FBI agent and a task force officer were injured in a chase involving an armed robbery suspect named Kevone Charleston in Forsyth County, Georgia. The suspect is believed to be responsible for 32 commercial robberies dating back to November 2013, according to FBI officials. Charleston led authorities on a high-speed pursuit, which resulted in the injury of two agents and the shooting of the suspect. The suspect's injuries are not life-threatening, and he is now in custody.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "an armed robbery suspect named Kevone Charleston"
+      },
+      {
+        "id": 1,
+        "text": "FBI"
+      },
+      {
+        "id": 2,
+        "text": "a chase involving an armed robbery suspect named Kevone Charleston in Forsyth County, Georgia"
+      },
+      {
+        "id": 3,
+        "text": "injured"
+      },
+      {
+        "id": 4,
+        "text": "An FBI agent and a task force officer"
+      },
+      {
+        "id": 5,
+        "text": "32"
+      },
+      {
+        "id": 6,
+        "text": "November 2013"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "responsibleFor",
+        "tail": 5
+      },
+      {
+        "head": 0,
+        "relation": "date",
+        "tail": 6
+      },
+      {
+        "head": 4,
+        "relation": "injuredIn",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "injuredIn",
+        "tail": 2
+      }
+    ]
+  },
+  {
+    "document_id": 33,
+    "ragtruth_id": "39",
+    "text": "Here is a summary of the article in 108 words:\n\nFBI agents and task force officers injured two suspects during a high-speed chase in Georgia after the suspect, Kevone Charleston, tried to rob a CVS pharmacy. Charleston, suspected of committing 32 commercial robberies since 2013, was shot and injured during the confrontation. Two FBI agents were also injured in the crash, but their injuries are not life-threatening. The suspect is currently in custody, and the FBI is investigating the incident as a conclusion to an intense and lengthy investigation.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "the suspect, Kevone Charleston,"
+      },
+      {
+        "id": 1,
+        "text": "a high-speed chase in Georgia"
+      },
+      {
+        "id": 2,
+        "text": "FBI"
+      },
+      {
+        "id": 3,
+        "text": "Two FBI agents"
+      },
+      {
+        "id": 4,
+        "text": "108"
+      },
+      {
+        "id": 5,
+        "text": "two"
+      },
+      {
+        "id": 6,
+        "text": "CVS"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "location",
+        "tail": 6
+      },
+      {
+        "head": 0,
+        "relation": "custody",
+        "tail": 2
+      },
+      {
+        "head": 1,
+        "relation": "investigatedBy",
+        "tail": 2
+      }
+    ]
+  },
+  {
+    "document_id": 34,
+    "ragtruth_id": "40",
+    "text": "FBI agents and task force officers injured two people while apprehending an armed robbery suspect in Forsyth County, Georgia. Kevone Charleston, 36, is accused of committing 32 commercial robberies since November 2013. Agents followed Charleston as he entered a CVS parking lot, and he attempted to flee, ramming into several government vehicles before being shot and taken into custody. Two agents were injured in the pursuit but have been released from the hospital. Charleston's injuries are not life-threatening.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "an armed robbery suspect"
+      },
+      {
+        "id": 1,
+        "text": "two people"
+      },
+      {
+        "id": 2,
+        "text": "apprehending"
+      },
+      {
+        "id": 3,
+        "text": "FBI"
+      },
+      {
+        "id": 4,
+        "text": "Forsyth County"
+      },
+      {
+        "id": 5,
+        "text": "Georgia"
+      },
+      {
+        "id": 6,
+        "text": "32"
+      },
+      {
+        "id": 7,
+        "text": "November 2013"
+      },
+      {
+        "id": 8,
+        "text": "CVS"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "apprehendedBy",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "location",
+        "tail": 4
+      },
+      {
+        "head": 4,
+        "relation": "locatedIn",
+        "tail": 5
+      },
+      {
+        "head": 0,
+        "relation": "numberOfRobberies",
+        "tail": 6
+      },
+      {
+        "head": 0,
+        "relation": "since",
+        "tail": 7
+      },
+      {
+        "head": 0,
+        "relation": "entered",
+        "tail": 8
+      }
+    ]
+  },
+  {
+    "document_id": 35,
+    "ragtruth_id": "41",
+    "text": "FBI agents and task force officers arrested 36-year-old Kevone Charleston, a suspect in 32 commercial robberies, after a high-speed chase and shootout in Forsyth County, Georgia. Two agents were injured in the crash, but their injuries are not life-threatening. Charleston was shot and wounded during the arrest, but his injuries are also not life-threatening. The FBI had been investigating Charleston for months, and the arrest marks the conclusion of an intensive and lengthy investigation.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Two agents"
+      },
+      {
+        "id": 1,
+        "text": "36-year-old Kevone Charleston, a suspect in 32 commercial robberies"
+      },
+      {
+        "id": 2,
+        "text": "arrested"
+      },
+      {
+        "id": 3,
+        "text": "FBI"
+      },
+      {
+        "id": 4,
+        "text": "investigating"
+      },
+      {
+        "id": 5,
+        "text": "Forsyth County"
+      },
+      {
+        "id": 6,
+        "text": "Georgia"
+      },
+      {
+        "id": 7,
+        "text": "months"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "arrestedBy",
+        "tail": 3
+      },
+      {
+        "head": 1,
+        "relation": "arrestedIn",
+        "tail": 5
+      },
+      {
+        "head": 5,
+        "relation": "locatedIn",
+        "tail": 6
+      },
+      {
+        "head": 3,
+        "relation": "investigated",
+        "tail": 1
+      },
+      {
+        "head": 3,
+        "relation": "investigationDuration",
+        "tail": 7
+      }
+    ]
+  },
+  {
+    "document_id": 36,
+    "ragtruth_id": "48",
+    "text": "In November 2015, Rurik Jutting, a former trader at Bank of America Merrill Lynch, was charged with the murder of two Indonesian women in Hong Kong, in a case that shocked the city. The two victims were found in Jutting's apartment in Wan Chai, a residential area also known for its late-night bars. One woman, later identified as 29-year-old Seneng Mujiasih, was found lying on the floor with cuts to her neck and buttocks. The body of the second woman, 25-year-old Sumarti Ningsih, was found hidden inside a suitcase on the balcony, allegedly killed five days earlier. Both women were in Hong Kong as domestic workers, Mujiasih had overstayed her visa and Ningsih was due to fly back to Jakarta the day after her body was found. Jutting reportedly called the police himself. A court hearing to determine whether there was enough evidence to proceed to trial was adjourned until May and Jutting was found psychologically fit to enter a plea. The trial is pending analysis of over 200 pieces of forensic and DNA evidence.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Hong Kong"
+      },
+      {
+        "id": 1,
+        "text": "two Indonesian women"
+      },
+      {
+        "id": 2,
+        "text": "Rurik Jutting, a former trader at Bank of America Merrill Lynch"
+      },
+      {
+        "id": 3,
+        "text": "One woman, later identified as 29-year-old Seneng Mujiasih"
+      },
+      {
+        "id": 4,
+        "text": "the second woman, 25-year-old Sumarti Ningsih"
+      },
+      {
+        "id": 5,
+        "text": "The body of the second woman, 25-year-old Sumarti Ningsih"
+      },
+      {
+        "id": 6,
+        "text": "trial"
+      },
+      {
+        "id": 7,
+        "text": "November 2015"
+      },
+      {
+        "id": 8,
+        "text": "Wan Chai"
+      },
+      {
+        "id": 9,
+        "text": "late-night"
+      },
+      {
+        "id": 10,
+        "text": "five days earlier"
+      },
+      {
+        "id": 11,
+        "text": "Jakarta"
+      },
+      {
+        "id": 12,
+        "text": "the day"
+      },
+      {
+        "id": 13,
+        "text": "May"
+      },
+      {
+        "id": 14,
+        "text": "over 200"
+      }
+    ],
+    "relations": [
+      {
+        "head": 2,
+        "relation": "chargedWithMurderOf",
+        "tail": 1
+      },
+      {
+        "head": 1,
+        "relation": "locatedIn",
+        "tail": 0
+      },
+      {
+        "head": 1,
+        "relation": "foundIn",
+        "tail": 2
+      },
+      {
+        "head": 2,
+        "relation": "called",
+        "tail": 2
+      },
+      {
+        "head": 6,
+        "relation": "hearingAdjournedUntil",
+        "tail": 13
+      }
+    ]
+  },
+  {
+    "document_id": 37,
+    "ragtruth_id": "49",
+    "text": "In November 2014, a gruesome crime shocked Hong Kong when two women were found dead in an upmarket apartment. The alleged attacker, 29-year-old Briton Rurik Jutting, was charged with two counts of murder. The victims were identified as 29-year-old Seneng Mujiasih and 25-year-old Sumarti Ningsih. Ningsih, a mother from Indonesia, had been working in Hong Kong as a domestic helper. Mujiasih, also from Indonesia, had been working as a domestic worker but had overstayed her visa. The bodies were discovered by police after Jutting called them to the apartment. Jutting, a former banker, lived in the apartment where the murders took place. He was detained at the scene and a knife was seized during a search. Jutting had previously worked at Bank of America Merrill Lynch in Hong Kong and had studied at the University of Cambridge. The court hearing to determine whether there was enough evidence to proceed to trial was adjourned until May to allow for forensic and DNA evidence to be analyzed.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "two women"
+      },
+      {
+        "id": 1,
+        "text": "25-year-old Sumarti Ningsih"
+      },
+      {
+        "id": 2,
+        "text": "Hong Kong"
+      },
+      {
+        "id": 3,
+        "text": "29-year-old Seneng Mujiasih"
+      },
+      {
+        "id": 4,
+        "text": "Indonesia"
+      },
+      {
+        "id": 5,
+        "text": "The alleged attacker, 29-year-old Briton Rurik Jutting,"
+      },
+      {
+        "id": 6,
+        "text": "police"
+      },
+      {
+        "id": 7,
+        "text": "an upmarket apartment"
+      },
+      {
+        "id": 8,
+        "text": "November 2014"
+      },
+      {
+        "id": 9,
+        "text": "two"
+      },
+      {
+        "id": 10,
+        "text": "Bank of America Merrill Lynch"
+      },
+      {
+        "id": 11,
+        "text": "the University of Cambridge"
+      },
+      {
+        "id": 12,
+        "text": "May"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "deathPlace",
+        "tail": 7
+      },
+      {
+        "head": 5,
+        "relation": "chargedWith",
+        "tail": 9
+      },
+      {
+        "head": 3,
+        "relation": "nationality",
+        "tail": 4
+      },
+      {
+        "head": 1,
+        "relation": "nationality",
+        "tail": 4
+      },
+      {
+        "head": 1,
+        "relation": "workedIn",
+        "tail": 2
+      },
+      {
+        "head": 3,
+        "relation": "workedIn",
+        "tail": 2
+      },
+      {
+        "head": 5,
+        "relation": "livedIn",
+        "tail": 7
+      },
+      {
+        "head": 5,
+        "relation": "workedAt",
+        "tail": 10
+      },
+      {
+        "head": 5,
+        "relation": "educatedAt",
+        "tail": 11
+      },
+      {
+        "head": 5,
+        "relation": "detainedAt",
+        "tail": 7
+      },
+      {
+        "head": 8,
+        "relation": "eventDate",
+        "tail": 12
+      }
+    ]
+  },
+  {
+    "document_id": 38,
+    "ragtruth_id": "50",
+    "text": "Two Indonesian women, Seneng Mujiasih and Sumarti Ningsih, were brutally murdered in an upmarket apartment in Hong Kong's Wan Chai neighborhood. The victims were found with cuts to their necks and other parts of their bodies. The alleged killer is Rurik Jutting, a 29-year-old British banker who once worked at the Bank of America Merrill Lynch. Jutting is accused of calling the police to report the murders and hiding one of the bodies inside a suitcase on the balcony. The court hearing to determine if there is enough evidence to proceed to trial was adjourned until May. Jutting was previously employed at the Bank of America Merrill Lynch and studied history and law at the University of Cambridge. The victims' families have called for justice and for Jutting to be executed.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Two Indonesian women, Seneng Mujiasih and Sumarti Ningsih"
+      },
+      {
+        "id": 1,
+        "text": "The alleged killer"
+      },
+      {
+        "id": 2,
+        "text": "murdered"
+      },
+      {
+        "id": 3,
+        "text": "their bodies"
+      },
+      {
+        "id": 4,
+        "text": "the Bank of America Merrill Lynch"
+      },
+      {
+        "id": 5,
+        "text": "Hong Kong's"
+      },
+      {
+        "id": 6,
+        "text": "Wan Chai"
+      },
+      {
+        "id": 7,
+        "text": "May"
+      },
+      {
+        "id": 8,
+        "text": "the University of Cambridge"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "deathPlace",
+        "tail": 6
+      },
+      {
+        "head": 1,
+        "relation": "employer",
+        "tail": 4
+      },
+      {
+        "head": 1,
+        "relation": "educatedAt",
+        "tail": 8
+      }
+    ]
+  },
+  {
+    "document_id": 39,
+    "ragtruth_id": "51",
+    "text": "On November 1, 2020, Hong Kong police responded to a call at an upscale apartment in Wan Chai, where they discovered the bodies of two women, aged 29 and 25, with signs of trauma. The suspect, 29-year-old Rurik Jutting, a former banker, was arrested at the scene and charged with two counts of murder. The victims, identified as Seneng Mujiasih and Sumarti Ningsih, were domestic workers from Indonesia. Jutting allegedly lived in the apartment and called the police to report a disturbance. The case has sparked outrage and sadness among the community, with many calling for justice for the victims. The trial is currently adjourned until May while forensic evidence is analyzed.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Hong Kong police"
+      },
+      {
+        "id": 1,
+        "text": "two women, aged 29 and 25"
+      },
+      {
+        "id": 2,
+        "text": "The suspect, 29-year-old Rurik Jutting, a former banker,"
+      },
+      {
+        "id": 3,
+        "text": "an upscale apartment in Wan Chai, where they discovered the bodies of two women, aged 29 and 25, with signs of trauma"
+      },
+      {
+        "id": 4,
+        "text": "November 1, 2020"
+      },
+      {
+        "id": 5,
+        "text": "two"
+      },
+      {
+        "id": 6,
+        "text": "Indonesia"
+      },
+      {
+        "id": 7,
+        "text": "May"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "respondedOn",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "discoveredBodiesAt",
+        "tail": 3
+      },
+      {
+        "head": 2,
+        "relation": "arrestedAt",
+        "tail": 3
+      },
+      {
+        "head": 2,
+        "relation": "chargedWith",
+        "tail": 5
+      },
+      {
+        "head": 1,
+        "relation": "fromCountry",
+        "tail": 6
+      },
+      {
+        "head": 2,
+        "relation": "livedIn",
+        "tail": 3
+      },
+      {
+        "head": 2,
+        "relation": "called",
+        "tail": 0
+      },
+      {
+        "head": 1,
+        "relation": "victimOf",
+        "tail": 2
+      }
+    ]
+  }
+]

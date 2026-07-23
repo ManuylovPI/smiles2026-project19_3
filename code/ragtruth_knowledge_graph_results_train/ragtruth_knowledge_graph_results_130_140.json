@@ -1,0 +1,903 @@
+[
+  {
+    "document_id": 130,
+    "ragtruth_id": "172",
+    "text": "The funeral service for Walter Scott, the black man killed by a white police officer in South Carolina, was held on April 11th. Hundreds of mourners attended the service, including local officials, to celebrate Scott's life and death as a catalyst for change in America. Speakers at the service emphasized that Scott's death was motivated by racial prejudice and called for justice and change. The head of the church, George Hamilton, spoke of how Scott had brought members of his family to the church and how the community was grieving his loss. The service was held at W.O.R.D. Ministries Christian Center in Summerville, which has a capacity of about 300 people. After the service, pallbearers gently lifted Scott's casket into the hearse, and crowds poured from the church. A slow-moving procession of black cars then made its way to Live Oak Memorial Gardens in Charleston for the private burial.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "The funeral service for Walter Scott, the black man killed by a white police officer in South Carolina"
+      },
+      {
+        "id": 1,
+        "text": "Walter Scott, the black man killed by a white police officer in South Carolina"
+      },
+      {
+        "id": 2,
+        "text": "killed"
+      },
+      {
+        "id": 3,
+        "text": "the church"
+      },
+      {
+        "id": 4,
+        "text": "A slow-moving procession of black cars"
+      },
+      {
+        "id": 5,
+        "text": "April 11th"
+      },
+      {
+        "id": 6,
+        "text": "Hundreds"
+      },
+      {
+        "id": 7,
+        "text": "America"
+      },
+      {
+        "id": 8,
+        "text": "George Hamilton"
+      },
+      {
+        "id": 9,
+        "text": "W.O.R.D. Ministries Christian Center"
+      },
+      {
+        "id": 10,
+        "text": "Summerville"
+      },
+      {
+        "id": 11,
+        "text": "about 300"
+      },
+      {
+        "id": 12,
+        "text": "Live Oak Memorial Gardens"
+      },
+      {
+        "id": 13,
+        "text": "Charleston"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "date",
+        "tail": 5
+      },
+      {
+        "head": 0,
+        "relation": "attendedBy",
+        "tail": 6
+      },
+      {
+        "head": 0,
+        "relation": "location",
+        "tail": 9
+      },
+      {
+        "head": 9,
+        "relation": "location",
+        "tail": 10
+      },
+      {
+        "head": 9,
+        "relation": "capacity",
+        "tail": 11
+      },
+      {
+        "head": 0,
+        "relation": "burialLocation",
+        "tail": 12
+      },
+      {
+        "head": 12,
+        "relation": "location",
+        "tail": 13
+      },
+      {
+        "head": 8,
+        "relation": "spokeAt",
+        "tail": 0
+      }
+    ]
+  },
+  {
+    "document_id": 131,
+    "ragtruth_id": "173",
+    "text": "The funeral for Walter Scott, the black man who was fatally shot by a white police officer in South Carolina, took place on Saturday. Hundreds of mourners attended the service, including local officials and community leaders. The officer, Michael Slager, has been charged with murder and is being held in isolation. A second video has emerged showing the moments leading up to the shooting, in which Scott appears to tell Slager that he has no insurance on his vehicle. Scott's family has said that he ran because he had a bench warrant out for his arrest due to unpaid child support. The shooting has sparked protests and calls for police reform, with many saying that it was a racially motivated act.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "The funeral for Walter Scott, the black man who was fatally shot by a white police officer in South Carolina"
+      },
+      {
+        "id": 1,
+        "text": "a white police officer"
+      },
+      {
+        "id": 2,
+        "text": "shot"
+      },
+      {
+        "id": 3,
+        "text": "Walter Scott, the black man who was fatally shot by a white police officer in South Carolina"
+      },
+      {
+        "id": 4,
+        "text": "Saturday"
+      },
+      {
+        "id": 5,
+        "text": "Hundreds"
+      },
+      {
+        "id": 6,
+        "text": "second"
+      }
+    ],
+    "relations": [
+      {
+        "head": 3,
+        "relation": "shotBy",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "date",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "attendeeCount",
+        "tail": 5
+      }
+    ]
+  },
+  {
+    "document_id": 132,
+    "ragtruth_id": "174",
+    "text": "Amnesty International has published a report detailing how women's rights activists are being targeted by the Taliban, tribal warlords, and government officials in Afghanistan. The report, titled \"Their Lives on the Line,\" comes just after the brutal murder of a young woman, Farkhunda, in Kabul, who was falsely accused of burning pages from the Quran. Her body was burnt and thrown into a river, causing widespread outrage. What was notable about her funeral was that for the first time in history women in Afghanistan became pallbearers, carrying the coffin and openly expressing their grief and outrage. The UN Assistance Mission in Afghanistan has released statistics showing that the number of women killed in the country increased by 20% from 2013 to 2014, and Amnesty International has said that the Afghan government has done very little to protect them. Despite the risks, women's rights activists continue to fight for change. One such activist, Selay Ghaffer, has said that she and others will not keep silent despite the violence and brutality, and that they need more people to join their struggle.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "a report detailing how women's rights activists are being targeted by the Taliban, tribal warlords, and government officials in Afghanistan"
+      },
+      {
+        "id": 1,
+        "text": "women's rights activists"
+      },
+      {
+        "id": 2,
+        "text": "a young woman, Farkhunda, in Kabul, who was falsely accused of burning pages from the Quran"
+      },
+      {
+        "id": 3,
+        "text": "Afghanistan"
+      },
+      {
+        "id": 4,
+        "text": "women in Afghanistan"
+      },
+      {
+        "id": 5,
+        "text": "Amnesty International"
+      },
+      {
+        "id": 6,
+        "text": "One such activist, Selay Ghaffer"
+      },
+      {
+        "id": 7,
+        "text": "she and others"
+      },
+      {
+        "id": 8,
+        "text": "first"
+      },
+      {
+        "id": 9,
+        "text": "The UN Assistance Mission"
+      },
+      {
+        "id": 10,
+        "text": "20%"
+      },
+      {
+        "id": 11,
+        "text": "2013"
+      },
+      {
+        "id": 12,
+        "text": "2014"
+      },
+      {
+        "id": 13,
+        "text": "Afghan"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "publishedBy",
+        "tail": 5
+      },
+      {
+        "head": 0,
+        "relation": "about",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "locatedIn",
+        "tail": 3
+      },
+      {
+        "head": 2,
+        "relation": "locatedIn",
+        "tail": 3
+      },
+      {
+        "head": 4,
+        "relation": "locatedIn",
+        "tail": 3
+      },
+      {
+        "head": 9,
+        "relation": "locatedIn",
+        "tail": 3
+      },
+      {
+        "head": 13,
+        "relation": "government",
+        "tail": 3
+      },
+      {
+        "head": 1,
+        "relation": "protectedBy",
+        "tail": 13
+      },
+      {
+        "head": 6,
+        "relation": "said",
+        "tail": 7
+      }
+    ]
+  },
+  {
+    "document_id": 133,
+    "ragtruth_id": "175",
+    "text": "A recent Amnesty International report is demanding action from authorities to address the increasing number of attacks on women's rights activists in Afghanistan. The report, titled \"Their Lives on the Line,\" highlights the persecution faced by activists and champions of women's rights not only from the Taliban and tribal warlords but also from government officials. The publication of the report comes at a crucial time, following the brutal murder of Farkhunda, a young woman in Afghanistan. Farkhunda's murder, in which she was accused of burning pages from the Quran, received international attention. What stood out was the sight of women in Afghanistan becoming pallbearers for the first time in history, carrying Farkhunda's coffin while sobbing and shouting messages of women's solidarity. However, Afghanistan remains a dangerous place for women, with the number of women killed in the country increasing by 20% in 2013, according to a UNAMA report cited by Amnesty. The report also highlights the lack of support from those in power and the failure to hold perpetrators accountable. Despite the risks, women's rights activists continue their work, determined to bring about change. The recent events surrounding Farkhunda's murder have sparked a sense of unity and determination among both men and women in Afghanistan. While some see it as the beginning of an uprising, others believe that more action is needed to ensure lasting change. Women like Selay Ghaffer, a women's rights activist, understand the challenges they face but are committed to fighting for their rights. They believe that silence is not an option and that they must continue to struggle for their rights and the rights of all women in Afghanistan.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "A recent Amnesty International report"
+      },
+      {
+        "id": 1,
+        "text": "Afghanistan"
+      },
+      {
+        "id": 2,
+        "text": "Farkhunda, a young woman"
+      },
+      {
+        "id": 3,
+        "text": "the brutal murder of Farkhunda, a young woman in Afghanistan"
+      },
+      {
+        "id": 4,
+        "text": "Amnesty International"
+      },
+      {
+        "id": 5,
+        "text": "women's rights activists"
+      },
+      {
+        "id": 6,
+        "text": "The recent events surrounding Farkhunda's murder"
+      },
+      {
+        "id": 7,
+        "text": "Women like Selay Ghaffer, a women's rights activist"
+      },
+      {
+        "id": 8,
+        "text": "Taliban"
+      },
+      {
+        "id": 9,
+        "text": "first"
+      },
+      {
+        "id": 10,
+        "text": "20%"
+      },
+      {
+        "id": 11,
+        "text": "2013"
+      },
+      {
+        "id": 12,
+        "text": "UNAMA"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "publishedBy",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "about",
+        "tail": 1
+      },
+      {
+        "head": 3,
+        "relation": "about",
+        "tail": 2
+      },
+      {
+        "head": 3,
+        "relation": "location",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "cites",
+        "tail": 12
+      },
+      {
+        "head": 5,
+        "relation": "locatedIn",
+        "tail": 1
+      },
+      {
+        "head": 7,
+        "relation": "locatedIn",
+        "tail": 1
+      }
+    ]
+  },
+  {
+    "document_id": 134,
+    "ragtruth_id": "176",
+    "text": "Amnesty International has published a report calling for authorities to address the number of attacks on women's rights activists in Afghanistan. The report, \"Their Lives on the Line,\" highlights the persecution of activists and other champions of women's rights not only by the Taliban and tribal warlords, but also by government officials. The brutal murder of Farkhunda, a young woman in Afghanistan, in 2015 shocked the world, but her feminist act of carrying her own coffin during her funeral also made international headlines. The latest figures suggest that women activists in Afghanistan are still risking their lives to be heard. Women activists have been deliberately targeted, and little support has come from those in power. Despite the onslaught of violence against Afghan women over the years, the opportunity was taken to deliver a clear message at Farkhunda's funeral, with women carrying her body on their own shoulders and showing that they will not keep silent anymore.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "a report calling for authorities to address the number of attacks on women's rights activists in Afghanistan"
+      },
+      {
+        "id": 1,
+        "text": "Afghanistan"
+      },
+      {
+        "id": 2,
+        "text": "Farkhunda, a young woman in Afghanistan"
+      },
+      {
+        "id": 3,
+        "text": "women activists in Afghanistan"
+      },
+      {
+        "id": 4,
+        "text": "her funeral"
+      },
+      {
+        "id": 5,
+        "text": "her own coffin"
+      },
+      {
+        "id": 6,
+        "text": "women"
+      },
+      {
+        "id": 7,
+        "text": "Amnesty International"
+      },
+      {
+        "id": 8,
+        "text": "Taliban"
+      },
+      {
+        "id": 9,
+        "text": "2015"
+      },
+      {
+        "id": 10,
+        "text": "Afghan"
+      },
+      {
+        "id": 11,
+        "text": "the years"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "publishedBy",
+        "tail": 7
+      },
+      {
+        "head": 0,
+        "relation": "about",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "about",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "mentions",
+        "tail": 8
+      },
+      {
+        "head": 0,
+        "relation": "mentions",
+        "tail": 2
+      },
+      {
+        "head": 2,
+        "relation": "deathYear",
+        "tail": 9
+      },
+      {
+        "head": 4,
+        "relation": "subject",
+        "tail": 2
+      },
+      {
+        "head": 4,
+        "relation": "includes",
+        "tail": 5
+      },
+      {
+        "head": 5,
+        "relation": "possessor",
+        "tail": 2
+      },
+      {
+        "head": 3,
+        "relation": "locatedIn",
+        "tail": 1
+      },
+      {
+        "head": 6,
+        "relation": "carried",
+        "tail": 5
+      },
+      {
+        "head": 6,
+        "relation": "carried",
+        "tail": 2
+      }
+    ]
+  },
+  {
+    "document_id": 135,
+    "ragtruth_id": "177",
+    "text": "Amnesty International has released a report highlighting the systematic persecution of women's rights activists in Afghanistan. The report documents the increasing number of attacks on activists, including the recent murder of a young woman named Farkhunda, who was burned alive and dumped in a river. Despite the danger, women's rights activists have continued to protest and demand justice, with some male onlookers even supporting their cause. The report notes that the Afghan government has done little to protect activists and perpetrators of violence often go unpunished. The activists themselves recognize the risks they face, with one saying that they are willing to risk their lives to stand up for their rights and bring attention to the issue. The report comes amidst a growing sense of frustration and anger among Afghans over the lack of progress on women's rights, despite the presence of international forces in the country.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "a report highlighting the systematic persecution of women's rights activists in Afghanistan"
+      },
+      {
+        "id": 1,
+        "text": "women's rights activists"
+      },
+      {
+        "id": 2,
+        "text": "one"
+      },
+      {
+        "id": 3,
+        "text": "Afghanistan"
+      },
+      {
+        "id": 4,
+        "text": "Amnesty International"
+      },
+      {
+        "id": 5,
+        "text": "Farkhunda"
+      },
+      {
+        "id": 6,
+        "text": "Afghan"
+      },
+      {
+        "id": 7,
+        "text": "Afghans"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "releasedBy",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "about",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "locatedIn",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "mentions",
+        "tail": 5
+      },
+      {
+        "head": 0,
+        "relation": "mentions",
+        "tail": 6
+      },
+      {
+        "head": 0,
+        "relation": "mentions",
+        "tail": 7
+      }
+    ]
+  },
+  {
+    "document_id": 136,
+    "ragtruth_id": "178",
+    "text": "A new Amnesty International report highlights the persecution of women's rights activists in Afghanistan, not only by the Taliban and tribal warlords but also by government officials. The report comes after the brutal murder of Farkhunda, a young woman accused of burning pages from the Quran, whose body was burned and thrown into a river in Kabul. Women in Afghanistan took to the streets as pallbearers to protest her death, which marked a turning point in the country's history. Despite the risks, women activists continue their work, calling for an end to the violence and discrimination they face. The report notes that the Afghan government has done little to protect them, and perpetrators of violence often go unpunished. The activists are determined to bring about change, but it remains to be seen whether their efforts will lead to a revolution or simply more mob violence.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "A new Amnesty International report"
+      },
+      {
+        "id": 1,
+        "text": "Afghanistan"
+      },
+      {
+        "id": 2,
+        "text": "Farkhunda, a young woman accused of burning pages from the Quran, whose body was burned and thrown into a river in Kabul"
+      },
+      {
+        "id": 3,
+        "text": "women activists"
+      },
+      {
+        "id": 4,
+        "text": "Taliban"
+      },
+      {
+        "id": 5,
+        "text": "Afghan"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "about",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "about",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "about",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "about",
+        "tail": 5
+      },
+      {
+        "head": 0,
+        "relation": "after",
+        "tail": 2
+      },
+      {
+        "head": 3,
+        "relation": "locatedIn",
+        "tail": 1
+      },
+      {
+        "head": 5,
+        "relation": "governmentOf",
+        "tail": 1
+      }
+    ]
+  },
+  {
+    "document_id": 137,
+    "ragtruth_id": "179",
+    "text": "The Amnesty International report highlights the increasing attacks on women's rights activists in Afghanistan, including the brutal murder of Farkhunda, who was accused of burning the Quran and subsequently killed by a mob. Despite the danger, women activists continue to fight for their rights, with some men supporting their cause. The report calls on the government to take action to protect women and hold perpetrators accountable. The UN has also documented an increase in violence against women in Afghanistan, with the majority of killings linked to domestic violence and cultural traditions. Women's rights activists face threats and harassment, and the government has done little to protect them. The report highlights the need for international support to protect women's rights in Afghanistan.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "women activists"
+      },
+      {
+        "id": 1,
+        "text": "The Amnesty International report"
+      },
+      {
+        "id": 2,
+        "text": "Afghanistan"
+      },
+      {
+        "id": 3,
+        "text": "the government"
+      },
+      {
+        "id": 4,
+        "text": "Women's rights activists"
+      },
+      {
+        "id": 5,
+        "text": "Farkhunda"
+      },
+      {
+        "id": 6,
+        "text": "Quran"
+      },
+      {
+        "id": 7,
+        "text": "UN"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "mentions",
+        "tail": 2
+      },
+      {
+        "head": 1,
+        "relation": "mentions",
+        "tail": 5
+      },
+      {
+        "head": 1,
+        "relation": "mentions",
+        "tail": 6
+      },
+      {
+        "head": 1,
+        "relation": "callsOn",
+        "tail": 3
+      },
+      {
+        "head": 7,
+        "relation": "documentedIn",
+        "tail": 2
+      },
+      {
+        "head": 3,
+        "relation": "didLittleToProtect",
+        "tail": 4
+      }
+    ]
+  },
+  {
+    "document_id": 138,
+    "ragtruth_id": "186",
+    "text": "The trial of Aaron Hernandez, former NFL star, has come to a close, with the jury now deliberating the fate of the 25-year-old, who is accused of the murder of Odin Lloyd, a semi-pro player whose body was found in a Massachusetts industrial park in June 2013. The prosecution presented 131 witnesses to support its case, including New England Patriots' owner Robert Kraft, while the defense wrapped up its case in a day. The case is largely circumstantial, and the defense has attempted to undermine the prosecution's evidence, including a video purporting to show Hernandez holding a murder weapon, and a claim that the footprint left near Lloyd's body was consistent with a shoe Hernandez was known to wear. Hernandez has pleaded not guilty in Lloyd's death, but has also been charged with two more murders following evidence collected during the investigation into Lloyd's killing.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "The prosecution"
+      },
+      {
+        "id": 1,
+        "text": "the defense"
+      },
+      {
+        "id": 2,
+        "text": "its case"
+      },
+      {
+        "id": 3,
+        "text": "Aaron Hernandez, former NFL star"
+      },
+      {
+        "id": 4,
+        "text": "Odin Lloyd, a semi-pro player whose body was found in a Massachusetts industrial park in June 2013"
+      },
+      {
+        "id": 5,
+        "text": "the murder of Odin Lloyd, a semi-pro player whose body was found in a Massachusetts industrial park in June 2013"
+      },
+      {
+        "id": 6,
+        "text": "25-year-old"
+      },
+      {
+        "id": 7,
+        "text": "131"
+      },
+      {
+        "id": 8,
+        "text": "New England Patriots'"
+      },
+      {
+        "id": 9,
+        "text": "Robert Kraft"
+      },
+      {
+        "id": 10,
+        "text": "a day"
+      },
+      {
+        "id": 11,
+        "text": "two"
+      }
+    ],
+    "relations": [
+      {
+        "head": 5,
+        "relation": "victim",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "witnessCount",
+        "tail": 7
+      },
+      {
+        "head": 8,
+        "relation": "owner",
+        "tail": 9
+      },
+      {
+        "head": 3,
+        "relation": "pleadedNotGuiltyIn",
+        "tail": 5
+      },
+      {
+        "head": 3,
+        "relation": "chargedWith",
+        "tail": 11
+      }
+    ]
+  },
+  {
+    "document_id": 139,
+    "ragtruth_id": "187",
+    "text": "Former NFL star Aaron Hernandez's defense has rested its case in the trial for the shooting death of semi-pro player Odin Lloyd. The defense presented its witnesses in less than a day, in contrast to the months it took for the prosecution to present its case. One key point that the jury will have to consider is Hernandez's meeting with Patriots owner Robert Kraft after news of the investigation broke. Kraft testified that Hernandez claimed he was innocent and that he hoped the time of the murder incident came out because he said he was in a club. However, the time of Lloyd's death had not been made public yet, raising questions about how Hernandez could have known when Lloyd was killed. Hernandez's fiancée, Shayanna Jenkins, also provided new information in her testimony, saying that Hernandez told her to dispose of a box from their home that smelled of marijuana. This contradicts the prosecution's claim that the murder weapon was in the box. The murder weapon has not been recovered. Testimony also focused on the shoes Hernandez wore the night of the shooting, with a Nike consultant testifying that the footprint left near Lloyd's body was consistent with the Air Jordan Retro 11 Lows size 13, which Hernandez was wearing. However, the defense questioned the reliability of analyzing footprints. Prosecutors also used footage from Hernandez's home security system to suggest he was holding a gun similar to the one used to kill Lloyd, but the defense argued that the object could have been an iPad or a soft-pellet gun. Hernandez has pleaded not guilty in Lloyd's death, but he also faces separate murder charges in a different case.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Former NFL star Aaron Hernandez's defense"
+      },
+      {
+        "id": 1,
+        "text": "the prosecution"
+      },
+      {
+        "id": 2,
+        "text": "Former NFL star Aaron Hernandez's"
+      },
+      {
+        "id": 3,
+        "text": "Patriots owner Robert Kraft"
+      },
+      {
+        "id": 4,
+        "text": "the shooting death of semi-pro player Odin Lloyd"
+      },
+      {
+        "id": 5,
+        "text": "the time of the murder incident"
+      },
+      {
+        "id": 6,
+        "text": "semi-pro player Odin Lloyd"
+      },
+      {
+        "id": 7,
+        "text": "Hernandez's fiancée, Shayanna Jenkins"
+      },
+      {
+        "id": 8,
+        "text": "told"
+      },
+      {
+        "id": 9,
+        "text": "a box from their home that smelled of marijuana"
+      },
+      {
+        "id": 10,
+        "text": "the murder weapon"
+      },
+      {
+        "id": 11,
+        "text": "a gun similar to the one used to kill Lloyd"
+      },
+      {
+        "id": 12,
+        "text": "less than a day"
+      },
+      {
+        "id": 13,
+        "text": "the months"
+      },
+      {
+        "id": 14,
+        "text": "One"
+      },
+      {
+        "id": 15,
+        "text": "the night"
+      },
+      {
+        "id": 16,
+        "text": "Nike"
+      },
+      {
+        "id": 17,
+        "text": "the Air Jordan Retro 11 Lows"
+      },
+      {
+        "id": 18,
+        "text": "13"
+      },
+      {
+        "id": 19,
+        "text": "iPad"
+      }
+    ],
+    "relations": [
+      {
+        "head": 2,
+        "relation": "meetingWith",
+        "tail": 3
+      },
+      {
+        "head": 2,
+        "relation": "fiancee",
+        "tail": 7
+      },
+      {
+        "head": 2,
+        "relation": "told",
+        "tail": 7
+      },
+      {
+        "head": 1,
+        "relation": "claim",
+        "tail": 10
+      },
+      {
+        "head": 2,
+        "relation": "wore",
+        "tail": 17
+      },
+      {
+        "head": 17,
+        "relation": "size",
+        "tail": 18
+      },
+      {
+        "head": 2,
+        "relation": "held",
+        "tail": 11
+      },
+      {
+        "head": 11,
+        "relation": "similarTo",
+        "tail": 10
+      }
+    ]
+  }
+]

@@ -1,0 +1,1088 @@
+[
+  {
+    "document_id": 740,
+    "ragtruth_id": "992",
+    "text": "A study conducted by Danny Kahneman found that positive outcomes at the end of a procedure, like a colonoscopy, significantly improved the positive recollections of the entire experience. Kahneman used this finding to draw a parallel between an unpleasant tax experience and a pleasant one. If taxes ended positively for the average American, they would remember their overall experience more positively. The study suggests that 8 out of 10 Americans receive a tax refund, with an average amount of $3,000, which can be used to finance many nice purchases. Additionally, filing taxes has become simpler for most people, with software and service providers offering free assistance. As a result, Tax Day is now a happy spending spree for most Americans. However, this does not mean that the deeper issues with the US tax system should be ignored, such as biases against two-worker marriages and overly complex tax rules. These issues continue to be debated among politicians, academics, and pundits, but for now, the focus is on enjoying the benefits of a simple and efficient tax system.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Danny Kahneman"
+      },
+      {
+        "id": 1,
+        "text": "improved"
+      },
+      {
+        "id": 2,
+        "text": "the average American"
+      },
+      {
+        "id": 3,
+        "text": "A study conducted by Danny Kahneman"
+      },
+      {
+        "id": 4,
+        "text": "is"
+      },
+      {
+        "id": 5,
+        "text": "the deeper issues with the US tax system should be ignored, such as biases against two-worker marriages and overly complex tax rules"
+      },
+      {
+        "id": 6,
+        "text": "8"
+      },
+      {
+        "id": 7,
+        "text": "10"
+      },
+      {
+        "id": 8,
+        "text": "Americans"
+      },
+      {
+        "id": 9,
+        "text": "3,000"
+      },
+      {
+        "id": 10,
+        "text": "Tax Day"
+      },
+      {
+        "id": 11,
+        "text": "Americans"
+      }
+    ],
+    "relations": [
+      {
+        "head": 3,
+        "relation": "conductedBy",
+        "tail": 0
+      },
+      {
+        "head": 3,
+        "relation": "finding",
+        "tail": 1
+      },
+      {
+        "head": 2,
+        "relation": "rememberExperienceMorePositively",
+        "tail": 1
+      },
+      {
+        "head": 3,
+        "relation": "suggests",
+        "tail": 6
+      },
+      {
+        "head": 3,
+        "relation": "suggests",
+        "tail": 7
+      },
+      {
+        "head": 3,
+        "relation": "suggests",
+        "tail": 8
+      },
+      {
+        "head": 8,
+        "relation": "receiveTaxRefund",
+        "tail": 9
+      },
+      {
+        "head": 10,
+        "relation": "is",
+        "tail": 4
+      },
+      {
+        "head": 10,
+        "relation": "for",
+        "tail": 11
+      }
+    ]
+  },
+  {
+    "document_id": 741,
+    "ragtruth_id": "993",
+    "text": "Danny Kahneman, a Nobel Prize-winning economist, helped conduct an experiment where patients underwent colonoscopies. Half of the patients received a pleasant experience at the end of the procedure, while the other half did not. The result showed that the group who experienced the pleasant ending had more positive memories of the entire process from start to finish. Similarly, a large number of Americans receive a tax refund each year, which can be used to buy goods and services. Although the US tax system has been criticized for being complicated and unfair, many Americans are focused on the positive aspect of receiving a refund, rather than worrying about the deeper issues. Advertisements for tax preparation services have taken advantage of this phenomenon, offering to help people file their taxes quickly and easily, often for free. These services also offer additional products, such as audit protection insurance, which can provide a sense of security to customers. Despite concerns about fairness and complexity, many Americans are opting to focus on the positive aspects of their tax experiences and use their refunds to make purchases or investments.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "patients"
+      },
+      {
+        "id": 1,
+        "text": "colonoscopies"
+      },
+      {
+        "id": 2,
+        "text": "Half of the patients"
+      },
+      {
+        "id": 3,
+        "text": "a pleasant experience"
+      },
+      {
+        "id": 4,
+        "text": "people"
+      },
+      {
+        "id": 5,
+        "text": "tax preparation services"
+      },
+      {
+        "id": 6,
+        "text": "many Americans"
+      },
+      {
+        "id": 7,
+        "text": "Danny Kahneman"
+      },
+      {
+        "id": 8,
+        "text": "a Nobel Prize"
+      },
+      {
+        "id": 9,
+        "text": "Americans"
+      },
+      {
+        "id": 10,
+        "text": "each year"
+      },
+      {
+        "id": 11,
+        "text": "US"
+      },
+      {
+        "id": 12,
+        "text": "Americans"
+      }
+    ],
+    "relations": [
+      {
+        "head": 7,
+        "relation": "won",
+        "tail": 8
+      }
+    ]
+  },
+  {
+    "document_id": 742,
+    "ragtruth_id": "994",
+    "text": "Here is a summary of the article in 175 words:\n\nAccording to a study by Danny Kahneman, people tend to remember positive experiences more vividly than negative ones, even if the positive experience follows a negative one. This is known as the \"peak-end rule.\" Applying this concept to taxes, even though the US tax system has its flaws, the fact that most Americans receive a refund after filing their taxes leads to positive memories of the experience. Additionally, with the rise of free online tax preparation services, tax filing has become simpler and less painful for most people. However, despite these positive developments, the tax system remains unfair to two-income households and favors the wealthy. Nevertheless, the focus is on the happy ending - the refunds - rather than the negative aspects of the system.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "tend"
+      },
+      {
+        "id": 1,
+        "text": "the \"peak-end rule"
+      },
+      {
+        "id": 2,
+        "text": "the US tax system"
+      },
+      {
+        "id": 3,
+        "text": "most Americans"
+      },
+      {
+        "id": 4,
+        "text": "175"
+      },
+      {
+        "id": 5,
+        "text": "Danny Kahneman"
+      },
+      {
+        "id": 6,
+        "text": "two"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "studiedBy",
+        "tail": 5
+      }
+    ]
+  },
+  {
+    "document_id": 743,
+    "ragtruth_id": "995",
+    "text": "The article discusses how the majority of Americans receive a tax refund each year, with an average amount of around $3000. This has led to a shift in perception of Tax Day from a stressful event to a joyful one, with many people looking forward to their refunds and using them to make large purchases. The article also notes that tax preparation has become simpler in recent years, with various software and service providers offering to do the paperwork for free. However, the article also highlights the flaws in the US tax system, including the fact that it is biased against two-worker marriages and favors the wealthy, who can make their wealth through untaxed returns on capital rather than through regular paychecks. Despite these issues, the article suggests that people are generally content with the current state of affairs, focusing on the positive aspects of their tax refunds rather than worrying about the deeper problems with the tax system.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "receive"
+      },
+      {
+        "id": 1,
+        "text": "many people"
+      },
+      {
+        "id": 2,
+        "text": "their refunds"
+      },
+      {
+        "id": 3,
+        "text": "The article"
+      },
+      {
+        "id": 4,
+        "text": "the US tax system"
+      },
+      {
+        "id": 5,
+        "text": "the wealthy, who can make their wealth through untaxed returns on capital rather than through regular paychecks"
+      },
+      {
+        "id": 6,
+        "text": "people"
+      },
+      {
+        "id": 7,
+        "text": "Americans"
+      },
+      {
+        "id": 8,
+        "text": "each year"
+      },
+      {
+        "id": 9,
+        "text": "around $3000"
+      },
+      {
+        "id": 10,
+        "text": "Tax Day"
+      },
+      {
+        "id": 11,
+        "text": "recent years"
+      },
+      {
+        "id": 12,
+        "text": "two"
+      }
+    ],
+    "relations": [
+      {
+        "head": 7,
+        "relation": "receive",
+        "tail": 9
+      },
+      {
+        "head": 7,
+        "relation": "receiveFrequency",
+        "tail": 8
+      },
+      {
+        "head": 10,
+        "relation": "perceptionShift",
+        "tail": 0
+      },
+      {
+        "head": 4,
+        "relation": "biasedAgainst",
+        "tail": 12
+      }
+    ]
+  },
+  {
+    "document_id": 744,
+    "ragtruth_id": "1002",
+    "text": "NBC has picked up the sequel to the hit miniseries, \"The Bible\". The new series, \"A.D. The Bible Continues,\" follows the early days of Christianity, starting with Jesus' resurrection. Juan Pablo Di Pace stars as Jesus and Greta Scacchi as Mary. The series will run for 12 weeks, with the first episode airing on Easter Sunday. Other shows to watch this week include the final episodes of \"Mad Men,\" \"American Odyssey,\" the fifth season of \"Louie,\" \"The Comedians,\" and \"Marvel's Daredevil\" on Netflix.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "the sequel to the hit miniseries, \"The Bible\""
+      },
+      {
+        "id": 1,
+        "text": "Jesus'"
+      },
+      {
+        "id": 2,
+        "text": "NBC"
+      },
+      {
+        "id": 3,
+        "text": "the early days"
+      },
+      {
+        "id": 4,
+        "text": "Christianity"
+      },
+      {
+        "id": 5,
+        "text": "Juan Pablo Di Pace"
+      },
+      {
+        "id": 6,
+        "text": "Greta Scacchi"
+      },
+      {
+        "id": 7,
+        "text": "Mary"
+      },
+      {
+        "id": 8,
+        "text": "12 weeks"
+      },
+      {
+        "id": 9,
+        "text": "first"
+      },
+      {
+        "id": 10,
+        "text": "Easter Sunday"
+      },
+      {
+        "id": 11,
+        "text": "this week"
+      },
+      {
+        "id": 12,
+        "text": "\"Mad Men"
+      },
+      {
+        "id": 13,
+        "text": "American Odyssey"
+      },
+      {
+        "id": 14,
+        "text": "the fifth season"
+      },
+      {
+        "id": 15,
+        "text": "Louie"
+      },
+      {
+        "id": 16,
+        "text": "Comedians"
+      },
+      {
+        "id": 17,
+        "text": "Marvel's Daredevil"
+      },
+      {
+        "id": 18,
+        "text": "Netflix"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "pickedUpBy",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "follows",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "about",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "startsWith",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "starredBy",
+        "tail": 5
+      },
+      {
+        "head": 0,
+        "relation": "starredBy",
+        "tail": 6
+      },
+      {
+        "head": 0,
+        "relation": "airingDate",
+        "tail": 10
+      },
+      {
+        "head": 0,
+        "relation": "duration",
+        "tail": 8
+      }
+    ]
+  },
+  {
+    "document_id": 745,
+    "ragtruth_id": "1003",
+    "text": "NBC is debuting a sequel to the hit miniseries \"The Bible\" called \"A.D. The Bible Continues,\" which picks up with Jesus' resurrection and follows the early days of Christianity. The full miniseries will run for 12 weeks. Additionally, \"Mad Men\" is airing its final episodes, \"American Odyssey\" follows a special forces translator trying to get back home, \"Louie\" is back for its fifth season, \"The Comedians\" stars Billy Crystal and Josh Gad in a meta mockumentary, and \"Marvel's Daredevil\" is launching on Netflix.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "\"Mad Men\""
+      },
+      {
+        "id": 1,
+        "text": "\"Louie\""
+      },
+      {
+        "id": 2,
+        "text": "NBC"
+      },
+      {
+        "id": 3,
+        "text": "The Bible"
+      },
+      {
+        "id": 4,
+        "text": "A.D. The Bible Continues"
+      },
+      {
+        "id": 5,
+        "text": "Jesus"
+      },
+      {
+        "id": 6,
+        "text": "the early days"
+      },
+      {
+        "id": 7,
+        "text": "Christianity"
+      },
+      {
+        "id": 8,
+        "text": "12 weeks"
+      },
+      {
+        "id": 9,
+        "text": "American Odyssey"
+      },
+      {
+        "id": 10,
+        "text": "fifth season"
+      },
+      {
+        "id": 11,
+        "text": "Comedians"
+      },
+      {
+        "id": 12,
+        "text": "Billy Crystal"
+      },
+      {
+        "id": 13,
+        "text": "Josh Gad"
+      },
+      {
+        "id": 14,
+        "text": "Marvel's Daredevil"
+      },
+      {
+        "id": 15,
+        "text": "Netflix"
+      }
+    ],
+    "relations": [
+      {
+        "head": 4,
+        "relation": "sequelOf",
+        "tail": 3
+      },
+      {
+        "head": 4,
+        "relation": "broadcastNetwork",
+        "tail": 2
+      },
+      {
+        "head": 4,
+        "relation": "follows",
+        "tail": 5
+      },
+      {
+        "head": 4,
+        "relation": "follows",
+        "tail": 6
+      },
+      {
+        "head": 4,
+        "relation": "follows",
+        "tail": 7
+      },
+      {
+        "head": 4,
+        "relation": "duration",
+        "tail": 8
+      },
+      {
+        "head": 1,
+        "relation": "season",
+        "tail": 10
+      },
+      {
+        "head": 11,
+        "relation": "starring",
+        "tail": 12
+      },
+      {
+        "head": 11,
+        "relation": "starring",
+        "tail": 13
+      },
+      {
+        "head": 14,
+        "relation": "launchPlatform",
+        "tail": 15
+      }
+    ]
+  },
+  {
+    "document_id": 746,
+    "ragtruth_id": "1004",
+    "text": "\"A.D. The Bible Continues,\" which will follow the early days of Christianity, premieres Sunday on NBC. The 12-episode miniseries features Juan Pablo Di Pace as Jesus and Greta Scacchi as Mary. Meanwhile, \"Mad Men\" ends its final season, \"American Odyssey\" stars Anna Friel as a special forces translator in Mali, \"Louie\" returns for a fifth season of critically acclaimed humor, and \"The Comedians\" is a meta mockumentary about the making of a TV comedy. Finally, \"Marvel's Daredevil\" launches on Netflix and serves as a gritty drama about a blind lawyer who moonlights as a superhero.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "\"A.D. The Bible Continues,\" which will follow the early days of Christianity"
+      },
+      {
+        "id": 1,
+        "text": "\"Mad Men\""
+      },
+      {
+        "id": 2,
+        "text": "Sunday"
+      },
+      {
+        "id": 3,
+        "text": "NBC"
+      },
+      {
+        "id": 4,
+        "text": "Juan Pablo Di Pace"
+      },
+      {
+        "id": 5,
+        "text": "Jesus"
+      },
+      {
+        "id": 6,
+        "text": "Greta Scacchi"
+      },
+      {
+        "id": 7,
+        "text": "Mary"
+      },
+      {
+        "id": 8,
+        "text": "American Odyssey"
+      },
+      {
+        "id": 9,
+        "text": "Anna Friel"
+      },
+      {
+        "id": 10,
+        "text": "Mali"
+      },
+      {
+        "id": 11,
+        "text": "Louie"
+      },
+      {
+        "id": 12,
+        "text": "a fifth season"
+      },
+      {
+        "id": 13,
+        "text": "Comedians"
+      },
+      {
+        "id": 14,
+        "text": "Marvel's Daredevil"
+      },
+      {
+        "id": 15,
+        "text": "Netflix"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "premiereDate",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "network",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "features",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "features",
+        "tail": 6
+      },
+      {
+        "head": 1,
+        "relation": "finalSeason",
+        "tail": 1
+      },
+      {
+        "head": 8,
+        "relation": "stars",
+        "tail": 9
+      },
+      {
+        "head": 8,
+        "relation": "setIn",
+        "tail": 10
+      },
+      {
+        "head": 11,
+        "relation": "returnsFor",
+        "tail": 12
+      },
+      {
+        "head": 14,
+        "relation": "launchPlatform",
+        "tail": 15
+      }
+    ]
+  },
+  {
+    "document_id": 747,
+    "ragtruth_id": "1005",
+    "text": "Here is a summary of the news in 89 words:\n\nNBC is premiering the sequel to the popular miniseries \"The Bible\" on Sunday, called \"A.D. The Bible Continues.\" The show follows the early days of Christianity after Jesus' resurrection, with Juan Pablo Di Pace as Jesus and Greta Scacchi as Mary. Other notable shows premiering this week include \"Mad Men\" on AMC, \"American Odyssey\" on NBC, and \"Marvel's Daredevil\" on Netflix.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "the sequel to the popular miniseries \"The Bible\""
+      },
+      {
+        "id": 1,
+        "text": "Jesus'"
+      },
+      {
+        "id": 2,
+        "text": "NBC"
+      },
+      {
+        "id": 3,
+        "text": "89"
+      },
+      {
+        "id": 4,
+        "text": "Sunday"
+      },
+      {
+        "id": 5,
+        "text": "A.D. The Bible Continues"
+      },
+      {
+        "id": 6,
+        "text": "the early days"
+      },
+      {
+        "id": 7,
+        "text": "Christianity"
+      },
+      {
+        "id": 8,
+        "text": "Juan Pablo Di Pace"
+      },
+      {
+        "id": 9,
+        "text": "Greta Scacchi"
+      },
+      {
+        "id": 10,
+        "text": "Mary"
+      },
+      {
+        "id": 11,
+        "text": "this week"
+      },
+      {
+        "id": 12,
+        "text": "\"Mad Men\""
+      },
+      {
+        "id": 13,
+        "text": "AMC"
+      },
+      {
+        "id": 14,
+        "text": "American Odyssey"
+      },
+      {
+        "id": 15,
+        "text": "Marvel's Daredevil"
+      },
+      {
+        "id": 16,
+        "text": "Netflix"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "premieredBy",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "premieredOn",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "title",
+        "tail": 5
+      },
+      {
+        "head": 0,
+        "relation": "follows",
+        "tail": 6
+      },
+      {
+        "head": 0,
+        "relation": "about",
+        "tail": 7
+      },
+      {
+        "head": 1,
+        "relation": "resurrection",
+        "tail": 1
+      },
+      {
+        "head": 1,
+        "relation": "portrayedBy",
+        "tail": 8
+      },
+      {
+        "head": 10,
+        "relation": "portrayedBy",
+        "tail": 9
+      },
+      {
+        "head": 12,
+        "relation": "premieredOn",
+        "tail": 13
+      },
+      {
+        "head": 14,
+        "relation": "premieredBy",
+        "tail": 2
+      },
+      {
+        "head": 15,
+        "relation": "premieredOn",
+        "tail": 16
+      }
+    ]
+  },
+  {
+    "document_id": 748,
+    "ragtruth_id": "1006",
+    "text": "Here is a summary of the article in 89 words:\n\nNBC's \"A.D. The Bible Continues\" tells the story of Jesus' resurrection and the early days of Christianity, premiering on Easter Sunday. \"Mad Men\" concludes its final season with the first of several episodes airing on AMC. \"American Odyssey\" follows a special forces translator trying to get home after being believed dead, while \"Louie\" returns for a fifth season on FX. \"The Comedians\" stars Billy Crystal and Josh Gad as two people making a comedy show, and \"Marvel's Daredevil\" premieres on Netflix as a dark and gritty drama about a blind lawyer turned vigilante.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "\"Mad Men\""
+      },
+      {
+        "id": 1,
+        "text": "89"
+      },
+      {
+        "id": 2,
+        "text": "NBC"
+      },
+      {
+        "id": 3,
+        "text": "A.D. The Bible Continues"
+      },
+      {
+        "id": 4,
+        "text": "Jesus"
+      },
+      {
+        "id": 5,
+        "text": "the early days"
+      },
+      {
+        "id": 6,
+        "text": "Christianity"
+      },
+      {
+        "id": 7,
+        "text": "Easter Sunday"
+      },
+      {
+        "id": 8,
+        "text": "first"
+      },
+      {
+        "id": 9,
+        "text": "AMC"
+      },
+      {
+        "id": 10,
+        "text": "American Odyssey"
+      },
+      {
+        "id": 11,
+        "text": "Louie"
+      },
+      {
+        "id": 12,
+        "text": "a fifth season"
+      },
+      {
+        "id": 13,
+        "text": "FX"
+      },
+      {
+        "id": 14,
+        "text": "Comedians"
+      },
+      {
+        "id": 15,
+        "text": "Billy Crystal"
+      },
+      {
+        "id": 16,
+        "text": "Josh Gad"
+      },
+      {
+        "id": 17,
+        "text": "two"
+      },
+      {
+        "id": 18,
+        "text": "Marvel's Daredevil"
+      },
+      {
+        "id": 19,
+        "text": "Netflix"
+      }
+    ],
+    "relations": [
+      {
+        "head": 3,
+        "relation": "broadcastOn",
+        "tail": 2
+      },
+      {
+        "head": 3,
+        "relation": "premieredOn",
+        "tail": 7
+      },
+      {
+        "head": 0,
+        "relation": "broadcastOn",
+        "tail": 9
+      },
+      {
+        "head": 11,
+        "relation": "broadcastOn",
+        "tail": 13
+      },
+      {
+        "head": 11,
+        "relation": "season",
+        "tail": 12
+      },
+      {
+        "head": 14,
+        "relation": "starredBy",
+        "tail": 15
+      },
+      {
+        "head": 14,
+        "relation": "starredBy",
+        "tail": 16
+      },
+      {
+        "head": 18,
+        "relation": "broadcastOn",
+        "tail": 19
+      }
+    ]
+  },
+  {
+    "document_id": 749,
+    "ragtruth_id": "1007",
+    "text": "Here are the 6 shows to watch this week, in summary:\n\n1. \"A.D. The Bible Continues\" - NBC, Sun., 9pm - Sequel to \"The Bible\" miniseries, follows Jesus' resurrection and early Christianity.\n2. \"Mad Men\" - AMC, Sun., 9pm - Final episodes, focusing on Don Draper and the cast's fates.\n3. \"American Odyssey\" - NBC, Sun., 10pm - A special forces translator in Mali struggles to return home after being believed dead.\n4. \"Louie\" - FX, Thu., 10:30pm - Critically-acclaimed comedy returns for its 5th season, continuing to follow Louie's offensive antics.\n5. \"The Comedians\" - FX, Thu., 10pm - A meta mockumentary about two comedians starring in an FX comedy, produced by Larry Charles.\n6. \"Marvel's Daredevil\" - Netflix, Fri. - A dark, gritty drama about blind lawyer Matt Murdock, who moonlights as a costumed avenger.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Sun."
+      },
+      {
+        "id": 1,
+        "text": "NBC"
+      },
+      {
+        "id": 2,
+        "text": "Louie"
+      },
+      {
+        "id": 3,
+        "text": "FX"
+      },
+      {
+        "id": 4,
+        "text": "Thu."
+      },
+      {
+        "id": 5,
+        "text": "6"
+      },
+      {
+        "id": 6,
+        "text": "this week"
+      },
+      {
+        "id": 7,
+        "text": "1"
+      },
+      {
+        "id": 8,
+        "text": "A.D. The Bible Continues\" - NBC"
+      },
+      {
+        "id": 9,
+        "text": "9pm - Sequel to \"The Bible"
+      },
+      {
+        "id": 10,
+        "text": "Jesus"
+      },
+      {
+        "id": 11,
+        "text": "Christianity"
+      },
+      {
+        "id": 12,
+        "text": "2"
+      },
+      {
+        "id": 13,
+        "text": "\"Mad Men\" - AMC"
+      },
+      {
+        "id": 14,
+        "text": "9pm - Final episodes"
+      },
+      {
+        "id": 15,
+        "text": "Don Draper"
+      },
+      {
+        "id": 16,
+        "text": "3"
+      },
+      {
+        "id": 17,
+        "text": "American Odyssey"
+      },
+      {
+        "id": 18,
+        "text": "10"
+      },
+      {
+        "id": 19,
+        "text": "Mali"
+      },
+      {
+        "id": 20,
+        "text": "4"
+      },
+      {
+        "id": 21,
+        "text": "Louie\" - FX"
+      },
+      {
+        "id": 22,
+        "text": "5th season"
+      },
+      {
+        "id": 23,
+        "text": "5"
+      },
+      {
+        "id": 24,
+        "text": "Comedians"
+      },
+      {
+        "id": 25,
+        "text": "10"
+      },
+      {
+        "id": 26,
+        "text": "about two"
+      },
+      {
+        "id": 27,
+        "text": "Larry Charles"
+      },
+      {
+        "id": 28,
+        "text": "6"
+      },
+      {
+        "id": 29,
+        "text": "Fri"
+      },
+      {
+        "id": 30,
+        "text": "Matt Murdock"
+      }
+    ],
+    "relations": [
+      {
+        "head": 8,
+        "relation": "broadcastOn",
+        "tail": 1
+      },
+      {
+        "head": 13,
+        "relation": "broadcastOn",
+        "tail": 3
+      },
+      {
+        "head": 17,
+        "relation": "broadcastOn",
+        "tail": 1
+      },
+      {
+        "head": 21,
+        "relation": "broadcastOn",
+        "tail": 3
+      },
+      {
+        "head": 24,
+        "relation": "broadcastOn",
+        "tail": 3
+      },
+      {
+        "head": 21,
+        "relation": "season",
+        "tail": 22
+      },
+      {
+        "head": 24,
+        "relation": "producer",
+        "tail": 27
+      }
+    ]
+  }
+]

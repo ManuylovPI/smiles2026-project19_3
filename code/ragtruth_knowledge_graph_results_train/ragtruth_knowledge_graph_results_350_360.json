@@ -1,0 +1,667 @@
+[
+  {
+    "document_id": 350,
+    "ragtruth_id": "470",
+    "text": "The article discusses several topics related to the upcoming US presidential election. One topic is the criticism from former Maryland Governor Martin O'Malley towards Democratic front-runner Hillary Clinton. O'Malley has been releasing YouTube videos to criticize Clinton's changing positions on various issues. Another topic is the balancing act that Clinton faces in her relationship with President Obama. While she is a big fan of his healthcare law, she takes subtle digs at his leadership style. The article also discusses the hiring of Maya Harris as a top policy advisor to Clinton, which is seen as a signal of the importance of women of color to the electorate. Additionally, the article speculates about potential GOP presidential ticket pairings, including a Walker-Rubio race, and the changes made to the presidential nominating process by the Republican National Committee.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "former Maryland Governor Martin O'Malley"
+      },
+      {
+        "id": 1,
+        "text": "Democratic front-runner Hillary Clinton"
+      },
+      {
+        "id": 2,
+        "text": "President Obama"
+      },
+      {
+        "id": 3,
+        "text": "The article"
+      },
+      {
+        "id": 4,
+        "text": "US"
+      },
+      {
+        "id": 5,
+        "text": "One"
+      },
+      {
+        "id": 6,
+        "text": "YouTube"
+      },
+      {
+        "id": 7,
+        "text": "Maya Harris"
+      },
+      {
+        "id": 8,
+        "text": "GOP"
+      },
+      {
+        "id": 9,
+        "text": "Walker-Rubio"
+      },
+      {
+        "id": 10,
+        "text": "the Republican National Committee"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "criticizes",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "uses",
+        "tail": 6
+      },
+      {
+        "head": 1,
+        "relation": "relationshipWith",
+        "tail": 2
+      },
+      {
+        "head": 7,
+        "relation": "advisorTo",
+        "tail": 1
+      },
+      {
+        "head": 9,
+        "relation": "includes",
+        "tail": 8
+      },
+      {
+        "head": 10,
+        "relation": "changed",
+        "tail": 3
+      }
+    ]
+  },
+  {
+    "document_id": 351,
+    "ragtruth_id": "471",
+    "text": "Here are the main points from the article:\n\n* Former Maryland Governor Martin O'Malley is increasingly criticizing Hillary Clinton, particularly on her flip-flopping on certain issues. O'Malley is using YouTube videos to spread his opinions and challenge Clinton's positions.\n* Clinton is walking a fine line between embracing President Obama's legacy while also distinguishing herself from his leadership style.\n* Clinton has announced that Maya Harris, a prominent progressive policy expert, will join her campaign as a top advisor. This hire is seen as a sign of Clinton's focus on policy and appealing to women of color.\n* There is buzz among Republicans about a potential ticket consisting of Wisconsin Governor Scott Walker and Florida Senator Marco Rubio. This combination would offer a generational contrast with Clinton.\n* The Republican National Committee has made changes to the primary calendar, which some establishment figures worry could help candidates like Ted Cruz who are seen as unelectable by the establishment. The shift towards a later primary schedule in the South could benefit candidates with strong evangelical connections.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Hillary Clinton"
+      },
+      {
+        "id": 1,
+        "text": "Former Maryland Governor Martin O'Malley"
+      },
+      {
+        "id": 2,
+        "text": "President Obama's"
+      },
+      {
+        "id": 3,
+        "text": "join"
+      },
+      {
+        "id": 4,
+        "text": "a potential ticket consisting of Wisconsin Governor Scott Walker and Florida Senator Marco Rubio"
+      },
+      {
+        "id": 5,
+        "text": "YouTube"
+      },
+      {
+        "id": 6,
+        "text": "Maya Harris"
+      },
+      {
+        "id": 7,
+        "text": "Republicans"
+      },
+      {
+        "id": 8,
+        "text": "The Republican National Committee"
+      },
+      {
+        "id": 9,
+        "text": "Ted Cruz"
+      },
+      {
+        "id": 10,
+        "text": "South"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "criticizes",
+        "tail": 0
+      },
+      {
+        "head": 1,
+        "relation": "uses",
+        "tail": 5
+      },
+      {
+        "head": 0,
+        "relation": "embracesLegacyOf",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "distinguishesFrom",
+        "tail": 2
+      },
+      {
+        "head": 6,
+        "relation": "joinsCampaignOf",
+        "tail": 0
+      },
+      {
+        "head": 4,
+        "relation": "contrastsWith",
+        "tail": 0
+      },
+      {
+        "head": 8,
+        "relation": "madeChangesTo",
+        "tail": 10
+      }
+    ]
+  },
+  {
+    "document_id": 352,
+    "ragtruth_id": "472",
+    "text": "Hillary Clinton's presidential campaign is facing challenges from fellow Democrats, particularly Martin O'Malley, who is using YouTube videos to criticize her positions. Clinton is also facing scrutiny for her stance on President Obama's leadership style and her support for his healthcare law. Meanwhile, the Republican National Committee has made changes to the primary calendar that may benefit candidates with strong evangelical connections, such as Ted Cruz and Rick Santorum, over establishment favorites like Jeb Bush and Marco Rubio. There is also speculation about potential ticket combinations, such as a Walker-Rubio or Clinton-Kaine pairing.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Hillary Clinton's"
+      },
+      {
+        "id": 1,
+        "text": "President Obama's"
+      },
+      {
+        "id": 2,
+        "text": "Marco Rubio"
+      },
+      {
+        "id": 3,
+        "text": "Democrats"
+      },
+      {
+        "id": 4,
+        "text": "Martin O'Malley"
+      },
+      {
+        "id": 5,
+        "text": "YouTube"
+      },
+      {
+        "id": 6,
+        "text": "the Republican National Committee"
+      },
+      {
+        "id": 7,
+        "text": "Ted Cruz"
+      },
+      {
+        "id": 8,
+        "text": "Rick Santorum"
+      },
+      {
+        "id": 9,
+        "text": "Jeb Bush"
+      },
+      {
+        "id": 10,
+        "text": "Kaine"
+      }
+    ],
+    "relations": [
+      {
+        "head": 4,
+        "relation": "criticizes",
+        "tail": 0
+      },
+      {
+        "head": 0,
+        "relation": "supports",
+        "tail": 1
+      },
+      {
+        "head": 6,
+        "relation": "changed",
+        "tail": 0
+      }
+    ]
+  },
+  {
+    "document_id": 353,
+    "ragtruth_id": "473",
+    "text": "Here are the main points from the article:\n\n1. Martin O'Malley, a former Maryland governor, is increasingly criticizing Hillary Clinton, the front-runner for the Democratic presidential nomination, through YouTube videos.\n2. Hillary Clinton is embracing certain aspects of President Obama's legacy, such as his healthcare law, but is also taking subtle digs at his leadership style.\n3. Maya Harris, a policy expert and sister of California Attorney General Kamala Harris, has joined the Clinton campaign and is expected to play a key role in shaping Clinton's policy initiatives, particularly in regards to women of color.\n4. There is speculation among political strategists and activists about a possible presidential ticket featuring Wisconsin Governor Scott Walker and Senator Marco Rubio, which would offer a generational contrast to Clinton.\n5. Changes to the Republican presidential nominating process, including a reduced number of debates and a revised primary calendar, may benefit candidates with strong evangelical connections, such as Ted Cruz, Mike Huckabee, and Rick Santorum, at the expense of establishment favorites like Jeb Bush and Marco Rubio.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Hillary Clinton, the front-runner for the Democratic presidential nomination"
+      },
+      {
+        "id": 1,
+        "text": "President Obama's"
+      },
+      {
+        "id": 2,
+        "text": "Senator Marco Rubio"
+      },
+      {
+        "id": 3,
+        "text": "1"
+      },
+      {
+        "id": 4,
+        "text": "Martin O'Malley"
+      },
+      {
+        "id": 5,
+        "text": "Maryland"
+      },
+      {
+        "id": 6,
+        "text": "YouTube"
+      },
+      {
+        "id": 7,
+        "text": "2"
+      },
+      {
+        "id": 8,
+        "text": "3"
+      },
+      {
+        "id": 9,
+        "text": "Maya Harris"
+      },
+      {
+        "id": 10,
+        "text": "California"
+      },
+      {
+        "id": 11,
+        "text": "Kamala Harris"
+      },
+      {
+        "id": 12,
+        "text": "4"
+      },
+      {
+        "id": 13,
+        "text": "Wisconsin"
+      },
+      {
+        "id": 14,
+        "text": "Scott Walker"
+      },
+      {
+        "id": 15,
+        "text": "5"
+      },
+      {
+        "id": 16,
+        "text": "Republican"
+      },
+      {
+        "id": 17,
+        "text": "Ted Cruz"
+      },
+      {
+        "id": 18,
+        "text": "Mike Huckabee"
+      },
+      {
+        "id": 19,
+        "text": "Rick Santorum"
+      },
+      {
+        "id": 20,
+        "text": "Jeb Bush"
+      }
+    ],
+    "relations": [
+      {
+        "head": 4,
+        "relation": "governorOf",
+        "tail": 5
+      },
+      {
+        "head": 0,
+        "relation": "criticizedBy",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "campaignMember",
+        "tail": 9
+      },
+      {
+        "head": 9,
+        "relation": "sibling",
+        "tail": 11
+      },
+      {
+        "head": 11,
+        "relation": "locatedIn",
+        "tail": 10
+      },
+      {
+        "head": 14,
+        "relation": "governorOf",
+        "tail": 13
+      },
+      {
+        "head": 14,
+        "relation": "ticketWith",
+        "tail": 2
+      }
+    ]
+  },
+  {
+    "document_id": 354,
+    "ragtruth_id": "474",
+    "text": "The parents of the youngest victim of the Boston Marathon bombings have pleaded for the death penalty to be removed as a sentencing option for Dzhokhar Tsarnaev, the man convicted for the attack. Bill and Denise Richard wrote an opinion piece in The Boston Globe, where they described the impact the death of their 8-year-old son, Martin, had on their family. They said they support the Department of Justice in taking the death penalty off the table in exchange for Tsarnaev spending the rest of his life in prison without the possibility of release and waiving all his rights to appeal. They noted the continued pursuit of the death penalty could lead to years of appeals and prolong their pain.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "the Boston Marathon bombings"
+      },
+      {
+        "id": 1,
+        "text": "The parents of the youngest victim of the Boston Marathon bombings"
+      },
+      {
+        "id": 2,
+        "text": "the youngest victim of the Boston Marathon bombings"
+      },
+      {
+        "id": 3,
+        "text": "the death penalty"
+      },
+      {
+        "id": 4,
+        "text": "Dzhokhar Tsarnaev, the man convicted for the attack"
+      },
+      {
+        "id": 5,
+        "text": "The Boston Globe"
+      },
+      {
+        "id": 6,
+        "text": "the Department of Justice"
+      },
+      {
+        "id": 7,
+        "text": "years"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "wroteOpinionPieceIn",
+        "tail": 5
+      },
+      {
+        "head": 1,
+        "relation": "support",
+        "tail": 6
+      },
+      {
+        "head": 1,
+        "relation": "support",
+        "tail": 3
+      },
+      {
+        "head": 4,
+        "relation": "convictedFor",
+        "tail": 0
+      }
+    ]
+  },
+  {
+    "document_id": 355,
+    "ragtruth_id": "475",
+    "text": "The parents of the youngest victim of the Boston Marathon bombings are pleading for the removal of the death penalty for the man convicted in the case. Dzhokhar Tsarnaev was found guilty on all charges related to the bombings, and the sentencing phase is set to begin. Bill and Denise Richard, parents of 8-year-old Martin Richard who was killed in the bombings, wrote an opinion piece in The Boston Globe asking for the death penalty to be dropped. They express their grief and the toll it has taken on their family, but also emphasize their support for the Department of Justice if the defendant is sentenced to life in prison without parole. They hope to avoid years of appeals and the painful reminder for their remaining children.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "the man convicted in the case"
+      },
+      {
+        "id": 1,
+        "text": "the Boston Marathon bombings"
+      },
+      {
+        "id": 2,
+        "text": "The parents of the youngest victim of the Boston Marathon bombings"
+      },
+      {
+        "id": 3,
+        "text": "the youngest victim of the Boston Marathon bombings"
+      },
+      {
+        "id": 4,
+        "text": "the death penalty"
+      },
+      {
+        "id": 5,
+        "text": "The Boston Globe"
+      },
+      {
+        "id": 6,
+        "text": "the Department of Justice"
+      }
+    ],
+    "relations": [
+      {
+        "head": 3,
+        "relation": "victimOf",
+        "tail": 1
+      },
+      {
+        "head": 2,
+        "relation": "parentsOf",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "convictedIn",
+        "tail": 1
+      },
+      {
+        "head": 2,
+        "relation": "wroteFor",
+        "tail": 5
+      },
+      {
+        "head": 2,
+        "relation": "supports",
+        "tail": 6
+      }
+    ]
+  },
+  {
+    "document_id": 356,
+    "ragtruth_id": "476",
+    "text": "The parents of the youngest victim of the Boston Marathon bombings are asking the government to remove the death penalty option for the convicted bomber, Dzhokhar Tsarnaev. The sentencing phase of the trial begins on Tuesday and is expected to last four weeks. The Richards, who lost their 8-year-old son, Martin, and their 7-year-old daughter, Jane, in the bombings, wrote a passionate plea in The Boston Globe calling on the government to bring the case to a close. They argued that the continued pursuit of the death penalty could bring years of appeals and prolong their suffering.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "The parents of the youngest victim of the Boston Marathon bombings"
+      },
+      {
+        "id": 1,
+        "text": "the Boston Marathon bombings"
+      },
+      {
+        "id": 2,
+        "text": "the government"
+      },
+      {
+        "id": 3,
+        "text": "the death penalty option for the convicted bomber, Dzhokhar Tsarnaev"
+      },
+      {
+        "id": 4,
+        "text": "Tuesday"
+      },
+      {
+        "id": 5,
+        "text": "last four weeks"
+      },
+      {
+        "id": 6,
+        "text": "The Boston Globe"
+      },
+      {
+        "id": 7,
+        "text": "years"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "asked",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "wroteIn",
+        "tail": 6
+      },
+      {
+        "head": 5,
+        "relation": "duration",
+        "tail": 4
+      }
+    ]
+  },
+  {
+    "document_id": 357,
+    "ragtruth_id": "477",
+    "text": "The parents of Martin Richard, one of the victims of the 2013 Boston Marathon bombing, are pleading with the government to spare the life of the convicted bomber, Dzhokhar Tsarnaev. They argue that the pursuit of the death penalty could lead to years of appeals and prolong their family's suffering. The Richards believe that it is time to move on and focus on healing rather than seeking revenge. They express their support for Tsarnaev spending the rest of his life in prison without the possibility of parole.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "The parents of Martin Richard, one of the victims of the 2013 Boston Marathon bombing"
+      },
+      {
+        "id": 1,
+        "text": "the convicted bomber, Dzhokhar Tsarnaev"
+      },
+      {
+        "id": 2,
+        "text": "years"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "supports",
+        "tail": 1
+      }
+    ]
+  },
+  {
+    "document_id": 358,
+    "ragtruth_id": "478",
+    "text": "The parents of Martin Richard, the youngest victim of the Boston Marathon bombings, have pleaded with the government to drop the death penalty for Dzhokhar Tsarnaev, the man convicted of the crime. In an op-ed piece, Bill and Denise Richard argued that the continued pursuit of the death penalty would prolong their grief and prevent them from moving on. They emphasized that they understand the heinous nature of the crime but prefer to focus on rebuilding their lives rather than continuing to relieve the pain through appeals. The Richards stressed that they speak only for themselves and not on behalf of the victims or their families.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "the Boston Marathon bombings"
+      },
+      {
+        "id": 1,
+        "text": "The parents of Martin Richard, the youngest victim of the Boston Marathon bombings"
+      },
+      {
+        "id": 2,
+        "text": "the death penalty"
+      },
+      {
+        "id": 3,
+        "text": "the victims"
+      },
+      {
+        "id": 4,
+        "text": "Dzhokhar Tsarnaev"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "parentsOf",
+        "tail": 1
+      },
+      {
+        "head": 4,
+        "relation": "convictedOf",
+        "tail": 0
+      },
+      {
+        "head": 1,
+        "relation": "pleadedToDrop",
+        "tail": 2
+      },
+      {
+        "head": 1,
+        "relation": "arguedAgainst",
+        "tail": 2
+      }
+    ]
+  },
+  {
+    "document_id": 359,
+    "ragtruth_id": "479",
+    "text": "The parents of Martin Richard, the youngest victim of the Boston Marathon bombings, have made a public plea to remove the death penalty as a possible punishment for Dzhokhar Tsarnaev, the man convicted of the crime. In an op-ed piece for The Boston Globe, Bill and Denise Richard explained that they want to avoid years of appeals and reliving the traumatic event, and instead prefer that Tsarnaev spend the rest of his life in prison without the possibility of release. They emphasize that their request is personal and not intended to speak for anyone else affected by the bombings.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "the Boston Marathon bombings"
+      },
+      {
+        "id": 1,
+        "text": "The parents of Martin Richard, the youngest victim of the Boston Marathon bombings"
+      },
+      {
+        "id": 2,
+        "text": "Dzhokhar Tsarnaev, the man convicted of the crime"
+      },
+      {
+        "id": 3,
+        "text": "a public plea to remove the death penalty as a possible punishment for Dzhokhar Tsarnaev, the man convicted of the crime"
+      },
+      {
+        "id": 4,
+        "text": "The Boston Globe"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "made",
+        "tail": 3
+      },
+      {
+        "head": 3,
+        "relation": "about",
+        "tail": 2
+      },
+      {
+        "head": 1,
+        "relation": "publishedIn",
+        "tail": 4
+      }
+    ]
+  }
+]

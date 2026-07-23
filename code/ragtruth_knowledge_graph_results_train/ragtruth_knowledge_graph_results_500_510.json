@@ -1,0 +1,930 @@
+[
+  {
+    "document_id": 500,
+    "ragtruth_id": "680",
+    "text": "Mohammad Javad Zarif, the Iranian foreign minister, received a hero's welcome upon returning home from negotiations with the US to secure a nuclear deal. However, there are little-known facts about Zarif, including his Jewish New Year tweet that prompted a debate about Iranian denial of the Holocaust. Zarif was also educated in the US and both of his children were born in the country. Despite investigation from the FBI regarding his alleged role in controlling a charity used to launder money for the Iranian government, no charges were filed against him. Zarif was also involved in seizing control of the Iranian consulate in San Francisco during the early stages of the Iranian Revolution. Now, Zarif and US Secretary of State John Kerry have become close friends and spend more time together than any other foreign ministers in the world. They are trying to meet a June 30 deadline to finalize the nuclear deal they agreed to in Switzerland.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Mohammad Javad Zarif, the Iranian foreign minister"
+      },
+      {
+        "id": 1,
+        "text": "the US"
+      },
+      {
+        "id": 2,
+        "text": "Zarif and US Secretary of State John Kerry"
+      },
+      {
+        "id": 3,
+        "text": "a nuclear deal"
+      },
+      {
+        "id": 4,
+        "text": "Jewish New Year"
+      },
+      {
+        "id": 5,
+        "text": "Iranian"
+      },
+      {
+        "id": 6,
+        "text": "FBI"
+      },
+      {
+        "id": 7,
+        "text": "Iranian"
+      },
+      {
+        "id": 8,
+        "text": "Iranian"
+      },
+      {
+        "id": 9,
+        "text": "San Francisco"
+      },
+      {
+        "id": 10,
+        "text": "the Iranian Revolution"
+      },
+      {
+        "id": 11,
+        "text": "June 30"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "educatedIn",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "childBornIn",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "investigatedBy",
+        "tail": 6
+      },
+      {
+        "head": 0,
+        "relation": "involvedIn",
+        "tail": 10
+      },
+      {
+        "head": 3,
+        "relation": "agreedIn",
+        "tail": 2
+      },
+      {
+        "head": 3,
+        "relation": "deadline",
+        "tail": 11
+      }
+    ]
+  },
+  {
+    "document_id": 501,
+    "ragtruth_id": "681",
+    "text": "Here is a summary of the article in 175 words:\n\nMohammad Javad Zarif, the Iranian foreign minister, has made significant progress in recent years towards normalizing relations with the US. However, there are several lesser-known facts about him, including his education in the US, his involvement in the Iranian Revolution, and his controversial past. Zarif tweeted a response to Christine Pelosi, daughter of House Minority Leader Nancy Pelosi, after she criticized Iran's Holocaust denial. He also worked as a student protest leader during the Iranian Revolution and later became a diplomat. The US investigated him over his alleged role in controlling the Alavi Foundation, but he was not mentioned in the settlement. Zarif has been working closely with US Secretary of State John Kerry to secure a nuclear deal, and their relationship has been described as \"jovial.\"",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Mohammad Javad Zarif, the Iranian foreign minister"
+      },
+      {
+        "id": 1,
+        "text": "the US"
+      },
+      {
+        "id": 2,
+        "text": "Christine Pelosi, daughter of House Minority Leader Nancy Pelosi"
+      },
+      {
+        "id": 3,
+        "text": "the Iranian Revolution"
+      },
+      {
+        "id": 4,
+        "text": "175"
+      },
+      {
+        "id": 5,
+        "text": "recent years"
+      },
+      {
+        "id": 6,
+        "text": "Iran"
+      },
+      {
+        "id": 7,
+        "text": "Holocaust"
+      },
+      {
+        "id": 8,
+        "text": "the Alavi Foundation"
+      },
+      {
+        "id": 9,
+        "text": "US"
+      },
+      {
+        "id": 10,
+        "text": "State"
+      },
+      {
+        "id": 11,
+        "text": "John Kerry"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "educationIn",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "involvedIn",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "tweetedResponseTo",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "workedDuring",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "investigatedBy",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "workedWith",
+        "tail": 11
+      }
+    ]
+  },
+  {
+    "document_id": 502,
+    "ragtruth_id": "682",
+    "text": "Sure! Here's the summary within 175 words:\n\nMohammad Javad Zarif, the Iranian Foreign Minister, has been in the spotlight for his role in negotiating a potential end to sanctions against Iran. However, there are lesser-known facts about him, such as his background and education in the US, where he was born in 1960 or 1961 (sources differ). He has also been involved in controversies, including an investigation into his alleged role in controlling the Alavi Foundation, a charitable organization accused of laundering money and evading US sanctions. Despite these, Zarif has become known for his jovial demeanor and has spent significant time with US Secretary of State John Kerry, with whom he is working to finalize the nuclear agreement by June 30.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Mohammad Javad Zarif, the Iranian Foreign Minister"
+      },
+      {
+        "id": 1,
+        "text": "175"
+      },
+      {
+        "id": 2,
+        "text": "Iran"
+      },
+      {
+        "id": 3,
+        "text": "US"
+      },
+      {
+        "id": 4,
+        "text": "1960"
+      },
+      {
+        "id": 5,
+        "text": "1961"
+      },
+      {
+        "id": 6,
+        "text": "the Alavi Foundation"
+      },
+      {
+        "id": 7,
+        "text": "US"
+      },
+      {
+        "id": 8,
+        "text": "US"
+      },
+      {
+        "id": 9,
+        "text": "State"
+      },
+      {
+        "id": 10,
+        "text": "John Kerry"
+      },
+      {
+        "id": 11,
+        "text": "June 30"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "nationality",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "birthPlace",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "birthDate",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "birthDate",
+        "tail": 5
+      },
+      {
+        "head": 0,
+        "relation": "involvedIn",
+        "tail": 6
+      },
+      {
+        "head": 0,
+        "relation": "workedWith",
+        "tail": 10
+      },
+      {
+        "head": 0,
+        "relation": "deadline",
+        "tail": 11
+      }
+    ]
+  },
+  {
+    "document_id": 503,
+    "ragtruth_id": "683",
+    "text": "Mohammad Javad Zarif is Iran's foreign minister and has been instrumental in negotiating a potential deal with the US and other countries regarding Iran's nuclear program. He has been praised for his diplomatic skills and has a reputation for being jovial. However, there are some lesser-known facts about Zarif. He tweeted \"Happy Rosh Hashanah\" in 2013, prompting a response from Christine Pelosi, who asked him to end Iran's Holocaust denial. Zarif replied that Iran never denied the Holocaust and that the previous president, Mahmoud Ahmadinejad, who had left office, was the one who had been perceived as denying it. Zarif was educated in the US, receiving his undergraduate, master's, and doctoral degrees from American universities. His children were also born in the US. There is some discrepancy in his official bio regarding his date of birth, with different sources listing it as 1959, 1960, or 1961. Zarif was investigated by the US government for his alleged role in controlling a charitable organization that was accused of laundering money and circumventing US sanctions, but a settlement was reached without mentioning his name. Early in the Iranian Revolution, Zarif was part of a group of students who took over the Iranian Consulate in San Francisco to expel people who were not considered Islamic enough. This event led to him being offered a job at the Iranian mission to the UN. Zarif has spent more time with US Secretary of State John Kerry than any other foreign minister in the world and will continue to work closely with him to finalize a deal by the June 30 deadline.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Iran's"
+      },
+      {
+        "id": 1,
+        "text": "Mohammad Javad Zarif"
+      },
+      {
+        "id": 2,
+        "text": "Holocaust"
+      },
+      {
+        "id": 3,
+        "text": "the US"
+      },
+      {
+        "id": 4,
+        "text": "his date of birth"
+      },
+      {
+        "id": 5,
+        "text": "took"
+      },
+      {
+        "id": 6,
+        "text": "US Secretary of State John Kerry"
+      },
+      {
+        "id": 7,
+        "text": "2013"
+      },
+      {
+        "id": 8,
+        "text": "Christine Pelosi"
+      },
+      {
+        "id": 9,
+        "text": "Mahmoud Ahmadinejad"
+      },
+      {
+        "id": 10,
+        "text": "American"
+      },
+      {
+        "id": 11,
+        "text": "1959, 1960"
+      },
+      {
+        "id": 12,
+        "text": "1961"
+      },
+      {
+        "id": 13,
+        "text": "US"
+      },
+      {
+        "id": 14,
+        "text": "the Iranian Revolution"
+      },
+      {
+        "id": 15,
+        "text": "the Iranian Consulate"
+      },
+      {
+        "id": 16,
+        "text": "San Francisco"
+      },
+      {
+        "id": 17,
+        "text": "Islamic"
+      },
+      {
+        "id": 18,
+        "text": "Iranian"
+      },
+      {
+        "id": 19,
+        "text": "UN"
+      },
+      {
+        "id": 20,
+        "text": "June 30"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "foreignMinisterOf",
+        "tail": 0
+      },
+      {
+        "head": 1,
+        "relation": "educatedIn",
+        "tail": 3
+      },
+      {
+        "head": 1,
+        "relation": "childrenBornIn",
+        "tail": 3
+      },
+      {
+        "head": 1,
+        "relation": "birthDate",
+        "tail": 11
+      },
+      {
+        "head": 1,
+        "relation": "birthDate",
+        "tail": 12
+      },
+      {
+        "head": 1,
+        "relation": "investigatedBy",
+        "tail": 3
+      },
+      {
+        "head": 1,
+        "relation": "workedWith",
+        "tail": 6
+      },
+      {
+        "head": 1,
+        "relation": "offeredJobBy",
+        "tail": 18
+      }
+    ]
+  },
+  {
+    "document_id": 504,
+    "ragtruth_id": "684",
+    "text": "Israeli Prime Minister, Benjamin Netanyahu, has criticised the deal with Iran made by six world powers, which aims to thwart Iran's nuclear ambitions. He told CNN's Jim Acosta that there were better options than \"this bad deal or war.\" He said: \"I think there's a third alternative, and that is standing firm, ratcheting up the pressure until you get a better deal.\" His comments come as Democrats and Republicans argue over the framework announced last week to lift Western sanctions on Iran in exchange for the country dropping from 19,000 to 5,060 active centrifuges, limiting its highly enriched uranium, and increasing inspections. The deal has been endorsed by President Barack Obama, however, GOP contenders for the party's 2016 presidential nomination have criticised the deal, saying it gave Iran too much flexibility.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Iran"
+      },
+      {
+        "id": 1,
+        "text": "Israeli Prime Minister, Benjamin Netanyahu"
+      },
+      {
+        "id": 2,
+        "text": "a third alternative"
+      },
+      {
+        "id": 3,
+        "text": "the deal with Iran made by six world powers, which aims to thwart Iran's nuclear ambitions"
+      },
+      {
+        "id": 4,
+        "text": "GOP"
+      },
+      {
+        "id": 5,
+        "text": "CNN"
+      },
+      {
+        "id": 6,
+        "text": "Jim Acosta"
+      },
+      {
+        "id": 7,
+        "text": "Democrats"
+      },
+      {
+        "id": 8,
+        "text": "Republicans"
+      },
+      {
+        "id": 9,
+        "text": "last week"
+      },
+      {
+        "id": 10,
+        "text": "19,000"
+      },
+      {
+        "id": 11,
+        "text": "5,060"
+      },
+      {
+        "id": 12,
+        "text": "Barack Obama"
+      },
+      {
+        "id": 13,
+        "text": "2016"
+      }
+    ],
+    "relations": [
+      {
+        "head": 3,
+        "relation": "criticizedBy",
+        "tail": 1
+      },
+      {
+        "head": 3,
+        "relation": "endorsedBy",
+        "tail": 12
+      },
+      {
+        "head": 3,
+        "relation": "criticizedBy",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "sanctionsLiftFrameworkDiscussedLastWeek",
+        "tail": 9
+      },
+      {
+        "head": 0,
+        "relation": "centrifugesReducedFrom",
+        "tail": 10
+      },
+      {
+        "head": 0,
+        "relation": "centrifugesReducedTo",
+        "tail": 11
+      }
+    ]
+  },
+  {
+    "document_id": 505,
+    "ragtruth_id": "685",
+    "text": "Israeli Prime Minister Benjamin Netanyahu criticized the deal struck between six world powers and Iran to curb Iran's nuclear program. He argued that there is a third alternative to the deal or war, which involves standing firm and increasing pressure on Iran until a better deal is reached. President Barack Obama supported the deal, stating that it was the best option available. However, Republican contenders for the 2016 presidential nomination criticized the deal, claiming that it gave Iran too much flexibility. Netanyahu's main argument against the deal is that it does not roll back Iran's nuclear program and allows them to keep a vast nuclear infrastructure. He also expressed his distrust of Iran's ability to abide by the terms of the deal. Democratic Senator Dianne Feinstein urged Netanyahu to \"contain himself\" and supported the negotiators' efforts to reach a workable agreement. Energy Secretary Ernest Moniz defended the deal, stating that it would extend the time it would take for Iran to build a nuclear bomb and allow for immediate recognition of any attempt to evade the deal. Republican Senator Lindsey Graham suggested keeping current sanctions in place for two more years and negotiating a new deal with a new president. He believed that most alternatives to Obama would be able to strike a better deal.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Iran"
+      },
+      {
+        "id": 1,
+        "text": "Israeli Prime Minister Benjamin Netanyahu"
+      },
+      {
+        "id": 2,
+        "text": "the deal struck between six world powers and Iran to curb Iran's nuclear program"
+      },
+      {
+        "id": 3,
+        "text": "Iran's nuclear program"
+      },
+      {
+        "id": 4,
+        "text": "Republican Senator Lindsey Graham"
+      },
+      {
+        "id": 5,
+        "text": "President Barack Obama"
+      },
+      {
+        "id": 6,
+        "text": "third"
+      },
+      {
+        "id": 7,
+        "text": "Republican"
+      },
+      {
+        "id": 8,
+        "text": "2016"
+      },
+      {
+        "id": 9,
+        "text": "Democratic"
+      },
+      {
+        "id": 10,
+        "text": "Dianne Feinstein"
+      },
+      {
+        "id": 11,
+        "text": "Ernest Moniz"
+      },
+      {
+        "id": 12,
+        "text": "two more years"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "criticized",
+        "tail": 2
+      },
+      {
+        "head": 1,
+        "relation": "arguedFor",
+        "tail": 6
+      },
+      {
+        "head": 1,
+        "relation": "distrusts",
+        "tail": 0
+      },
+      {
+        "head": 10,
+        "relation": "urged",
+        "tail": 1
+      },
+      {
+        "head": 10,
+        "relation": "supported",
+        "tail": 2
+      },
+      {
+        "head": 11,
+        "relation": "defended",
+        "tail": 2
+      },
+      {
+        "head": 4,
+        "relation": "suggested",
+        "tail": 12
+      },
+      {
+        "head": 4,
+        "relation": "believedAbout",
+        "tail": 5
+      }
+    ]
+  },
+  {
+    "document_id": 506,
+    "ragtruth_id": "686",
+    "text": "Israeli Prime Minister Benjamin Netanyahu criticized the deal reached between the P5+1 countries (United States, Russia, China, Britain, France, Germany and the European Union) and Iran to limit its nuclear program. He believes that the deal gives Iran too much flexibility and keeps too many centrifuges spinning and nuclear facilities operational. Netanyahu advocates a third option of \"standing firm and ratcheting up the pressure\" until a better deal is achieved. Obama, however, supports the deal, arguing that it is better than the alternatives. Many Republicans, including Donald Trump, also criticize the deal, calling it a disaster. They argue that it allows Iran to become a nuclear power and does nothing to stop its expansionist policies. In response to criticism, the White House maintains that the deal will prevent Iran from acquiring nuclear weapons and provide greater transparency in its nuclear program.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Iran"
+      },
+      {
+        "id": 1,
+        "text": "Israeli Prime Minister Benjamin Netanyahu"
+      },
+      {
+        "id": 2,
+        "text": "the deal"
+      },
+      {
+        "id": 3,
+        "text": "Many Republicans, including Donald Trump"
+      },
+      {
+        "id": 4,
+        "text": "its nuclear program"
+      },
+      {
+        "id": 5,
+        "text": "United States"
+      },
+      {
+        "id": 6,
+        "text": "Russia"
+      },
+      {
+        "id": 7,
+        "text": "China"
+      },
+      {
+        "id": 8,
+        "text": "Britain"
+      },
+      {
+        "id": 9,
+        "text": "France"
+      },
+      {
+        "id": 10,
+        "text": "Germany"
+      },
+      {
+        "id": 11,
+        "text": "the European Union"
+      },
+      {
+        "id": 12,
+        "text": "third"
+      },
+      {
+        "id": 13,
+        "text": "Obama"
+      },
+      {
+        "id": 14,
+        "text": "the White House"
+      }
+    ],
+    "relations": [
+      {
+        "head": 2,
+        "relation": "criticizedBy",
+        "tail": 1
+      },
+      {
+        "head": 2,
+        "relation": "supportedBy",
+        "tail": 13
+      },
+      {
+        "head": 2,
+        "relation": "criticizedBy",
+        "tail": 3
+      },
+      {
+        "head": 2,
+        "relation": "supportedBy",
+        "tail": 14
+      },
+      {
+        "head": 2,
+        "relation": "between",
+        "tail": 0
+      }
+    ]
+  },
+  {
+    "document_id": 507,
+    "ragtruth_id": "687",
+    "text": "Israeli Prime Minister Benjamin Netanyahu criticized the recently agreed-upon deal between Iran and six world powers, stating that he believes there are better options than the current agreement. Netanyahu expressed concerns that the deal does not effectively roll back Iran's nuclear program and does not address the country's history of cheating. However, some Democratic lawmakers, such as Senator Dianne Feinstein, believe that the deal is a step in the right direction and should be given a chance to be successful. Meanwhile, Energy Secretary Ernest Moniz defended the deal, stating that it extends the breakout time for Iran to build a nuclear bomb and allows for rapid detection of any attempts to evade the agreement.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Israeli Prime Minister Benjamin Netanyahu"
+      },
+      {
+        "id": 1,
+        "text": "the recently agreed-upon deal between Iran and six world powers"
+      },
+      {
+        "id": 2,
+        "text": "Iran"
+      },
+      {
+        "id": 3,
+        "text": "the current agreement"
+      },
+      {
+        "id": 4,
+        "text": "Democratic"
+      },
+      {
+        "id": 5,
+        "text": "Dianne Feinstein"
+      },
+      {
+        "id": 6,
+        "text": "Energy"
+      },
+      {
+        "id": 7,
+        "text": "Ernest Moniz"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "criticized",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "betterThan",
+        "tail": 3
+      },
+      {
+        "head": 1,
+        "relation": "involves",
+        "tail": 2
+      },
+      {
+        "head": 1,
+        "relation": "supportedBy",
+        "tail": 5
+      },
+      {
+        "head": 1,
+        "relation": "defendedBy",
+        "tail": 7
+      },
+      {
+        "head": 1,
+        "relation": "extendsBreakoutTimeFor",
+        "tail": 2
+      }
+    ]
+  },
+  {
+    "document_id": 508,
+    "ragtruth_id": "688",
+    "text": "Here is a summary of the article in 155 words:\n\nIsraeli Prime Minister Benjamin Netanyahu criticized the recently announced deal between world powers and Iran, stating that it does not effectively address Iran's nuclear ambitions. Netanyahu argues that the deal leaves in place a vast Iranian nuclear infrastructure and does not adequately address Iran's history of cheating on international agreements. He advocates for increased pressure on Iran rather than accepting the current deal. Some Democrats, such as Senator Dianne Feinstein, disagree with Netanyahu's assessment and believe that the deal has the potential to be workable. Republicans, including Senator Lindsey Graham, remain opposed to the deal and suggest that a better agreement could be reached with a future president.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "the recently announced deal between world powers and Iran"
+      },
+      {
+        "id": 1,
+        "text": "Iran"
+      },
+      {
+        "id": 2,
+        "text": "Israeli Prime Minister Benjamin Netanyahu"
+      },
+      {
+        "id": 3,
+        "text": "155"
+      },
+      {
+        "id": 4,
+        "text": "Iranian"
+      },
+      {
+        "id": 5,
+        "text": "Democrats"
+      },
+      {
+        "id": 6,
+        "text": "Dianne Feinstein"
+      },
+      {
+        "id": 7,
+        "text": "Republicans"
+      },
+      {
+        "id": 8,
+        "text": "Lindsey Graham"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "involves",
+        "tail": 1
+      },
+      {
+        "head": 2,
+        "relation": "criticized",
+        "tail": 0
+      },
+      {
+        "head": 2,
+        "relation": "advocatesPressureOn",
+        "tail": 1
+      },
+      {
+        "head": 5,
+        "relation": "disagreeWith",
+        "tail": 2
+      },
+      {
+        "head": 6,
+        "relation": "disagreeWith",
+        "tail": 2
+      },
+      {
+        "head": 7,
+        "relation": "opposedTo",
+        "tail": 0
+      },
+      {
+        "head": 8,
+        "relation": "opposedTo",
+        "tail": 0
+      }
+    ]
+  },
+  {
+    "document_id": 509,
+    "ragtruth_id": "689",
+    "text": "Israeli Prime Minister Benjamin Netanyahu criticized the Iran nuclear deal, saying it's a \"bad deal\" that doesn't do enough to curb Iran's nuclear ambitions. He suggested a third alternative, which is to maintain pressure on Iran until a better deal is reached. This contrasts with the view of President Barack Obama, who supports the deal and believes it's the best option available. Some Democrats, such as Senator Dianne Feinstein, have also expressed support for the deal, while Republicans, including Senator Lindsey Graham, have criticized it and suggested keeping current sanctions in place until a new president takes office. Energy Secretary Ernest Moniz defended the deal, arguing that it extends the \"breakout\" time period for Iran to build a nuclear bomb and allows for instant recognition of any attempts to evade the deal.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "the Iran nuclear deal"
+      },
+      {
+        "id": 1,
+        "text": "Iran"
+      },
+      {
+        "id": 2,
+        "text": "Israeli Prime Minister Benjamin Netanyahu"
+      },
+      {
+        "id": 3,
+        "text": "suggested"
+      },
+      {
+        "id": 4,
+        "text": "third"
+      },
+      {
+        "id": 5,
+        "text": "Barack Obama"
+      },
+      {
+        "id": 6,
+        "text": "Democrats"
+      },
+      {
+        "id": 7,
+        "text": "Dianne Feinstein"
+      },
+      {
+        "id": 8,
+        "text": "Republicans"
+      },
+      {
+        "id": 9,
+        "text": "Lindsey Graham"
+      },
+      {
+        "id": 10,
+        "text": "Ernest Moniz"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "criticizedBy",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "supportedBy",
+        "tail": 5
+      },
+      {
+        "head": 0,
+        "relation": "supportedBy",
+        "tail": 6
+      },
+      {
+        "head": 0,
+        "relation": "supportedBy",
+        "tail": 7
+      },
+      {
+        "head": 0,
+        "relation": "criticizedBy",
+        "tail": 8
+      },
+      {
+        "head": 0,
+        "relation": "criticizedBy",
+        "tail": 9
+      },
+      {
+        "head": 0,
+        "relation": "defendedBy",
+        "tail": 10
+      }
+    ]
+  }
+]

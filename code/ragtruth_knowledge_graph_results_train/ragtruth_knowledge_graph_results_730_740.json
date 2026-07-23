@@ -1,0 +1,724 @@
+[
+  {
+    "document_id": 730,
+    "ragtruth_id": "982",
+    "text": "Sure! Here's the summary within 110 words:\n\nFormer NFL player Aaron Hernandez has been convicted of murder and other charges in the death of Odin Lloyd, and now faces three more trials, including one for allegedly killing two men in a nightclub shooting. Hernandez has pleaded not guilty to the charges and his lawyers plan to appeal. The families of the victims have filed civil suits against Hernandez, and he is also being sued by a man who claims he was shot by Hernandez in a Miami strip club. Additionally, the NFL players union has filed a grievance over unpaid bonus money on behalf of Hernandez.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Former NFL player Aaron Hernandez"
+      },
+      {
+        "id": 1,
+        "text": "murder and other charges in the death of Odin Lloyd"
+      },
+      {
+        "id": 2,
+        "text": "two men"
+      },
+      {
+        "id": 3,
+        "text": "a man who claims he was shot by Hernandez in a Miami strip club"
+      },
+      {
+        "id": 4,
+        "text": "110"
+      },
+      {
+        "id": 5,
+        "text": "three"
+      },
+      {
+        "id": 6,
+        "text": "one"
+      },
+      {
+        "id": 7,
+        "text": "NFL"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "convictedOf",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "faces",
+        "tail": 5
+      },
+      {
+        "head": 0,
+        "relation": "faces",
+        "tail": 6
+      },
+      {
+        "head": 0,
+        "relation": "suedBy",
+        "tail": 3
+      }
+    ]
+  },
+  {
+    "document_id": 731,
+    "ragtruth_id": "983",
+    "text": "Former New England Patriots player Aaron Hernandez, recently convicted of murder, faces additional trials for murder and civil lawsuits. He is accused of killing two men and injuring another in a 2012 shooting outside a Boston nightclub. Hernandez has pleaded not guilty and his trial has been postponed. The families of the victims have filed civil suits against him, and a judge has frozen his assets, including a disputed $3.3 million signing bonus payment from the Patriots. Hernandez is also being sued by a man who claims he was shot by Hernandez in a limousine in Miami in 2013. Additionally, the NFL players union has filed a grievance on behalf of Hernandez, seeking payment of unpaid bonus money from his 2012 contract.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Former New England Patriots player Aaron Hernandez, recently convicted of murder"
+      },
+      {
+        "id": 1,
+        "text": "two men"
+      },
+      {
+        "id": 2,
+        "text": "New England Patriots"
+      },
+      {
+        "id": 3,
+        "text": "a man who claims he was shot by Hernandez in a limousine in Miami in 2013"
+      },
+      {
+        "id": 4,
+        "text": "2012"
+      },
+      {
+        "id": 5,
+        "text": "Boston"
+      },
+      {
+        "id": 6,
+        "text": "$3.3 million"
+      },
+      {
+        "id": 7,
+        "text": "NFL"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "playerOf",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "accusedOfKilling",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "shootingDate",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "shootingLocation",
+        "tail": 5
+      },
+      {
+        "head": 0,
+        "relation": "assetAmount",
+        "tail": 6
+      },
+      {
+        "head": 0,
+        "relation": "accusedBy",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "contractDate",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "grievanceFiledBy",
+        "tail": 7
+      }
+    ]
+  },
+  {
+    "document_id": 732,
+    "ragtruth_id": "984",
+    "text": "The jury that convicted Dzhokhar Tsarnaev in the 2013 Boston Marathon bombings has been instructed by federal Judge George A. O'Toole to avoid the 2015 Boston marathon and any events related to it. The judge stressed the importance of avoiding anything that could be prejudicial in the trial's sentencing phase, which begins April 21, a day after this year's marathon. Tsarnaev was convicted on all 30 counts he faced, including using weapons of mass destruction and bombing a place of public use. The maximum penalty for several of the charges is death.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "the 2015 Boston marathon"
+      },
+      {
+        "id": 1,
+        "text": "federal Judge George A. O'Toole"
+      },
+      {
+        "id": 2,
+        "text": "Dzhokhar Tsarnaev"
+      },
+      {
+        "id": 3,
+        "text": "all 30 counts he faced, including using weapons of mass destruction and bombing a place of public use"
+      },
+      {
+        "id": 4,
+        "text": "2013"
+      },
+      {
+        "id": 5,
+        "text": "Boston Marathon"
+      },
+      {
+        "id": 6,
+        "text": "April 21"
+      },
+      {
+        "id": 7,
+        "text": "year"
+      }
+    ],
+    "relations": [
+      {
+        "head": 2,
+        "relation": "convictedIn",
+        "tail": 5
+      },
+      {
+        "head": 2,
+        "relation": "convictedIn",
+        "tail": 4
+      },
+      {
+        "head": 1,
+        "relation": "instructedToAvoid",
+        "tail": 0
+      },
+      {
+        "head": 3,
+        "relation": "maximumPenalty",
+        "tail": 0
+      },
+      {
+        "head": 3,
+        "relation": "maximumPenalty",
+        "tail": 1
+      }
+    ]
+  },
+  {
+    "document_id": 733,
+    "ragtruth_id": "985",
+    "text": "The judge in the trial of Dzhokhar Tsarnaev, the man convicted for the Boston Marathon bombings in 2013, has told jurors not to attend this year's marathon or any related events. The sentencing phase of the trial begins on April 21, the day after the marathon. Tsarnaev's defense argued that he was under the influence of his deceased brother, Tamerlan Tsarnaev, during the bombings. However, the jury convicted him on all 30 counts, including using weapons of mass destruction. The maximum penalty for some of the charges is death. The sentencing phase is expected to last four weeks.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "the trial of Dzhokhar Tsarnaev, the man convicted for the Boston Marathon bombings in 2013"
+      },
+      {
+        "id": 1,
+        "text": "this year's marathon"
+      },
+      {
+        "id": 2,
+        "text": "Dzhokhar Tsarnaev, the man convicted for the Boston Marathon bombings in 2013"
+      },
+      {
+        "id": 3,
+        "text": "the Boston Marathon bombings in 2013"
+      },
+      {
+        "id": 4,
+        "text": "all 30 counts, including using weapons of mass destruction"
+      },
+      {
+        "id": 5,
+        "text": "The sentencing phase of the trial"
+      },
+      {
+        "id": 6,
+        "text": "April 21"
+      },
+      {
+        "id": 7,
+        "text": "the day"
+      },
+      {
+        "id": 8,
+        "text": "Tamerlan Tsarnaev"
+      },
+      {
+        "id": 9,
+        "text": "last four weeks"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "sentencingPhaseStartDate",
+        "tail": 6
+      },
+      {
+        "head": 5,
+        "relation": "startsAfter",
+        "tail": 1
+      },
+      {
+        "head": 2,
+        "relation": "convictedFor",
+        "tail": 3
+      },
+      {
+        "head": 2,
+        "relation": "influenceBy",
+        "tail": 8
+      },
+      {
+        "head": 2,
+        "relation": "convictedOn",
+        "tail": 4
+      },
+      {
+        "head": 4,
+        "relation": "maximumPenalty",
+        "tail": 9
+      }
+    ]
+  },
+  {
+    "document_id": 734,
+    "ragtruth_id": "986",
+    "text": "Federal Judge George A. O'Toole instructed the jury in the Dzhokhar Tsarnaev trial to avoid attending the Boston Marathon or any events related to it during the sentencing phase. The judge emphasized the importance of avoiding anything that could be seen as prejudicial. The Boston Marathon has been held annually since its founding in 1897. However, due to the 2013 bombings, security measures have been tightened and the event will be closely monitored this year. The jury has already convicted Tsarnaev on all 30 counts he faced, and he now awaits sentencing. The judge predicts that the sentencing phase will last four weeks and has warned jurors to put the case out of their minds and enjoy the warm weather.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "the Boston Marathon"
+      },
+      {
+        "id": 1,
+        "text": "Federal Judge George A. O'Toole"
+      },
+      {
+        "id": 2,
+        "text": "the jury in the Dzhokhar Tsarnaev trial"
+      },
+      {
+        "id": 3,
+        "text": "Dzhokhar Tsarnaev"
+      },
+      {
+        "id": 4,
+        "text": "the sentencing phase"
+      },
+      {
+        "id": 5,
+        "text": "jurors"
+      },
+      {
+        "id": 6,
+        "text": "annually"
+      },
+      {
+        "id": 7,
+        "text": "1897"
+      },
+      {
+        "id": 8,
+        "text": "2013"
+      },
+      {
+        "id": 9,
+        "text": "this year"
+      },
+      {
+        "id": 10,
+        "text": "30"
+      },
+      {
+        "id": 11,
+        "text": "last four weeks"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "foundedIn",
+        "tail": 7
+      },
+      {
+        "head": 0,
+        "relation": "heldAnnually",
+        "tail": 6
+      },
+      {
+        "head": 0,
+        "relation": "relatedTo",
+        "tail": 8
+      },
+      {
+        "head": 0,
+        "relation": "monitoredIn",
+        "tail": 9
+      },
+      {
+        "head": 4,
+        "relation": "duration",
+        "tail": 11
+      },
+      {
+        "head": 3,
+        "relation": "count",
+        "tail": 10
+      }
+    ]
+  },
+  {
+    "document_id": 735,
+    "ragtruth_id": "987",
+    "text": "Here is a summary of the article in 106 words:\n\nA Boston Marathon bomber, Dzhokhar Tsarnaev, has been convicted by a jury on all 30 counts, including using weapons of mass destruction and bombing a public place. The trial has entered the sentencing phase, with the possibility of the death penalty. The judge warned the jurors to avoid any activities related to the marathon, including attending the event, due to the sensitivity of the trial. The sentencing phase is expected to last four weeks, with the court in session four days a week.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "a jury"
+      },
+      {
+        "id": 1,
+        "text": "Boston Marathon"
+      },
+      {
+        "id": 2,
+        "text": "The trial"
+      },
+      {
+        "id": 3,
+        "text": "the sentencing phase"
+      },
+      {
+        "id": 4,
+        "text": "106"
+      },
+      {
+        "id": 5,
+        "text": "Dzhokhar Tsarnaev"
+      },
+      {
+        "id": 6,
+        "text": "30"
+      },
+      {
+        "id": 7,
+        "text": "last four weeks"
+      },
+      {
+        "id": 8,
+        "text": "four days"
+      }
+    ],
+    "relations": [
+      {
+        "head": 5,
+        "relation": "convictedBy",
+        "tail": 0
+      },
+      {
+        "head": 2,
+        "relation": "hasPhase",
+        "tail": 3
+      },
+      {
+        "head": 3,
+        "relation": "duration",
+        "tail": 7
+      },
+      {
+        "head": 3,
+        "relation": "sessionFrequency",
+        "tail": 8
+      }
+    ]
+  },
+  {
+    "document_id": 736,
+    "ragtruth_id": "988",
+    "text": "Sure! Here's the summary within 106 words:\n\nJudge George A. O'Toole has warned the jury not to attend the Boston Marathon or any related events due to the sensitive nature of the upcoming sentencing phase of Dzhokhar Tsarnaev's trial. The jury convicted Tsarnaev on all 30 counts related to the 2013 marathon bombings, and the sentencing phase is set to begin on April 21. The judge cautioned the jury to avoid anything that could be prejudicial and emphasized the seriousness of the case.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "the jury"
+      },
+      {
+        "id": 1,
+        "text": "Dzhokhar Tsarnaev's"
+      },
+      {
+        "id": 2,
+        "text": "the upcoming sentencing phase of Dzhokhar Tsarnaev's trial"
+      },
+      {
+        "id": 3,
+        "text": "Judge George A. O'Toole"
+      },
+      {
+        "id": 4,
+        "text": "106"
+      },
+      {
+        "id": 5,
+        "text": "the Boston Marathon"
+      },
+      {
+        "id": 6,
+        "text": "30"
+      },
+      {
+        "id": 7,
+        "text": "2013"
+      },
+      {
+        "id": 8,
+        "text": "April 21"
+      }
+    ],
+    "relations": [
+      {
+        "head": 2,
+        "relation": "startDate",
+        "tail": 8
+      },
+      {
+        "head": 1,
+        "relation": "count",
+        "tail": 6
+      },
+      {
+        "head": 1,
+        "relation": "year",
+        "tail": 7
+      }
+    ]
+  },
+  {
+    "document_id": 737,
+    "ragtruth_id": "989",
+    "text": "The jury that convicted Dzhokhar Tsarnaev in the Boston Marathon bombing case has been warned by a federal judge not to attend this year's marathon or any related events. The judge emphasized the importance of avoiding anything that could be seen as prejudicial during the trial's sentencing phase, which begins on April 21. Tsarnaev was convicted on all 30 counts he faced, including using weapons of mass destruction and conspiracy. The maximum penalty for several of the charges is death. The sentencing phase is expected to last four weeks, but the judge cautioned that the timetable is uncertain.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "a federal judge"
+      },
+      {
+        "id": 1,
+        "text": "this year's marathon"
+      },
+      {
+        "id": 2,
+        "text": "Dzhokhar Tsarnaev"
+      },
+      {
+        "id": 3,
+        "text": "all 30 counts he faced, including using weapons of mass destruction and conspiracy"
+      },
+      {
+        "id": 4,
+        "text": "the trial's sentencing phase, which begins on April 21"
+      },
+      {
+        "id": 5,
+        "text": "four weeks"
+      },
+      {
+        "id": 6,
+        "text": "the Boston Marathon"
+      },
+      {
+        "id": 7,
+        "text": "last four weeks"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "warned",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "warnedAgainstAttending",
+        "tail": 1
+      },
+      {
+        "head": 4,
+        "relation": "beginsOn",
+        "tail": 1
+      },
+      {
+        "head": 2,
+        "relation": "convictedIn",
+        "tail": 6
+      },
+      {
+        "head": 2,
+        "relation": "convictedOf",
+        "tail": 3
+      },
+      {
+        "head": 4,
+        "relation": "duration",
+        "tail": 5
+      },
+      {
+        "head": 4,
+        "relation": "lasts",
+        "tail": 7
+      }
+    ]
+  },
+  {
+    "document_id": 738,
+    "ragtruth_id": "990",
+    "text": "A Forbes article has highlighted the recent shift in the US tax landscape from fear to elation, with the expectation of receiving a refund. The tax system in the US is becoming increasingly influenced by wage tax, with limited taxes on capital and limited deductions for most individuals, with 75% of Americans using a standard deduction receiving no tax break for their charitable contributions. But these facts are often overlooked by the majority of US taxpayers who are expecting an average refund of $3,000. The fact that the tax system is biased against two-worker marriages, with taxes increasing when two equal earners marry, and is overly complex and essentially optional for the truly wealthy, is not the focus for most US taxpayers, who are too busy spending their refunds.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "75% of Americans using a standard deduction"
+      },
+      {
+        "id": 1,
+        "text": "The tax system in the US"
+      },
+      {
+        "id": 2,
+        "text": "most US taxpayers, who are too busy spending their refunds"
+      },
+      {
+        "id": 3,
+        "text": "Forbes"
+      },
+      {
+        "id": 4,
+        "text": "US"
+      },
+      {
+        "id": 5,
+        "text": "US"
+      },
+      {
+        "id": 6,
+        "text": "3,000"
+      },
+      {
+        "id": 7,
+        "text": "two"
+      },
+      {
+        "id": 8,
+        "text": "two"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "locatedIn",
+        "tail": 4
+      },
+      {
+        "head": 1,
+        "relation": "biasedAgainst",
+        "tail": 7
+      }
+    ]
+  },
+  {
+    "document_id": 739,
+    "ragtruth_id": "991",
+    "text": "Recent statistics show that 8 out of 10 American taxpayers receive a tax refund, with the average amount being close to $3000. This positive news has turned Tax Day into a happy spending spree for most Americans. The U.S. income tax system has become increasingly focused on taxing wages, with limited taxes on capital and limited deductions for the majority of people. While there are still issues of unfairness in the tax laws, such as bias against two-worker marriages and the wealthy benefitting from untaxed capital returns, the focus now is on the short-term bliss of receiving a tax refund. The simplicity of tax filing has also improved, with software and service providers offering to do the paperwork for free. This has made the once dreaded task of filing taxes more bearable for many. Service providers are hoping that customers, once they see their large refunds, will be inclined to purchase additional services or deposit the money into financial accounts managed by the provider. Despite the underlying issues with the tax system, the positive ending of a tax refund seems to overshadow any previous unpleasantness.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "offering"
+      },
+      {
+        "id": 1,
+        "text": "customers"
+      },
+      {
+        "id": 2,
+        "text": "their large refunds"
+      },
+      {
+        "id": 3,
+        "text": "The U.S. income tax system"
+      },
+      {
+        "id": 4,
+        "text": "This positive news"
+      },
+      {
+        "id": 5,
+        "text": "8"
+      },
+      {
+        "id": 6,
+        "text": "10"
+      },
+      {
+        "id": 7,
+        "text": "American"
+      },
+      {
+        "id": 8,
+        "text": "close to $3000"
+      },
+      {
+        "id": 9,
+        "text": "Tax Day"
+      },
+      {
+        "id": 10,
+        "text": "Americans"
+      },
+      {
+        "id": 11,
+        "text": "two"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "refundAmount",
+        "tail": 2
+      },
+      {
+        "head": 3,
+        "relation": "focus",
+        "tail": 7
+      },
+      {
+        "head": 3,
+        "relation": "focus",
+        "tail": 11
+      },
+      {
+        "head": 4,
+        "relation": "affects",
+        "tail": 9
+      },
+      {
+        "head": 4,
+        "relation": "affects",
+        "tail": 10
+      },
+      {
+        "head": 0,
+        "relation": "offers",
+        "tail": 1
+      },
+      {
+        "head": 1,
+        "relation": "receives",
+        "tail": 2
+      }
+    ]
+  }
+]

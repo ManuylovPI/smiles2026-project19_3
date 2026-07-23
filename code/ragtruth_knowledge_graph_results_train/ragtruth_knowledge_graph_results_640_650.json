@@ -1,0 +1,559 @@
+[
+  {
+    "document_id": 640,
+    "ragtruth_id": "862",
+    "text": "Here is a summary of the article in 200 words or less:\n\nThe Department of Justice will soon negotiate with the city of Ferguson to restructure the police department following a scathing report detailing racial discrimination and abuse of power. The report found that the police department and court system targeted African Americans with excessive fines and force. The city's mayor and police chief have resigned, and two black candidates were elected to the city council. The Department of Justice may disband the Ferguson police department and integrate it with the St. Louis County police. Local activists must ensure that the new police department represents their vision and that the mayor, who has defiantly refused to resign, commits to a clear set of principles for the negotiations. The Ferguson situation highlights flaws in democratic systems of government in towns across America, and the change that comes to Ferguson could inspire change in other jurisdictions with similar issues.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "a scathing report detailing racial discrimination and abuse of power"
+      },
+      {
+        "id": 1,
+        "text": "the city of Ferguson"
+      },
+      {
+        "id": 2,
+        "text": "The Department of Justice"
+      },
+      {
+        "id": 3,
+        "text": "the police department"
+      },
+      {
+        "id": 4,
+        "text": "Local activists"
+      },
+      {
+        "id": 5,
+        "text": "The city's mayor"
+      },
+      {
+        "id": 6,
+        "text": "negotiate"
+      },
+      {
+        "id": 7,
+        "text": "200"
+      },
+      {
+        "id": 8,
+        "text": "African Americans"
+      },
+      {
+        "id": 9,
+        "text": "two"
+      },
+      {
+        "id": 10,
+        "text": "St. Louis County"
+      },
+      {
+        "id": 11,
+        "text": "America"
+      }
+    ],
+    "relations": [
+      {
+        "head": 2,
+        "relation": "negotiateWith",
+        "tail": 1
+      },
+      {
+        "head": 3,
+        "relation": "restructureBy",
+        "tail": 2
+      },
+      {
+        "head": 3,
+        "relation": "integratedWith",
+        "tail": 10
+      }
+    ]
+  },
+  {
+    "document_id": 641,
+    "ragtruth_id": "863",
+    "text": "Ferguson, Missouri is set to undergo significant changes in its police department and local government following a Department of Justice (DOJ) investigation that found a pattern of racial discrimination and unconstitutional practices. The DOJ report recommended changes to the police department, including new training and supervision of officers, addressing racially discriminatory conduct, and structural revisions in the court system. The city's police chief has resigned, and the town manager and three city council members have also stepped down. The council will now have a majority of black members, and a new police chief will be appointed. The mayor, however, has not yet resigned and has defied calls to do so. The city's governance structure, which gives significant power to non-elected officials, may also be re-evaluated. The events in Ferguson have highlighted the need for change in local governance structures across the US, particularly in working-class suburbs with majority black populations. Activists and residents in Ferguson are pushing for broader reforms and greater accountability in local government, and their efforts may serve as a model for other towns facing similar challenges.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Ferguson, Missouri"
+      },
+      {
+        "id": 1,
+        "text": "a Department of Justice (DOJ) investigation that found a pattern of racial discrimination and unconstitutional practices"
+      },
+      {
+        "id": 2,
+        "text": "Department of Justice"
+      },
+      {
+        "id": 3,
+        "text": "its police department"
+      },
+      {
+        "id": 4,
+        "text": "Activists and residents in Ferguson"
+      },
+      {
+        "id": 5,
+        "text": "three"
+      },
+      {
+        "id": 6,
+        "text": "US"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "hasPoliceDepartment",
+        "tail": 3
+      },
+      {
+        "head": 1,
+        "relation": "conductedBy",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "locatedIn",
+        "tail": 6
+      }
+    ]
+  },
+  {
+    "document_id": 642,
+    "ragtruth_id": "864",
+    "text": "Elizabeth Sedway, a cancer patient, was removed from an Alaska Airlines flight from Hawaii to California because she did not have a doctor's note permitting her to fly. Sedway, who was in Hawaii to celebrate her wedding anniversary, was asked by an airline employee about her health after she was seen sitting in the handicapped section. When she mentioned that she sometimes felt weak, the airline decided to remove her from the flight. The airline has since apologized for the incident, refunded her family's tickets and paid for their overnight accommodation.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Elizabeth Sedway, a cancer patient"
+      },
+      {
+        "id": 1,
+        "text": "Hawaii"
+      },
+      {
+        "id": 2,
+        "text": "Alaska Airlines"
+      },
+      {
+        "id": 3,
+        "text": "an Alaska Airlines flight from Hawaii to California"
+      },
+      {
+        "id": 4,
+        "text": "her family's"
+      },
+      {
+        "id": 5,
+        "text": "overnight"
+      }
+    ],
+    "relations": [
+      {
+        "head": 3,
+        "relation": "departurePlace",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "removedFrom",
+        "tail": 3
+      },
+      {
+        "head": 2,
+        "relation": "apologizedFor",
+        "tail": 0
+      },
+      {
+        "head": 2,
+        "relation": "refunded",
+        "tail": 4
+      },
+      {
+        "head": 2,
+        "relation": "paidFor",
+        "tail": 5
+      }
+    ]
+  },
+  {
+    "document_id": 643,
+    "ragtruth_id": "865",
+    "text": "Elizabeth Sedway, a woman with cancer, was removed from an Alaska Airlines plane in Hawaii because she didn't have a doctor's note allowing her to fly. Sedway eventually got on a flight back to California and received an apology from the airline. The incident occurred after an airline employee noticed Sedway seated in the handicapped section and asked her how she was doing. Sedway mentioned feeling weak, leading to a call to a doctor and her removal from the plane. Alaska Airlines apologized for the disruption caused and refunded Sedway's family's tickets while also paying for their overnight accommodations.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Elizabeth Sedway, a woman with cancer"
+      },
+      {
+        "id": 1,
+        "text": "Alaska Airlines"
+      },
+      {
+        "id": 2,
+        "text": "removed"
+      },
+      {
+        "id": 3,
+        "text": "an Alaska Airlines plane in Hawaii"
+      },
+      {
+        "id": 4,
+        "text": "Sedway's family's"
+      },
+      {
+        "id": 5,
+        "text": "California"
+      },
+      {
+        "id": 6,
+        "text": "overnight"
+      }
+    ],
+    "relations": [
+      {
+        "head": 3,
+        "relation": "removed",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "destination",
+        "tail": 5
+      }
+    ]
+  },
+  {
+    "document_id": 644,
+    "ragtruth_id": "866",
+    "text": "Elizabeth Sedway, who had cancer and was traveling back to San Jose, California, from Hawaii, was removed from her Alaska Airlines plane due to her health condition. She posted a video on Facebook showing her group packing up as the plane sat at the gate. In the video, a woman is heard saying that Sedway was being removed because she didn't have a doctor's note saying she could fly. Sedway eventually got on a flight back to California, but the incident caused disruptions to her cancer treatment and her family's schedules. Alaska Airlines apologized to Sedway and refunded her family's tickets and paid for their overnight accommodations.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Elizabeth Sedway, who had cancer and was traveling back to San Jose, California, from Hawaii"
+      },
+      {
+        "id": 1,
+        "text": "her Alaska Airlines plane"
+      },
+      {
+        "id": 2,
+        "text": "a video"
+      },
+      {
+        "id": 3,
+        "text": "removed"
+      },
+      {
+        "id": 4,
+        "text": "California"
+      },
+      {
+        "id": 5,
+        "text": "Alaska Airlines"
+      },
+      {
+        "id": 6,
+        "text": "her family's"
+      },
+      {
+        "id": 7,
+        "text": "overnight"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "removedFrom",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "travelDestination",
+        "tail": 4
+      },
+      {
+        "head": 2,
+        "relation": "postedBy",
+        "tail": 0
+      },
+      {
+        "head": 5,
+        "relation": "apologizedTo",
+        "tail": 0
+      }
+    ]
+  },
+  {
+    "document_id": 645,
+    "ragtruth_id": "867",
+    "text": "Elizabeth Sedway was removed from an Alaska Airlines flight from Hawaii to San Jose due to concern about her health after she disclosed that she has cancer. Despite apologizing, the airline's policy of calling a medical emergency team before takeoff may have been the wrong decision, as Sedway later got on another flight without any issues.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Elizabeth Sedway"
+      },
+      {
+        "id": 1,
+        "text": "Alaska Airlines"
+      },
+      {
+        "id": 2,
+        "text": "Hawaii"
+      },
+      {
+        "id": 3,
+        "text": "San Jose"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "removedFromFlight",
+        "tail": 1
+      },
+      {
+        "head": 1,
+        "relation": "flightFrom",
+        "tail": 2
+      },
+      {
+        "head": 1,
+        "relation": "flightTo",
+        "tail": 3
+      }
+    ]
+  },
+  {
+    "document_id": 646,
+    "ragtruth_id": "868",
+    "text": "Sure! Here's the summary within 102 words:\n\nElizabeth Sedway, diagnosed with cancer, was removed from an Alaska Airlines flight from Hawaii to California because she didn't have a doctor's note permitting her to fly. Despite her apology, the airline still took her off the plane, citing safety concerns. Sedway missed her chemotherapy session, and her family missed important appointments due to the delay. Alaska Airlines later apologized and refunded their tickets.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Elizabeth Sedway, diagnosed with cancer"
+      },
+      {
+        "id": 1,
+        "text": "Alaska Airlines"
+      },
+      {
+        "id": 2,
+        "text": "an Alaska Airlines flight from Hawaii to California"
+      },
+      {
+        "id": 3,
+        "text": "her family"
+      },
+      {
+        "id": 4,
+        "text": "102"
+      }
+    ],
+    "relations": [
+      {
+        "head": 2,
+        "relation": "airline",
+        "tail": 1
+      }
+    ]
+  },
+  {
+    "document_id": 647,
+    "ragtruth_id": "869",
+    "text": "A woman named Elizabeth Sedway was removed from an Alaska Airlines flight from Hawaii to California due to her cancer diagnosis, as she didn't have a doctor's note allowing her to fly. She was heading home to San Jose, where she would receive chemotherapy, but the airline staff decided to call MedLink, a group of ER nurses and doctors, who deemed it safer for her to address her medical issues on the ground. Sedway was eventually allowed to fly, but not before she was forced to spend the night in Hawaii and miss important appointments, including chemotherapy and school for her children. Alaska Airlines apologized and refunded her family's tickets, paying for their accommodations as well.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "A woman named Elizabeth Sedway"
+      },
+      {
+        "id": 1,
+        "text": "Hawaii"
+      },
+      {
+        "id": 2,
+        "text": "Alaska Airlines"
+      },
+      {
+        "id": 3,
+        "text": "her family's"
+      },
+      {
+        "id": 4,
+        "text": "California"
+      },
+      {
+        "id": 5,
+        "text": "San Jose"
+      },
+      {
+        "id": 6,
+        "text": "MedLink"
+      },
+      {
+        "id": 7,
+        "text": "ER"
+      },
+      {
+        "id": 8,
+        "text": "the night"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "departureLocation",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "destination",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "homeLocation",
+        "tail": 5
+      },
+      {
+        "head": 0,
+        "relation": "spentTimeIn",
+        "tail": 8
+      },
+      {
+        "head": 2,
+        "relation": "called",
+        "tail": 6
+      }
+    ]
+  },
+  {
+    "document_id": 648,
+    "ragtruth_id": "870",
+    "text": "7-Eleven is hosting a Bring-Your-Own-Cup Slurpee Day at US stores from 11 a.m. to 7 p.m. this Saturday to mark the start of peak Slurpee season. Customers can fill their chosen vessel for $1.49, provided it fits a 10-inch-diameter hole and is sanitary.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Customers"
+      },
+      {
+        "id": 1,
+        "text": "their chosen vessel"
+      },
+      {
+        "id": 2,
+        "text": "7-Eleven"
+      },
+      {
+        "id": 3,
+        "text": "a Bring-Your-Own-Cup Slurpee Day"
+      },
+      {
+        "id": 4,
+        "text": "US"
+      },
+      {
+        "id": 5,
+        "text": "11 a.m. to 7 p.m."
+      },
+      {
+        "id": 6,
+        "text": "this Saturday"
+      },
+      {
+        "id": 7,
+        "text": "1.49"
+      },
+      {
+        "id": 8,
+        "text": "10-inch"
+      }
+    ],
+    "relations": [
+      {
+        "head": 3,
+        "relation": "hostedBy",
+        "tail": 2
+      },
+      {
+        "head": 3,
+        "relation": "location",
+        "tail": 4
+      },
+      {
+        "head": 3,
+        "relation": "time",
+        "tail": 5
+      },
+      {
+        "head": 3,
+        "relation": "date",
+        "tail": 6
+      },
+      {
+        "head": 1,
+        "relation": "price",
+        "tail": 7
+      }
+    ]
+  },
+  {
+    "document_id": 649,
+    "ragtruth_id": "871",
+    "text": "7-Eleven is hosting a Bring-Your-Own-Cup Slurpee Day in the US. Customers can fill their chosen cup for $1.49. Cups must be sanitary and not too large, but otherwise, creativity is encouraged. This is not the same as Free Slurpee Day in July.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Customers"
+      },
+      {
+        "id": 1,
+        "text": "a Bring-Your-Own-Cup Slurpee Day"
+      },
+      {
+        "id": 2,
+        "text": "7-Eleven"
+      },
+      {
+        "id": 3,
+        "text": "US"
+      },
+      {
+        "id": 4,
+        "text": "1.49"
+      },
+      {
+        "id": 5,
+        "text": "July"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "hostedBy",
+        "tail": 2
+      },
+      {
+        "head": 1,
+        "relation": "location",
+        "tail": 3
+      },
+      {
+        "head": 1,
+        "relation": "price",
+        "tail": 4
+      },
+      {
+        "head": 1,
+        "relation": "notSameAs",
+        "tail": 5
+      }
+    ]
+  }
+]

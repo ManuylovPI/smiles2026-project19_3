@@ -1,0 +1,992 @@
+[
+  {
+    "document_id": 340,
+    "ragtruth_id": "454",
+    "text": "Joss Whedon and Drew Goddard are being sued for $10 million for allegedly stealing the idea of their 2012 movie \"The Cabin in the Woods\" from a 2006 novel called \"The Little White Trip: A Night in the Pines.\" The plaintiff, Peter Gallagher, claims the works have similar premises and character names, and that he tried to sell his book to the same producers who later made the movie. Whedon and Goddard deny the accusations.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Joss Whedon and Drew Goddard"
+      },
+      {
+        "id": 1,
+        "text": "The plaintiff, Peter Gallagher"
+      },
+      {
+        "id": 2,
+        "text": "a 2006 novel called \"The Little White Trip: A Night in the Pines"
+      },
+      {
+        "id": 3,
+        "text": "their 2012 movie \"The Cabin in the Woods\""
+      },
+      {
+        "id": 4,
+        "text": "Joss Whedon"
+      },
+      {
+        "id": 5,
+        "text": "Drew Goddard"
+      },
+      {
+        "id": 6,
+        "text": "claims"
+      },
+      {
+        "id": 7,
+        "text": "$10 million"
+      }
+    ],
+    "relations": [
+      {
+        "head": 3,
+        "relation": "basedOn",
+        "tail": 2
+      },
+      {
+        "head": 3,
+        "relation": "producer",
+        "tail": 0
+      },
+      {
+        "head": 1,
+        "relation": "attemptedToSellTo",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "accusedOfStealingIdeaFrom",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "suedFor",
+        "tail": 7
+      }
+    ]
+  },
+  {
+    "document_id": 341,
+    "ragtruth_id": "455",
+    "text": "Author Peter Gallagher is suing Joss Whedon and Drew Goddard for allegedly stealing the idea for their 2012 film \"The Cabin in the Woods\" from his 2006 novel \"The Little White Trip: A Night In the Pines.\" The lawsuit claims that both works feature similar premises, characters, and scenes, and seeks $10 million in damages. Gallagher alleges that he self-published the novel and sold it on the Venice Beach boardwalk and Santa Monica's Third Street Promenade, where the defendants reside and operate. Lionsgate has declined to comment, and representatives for Whedon and Goddard have not responded.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Joss Whedon and Drew Goddard"
+      },
+      {
+        "id": 1,
+        "text": "Author Peter Gallagher"
+      },
+      {
+        "id": 2,
+        "text": "suing"
+      },
+      {
+        "id": 3,
+        "text": "his 2006 novel \"The Little White Trip: A Night In the Pines"
+      },
+      {
+        "id": 4,
+        "text": "Joss Whedon"
+      },
+      {
+        "id": 5,
+        "text": "Drew Goddard"
+      },
+      {
+        "id": 6,
+        "text": "2012"
+      },
+      {
+        "id": 7,
+        "text": "\"The Cabin in the Woods"
+      },
+      {
+        "id": 8,
+        "text": "$10 million"
+      },
+      {
+        "id": 9,
+        "text": "Venice Beach"
+      },
+      {
+        "id": 10,
+        "text": "Santa Monica's"
+      },
+      {
+        "id": 11,
+        "text": "Third Street Promenade"
+      }
+    ],
+    "relations": [
+      {
+        "head": 7,
+        "relation": "basedOn",
+        "tail": 3
+      },
+      {
+        "head": 1,
+        "relation": "sues",
+        "tail": 0
+      },
+      {
+        "head": 1,
+        "relation": "damages",
+        "tail": 8
+      },
+      {
+        "head": 3,
+        "relation": "publishedIn",
+        "tail": 6
+      },
+      {
+        "head": 3,
+        "relation": "soldAt",
+        "tail": 9
+      },
+      {
+        "head": 3,
+        "relation": "soldAt",
+        "tail": 11
+      }
+    ]
+  },
+  {
+    "document_id": 342,
+    "ragtruth_id": "456",
+    "text": "Saudi Arabia has executed a second Indonesian maid this week, despite protests from Jakarta. The Indonesian government summoned the Saudi ambassador to the foreign ministry after learning that 37-year-old Karni Bt. Medi Tarsim had been beheaded without official warning; she was sentenced to death in March 2013 for killing her employer's four-year-old child. This followed the execution of Siti Zaenab Bt. Duhri Rupa on Tuesday, for which Indonesia also received no prior warning. Siti, 47, was convicted of killing her employer's wife in 1999, but the death penalty was delayed until the youngest of the victim's sons reached puberty and was old enough to consider requesting her pardon; he did not. Rights groups suspect Siti was mentally ill and cast aspersions on claims she had confessed to the crime. Amnesty International also said reports suggested she had been abused while working in the victim's home. The Indonesian government said the protection of its citizens abroad was a \"priority\" and listed the steps it had taken to help Siti, including providing legal aid, writing letters to the Saudi King and \"continuous efforts... to ask for forgiveness from the family.\" Indonesia's efforts to save its own citizens does not sit well with advocates who are seeking the same mercy for foreigners languishing on Indonesia's death row.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "a second Indonesian maid"
+      },
+      {
+        "id": 1,
+        "text": "sentenced"
+      },
+      {
+        "id": 2,
+        "text": "The Indonesian government"
+      },
+      {
+        "id": 3,
+        "text": "Siti, 47,"
+      },
+      {
+        "id": 4,
+        "text": "her employer's"
+      },
+      {
+        "id": 5,
+        "text": "the youngest of the victim's sons"
+      },
+      {
+        "id": 6,
+        "text": "killing"
+      },
+      {
+        "id": 7,
+        "text": "the victim's"
+      },
+      {
+        "id": 8,
+        "text": "Saudi Arabia"
+      },
+      {
+        "id": 9,
+        "text": "this week"
+      },
+      {
+        "id": 10,
+        "text": "Jakarta"
+      },
+      {
+        "id": 11,
+        "text": "Saudi"
+      },
+      {
+        "id": 12,
+        "text": "the foreign ministry"
+      },
+      {
+        "id": 13,
+        "text": "March 2013"
+      },
+      {
+        "id": 14,
+        "text": "four-year-old"
+      },
+      {
+        "id": 15,
+        "text": "Siti Zaenab Bt"
+      },
+      {
+        "id": 16,
+        "text": "Duhri Rupa"
+      },
+      {
+        "id": 17,
+        "text": "Tuesday"
+      },
+      {
+        "id": 18,
+        "text": "1999"
+      },
+      {
+        "id": 19,
+        "text": "Amnesty International"
+      },
+      {
+        "id": 20,
+        "text": "Saudi"
+      }
+    ],
+    "relations": [
+      {
+        "head": 8,
+        "relation": "executed",
+        "tail": 0
+      },
+      {
+        "head": 0,
+        "relation": "sentencedToDeath",
+        "tail": 13
+      },
+      {
+        "head": 3,
+        "relation": "convictedOf",
+        "tail": 6
+      },
+      {
+        "head": 3,
+        "relation": "killed",
+        "tail": 7
+      },
+      {
+        "head": 2,
+        "relation": "summoned",
+        "tail": 11
+      },
+      {
+        "head": 2,
+        "relation": "helped",
+        "tail": 3
+      },
+      {
+        "head": 2,
+        "relation": "wroteTo",
+        "tail": 20
+      }
+    ]
+  },
+  {
+    "document_id": 343,
+    "ragtruth_id": "457",
+    "text": "Saudi Arabia has executed a second Indonesian maid, Karni Bt. Medi Tarsim, despite protests from Jakarta. The Indonesian government summoned the Saudi ambassador after learning that Tarsim had been beheaded without official warning. Tarsim was sentenced to death in 2013 for killing her employer's four-year-old child. She was the second Indonesian domestic worker executed by the Saudis that week, following the death of Siti Zaenab Bt. Duhri Rupa, which was also carried out without prior warning. Rights groups suspect that both women may have been mentally ill and have criticized the lack of humanity in the executions. The Indonesian government claims to prioritize the protection of its citizens abroad and has made efforts to save citizens from the death penalty. However, this has led to criticism from advocates who argue that Indonesia should also abolish the death penalty for foreigners on its own death row. Two high-profile cases are those of Andrew Chan and Myuran Sukumaran, Australians convicted of drug smuggling in 2005. They are currently awaiting execution on Nusakambangan Island. Human Rights Watch has called on President Jokowi Widodo to suspend all planned executions in Indonesia.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Jakarta"
+      },
+      {
+        "id": 1,
+        "text": "a second Indonesian maid, Karni Bt. Medi Tarsim"
+      },
+      {
+        "id": 2,
+        "text": "Saudi Arabia"
+      },
+      {
+        "id": 3,
+        "text": "Andrew Chan and Myuran Sukumaran, Australians convicted of drug smuggling in 2005"
+      },
+      {
+        "id": 4,
+        "text": "Saudi"
+      },
+      {
+        "id": 5,
+        "text": "2013"
+      },
+      {
+        "id": 6,
+        "text": "four-year-old"
+      },
+      {
+        "id": 7,
+        "text": "second"
+      },
+      {
+        "id": 8,
+        "text": "Indonesian"
+      },
+      {
+        "id": 9,
+        "text": "that week"
+      },
+      {
+        "id": 10,
+        "text": "Siti Zaenab Bt"
+      },
+      {
+        "id": 11,
+        "text": "Duhri Rupa"
+      },
+      {
+        "id": 12,
+        "text": "Two"
+      },
+      {
+        "id": 13,
+        "text": "Nusakambangan Island"
+      },
+      {
+        "id": 14,
+        "text": "Jokowi Widodo"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "executedBy",
+        "tail": 2
+      },
+      {
+        "head": 1,
+        "relation": "nationality",
+        "tail": 8
+      },
+      {
+        "head": 1,
+        "relation": "deathSentenceYear",
+        "tail": 5
+      },
+      {
+        "head": 1,
+        "relation": "executionCount",
+        "tail": 7
+      },
+      {
+        "head": 3,
+        "relation": "awaitingExecutionIn",
+        "tail": 13
+      },
+      {
+        "head": 3,
+        "relation": "convictedOf",
+        "tail": 12
+      },
+      {
+        "head": 14,
+        "relation": "calledOn",
+        "tail": 2
+      }
+    ]
+  },
+  {
+    "document_id": 344,
+    "ragtruth_id": "458",
+    "text": "Saudi Arabia executed a second Indonesian maid in a matter of days, sparking outrage from Jakarta and rights groups. The executions were carried out without any prior notice to Indonesian officials. The Indonesian government has been criticized for its failure to grant clemency to several foreigners on death row. Meanwhile, Indonesia continues to advocate for the protection of its own citizens abroad while denying clemency to foreign nationals on its own death row. The tensions between the two countries highlight the complexities surrounding the application of the death penalty and the principles of justice and equality.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "executed"
+      },
+      {
+        "id": 1,
+        "text": "Jakarta"
+      },
+      {
+        "id": 2,
+        "text": "Saudi Arabia"
+      },
+      {
+        "id": 3,
+        "text": "second"
+      },
+      {
+        "id": 4,
+        "text": "Indonesian"
+      },
+      {
+        "id": 5,
+        "text": "a matter of days"
+      },
+      {
+        "id": 6,
+        "text": "Indonesian"
+      },
+      {
+        "id": 7,
+        "text": "two"
+      }
+    ],
+    "relations": [
+      {
+        "head": 2,
+        "relation": "executed",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "timeSpan",
+        "tail": 5
+      }
+    ]
+  },
+  {
+    "document_id": 345,
+    "ragtruth_id": "459",
+    "text": "Saudi Arabia has executed an Indonesian maid despite protests from Jakarta, which is facing criticism for failing to grant clemency to foreigners on death row. The Indonesian government summoned the Saudi ambassador after learning of the execution, which was carried out without official warning. This is the second Indonesian domestic worker to be executed by Saudi Arabia this week, following the death of Siti Zaenab Bt. Duhri Rupa on Tuesday. Rights groups have criticized the execution, citing concerns about the maid's mental health and allegations of abuse during her employment. Indonesia has been actively trying to save its citizens from the death penalty abroad, including providing legal aid and offering blood money to secure releases. However, advocates argue that the government should also work towards abolishing the death penalty in Indonesia.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Jakarta, which is facing criticism for failing to grant clemency to foreigners on death row"
+      },
+      {
+        "id": 1,
+        "text": "executed"
+      },
+      {
+        "id": 2,
+        "text": "an Indonesian maid"
+      },
+      {
+        "id": 3,
+        "text": "Saudi Arabia"
+      },
+      {
+        "id": 4,
+        "text": "the death penalty"
+      },
+      {
+        "id": 5,
+        "text": "Saudi"
+      },
+      {
+        "id": 6,
+        "text": "second"
+      },
+      {
+        "id": 7,
+        "text": "Indonesian"
+      },
+      {
+        "id": 8,
+        "text": "this week"
+      },
+      {
+        "id": 9,
+        "text": "Siti Zaenab Bt"
+      },
+      {
+        "id": 10,
+        "text": "Duhri Rupa"
+      },
+      {
+        "id": 11,
+        "text": "Tuesday"
+      }
+    ],
+    "relations": [
+      {
+        "head": 3,
+        "relation": "executed",
+        "tail": 2
+      },
+      {
+        "head": 3,
+        "relation": "executed",
+        "tail": 7
+      },
+      {
+        "head": 3,
+        "relation": "executed",
+        "tail": 9
+      },
+      {
+        "head": 3,
+        "relation": "executed",
+        "tail": 10
+      },
+      {
+        "head": 1,
+        "relation": "time",
+        "tail": 11
+      },
+      {
+        "head": 0,
+        "relation": "criticizedFor",
+        "tail": 4
+      }
+    ]
+  },
+  {
+    "document_id": 346,
+    "ragtruth_id": "460",
+    "text": "Indonesia has condemned Saudi Arabia's execution of two Indonesian maids, despite the country's own history of executing foreigners on death row. The latest executions bring the total number of Indonesians executed in Saudi Arabia this week to three. The Indonesian government has expressed outrage over the lack of prior warning and the alleged mistreatment of the victims. Human rights groups have criticized Indonesia's continued use of the death penalty, with Amnesty International calling it a \"basic lack of humanity.\" The Indonesian government has defended its actions, stating that protecting its citizens abroad is a priority and that it has successfully freed hundreds of citizens from the death penalty in other countries. However, critics argue that Indonesia should abolish the death penalty at home if it wants to effectively protect its citizens abroad.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Indonesia"
+      },
+      {
+        "id": 1,
+        "text": "Saudi Arabia's"
+      },
+      {
+        "id": 2,
+        "text": "two Indonesian maids"
+      },
+      {
+        "id": 3,
+        "text": "Indonesia's continued use of the death penalty"
+      },
+      {
+        "id": 4,
+        "text": "Indonesians"
+      },
+      {
+        "id": 5,
+        "text": "this week"
+      },
+      {
+        "id": 6,
+        "text": "three"
+      },
+      {
+        "id": 7,
+        "text": "Amnesty International"
+      },
+      {
+        "id": 8,
+        "text": "hundreds"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "condemned",
+        "tail": 1
+      },
+      {
+        "head": 1,
+        "relation": "executed",
+        "tail": 2
+      },
+      {
+        "head": 3,
+        "relation": "criticizedBy",
+        "tail": 7
+      },
+      {
+        "head": 3,
+        "relation": "called",
+        "tail": 7
+      },
+      {
+        "head": 3,
+        "relation": "describedAs",
+        "tail": 7
+      },
+      {
+        "head": 3,
+        "relation": "number",
+        "tail": 6
+      }
+    ]
+  },
+  {
+    "document_id": 347,
+    "ragtruth_id": "461",
+    "text": "Saudi Arabia has executed two Indonesian maids, Karni Bt. Medi Tarsim and Siti Zaenab Bt. Duhri Rupa, despite protests from Jakarta. The Indonesian government summoned the Saudi ambassador to express their concern over the lack of warning before the executions. The government has tried to help its citizens facing the death penalty abroad, including providing legal aid and asking for forgiveness from the victim's families. However, rights groups have criticized Indonesia's stance on the death penalty, pointing out that the country's refusal to spare foreigners on death row is hypocritical. The executions have sparked a debate on the death penalty, with some calling for its abolition in Indonesia.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "The Indonesian government"
+      },
+      {
+        "id": 1,
+        "text": "executed"
+      },
+      {
+        "id": 2,
+        "text": "two Indonesian maids, Karni Bt. Medi Tarsim and Siti Zaenab Bt. Duhri Rupa"
+      },
+      {
+        "id": 3,
+        "text": "the death penalty"
+      },
+      {
+        "id": 4,
+        "text": "Saudi Arabia"
+      },
+      {
+        "id": 5,
+        "text": "Jakarta"
+      },
+      {
+        "id": 6,
+        "text": "Saudi"
+      }
+    ],
+    "relations": [
+      {
+        "head": 4,
+        "relation": "executed",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "summoned",
+        "tail": 6
+      }
+    ]
+  },
+  {
+    "document_id": 348,
+    "ragtruth_id": "468",
+    "text": "Former Maryland Governor Martin O'Malley is using YouTube to criticise Democratic presidential front-runner Hillary Clinton. His videos highlight Clinton's changing positions on issues such as the right for undocumented workers to obtain driver's licenses. AP's Lisa Lerer reports that, although Clinton is a strong supporter of Obama's healthcare law, she is not so keen on his presidential leadership style. Another interesting development is Clinton's hiring of Maya Harris for a top policy role in her campaign. Harris has previously worked for the Center for American Progress and ACLU, and has written a paper on the importance of women of colour to the electorate. Meanwhile, in Republican circles, the idea of a Walker-Rubio or Rubio-Walker ticket is gaining popularity. Jonathan Martin of The New York Times reports that this idea is not just limited to political strategists and junkies, but is also being voiced by activists. However, changes to the Republican primary calendar are causing concern amongst the GOP establishment, who fear that the changes may favour candidates who are not their first choice, such as Texas Senator Ted Cruz. The new calendar may also work in favour of former Arkansas Governor Mike Huckabee and Rick Santorum, who both have strong evangelical connections.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Former Maryland Governor Martin O'Malley"
+      },
+      {
+        "id": 1,
+        "text": "Democratic presidential front-runner Hillary Clinton"
+      },
+      {
+        "id": 2,
+        "text": "Obama's"
+      },
+      {
+        "id": 3,
+        "text": "Maya Harris"
+      },
+      {
+        "id": 4,
+        "text": "Rubio"
+      },
+      {
+        "id": 5,
+        "text": "Walker"
+      },
+      {
+        "id": 6,
+        "text": "the idea of a Walker-Rubio or Rubio-Walker ticket"
+      },
+      {
+        "id": 7,
+        "text": "changes to the Republican primary calendar"
+      },
+      {
+        "id": 8,
+        "text": "YouTube"
+      },
+      {
+        "id": 9,
+        "text": "AP"
+      },
+      {
+        "id": 10,
+        "text": "Lisa Lerer"
+      },
+      {
+        "id": 11,
+        "text": "the Center for American Progress"
+      },
+      {
+        "id": 12,
+        "text": "ACLU"
+      },
+      {
+        "id": 13,
+        "text": "Republican"
+      },
+      {
+        "id": 14,
+        "text": "Jonathan Martin"
+      },
+      {
+        "id": 15,
+        "text": "The New York Times"
+      },
+      {
+        "id": 16,
+        "text": "GOP"
+      },
+      {
+        "id": 17,
+        "text": "first"
+      },
+      {
+        "id": 18,
+        "text": "Texas"
+      },
+      {
+        "id": 19,
+        "text": "Ted Cruz"
+      },
+      {
+        "id": 20,
+        "text": "Arkansas"
+      },
+      {
+        "id": 21,
+        "text": "Mike Huckabee"
+      },
+      {
+        "id": 22,
+        "text": "Rick Santorum"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "uses",
+        "tail": 8
+      },
+      {
+        "head": 0,
+        "relation": "criticizes",
+        "tail": 1
+      },
+      {
+        "head": 1,
+        "relation": "supports",
+        "tail": 2
+      },
+      {
+        "head": 1,
+        "relation": "hired",
+        "tail": 3
+      },
+      {
+        "head": 3,
+        "relation": "workedFor",
+        "tail": 11
+      },
+      {
+        "head": 3,
+        "relation": "workedFor",
+        "tail": 12
+      },
+      {
+        "head": 6,
+        "relation": "associatedWith",
+        "tail": 13
+      },
+      {
+        "head": 7,
+        "relation": "concerns",
+        "tail": 16
+      },
+      {
+        "head": 7,
+        "relation": "mayFavor",
+        "tail": 19
+      },
+      {
+        "head": 7,
+        "relation": "mayFavor",
+        "tail": 21
+      },
+      {
+        "head": 7,
+        "relation": "mayFavor",
+        "tail": 22
+      }
+    ]
+  },
+  {
+    "document_id": 349,
+    "ragtruth_id": "469",
+    "text": "Former Maryland Governor Martin O'Malley is increasing his criticism of Democratic presidential front-runner Hillary Clinton through the use of YouTube videos. O'Malley has been releasing videos that highlight differences between his stance on certain issues and Clinton's, such as her reversal on allowing undocumented workers to obtain driver's licenses. O'Malley's videos are seen as a way to gain support from liberal voters.\n\nHillary Clinton, while supportive of President Obama's health care law, has distanced herself from his leadership style. During her campaign rollout in Iowa, Clinton made subtle digs at Obama's leadership, stating that America was on the wrong track. This shows Clinton's attempt to appeal to Republican voters.\n\nMaya Harris, sister of Kamala Harris, has joined the Clinton campaign in a top policy role. Maya Harris's resume is seen as a liberal's dream, having worked at the Center for American Progress and the ACLU, and focusing on issues such as community policing and police reform. Her hiring suggests that Clinton will focus on policy initiatives that appeal to women of color, a crucial demographic in the Obama coalition.\n\nThere is speculation about potential Republican presidential tickets, particularly a pairing of Wisconsin Governor Scott Walker and Florida Senator Marco Rubio. Both candidates are seen as next-generation leaders who can offer a generational contrast to Clinton. Some activists in New Hampshire have even floated the idea of a Walker-Rubio race in 2016.\n\nChanges to the Republican primary calendar, including fewer debates and a less front-loaded schedule, have raised concerns among GOP establishment figures. They worry that these changes could benefit candidates like Texas Senator Ted Cruz, who have strong conservative support. The possibility of a \"SEC primary\" in early March, with several conservative Southern states voting, is seen as a potential disadvantage for establishment favorites like Jeb Bush and Marco Rubio.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Former Maryland Governor Martin O'Malley"
+      },
+      {
+        "id": 1,
+        "text": "Democratic presidential front-runner Hillary Clinton"
+      },
+      {
+        "id": 2,
+        "text": "YouTube videos"
+      },
+      {
+        "id": 3,
+        "text": "President Obama's"
+      },
+      {
+        "id": 4,
+        "text": "made"
+      },
+      {
+        "id": 5,
+        "text": "Maya Harris, sister of Kamala Harris"
+      },
+      {
+        "id": 6,
+        "text": "Wisconsin Governor Scott Walker and Florida Senator Marco Rubio"
+      },
+      {
+        "id": 7,
+        "text": "Wisconsin Governor Scott Walker"
+      },
+      {
+        "id": 8,
+        "text": "Florida Senator Marco Rubio"
+      },
+      {
+        "id": 9,
+        "text": "GOP establishment figures"
+      },
+      {
+        "id": 10,
+        "text": "Changes to the Republican primary calendar, including fewer debates and a less front-loaded schedule"
+      },
+      {
+        "id": 11,
+        "text": "Iowa"
+      },
+      {
+        "id": 12,
+        "text": "America"
+      },
+      {
+        "id": 13,
+        "text": "Republican"
+      },
+      {
+        "id": 14,
+        "text": "the Center for American Progress"
+      },
+      {
+        "id": 15,
+        "text": "ACLU"
+      },
+      {
+        "id": 16,
+        "text": "Republican"
+      },
+      {
+        "id": 17,
+        "text": "New Hampshire"
+      },
+      {
+        "id": 18,
+        "text": "2016"
+      },
+      {
+        "id": 19,
+        "text": "Texas"
+      },
+      {
+        "id": 20,
+        "text": "Ted Cruz"
+      },
+      {
+        "id": 21,
+        "text": "SEC"
+      },
+      {
+        "id": 22,
+        "text": "early March"
+      },
+      {
+        "id": 23,
+        "text": "Southern"
+      },
+      {
+        "id": 24,
+        "text": "Jeb Bush"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "uses",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "criticizes",
+        "tail": 1
+      },
+      {
+        "head": 1,
+        "relation": "supports",
+        "tail": 3
+      },
+      {
+        "head": 1,
+        "relation": "distancedFromLeadershipStyleOf",
+        "tail": 3
+      },
+      {
+        "head": 1,
+        "relation": "campaignLocation",
+        "tail": 11
+      },
+      {
+        "head": 1,
+        "relation": "appealsTo",
+        "tail": 13
+      },
+      {
+        "head": 5,
+        "relation": "joinedCampaignOf",
+        "tail": 1
+      },
+      {
+        "head": 5,
+        "relation": "workedAt",
+        "tail": 14
+      },
+      {
+        "head": 5,
+        "relation": "workedAt",
+        "tail": 15
+      },
+      {
+        "head": 6,
+        "relation": "pairing",
+        "tail": 7
+      },
+      {
+        "head": 6,
+        "relation": "pairing",
+        "tail": 8
+      },
+      {
+        "head": 10,
+        "relation": "benefits",
+        "tail": 20
+      },
+      {
+        "head": 10,
+        "relation": "disadvantages",
+        "tail": 24
+      },
+      {
+        "head": 10,
+        "relation": "disadvantages",
+        "tail": 8
+      },
+      {
+        "head": 21,
+        "relation": "time",
+        "tail": 22
+      },
+      {
+        "head": 21,
+        "relation": "includesStates",
+        "tail": 23
+      }
+    ]
+  }
+]

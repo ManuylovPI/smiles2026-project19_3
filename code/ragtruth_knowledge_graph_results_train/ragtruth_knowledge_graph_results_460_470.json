@@ -1,0 +1,798 @@
+[
+  {
+    "document_id": 460,
+    "ragtruth_id": "628",
+    "text": "Giovanni Lo Porto, an Italian aid worker, was abducted in Pakistan in 2012 while working for a German aid organization. He was killed in a US drone strike two years later, along with another hostage, American Warren Weinstein. Lo Porto studied peace and conflict studies in London and was passionate about helping others. He was taken captive by al Qaeda, but the group denied any involvement. The Italian government and media pressed for his release, but he was never freed. The US government acknowledged responsibility for his death, which was met with anger from the Italian government. Lo Porto's family and colleagues were devastated by his loss, and his mother was left hoping for her son's safe return.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Giovanni Lo Porto, an Italian aid worker"
+      },
+      {
+        "id": 1,
+        "text": "al Qaeda"
+      },
+      {
+        "id": 2,
+        "text": "The Italian government"
+      },
+      {
+        "id": 3,
+        "text": "his mother"
+      },
+      {
+        "id": 4,
+        "text": "Pakistan"
+      },
+      {
+        "id": 5,
+        "text": "2012"
+      },
+      {
+        "id": 6,
+        "text": "German"
+      },
+      {
+        "id": 7,
+        "text": "US"
+      },
+      {
+        "id": 8,
+        "text": "two years later"
+      },
+      {
+        "id": 9,
+        "text": "American"
+      },
+      {
+        "id": 10,
+        "text": "Warren Weinstein"
+      },
+      {
+        "id": 11,
+        "text": "London"
+      },
+      {
+        "id": 12,
+        "text": "US"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "abductedIn",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "abductedIn",
+        "tail": 5
+      },
+      {
+        "head": 0,
+        "relation": "workedFor",
+        "tail": 6
+      },
+      {
+        "head": 0,
+        "relation": "killedBy",
+        "tail": 7
+      },
+      {
+        "head": 0,
+        "relation": "killedAfter",
+        "tail": 8
+      },
+      {
+        "head": 0,
+        "relation": "studiedIn",
+        "tail": 11
+      },
+      {
+        "head": 0,
+        "relation": "capturedBy",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "deathAcknowledgedBy",
+        "tail": 12
+      },
+      {
+        "head": 0,
+        "relation": "deathAngered",
+        "tail": 2
+      },
+      {
+        "head": 3,
+        "relation": "motherOf",
+        "tail": 0
+      },
+      {
+        "head": 10,
+        "relation": "killedBy",
+        "tail": 7
+      },
+      {
+        "head": 10,
+        "relation": "killedAfter",
+        "tail": 8
+      }
+    ]
+  },
+  {
+    "document_id": 461,
+    "ragtruth_id": "629",
+    "text": "Giovanni Lo Porto, an Italian aid worker, was kidnapped in Pakistan in 2012 while working on a reconstruction project following floods. He was taken by armed men and later killed in a US drone strike in 2015, along with an American hostage and an al Qaeda leader. Lo Porto's family and friends had been advocating for his release, but he was accidentally killed in the counterterrorism operation. The Italian government expressed their regret and condemned the terrorists responsible. Lo Porto's former charity, Welthungerlife, remembered him as a passionate and friendly person who was dedicated to helping others. His family and community were devastated by his loss.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Giovanni Lo Porto, an Italian aid worker"
+      },
+      {
+        "id": 1,
+        "text": "The Italian government"
+      },
+      {
+        "id": 2,
+        "text": "armed men"
+      },
+      {
+        "id": 3,
+        "text": "Pakistan"
+      },
+      {
+        "id": 4,
+        "text": "2012"
+      },
+      {
+        "id": 5,
+        "text": "US"
+      },
+      {
+        "id": 6,
+        "text": "2015"
+      },
+      {
+        "id": 7,
+        "text": "American"
+      },
+      {
+        "id": 8,
+        "text": "al Qaeda"
+      },
+      {
+        "id": 9,
+        "text": "Welthungerlife"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "kidnappedIn",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "kidnappedInYear",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "takenBy",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "killedIn",
+        "tail": 5
+      },
+      {
+        "head": 0,
+        "relation": "killedInYear",
+        "tail": 6
+      },
+      {
+        "head": 0,
+        "relation": "associatedWith",
+        "tail": 9
+      }
+    ]
+  },
+  {
+    "document_id": 462,
+    "ragtruth_id": "630",
+    "text": "\"Grey's Anatomy\" character Dr. Derek Shepherd, played by Patrick Dempsey, died following a car crash in last Thursday's episode, leaving his TV wife Dr. Meredith Grey (Ellen Pompeo) as the show's mainstay as it concludes its 11th season next month. Dempsey still has a year left on his contract, and said of the show, \"It's been a remarkable ride. The worldwide impact has been extraordinary. It is incredible how devoted and passionate the fans are, and I will forever be grateful and humbled by the experience.\" Dempsey has a development deal with ABC Studios, \"Grey's\" producers.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "\"Grey's Anatomy\" character Dr. Derek Shepherd, played by Patrick Dempsey,"
+      },
+      {
+        "id": 1,
+        "text": "Grey's Anatomy"
+      },
+      {
+        "id": 2,
+        "text": "Patrick Dempsey"
+      },
+      {
+        "id": 3,
+        "text": "last Thursday's"
+      },
+      {
+        "id": 4,
+        "text": "Meredith Grey"
+      },
+      {
+        "id": 5,
+        "text": "Ellen Pompeo"
+      },
+      {
+        "id": 6,
+        "text": "11th season next month"
+      },
+      {
+        "id": 7,
+        "text": "a year"
+      },
+      {
+        "id": 8,
+        "text": "ABC Studios"
+      },
+      {
+        "id": 9,
+        "text": "Grey"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "playedBy",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "spouse",
+        "tail": 4
+      },
+      {
+        "head": 1,
+        "relation": "season",
+        "tail": 6
+      },
+      {
+        "head": 2,
+        "relation": "contractDuration",
+        "tail": 7
+      },
+      {
+        "head": 2,
+        "relation": "developmentDealWith",
+        "tail": 8
+      }
+    ]
+  },
+  {
+    "document_id": 463,
+    "ragtruth_id": "631",
+    "text": "On the TV show \"Grey's Anatomy,\" the character Dr. Derek Shepherd, played by Patrick Dempsey, died in a car crash. Show creator Shonda Rhimes expressed sadness over the loss of the character and praised Dempsey's performance. Despite still having a year left on his contract, Dempsey will no longer be on the show. Fans of the show were shocked and expressed their grief on social media. However, the show will continue with Dr. Meredith Grey, played by Ellen Pompeo, as the main character. \"Grey's Anatomy\" still performs well in the ratings and Dempsey has a development deal with ABC Studios.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "died"
+      },
+      {
+        "id": 1,
+        "text": "the character Dr. Derek Shepherd, played by Patrick Dempsey"
+      },
+      {
+        "id": 2,
+        "text": "Patrick Dempsey"
+      },
+      {
+        "id": 3,
+        "text": "the TV show \"Grey's Anatomy"
+      },
+      {
+        "id": 4,
+        "text": "Fans of the show"
+      },
+      {
+        "id": 5,
+        "text": "Shonda Rhimes"
+      },
+      {
+        "id": 6,
+        "text": "a year"
+      },
+      {
+        "id": 7,
+        "text": "Meredith Grey"
+      },
+      {
+        "id": 8,
+        "text": "Ellen Pompeo"
+      },
+      {
+        "id": 9,
+        "text": "ABC Studios"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "playedBy",
+        "tail": 2
+      },
+      {
+        "head": 3,
+        "relation": "creator",
+        "tail": 5
+      },
+      {
+        "head": 2,
+        "relation": "contractDuration",
+        "tail": 6
+      },
+      {
+        "head": 3,
+        "relation": "mainCharacter",
+        "tail": 7
+      },
+      {
+        "head": 7,
+        "relation": "playedBy",
+        "tail": 8
+      },
+      {
+        "head": 2,
+        "relation": "developmentDealWith",
+        "tail": 9
+      }
+    ]
+  },
+  {
+    "document_id": 464,
+    "ragtruth_id": "632",
+    "text": "Patrick Dempsey, known for playing the character of Dr. Derek Sheperd on Grey's Anatomy, passed away on Thursday night. The cause of death was a car crash. Despite having a year left on his contract, he will no longer appear on the show. The news has left fans shocked and many are mourning the loss of their favorite character. The show's creator, Shonda Rhimes, released a statement expressing her gratitude for Dempsey's performance and acknowledging the impact he had on the show's success.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Patrick Dempsey, known for playing the character of Dr. Derek Sheperd on Grey's Anatomy"
+      },
+      {
+        "id": 1,
+        "text": "Grey's Anatomy"
+      },
+      {
+        "id": 2,
+        "text": "passed"
+      },
+      {
+        "id": 3,
+        "text": "many"
+      },
+      {
+        "id": 4,
+        "text": "the character of Dr. Derek Sheperd on Grey's Anatomy"
+      },
+      {
+        "id": 5,
+        "text": "The show's creator, Shonda Rhimes"
+      },
+      {
+        "id": 6,
+        "text": "Thursday"
+      },
+      {
+        "id": 7,
+        "text": "night"
+      },
+      {
+        "id": 8,
+        "text": "a year"
+      }
+    ],
+    "relations": [
+      {
+        "head": 4,
+        "relation": "portrayedBy",
+        "tail": 0
+      },
+      {
+        "head": 1,
+        "relation": "creator",
+        "tail": 5
+      },
+      {
+        "head": 0,
+        "relation": "contractDurationRemaining",
+        "tail": 8
+      }
+    ]
+  },
+  {
+    "document_id": 465,
+    "ragtruth_id": "633",
+    "text": "Dr. Derek Shepherd, also known as McDreamy, died in a car crash on Thursday's episode of Grey's Anatomy. The character's death has left fans in shock and grieving, with the show's creator Shonda Rhimes praising Patrick Dempsey's performance and dedication to the role. Despite his death, Dempsey still has a year left on his contract, and the show will continue with his TV wife, Dr. Meredith Grey, as the main character. Fans are mourning the loss of the beloved character, but the show will go on.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Dr. Derek Shepherd, also known as McDreamy"
+      },
+      {
+        "id": 1,
+        "text": "died"
+      },
+      {
+        "id": 2,
+        "text": "Grey's Anatomy"
+      },
+      {
+        "id": 3,
+        "text": "Patrick Dempsey's"
+      },
+      {
+        "id": 4,
+        "text": "Thursday"
+      },
+      {
+        "id": 5,
+        "text": "Shonda Rhimes"
+      },
+      {
+        "id": 6,
+        "text": "a year"
+      },
+      {
+        "id": 7,
+        "text": "Meredith Grey"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "deathDate",
+        "tail": 4
+      },
+      {
+        "head": 2,
+        "relation": "creator",
+        "tail": 5
+      },
+      {
+        "head": 3,
+        "relation": "contractDuration",
+        "tail": 6
+      },
+      {
+        "head": 2,
+        "relation": "spouse",
+        "tail": 7
+      }
+    ]
+  },
+  {
+    "document_id": 466,
+    "ragtruth_id": "634",
+    "text": "Patrick Dempsey's character Dr. Derek Shepherd, also known as \"McDreamy,\" died in a car crash on Thursday's episode of Grey's Anatomy. The show's creator, Shonda Rhimes, paid tribute to the character, saying he will always be an important part of the show. Fans are mourning the loss, with some feeling betrayed by the unexpected twist. Despite Dempsey's contract running for another year, the show will continue with Ellen Pompeo as the main star.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Grey's Anatomy"
+      },
+      {
+        "id": 1,
+        "text": "Patrick Dempsey's character Dr. Derek Shepherd, also known as \"McDreamy"
+      },
+      {
+        "id": 2,
+        "text": "died"
+      },
+      {
+        "id": 3,
+        "text": "Patrick Dempsey's"
+      },
+      {
+        "id": 4,
+        "text": "Thursday"
+      },
+      {
+        "id": 5,
+        "text": "Shonda Rhimes"
+      },
+      {
+        "id": 6,
+        "text": "another year"
+      },
+      {
+        "id": 7,
+        "text": "Ellen Pompeo"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "diedIn",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "creator",
+        "tail": 5
+      },
+      {
+        "head": 0,
+        "relation": "mainStar",
+        "tail": 7
+      }
+    ]
+  },
+  {
+    "document_id": 467,
+    "ragtruth_id": "635",
+    "text": "Dr. Derek Shepherd, played by Patrick Dempsey, died on Thursday's episode of \"Grey's Anatomy\" after a car crash. Show creator Shonda Rhimes called him an \"incredibly important character\" and said his death will be felt by all. Dempsey had a year left on his contract, and his character's death leaves Dr. Meredith Grey (Ellen Pompeo) as the show's mainstay. Fans are in shock, and the show will continue with Pompeo signed through season 12. The theme of this season is Grey's ability to stand on her own, and now without her husband, she'll truly have to do so.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Dr. Derek Shepherd, played by Patrick Dempsey"
+      },
+      {
+        "id": 1,
+        "text": "died"
+      },
+      {
+        "id": 2,
+        "text": "Patrick Dempsey"
+      },
+      {
+        "id": 3,
+        "text": "\"Grey's Anatomy\""
+      },
+      {
+        "id": 4,
+        "text": "Dr. Meredith Grey (Ellen Pompeo)"
+      },
+      {
+        "id": 5,
+        "text": "Thursday"
+      },
+      {
+        "id": 6,
+        "text": "Shonda Rhimes"
+      },
+      {
+        "id": 7,
+        "text": "a year"
+      },
+      {
+        "id": 8,
+        "text": "Pompeo"
+      },
+      {
+        "id": 9,
+        "text": "season 12"
+      },
+      {
+        "id": 10,
+        "text": "this season"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "deathDate",
+        "tail": 5
+      },
+      {
+        "head": 0,
+        "relation": "characterIn",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "playedBy",
+        "tail": 2
+      },
+      {
+        "head": 3,
+        "relation": "creator",
+        "tail": 6
+      },
+      {
+        "head": 2,
+        "relation": "contractTimeRemaining",
+        "tail": 7
+      },
+      {
+        "head": 3,
+        "relation": "mainCharacter",
+        "tail": 4
+      },
+      {
+        "head": 3,
+        "relation": "castMember",
+        "tail": 8
+      },
+      {
+        "head": 3,
+        "relation": "signedThrough",
+        "tail": 9
+      },
+      {
+        "head": 10,
+        "relation": "theme",
+        "tail": 4
+      }
+    ]
+  },
+  {
+    "document_id": 468,
+    "ragtruth_id": "636",
+    "text": "Sabeen Mahmud, social advocate and founder of a Karachi-based cafe that served as a hub for social discourse and art, was murdered in a drive-by shooting on Friday. The attack came just hours after she had hosted a forum on human rights abuses in the restive province of Baluchistan, a subject that the Pakistani government discourages public discussion. Mahmud, 40, was shot five times and died on her way to the hospital. Her mother, who was with her in the car, was wounded and is in critical condition. No one has claimed responsibility for the attack. Mahmud's cafe, T2F (The Second Floor), had become a vital space for open discussion and she had become a figurehead for love, tolerance and humanism. Her murder has shocked the community and caused an outpouring of grief across the country.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "a drive-by shooting"
+      },
+      {
+        "id": 1,
+        "text": "Sabeen Mahmud, social advocate and founder of a Karachi-based cafe that served as a hub for social discourse and art"
+      },
+      {
+        "id": 2,
+        "text": "a Karachi-based cafe that served as a hub for social discourse and art"
+      },
+      {
+        "id": 3,
+        "text": "murdered"
+      },
+      {
+        "id": 4,
+        "text": "the Pakistani government"
+      },
+      {
+        "id": 5,
+        "text": "Friday"
+      },
+      {
+        "id": 6,
+        "text": "just hours"
+      },
+      {
+        "id": 7,
+        "text": "Baluchistan"
+      },
+      {
+        "id": 8,
+        "text": "five"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "founder",
+        "tail": 2
+      },
+      {
+        "head": 1,
+        "relation": "deathCause",
+        "tail": 0
+      },
+      {
+        "head": 1,
+        "relation": "deathDate",
+        "tail": 5
+      },
+      {
+        "head": 1,
+        "relation": "deathTimeOffset",
+        "tail": 6
+      },
+      {
+        "head": 1,
+        "relation": "deathLocation",
+        "tail": 7
+      }
+    ]
+  },
+  {
+    "document_id": 469,
+    "ragtruth_id": "637",
+    "text": "Sabeen Mahmud, a Pakistani activist and owner of a cafe called The Second Floor (T2F), was shot and killed in Karachi by two gunmen. Mahmud was known for her outspokenness on topics such as technology, human rights, and women's entrepreneurship. She was seen as a figurehead for progressive values and free speech in Pakistan. Mahmud had just finished leading a discussion group on a sensitive topic when she was shot. The discussion, which focused on the province of Baluchistan and its alleged human rights abuses, had been shut down by authorities at the Lahore University of Management Sciences. Mahmud defiantly moved the discussion to her cafe, despite receiving death threats in the past for handling the topic. Her killing has sparked grief and gratitude for her work on social media. Mahmud's cafe, T2F, was a gathering place for those seeking secular wisdom and freedom of thought. The walls outside the cafe were decorated with socially critical graffiti. Mahmud's death has raised concerns about the lack of free speech and media censorship in Pakistan.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Sabeen Mahmud, a Pakistani activist and owner of a cafe called The Second Floor (T2F)"
+      },
+      {
+        "id": 1,
+        "text": "shot"
+      },
+      {
+        "id": 2,
+        "text": "a discussion group on a sensitive topic"
+      },
+      {
+        "id": 3,
+        "text": "the province of Baluchistan"
+      },
+      {
+        "id": 4,
+        "text": "a cafe called The Second Floor (T2F)"
+      },
+      {
+        "id": 5,
+        "text": "a sensitive topic"
+      },
+      {
+        "id": 6,
+        "text": "killed"
+      },
+      {
+        "id": 7,
+        "text": "Pakistan"
+      },
+      {
+        "id": 8,
+        "text": "Karachi"
+      },
+      {
+        "id": 9,
+        "text": "two"
+      },
+      {
+        "id": 10,
+        "text": "the Lahore University of Management Sciences"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "ownerOf",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "shot",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "killed",
+        "tail": 6
+      },
+      {
+        "head": 0,
+        "relation": "deathPlace",
+        "tail": 8
+      },
+      {
+        "head": 2,
+        "relation": "topic",
+        "tail": 3
+      },
+      {
+        "head": 2,
+        "relation": "topic",
+        "tail": 5
+      },
+      {
+        "head": 2,
+        "relation": "shutDownBy",
+        "tail": 10
+      },
+      {
+        "head": 2,
+        "relation": "movedTo",
+        "tail": 4
+      },
+      {
+        "head": 6,
+        "relation": "inCountry",
+        "tail": 7
+      }
+    ]
+  }
+]
