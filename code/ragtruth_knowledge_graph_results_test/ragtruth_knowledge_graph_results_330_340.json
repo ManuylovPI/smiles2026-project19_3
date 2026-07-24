@@ -1,0 +1,644 @@
+[
+  {
+    "document_id": 330,
+    "ragtruth_id": "1518",
+    "text": "Antonio Inoki, a former wrestler-turned-politician in Japan, has asked the country's Defense Minister, Gen Nakatani, whether Japan has ever encountered an unidentified flying object (UFO). Nakatani confirmed that the country's Air Self Defense Force (ASDF) had never come across any UFOs from outer space. He said: \"When the Air Self Defense Force detects indications of an unidentified flying object that could violate our country's airspace, it scrambles fighter jets if necessary and makes visual observation. They sometimes find birds or flying objects other than aircraft but I don't know of a case of finding an unidentified flying object believed to have come over from anywhere other than Earth.\"",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Japan"
+      },
+      {
+        "id": 1,
+        "text": "the country's Defense Minister, Gen Nakatani,"
+      },
+      {
+        "id": 2,
+        "text": "the country's Air Self Defense Force (ASDF)"
+      },
+      {
+        "id": 3,
+        "text": "Antonio Inoki"
+      },
+      {
+        "id": 4,
+        "text": "Earth"
+      }
+    ],
+    "relations": [
+      {
+        "head": 3,
+        "relation": "asked",
+        "tail": 1
+      },
+      {
+        "head": 1,
+        "relation": "confirmed",
+        "tail": 2
+      },
+      {
+        "head": 2,
+        "relation": "partOf",
+        "tail": 0
+      }
+    ]
+  },
+  {
+    "document_id": 331,
+    "ragtruth_id": "1519",
+    "text": "The Defense Minister of Japan, Gen Nakatani, has stated that the country's Air Self Defense Force (ASDF) has never encountered an extraterrestrial unidentified flying object (UFO). This statement was made in response to a query from former wrestler-turned-lawmaker Antonio Inoki during a parliamentary session. Inoki, who claims to have seen a UFO himself, asked if aircraft were ever scrambled to meet extraterrestrial threats and if research was being done into alien visitors. Nakatani assured that if any unidentified flying object violated Japan's airspace, fighter jets would be scrambled to investigate, but so far, no such instances have occurred. Inoki is known for his various achievements in sports and entertainment, including his wrestling career and efforts in diplomacy. This exchange is not the first time Japanese politicians have discussed the implications of visitors from outer space.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Japan"
+      },
+      {
+        "id": 1,
+        "text": "stated"
+      },
+      {
+        "id": 2,
+        "text": "former wrestler-turned-lawmaker Antonio Inoki"
+      },
+      {
+        "id": 3,
+        "text": "The Defense Minister of Japan, Gen Nakatani"
+      },
+      {
+        "id": 4,
+        "text": "Air Self Defense Force"
+      },
+      {
+        "id": 5,
+        "text": "ASDF"
+      },
+      {
+        "id": 6,
+        "text": "first"
+      },
+      {
+        "id": 7,
+        "text": "Japanese"
+      }
+    ],
+    "relations": [
+      {
+        "head": 3,
+        "relation": "defenseMinisterOf",
+        "tail": 0
+      },
+      {
+        "head": 4,
+        "relation": "country",
+        "tail": 0
+      },
+      {
+        "head": 4,
+        "relation": "alias",
+        "tail": 5
+      }
+    ]
+  },
+  {
+    "document_id": 332,
+    "ragtruth_id": "1520",
+    "text": "Japanese officials claim that the country's Air Self Defense Force has never encountered an extraterrestrial unidentified flying object. This is based on the statement by Defense Minister Gen Nakatani in response to a query from former wrestler-turned-lawmaker Antonio Inoki. Nakatani stated that when an unidentified flying object is detected that may violate airspace, fighter jets are scrambled for visual observation, but none have been found from outside of Earth. Inoki claimed to have seen a UFO himself and raised questions about the existence of extraterrestrial life in a Budget Committee meeting. The debate comes as tensions with North Korea continue to rise and the country launches missile tests.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "claim"
+      },
+      {
+        "id": 1,
+        "text": "Defense Minister Gen Nakatani"
+      },
+      {
+        "id": 2,
+        "text": "former wrestler-turned-lawmaker Antonio Inoki"
+      },
+      {
+        "id": 3,
+        "text": "North Korea"
+      },
+      {
+        "id": 4,
+        "text": "Japanese"
+      },
+      {
+        "id": 5,
+        "text": "Air Self Defense Force"
+      },
+      {
+        "id": 6,
+        "text": "Earth"
+      },
+      {
+        "id": 7,
+        "text": "Budget Committee"
+      }
+    ],
+    "relations": [
+      {
+        "head": 5,
+        "relation": "country",
+        "tail": 4
+      },
+      {
+        "head": 1,
+        "relation": "responseToQueryBy",
+        "tail": 2
+      },
+      {
+        "head": 2,
+        "relation": "memberOf",
+        "tail": 7
+      }
+    ]
+  },
+  {
+    "document_id": 333,
+    "ragtruth_id": "1521",
+    "text": "Here is a summary of the article in 114 words:\n\nJapan's Defense Minister, Gen Nakatani, has revealed that the country's Air Self Defense Force (ASDF) has never detected any extraterrestrial objects despite flamboyant former wrestler-turned-lawmaker Antonio Inoki's inquiry. Nakatani stated that ASDF jets are deployed when there are indications of an unidentified flying object that could violate Japanese airspace, but no such incidents have been reported. Inoki, who has claimed to have seen a UFO himself, has sparked conversations about the legal implications of defending against an alien invasion under Japan's pacifist constitution.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Japan's"
+      },
+      {
+        "id": 1,
+        "text": "Japan's Defense Minister, Gen Nakatani"
+      },
+      {
+        "id": 2,
+        "text": "the country's Air Self Defense Force (ASDF)"
+      },
+      {
+        "id": 3,
+        "text": "flamboyant former wrestler-turned-lawmaker Antonio Inoki's"
+      },
+      {
+        "id": 4,
+        "text": "114"
+      },
+      {
+        "id": 5,
+        "text": "Japanese"
+      }
+    ],
+    "relations": []
+  },
+  {
+    "document_id": 334,
+    "ragtruth_id": "1522",
+    "text": "Sure! Here's the summary in 114 words:\n\nJapan's Defense Minister Gen Nakatani assured the country's parliament that the Air Self Defense Force has never encountered any extraterrestrial unidentified flying objects. This assurance came in response to a question from former wrestler-turned-lawmaker Antonio Inoki, who claims to have seen a UFO himself but admits he doesn't know if aliens exist. The exchange is not the first time Japanese politicians have discussed the possibility of an alien invasion and its legal implications under the country's constitution.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Japan's"
+      },
+      {
+        "id": 1,
+        "text": "assured"
+      },
+      {
+        "id": 2,
+        "text": "former wrestler-turned-lawmaker Antonio Inoki, who claims to have seen a UFO himself but admits he doesn't know if aliens exist"
+      },
+      {
+        "id": 3,
+        "text": "the possibility of an alien invasion"
+      },
+      {
+        "id": 4,
+        "text": "114"
+      },
+      {
+        "id": 5,
+        "text": "Defense"
+      },
+      {
+        "id": 6,
+        "text": "Gen Nakatani"
+      },
+      {
+        "id": 7,
+        "text": "the Air Self Defense Force"
+      },
+      {
+        "id": 8,
+        "text": "first"
+      },
+      {
+        "id": 9,
+        "text": "Japanese"
+      }
+    ],
+    "relations": [
+      {
+        "head": 6,
+        "relation": "position",
+        "tail": 5
+      },
+      {
+        "head": 7,
+        "relation": "country",
+        "tail": 0
+      },
+      {
+        "head": 3,
+        "relation": "legalImplicationsUnder",
+        "tail": 0
+      }
+    ]
+  },
+  {
+    "document_id": 335,
+    "ragtruth_id": "1523",
+    "text": "Japan's Defense Minister Gen Nakatani announced that the country's Air Self Defense Force has never encountered an extraterrestrial unidentified flying object. This statement was made in response to a question from former wrestler and lawmaker Antonio Inoki, who has also claimed to have seen a UFO. Nakatani explained that the ASDF scrambles fighter jets when there are indications of an unidentified flying object, but they have only found birds or other man-made objects. Inoki has also attempted to replicate Dennis Rodman's \"basketball diplomacy\" by staging a wrestling tournament in North Korea.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Japan's"
+      },
+      {
+        "id": 1,
+        "text": "announced"
+      },
+      {
+        "id": 2,
+        "text": "Japan's Defense Minister Gen Nakatani"
+      },
+      {
+        "id": 3,
+        "text": "the country's Air Self Defense Force"
+      },
+      {
+        "id": 4,
+        "text": "former wrestler and lawmaker Antonio Inoki, who has also claimed to have seen a UFO"
+      },
+      {
+        "id": 5,
+        "text": "Dennis Rodman's"
+      },
+      {
+        "id": 6,
+        "text": "North Korea"
+      }
+    ],
+    "relations": [
+      {
+        "head": 2,
+        "relation": "announced",
+        "tail": 1
+      },
+      {
+        "head": 3,
+        "relation": "country",
+        "tail": 0
+      },
+      {
+        "head": 4,
+        "relation": "claimedToHaveSeen",
+        "tail": 1
+      }
+    ]
+  },
+  {
+    "document_id": 336,
+    "ragtruth_id": "1566",
+    "text": "Lauren Hill, a 19-year-old who fought against brain cancer and whose story inspired many, has passed away. Hill was a student at Mount St. Joseph University in Cincinnati, and her dream was to play college basketball. The school successfully petitioned the NCAA to change the opening game of its schedule to accommodate Hill. Despite her illness, Hill managed to raise $1.4 million for pediatric cancer research with the non-profit group The Cure Starts Now. In a statement, Mount St. Joseph University President Tony Artez said, \"We are forever grateful to have had Lauren grace our campus with her smile and determined spirit. She has left a powerful legacy. She taught us that every day is a blessing, every moment a gift.\" Hill was diagnosed with diffuse intrinsic pontine glioma, a rare and inoperable brain tumor, in 2013. She continued to play basketball despite her chemotherapy treatments.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Lauren Hill, a 19-year-old who fought against brain cancer and whose story inspired many"
+      },
+      {
+        "id": 1,
+        "text": "Mount St. Joseph University in Cincinnati"
+      },
+      {
+        "id": 2,
+        "text": "the NCAA"
+      },
+      {
+        "id": 3,
+        "text": "$1.4 million"
+      },
+      {
+        "id": 4,
+        "text": "The Cure Starts Now"
+      },
+      {
+        "id": 5,
+        "text": "Tony Artez"
+      },
+      {
+        "id": 6,
+        "text": "2013"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "studentOf",
+        "tail": 1
+      },
+      {
+        "head": 1,
+        "relation": "petitioned",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "raised",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "workedWith",
+        "tail": 4
+      },
+      {
+        "head": 1,
+        "relation": "president",
+        "tail": 5
+      },
+      {
+        "head": 0,
+        "relation": "diagnosedIn",
+        "tail": 6
+      }
+    ]
+  },
+  {
+    "document_id": 337,
+    "ragtruth_id": "1567",
+    "text": "Lauren Hill, a 19-year-old woman from Indiana, has passed away after a battle with brain cancer. Last year, Hill gained international recognition when she fulfilled her dream of playing college basketball despite her illness. Mount St. Joseph University in Cincinnati made special accommodations to allow her to play, and she became an inspiration to many. At a ceremony held in her honor, head coach Dan Benjamin expressed his sadness at the loss, stating that the community had lost not only a player but also a friend and daughter. Hill's positive attitude and determination were evident in a quote she shared, encouraging others to cherish every moment and never give up on their dreams. She also helped raise $1.4 million for pediatric cancer research. Hill's impact was recognized by NBA player LeBron James and NCAA President Mark Emmert, among others. Her high school principal emphasized the importance of positivity in overcoming obstacles. Hill's legacy will be remembered for her strength, courage, and ability to inspire others.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Lauren Hill, a 19-year-old woman from Indiana"
+      },
+      {
+        "id": 1,
+        "text": "brain cancer"
+      },
+      {
+        "id": 2,
+        "text": "head coach Dan Benjamin"
+      },
+      {
+        "id": 3,
+        "text": "passed"
+      },
+      {
+        "id": 4,
+        "text": "others"
+      },
+      {
+        "id": 5,
+        "text": "Last year"
+      },
+      {
+        "id": 6,
+        "text": "Mount St. Joseph University"
+      },
+      {
+        "id": 7,
+        "text": "Cincinnati"
+      },
+      {
+        "id": 8,
+        "text": "$1.4 million"
+      },
+      {
+        "id": 9,
+        "text": "NBA"
+      },
+      {
+        "id": 10,
+        "text": "LeBron James"
+      },
+      {
+        "id": 11,
+        "text": "NCAA"
+      },
+      {
+        "id": 12,
+        "text": "Mark Emmert"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "diedOf",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "playedFor",
+        "tail": 6
+      },
+      {
+        "head": 6,
+        "relation": "locatedIn",
+        "tail": 7
+      },
+      {
+        "head": 0,
+        "relation": "raised",
+        "tail": 8
+      },
+      {
+        "head": 0,
+        "relation": "recognizedBy",
+        "tail": 10
+      },
+      {
+        "head": 0,
+        "relation": "recognizedBy",
+        "tail": 12
+      }
+    ]
+  },
+  {
+    "document_id": 338,
+    "ragtruth_id": "1568",
+    "text": "Lauren Hill, an 19-year-old woman from Indiana who inspired millions with her fight against brain cancer and her dream of playing college basketball, passed away on Friday. She had been diagnosed with diffuse intrinsic pontine glioma in 2013 and continued to play despite undergoing chemotherapy treatment. Her story went viral when Mount St. Joseph University successfully petitioned the NCAA to move up the opening game of its schedule so she could play. During her brief career, Hill scored 94 points in four games. She also raised $1.4 million for pediatric cancer research through the nonprofit group The Cure Starts Now. Her legacy will live on as a symbol of perseverance and courage.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Lauren Hill, an 19-year-old woman from Indiana who inspired millions with her fight against brain cancer and her dream of playing college basketball"
+      },
+      {
+        "id": 1,
+        "text": "the NCAA"
+      },
+      {
+        "id": 2,
+        "text": "Friday"
+      },
+      {
+        "id": 3,
+        "text": "2013"
+      },
+      {
+        "id": 4,
+        "text": "Mount St. Joseph University"
+      },
+      {
+        "id": 5,
+        "text": "94"
+      },
+      {
+        "id": 6,
+        "text": "four"
+      },
+      {
+        "id": 7,
+        "text": "$1.4 million"
+      },
+      {
+        "id": 8,
+        "text": "The Cure Starts Now"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "deathDate",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "diagnosisDate",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "associatedWith",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "pointsScored",
+        "tail": 5
+      },
+      {
+        "head": 0,
+        "relation": "gamesPlayed",
+        "tail": 6
+      },
+      {
+        "head": 0,
+        "relation": "raised",
+        "tail": 7
+      },
+      {
+        "head": 0,
+        "relation": "raisedThrough",
+        "tail": 8
+      }
+    ]
+  },
+  {
+    "document_id": 339,
+    "ragtruth_id": "1569",
+    "text": "Lauren Hill, a 19-year-old college basketball player who fought brain cancer and inspired millions, has passed away. Hill was diagnosed with diffuse intrinsic pontine glioma in 2013 but continued to play basketball, even during chemotherapy treatments. Mount St. Joseph University successfully petitioned the NCAA to move up the opening game of its schedule so Hill could play, and she scored the first two points and the final layup of the game. Despite her illness, Hill remained positive and encouraged others to cherish every moment and never give up on their dreams. She raised over $1.4 million for pediatric cancer research and leaves behind a legacy of strength, courage, and inspiration. Hill's passing has been met with tributes from NBA great LeBron James and NCAA President Mark Emmert, who praised her enthusiasm and spirit.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Lauren Hill, a 19-year-old college basketball player who fought brain cancer and inspired millions"
+      },
+      {
+        "id": 1,
+        "text": "the NCAA"
+      },
+      {
+        "id": 2,
+        "text": "the opening game of its schedule"
+      },
+      {
+        "id": 3,
+        "text": "diffuse intrinsic pontine glioma"
+      },
+      {
+        "id": 4,
+        "text": "others"
+      },
+      {
+        "id": 5,
+        "text": "passed"
+      },
+      {
+        "id": 6,
+        "text": "2013"
+      },
+      {
+        "id": 7,
+        "text": "Mount St. Joseph University"
+      },
+      {
+        "id": 8,
+        "text": "first"
+      },
+      {
+        "id": 9,
+        "text": "two"
+      },
+      {
+        "id": 10,
+        "text": "over $1.4 million"
+      },
+      {
+        "id": 11,
+        "text": "NBA"
+      },
+      {
+        "id": 12,
+        "text": "LeBron James"
+      },
+      {
+        "id": 13,
+        "text": "Mark Emmert"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "diagnosis",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "diagnosisDate",
+        "tail": 6
+      },
+      {
+        "head": 7,
+        "relation": "petitioned",
+        "tail": 1
+      },
+      {
+        "head": 2,
+        "relation": "scheduledBy",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "raised",
+        "tail": 10
+      },
+      {
+        "head": 0,
+        "relation": "tributeFrom",
+        "tail": 12
+      },
+      {
+        "head": 0,
+        "relation": "tributeFrom",
+        "tail": 13
+      }
+    ]
+  }
+]

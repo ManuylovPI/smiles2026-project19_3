@@ -1,0 +1,594 @@
+[
+  {
+    "document_id": 280,
+    "ragtruth_id": "1156",
+    "text": "Here is a summary of the article in 152 words:\n\nA Delaware family, including two teenage boys, are in critical condition after falling ill while on vacation in the US Virgin Islands. The family was staying in a luxury villa when they became sick, possibly due to exposure to pesticides. The U.S. Environmental Protection Agency (EPA) has detected the presence of methyl bromide in the villa, which can cause serious health effects. The EPA is investigating whether the family was made ill after a fumigation at the resort. The family's attorney declined to comment on the investigation, and the U.S. Department of Justice has initiated a criminal investigation. The family is receiving treatment, and the community is wishing them a speedy recovery.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "A Delaware family, including two teenage boys"
+      },
+      {
+        "id": 1,
+        "text": "a luxury villa"
+      },
+      {
+        "id": 2,
+        "text": "The U.S. Environmental Protection Agency (EPA)"
+      },
+      {
+        "id": 3,
+        "text": "investigating"
+      },
+      {
+        "id": 4,
+        "text": "152"
+      },
+      {
+        "id": 5,
+        "text": "US"
+      },
+      {
+        "id": 6,
+        "text": "the U.S. Department of Justice"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "stayingIn",
+        "tail": 1
+      },
+      {
+        "head": 2,
+        "relation": "investigating",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "inCriticalConditionIn",
+        "tail": 5
+      }
+    ]
+  },
+  {
+    "document_id": 281,
+    "ragtruth_id": "1157",
+    "text": "Two boys from Delaware and their father are in critical condition, and their mother is undergoing occupational therapy, after falling ill during a trip to the US Virgin Islands. The family was renting a villa at the Sirenusa resort, where they were exposed to methyl bromide, a toxic pesticide. The Environmental Protection Agency (EPA) is investigating the incident and has found the presence of the pesticide in the villa. The family's lawyer says the boys are in rough shape and the recovery will be long. The EPA has also launched a criminal investigation into the matter. The pesticide is restricted in the US due to its acute toxicity and can cause damage to the central nervous and respiratory systems.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Two boys from Delaware"
+      },
+      {
+        "id": 1,
+        "text": "The family"
+      },
+      {
+        "id": 2,
+        "text": "falling"
+      },
+      {
+        "id": 3,
+        "text": "methyl bromide, a toxic pesticide"
+      },
+      {
+        "id": 4,
+        "text": "a villa at the Sirenusa resort, where they were exposed to methyl bromide, a toxic pesticide"
+      },
+      {
+        "id": 5,
+        "text": "The Environmental Protection Agency (EPA)"
+      },
+      {
+        "id": 6,
+        "text": "US"
+      },
+      {
+        "id": 7,
+        "text": "US"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "rented",
+        "tail": 4
+      },
+      {
+        "head": 1,
+        "relation": "exposedTo",
+        "tail": 3
+      },
+      {
+        "head": 5,
+        "relation": "investigates",
+        "tail": 2
+      },
+      {
+        "head": 5,
+        "relation": "foundPresenceOf",
+        "tail": 3
+      },
+      {
+        "head": 3,
+        "relation": "restrictedIn",
+        "tail": 7
+      }
+    ]
+  },
+  {
+    "document_id": 282,
+    "ragtruth_id": "1170",
+    "text": "The American Pharmacists Association has banned its members from participating in executions, stating that it is contrary to the role of pharmacists as healthcare providers. This follows public attention on lethal injections following a Supreme Court decision to stay the execution of three death row inmates in Oklahoma. The most common method of execution, lethal injection, is conducted using the drug Pentobarbital, however in 2011, Lundbeck Inc., the manufacturer of Pentobarbital, decided to no longer provide the drug to prisons for use in executions.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "The American Pharmacists Association"
+      },
+      {
+        "id": 1,
+        "text": "participating"
+      },
+      {
+        "id": 2,
+        "text": "banned"
+      },
+      {
+        "id": 3,
+        "text": "the drug Pentobarbital"
+      },
+      {
+        "id": 4,
+        "text": "Supreme Court"
+      },
+      {
+        "id": 5,
+        "text": "three"
+      },
+      {
+        "id": 6,
+        "text": "Oklahoma"
+      },
+      {
+        "id": 7,
+        "text": "2011"
+      },
+      {
+        "id": 8,
+        "text": "Lundbeck Inc."
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "bannedFrom",
+        "tail": 1
+      },
+      {
+        "head": 8,
+        "relation": "manufacturerOf",
+        "tail": 3
+      }
+    ]
+  },
+  {
+    "document_id": 283,
+    "ragtruth_id": "1171",
+    "text": "The American Pharmacists Association has adopted a ban on its members participating in executions, citing that it goes against their role as healthcare providers. This decision comes after increased public attention on lethal injections, including a Supreme Court decision to stay the execution of three inmates in Oklahoma due to a previous botched execution. The association also opposes the use of the term \"drug\" for chemicals used in lethal injections and laws that require or prohibit pharmacists from participating in such cases. This aligns with the positions of other medical organizations like the American Medical Association and the American Nurses Association.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "The American Pharmacists Association"
+      },
+      {
+        "id": 1,
+        "text": "a ban on its members participating in executions"
+      },
+      {
+        "id": 2,
+        "text": "its members"
+      },
+      {
+        "id": 3,
+        "text": "adopted"
+      },
+      {
+        "id": 4,
+        "text": "Supreme Court"
+      },
+      {
+        "id": 5,
+        "text": "three"
+      },
+      {
+        "id": 6,
+        "text": "Oklahoma"
+      },
+      {
+        "id": 7,
+        "text": "the American Medical Association"
+      },
+      {
+        "id": 8,
+        "text": "the American Nurses Association"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "adopted",
+        "tail": 1
+      }
+    ]
+  },
+  {
+    "document_id": 284,
+    "ragtruth_id": "1172",
+    "text": "The American Pharmacists Association (APhA) has banned its members from participating in executions due to the role of pharmacists as healthcare providers. The APhA has previously opposed the use of the term \"drug\" for chemicals used in lethal injection and has urged laws prohibiting pharmacists from participating in such cases. The group adopted this ban after increased public attention on lethal injection, including a recent Supreme Court decision and instances of cloudy medications in Georgia. Twenty-nine states have abolished the death penalty while thirty-two still allow it. Lethal injection remains the most common method.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "The American Pharmacists Association (APhA)"
+      },
+      {
+        "id": 1,
+        "text": "banned"
+      },
+      {
+        "id": 2,
+        "text": "the death penalty"
+      },
+      {
+        "id": 3,
+        "text": "Supreme Court"
+      },
+      {
+        "id": 4,
+        "text": "Georgia"
+      },
+      {
+        "id": 5,
+        "text": "Twenty-nine"
+      },
+      {
+        "id": 6,
+        "text": "thirty-two"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "banned",
+        "tail": 1
+      }
+    ]
+  },
+  {
+    "document_id": 285,
+    "ragtruth_id": "1173",
+    "text": "The American Pharmacists Association (APhA) has adopted a policy banning its members from participating in executions due to ethical concerns. APhA opposes the use of drugs for lethal injection due to the risk of botched executions, citing instances where inmates have writhed in pain for extended periods. Thirty-two states allow capital punishment, with lethal injection being the most common method, but shortages of execution drugs have led some states to consider alternative methods like firing squads. APhA joins other medical organizations in advocating against pharmacist involvement in executions, emphasizing that pharmacists should not be involved in harmful or unethical practices.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "The American Pharmacists Association (APhA)"
+      },
+      {
+        "id": 1,
+        "text": "Thirty-two"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "memberBan",
+        "tail": 0
+      },
+      {
+        "head": 0,
+        "relation": "opposes",
+        "tail": 0
+      }
+    ]
+  },
+  {
+    "document_id": 286,
+    "ragtruth_id": "1174",
+    "text": "Sure! Here's the summary within 95 words:\n\nThe American Pharmacists Association has banned its members from participating in executions, citing ethical concerns and the conflicting role of pharmacists as healthcare providers. The move comes amid increased scrutiny of lethal injection protocols, including botched executions and drug shortages. The association notes that other medical professionals have also opposed involvement in capital punishment.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "The American Pharmacists Association"
+      },
+      {
+        "id": 1,
+        "text": "banned"
+      },
+      {
+        "id": 2,
+        "text": "95"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "bannedFrom",
+        "tail": 1
+      }
+    ]
+  },
+  {
+    "document_id": 287,
+    "ragtruth_id": "1175",
+    "text": "The American Pharmacists Association has adopted a policy against participation in executions, citing the role of pharmacists as healthcare providers. This follows previous positions against the use of certain drugs in lethal injection and opposition to laws requiring pharmacist involvement. The move comes amidst controversy over lethal injection methods and drug availability, with some states considering alternative methods such as firing squads. The association's stance aligns with other medical organizations opposed to execution involvement.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "adopted"
+      },
+      {
+        "id": 1,
+        "text": "The American Pharmacists Association"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "adopted",
+        "tail": 0
+      }
+    ]
+  },
+  {
+    "document_id": 288,
+    "ragtruth_id": "1182",
+    "text": "A new approach to talking about climate change, which links it to public health issues, was part of a roundtable discussion at Howard University's College of Medicine. The discussion, attended by President Barack Obama, U.S. Surgeon General Dr Vivek Murthy, and EPA Administrator Gina McCarthy, was part of National Public Health Week. During the discussion, Brian Deese, a senior adviser to the President, cited a recent study by the American Thoracic Society that found seven out of 10 doctors reported climate change is contributing to more health problems among their patients. The President also suggested that companies such as Google and Microsoft are developing apps which could allow families to monitor the air quality in their areas on a real-time basis. The World Health Organisation estimates climate change will cause an additional 250,000 deaths per year between 2030 and 2050, with the most likely cause of deaths being malaria, diarrhoea, heat exposure and under-nutrition.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "climate change"
+      },
+      {
+        "id": 1,
+        "text": "a roundtable discussion at Howard University's College of Medicine"
+      },
+      {
+        "id": 2,
+        "text": "President Barack Obama"
+      },
+      {
+        "id": 3,
+        "text": "seven out of 10 doctors"
+      },
+      {
+        "id": 4,
+        "text": "families"
+      },
+      {
+        "id": 5,
+        "text": "U.S. Surgeon"
+      },
+      {
+        "id": 6,
+        "text": "Vivek Murthy"
+      },
+      {
+        "id": 7,
+        "text": "EPA"
+      },
+      {
+        "id": 8,
+        "text": "Gina McCarthy"
+      },
+      {
+        "id": 9,
+        "text": "National Public Health Week"
+      },
+      {
+        "id": 10,
+        "text": "Brian Deese"
+      },
+      {
+        "id": 11,
+        "text": "the American Thoracic Society"
+      },
+      {
+        "id": 12,
+        "text": "Google"
+      },
+      {
+        "id": 13,
+        "text": "Microsoft"
+      },
+      {
+        "id": 14,
+        "text": "The World Health Organisation"
+      },
+      {
+        "id": 15,
+        "text": "an additional 250,000"
+      },
+      {
+        "id": 16,
+        "text": "between 2030 and 2050"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "partOf",
+        "tail": 9
+      },
+      {
+        "head": 1,
+        "relation": "attendedBy",
+        "tail": 2
+      },
+      {
+        "head": 1,
+        "relation": "attendedBy",
+        "tail": 6
+      },
+      {
+        "head": 1,
+        "relation": "attendedBy",
+        "tail": 8
+      },
+      {
+        "head": 10,
+        "relation": "adviserTo",
+        "tail": 2
+      },
+      {
+        "head": 3,
+        "relation": "reported",
+        "tail": 0
+      },
+      {
+        "head": 0,
+        "relation": "contributesTo",
+        "tail": 3
+      },
+      {
+        "head": 2,
+        "relation": "suggested",
+        "tail": 12
+      },
+      {
+        "head": 2,
+        "relation": "suggested",
+        "tail": 13
+      },
+      {
+        "head": 14,
+        "relation": "estimates",
+        "tail": 15
+      },
+      {
+        "head": 0,
+        "relation": "willCause",
+        "tail": 15
+      },
+      {
+        "head": 15,
+        "relation": "timePeriod",
+        "tail": 16
+      }
+    ]
+  },
+  {
+    "document_id": 289,
+    "ragtruth_id": "1183",
+    "text": "A new approach to discussing climate change is emerging, focusing on the impact it has on public health. President Barack Obama joined U.S. Surgeon General Dr. Vivek Murthy and EPA Administrator Gina McCarthy for a roundtable discussion on this topic at Howard University's College of Medicine. Obama highlighted the connection between the environment and public health, recalling the poor air quality in Los Angeles in the late 1970s. The discussion emphasized the personal nature of climate change when it affects individuals and their families. The American Thoracic Society recently conducted a study showing that seven out of 10 doctors believe climate change is contributing to more health problems among their patients. This highlights that climate change is not just a future threat but a present one. The impacts of climate change on health will vary depending on factors such as the effectiveness of a community's public health systems and the behavior and economic status of individuals affected. The World Health Organization estimates that climate change will cause an additional 250,000 deaths per year between 2030 and 2050, with malaria, diarrhea, heat exposure, and under-nutrition being the main causes. The article also mentions the skepticism that still exists regarding climate change, with a sizable group of people doubting its occurrence. However, framing climate change as a public health issue rather than an environmental or national security issue may be more effective in garnering support and action. The President emphasized that solutions to climate change already exist and that the innovative spirit of the American people can drive progress.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "climate change"
+      },
+      {
+        "id": 1,
+        "text": "President Barack Obama"
+      },
+      {
+        "id": 2,
+        "text": "a roundtable discussion on this topic at Howard University's College of Medicine"
+      },
+      {
+        "id": 3,
+        "text": "climate change"
+      },
+      {
+        "id": 4,
+        "text": "individuals"
+      },
+      {
+        "id": 5,
+        "text": "seven out of 10 doctors"
+      },
+      {
+        "id": 6,
+        "text": "a study showing that seven out of 10 doctors believe climate change is contributing to more health problems among their patients"
+      },
+      {
+        "id": 7,
+        "text": "climate change"
+      },
+      {
+        "id": 8,
+        "text": "U.S. Surgeon"
+      },
+      {
+        "id": 9,
+        "text": "Vivek Murthy"
+      },
+      {
+        "id": 10,
+        "text": "EPA"
+      },
+      {
+        "id": 11,
+        "text": "Gina McCarthy"
+      },
+      {
+        "id": 12,
+        "text": "Los Angeles"
+      },
+      {
+        "id": 13,
+        "text": "the late 1970s"
+      },
+      {
+        "id": 14,
+        "text": "The American Thoracic Society"
+      },
+      {
+        "id": 15,
+        "text": "The World Health Organization"
+      },
+      {
+        "id": 16,
+        "text": "an additional 250,000"
+      },
+      {
+        "id": 17,
+        "text": "between 2030 and 2050"
+      },
+      {
+        "id": 18,
+        "text": "American"
+      }
+    ],
+    "relations": [
+      {
+        "head": 2,
+        "relation": "topic",
+        "tail": 0
+      },
+      {
+        "head": 2,
+        "relation": "location",
+        "tail": 0
+      },
+      {
+        "head": 6,
+        "relation": "conductedBy",
+        "tail": 14
+      },
+      {
+        "head": 6,
+        "relation": "finding",
+        "tail": 5
+      },
+      {
+        "head": 15,
+        "relation": "estimate",
+        "tail": 16
+      },
+      {
+        "head": 15,
+        "relation": "timePeriod",
+        "tail": 17
+      }
+    ]
+  }
+]

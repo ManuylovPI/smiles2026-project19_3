@@ -1,0 +1,721 @@
+[
+  {
+    "document_id": 10,
+    "ragtruth_id": "46",
+    "text": "Blue Bell ice cream has temporarily shut down one of its plants after listeria contamination was discovered in a serving of ice cream. Public health officials advised consumers not to eat any Blue Bell products made at the plant in Oklahoma. The recall includes 3-ounce servings of ice cream with certain coding dates. This is the third time Blue Bell has taken action due to listeria contamination, and the company is cooperating with investigations. No illnesses have been reported directly linked to the contaminated ice cream, but five people in Kansas have died from listeriosis in the past year after consuming Blue Bell products.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Blue Bell ice cream"
+      },
+      {
+        "id": 1,
+        "text": "one of its plants"
+      },
+      {
+        "id": 2,
+        "text": "shut"
+      },
+      {
+        "id": 3,
+        "text": "a serving of ice cream"
+      },
+      {
+        "id": 4,
+        "text": "3-ounce"
+      },
+      {
+        "id": 5,
+        "text": "third"
+      },
+      {
+        "id": 6,
+        "text": "five"
+      },
+      {
+        "id": 7,
+        "text": "Kansas"
+      },
+      {
+        "id": 8,
+        "text": "the past year"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "shutDown",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "contaminationCause",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "recallIncludes",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "actionCount",
+        "tail": 5
+      },
+      {
+        "head": 0,
+        "relation": "deathCount",
+        "tail": 6
+      },
+      {
+        "head": 6,
+        "relation": "location",
+        "tail": 7
+      },
+      {
+        "head": 6,
+        "relation": "time",
+        "tail": 8
+      }
+    ]
+  },
+  {
+    "document_id": 11,
+    "ragtruth_id": "47",
+    "text": "Blue Bell ice cream has temporarily closed one of its manufacturing plants due to a listeria contamination in one of its products. The contaminated product was traced back to the company's Broken Arrow, Oklahoma plant, and public health officials are warning consumers not to eat any Blue Bell products made at this plant. This includes 3-ounce servings of ice cream with certain letter codes. The company has recalled other products and is shutting down the plant to investigate the possible cause of contamination. The Centers for Disease Control and Prevention (CDC) has found a link between the contaminated ice cream and a listeria outbreak at a Kansas hospital, but it is not clear if the ice cream is the source of the infections. The CDC is continuing to investigate. Consumers are advised to check their freezers for recalled products and throw them away. This is the first product recall in Blue Bell's 108-year history.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Blue Bell ice cream"
+      },
+      {
+        "id": 1,
+        "text": "one of its products"
+      },
+      {
+        "id": 2,
+        "text": "one of its manufacturing plants"
+      },
+      {
+        "id": 3,
+        "text": "any Blue Bell products made at this plant"
+      },
+      {
+        "id": 4,
+        "text": "The Centers for Disease Control and Prevention (CDC)"
+      },
+      {
+        "id": 5,
+        "text": "Consumers"
+      },
+      {
+        "id": 6,
+        "text": "recalled products"
+      },
+      {
+        "id": 7,
+        "text": "3-ounce"
+      },
+      {
+        "id": 8,
+        "text": "Kansas"
+      },
+      {
+        "id": 9,
+        "text": "first"
+      },
+      {
+        "id": 10,
+        "text": "108-year"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "hasManufacturingPlant",
+        "tail": 2
+      },
+      {
+        "head": 1,
+        "relation": "tracedBackTo",
+        "tail": 2
+      },
+      {
+        "head": 3,
+        "relation": "madeAt",
+        "tail": 2
+      },
+      {
+        "head": 1,
+        "relation": "linkedTo",
+        "tail": 8
+      },
+      {
+        "head": 0,
+        "relation": "hasRecall",
+        "tail": 9
+      },
+      {
+        "head": 0,
+        "relation": "historyLength",
+        "tail": 10
+      }
+    ]
+  },
+  {
+    "document_id": 12,
+    "ragtruth_id": "54",
+    "text": "An outside review by Columbia Journalism School professors has found that the Rolling Stone article about a purported gang rape at the University of Virginia was deeply flawed and that the magazine failed in its reporting, editing, editorial supervision and fact-checking. The magazine's managing editor, Will Dana, has apologised to readers and those damaged by the story and the ensuing fallout. Following the apology, the question has arisen as to whether the University, the Phi Kappa Psi fraternity or any of the other fraternities on campus can sue for defamation. While the University, being a public university, is ineligible, the individual members of the fraternity may be able to bring a successful case for defamation if they can prove that the statements were about them and that the statements harmed their reputation. Lawyers suggest that if the members of the fraternity can get past the preliminary hurdles of a defamation claim and make a tangible case for damages, this could be one of the rare successful defamation cases.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Rolling Stone"
+      },
+      {
+        "id": 1,
+        "text": "the Rolling Stone article about a purported gang rape at the University of Virginia"
+      },
+      {
+        "id": 2,
+        "text": "apologised"
+      },
+      {
+        "id": 3,
+        "text": "the University of Virginia"
+      },
+      {
+        "id": 4,
+        "text": "the Phi Kappa Psi fraternity"
+      },
+      {
+        "id": 5,
+        "text": "the individual members of the fraternity"
+      },
+      {
+        "id": 6,
+        "text": "the statements"
+      },
+      {
+        "id": 7,
+        "text": "Columbia Journalism School"
+      },
+      {
+        "id": 8,
+        "text": "Will Dana"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "about",
+        "tail": 3
+      },
+      {
+        "head": 1,
+        "relation": "publisher",
+        "tail": 0
+      },
+      {
+        "head": 0,
+        "relation": "managingEditor",
+        "tail": 8
+      },
+      {
+        "head": 8,
+        "relation": "apologizedFor",
+        "tail": 1
+      },
+      {
+        "head": 6,
+        "relation": "about",
+        "tail": 5
+      }
+    ]
+  },
+  {
+    "document_id": 13,
+    "ragtruth_id": "55",
+    "text": "An outside review by professors from Columbia Journalism School has determined that Rolling Stone magazine failed in its reporting and editorial processes, resulting in a flawed article about an alleged gang rape at the University of Virginia (UVA). The review found that the failure extended to reporting, editing, editorial supervision, and fact-checking. Rolling Stone's managing editor, Will Dana, issued an apology to readers and those affected by the story, including the Phi Kappa Psi fraternity and UVA administrators and students. \nThe question now arises as to whether UVA, Phi Kappa Psi, or other fraternities on campus can sue for defamation. The Virginia Supreme Court has stated that for a statement to be defamatory, it must be both false and harmful. However, defamation laws must be balanced with the freedom of speech protected by the First Amendment and the Virginia Constitution. The Rolling Stone article presented as fact, which could potentially be deemed false by the law. \nIndividual fraternity members are likely considered private individuals rather than public figures, making it easier for them to prove defamation. To successfully sue for defamation, private individuals must show that the defendant published a false statement about them, which harmed their reputation. They must also prove that the defendant knew the statement was false or acted negligently in checking the facts. However, there are strict rules about who can be a plaintiff in a defamation case. UVA, as a public university, cannot sue for defamation. Fraternities, as groups, generally cannot sue either unless the defamatory language is easily imputed against all members of a small group. \nOverall, proving defamation can be challenging, as the plaintiff must show financial harm and tangible damages. While a successful defamation case is rare, the UVA situation may have the potential for success if the fraternity members can overcome preliminary hurdles and demonstrate tangible harm.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Rolling Stone magazine"
+      },
+      {
+        "id": 1,
+        "text": "An outside review by professors from Columbia Journalism School"
+      },
+      {
+        "id": 2,
+        "text": "failed"
+      },
+      {
+        "id": 3,
+        "text": "a flawed article about an alleged gang rape at the University of Virginia (UVA)"
+      },
+      {
+        "id": 4,
+        "text": "the University of Virginia (UVA)"
+      },
+      {
+        "id": 5,
+        "text": "the Phi Kappa Psi fraternity"
+      },
+      {
+        "id": 6,
+        "text": "a statement"
+      },
+      {
+        "id": 7,
+        "text": "Individual fraternity members"
+      },
+      {
+        "id": 8,
+        "text": "private individuals"
+      },
+      {
+        "id": 9,
+        "text": "the defendant"
+      },
+      {
+        "id": 10,
+        "text": "a false statement about them, which harmed their reputation"
+      },
+      {
+        "id": 11,
+        "text": "Will Dana"
+      },
+      {
+        "id": 12,
+        "text": "The Virginia Supreme Court"
+      },
+      {
+        "id": 13,
+        "text": "the First Amendment"
+      },
+      {
+        "id": 14,
+        "text": "the Virginia Constitution"
+      }
+    ],
+    "relations": [
+      {
+        "head": 3,
+        "relation": "about",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "editorialFailure",
+        "tail": 2
+      },
+      {
+        "head": 1,
+        "relation": "determined",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "apologyIssuedBy",
+        "tail": 11
+      },
+      {
+        "head": 12,
+        "relation": "stated",
+        "tail": 6
+      },
+      {
+        "head": 6,
+        "relation": "protectedBy",
+        "tail": 13
+      },
+      {
+        "head": 6,
+        "relation": "protectedBy",
+        "tail": 14
+      },
+      {
+        "head": 8,
+        "relation": "mustShow",
+        "tail": 10
+      },
+      {
+        "head": 10,
+        "relation": "publishedBy",
+        "tail": 9
+      },
+      {
+        "head": 10,
+        "relation": "about",
+        "tail": 8
+      }
+    ]
+  },
+  {
+    "document_id": 14,
+    "ragtruth_id": "56",
+    "text": "Rolling Stone has faced criticism for its reporting and editing processes after a story about a purported gang rape at the University of Virginia was found to contain numerous errors and misrepresentations. The Columbia Journalism School conducted an outside review and concluded that the magazine failed in multiple areas, including reporting, editing, editorial supervision, and fact-checking. The managing editor of Rolling Stone, Will Dana, has apologized for the mistakes made in the article. However, the possibility of legal action has arisen as a result of the story. The Virginia Supreme Court has established that the elements of libel include publication of an actionable statement with the requisite intent. In order to file a defamation lawsuit, the individual members of the Phi Kappa Psi fraternity must show that the defamatory statements were about them and caused harm to their reputations. The fraternity has argued that the group exception applies in this case, as the defamatory story has been imputed directly to individual members. While the law of defamation must be balanced against the freedom of speech protected under the First Amendment and the Virginia Constitution, the individual members of the fraternity may have a case for damages if they can make a tangible case for financial harm.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Rolling Stone"
+      },
+      {
+        "id": 1,
+        "text": "numerous errors and misrepresentations"
+      },
+      {
+        "id": 2,
+        "text": "a story about a purported gang rape at the University of Virginia"
+      },
+      {
+        "id": 3,
+        "text": "the individual members of the Phi Kappa Psi fraternity"
+      },
+      {
+        "id": 4,
+        "text": "the Phi Kappa Psi fraternity"
+      },
+      {
+        "id": 5,
+        "text": "The Columbia Journalism School"
+      },
+      {
+        "id": 6,
+        "text": "Will Dana"
+      },
+      {
+        "id": 7,
+        "text": "The Virginia Supreme Court"
+      },
+      {
+        "id": 8,
+        "text": "the First Amendment"
+      },
+      {
+        "id": 9,
+        "text": "the Virginia Constitution"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "criticizedFor",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "subjectOfStory",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "reviewedBy",
+        "tail": 5
+      },
+      {
+        "head": 0,
+        "relation": "apologizedBy",
+        "tail": 6
+      },
+      {
+        "head": 2,
+        "relation": "legalActionResult",
+        "tail": 1
+      },
+      {
+        "head": 7,
+        "relation": "established",
+        "tail": 1
+      },
+      {
+        "head": 3,
+        "relation": "memberOf",
+        "tail": 4
+      },
+      {
+        "head": 4,
+        "relation": "argued",
+        "tail": 2
+      },
+      {
+        "head": 3,
+        "relation": "protectedBy",
+        "tail": 8
+      },
+      {
+        "head": 3,
+        "relation": "protectedBy",
+        "tail": 9
+      }
+    ]
+  },
+  {
+    "document_id": 15,
+    "ragtruth_id": "57",
+    "text": "According to a recent review by Columbia Journalism School professors, Rolling Stone failed in its reporting and editing processes, leading to a flawed article about a purported gang rape at the University of Virginia. The article has been widely criticized for its lack of factual accuracy and for damaging the reputations of innocent parties. The fraternity involved, Phi Kappa Psi, has announced that it will pursue legal action against Rolling Stone for defamation. However, the fraternity's ability to sue may be limited due to the fact that it is not a public figure and cannot demonstrate actual financial harm as a result of the article. Additionally, the law of defamation is complex and requires proof of falsity, intent, and harm to reputation. While UVA itself cannot sue for defamation, individual members of the university or the fraternity may have grounds for a lawsuit. However, the success of such a suit would depend on the specific circumstances and evidence presented.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Rolling Stone"
+      },
+      {
+        "id": 1,
+        "text": "a flawed article about a purported gang rape at the University of Virginia"
+      },
+      {
+        "id": 2,
+        "text": "The fraternity involved, Phi Kappa Psi"
+      },
+      {
+        "id": 3,
+        "text": "the University of Virginia"
+      },
+      {
+        "id": 4,
+        "text": "Columbia Journalism School"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "about",
+        "tail": 3
+      },
+      {
+        "head": 1,
+        "relation": "criticizedBy",
+        "tail": 4
+      },
+      {
+        "head": 2,
+        "relation": "legalActionAgainst",
+        "tail": 0
+      }
+    ]
+  },
+  {
+    "document_id": 16,
+    "ragtruth_id": "58",
+    "text": "The Rolling Stone article about a purported gang rape at the University of Virginia has been deemed to have \"deeply flawed\" reporting and editing, according to an external review by Columbia Journalism School professors. The fraternity members mentioned in the article may be able to sue for defamation, but it is a complex legal issue. To prove defamation, they must show that the statement was false, caused harm to their reputation, and was made with the requisite intent. However, the fact that the statement was about a group rather than an individual makes it harder to prove. Additionally, the fact that the statement was about a sensitive topic like sexual assault may impact the legal approach. The case is significant because it highlights the importance of accurate reporting and the potential consequences of spreading false information.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "The Rolling Stone article about a purported gang rape at the University of Virginia"
+      },
+      {
+        "id": 1,
+        "text": "The fraternity members mentioned in the article"
+      },
+      {
+        "id": 2,
+        "text": "defamation"
+      },
+      {
+        "id": 3,
+        "text": "The case"
+      },
+      {
+        "id": 4,
+        "text": "Columbia Journalism School"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "reviewedBy",
+        "tail": 4
+      }
+    ]
+  },
+  {
+    "document_id": 17,
+    "ragtruth_id": "59",
+    "text": "An external review by Columbia Journalism School professors found that Rolling Stone magazine had failed to conduct proper reporting, editing, and fact-checking in an article about a purported gang rape at the University of Virginia. The article has been widely criticized for its inaccuracies and defamatory content. The magazine's managing editor has apologized to readers and those affected by the article. The fraternity featured in the article, Phi Kappa Psi, is considering taking legal action against Rolling Stone. However, defamation laws in Virginia require that the plaintiff prove the statement was false, defamatory, and made with the requisite intent. Additionally, the plaintiff must show that the statement was \"of or concerning\" them, which may be difficult for members of a group like a fraternity. While the \"small group\" exception may apply, it is unclear whether individual members of the fraternity have suffered an individualized injury. Other fraternities on campus may also have a harder time bringing a lawsuit as they are not specifically named in the article. Ultimately, the success of a defamation case would depend on the ability to prove damages and overcome preliminary hurdles.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "an article about a purported gang rape at the University of Virginia"
+      },
+      {
+        "id": 1,
+        "text": "Rolling Stone magazine"
+      },
+      {
+        "id": 2,
+        "text": "the plaintiff"
+      },
+      {
+        "id": 3,
+        "text": "the statement"
+      },
+      {
+        "id": 4,
+        "text": "The fraternity featured in the article, Phi Kappa Psi"
+      },
+      {
+        "id": 5,
+        "text": "Other fraternities on campus"
+      },
+      {
+        "id": 6,
+        "text": "Columbia Journalism School"
+      },
+      {
+        "id": 7,
+        "text": "Virginia"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "criticizedFor",
+        "tail": 0
+      },
+      {
+        "head": 1,
+        "relation": "apologizedFor",
+        "tail": 0
+      },
+      {
+        "head": 4,
+        "relation": "featuredIn",
+        "tail": 0
+      },
+      {
+        "head": 2,
+        "relation": "mustProve",
+        "tail": 3
+      },
+      {
+        "head": 3,
+        "relation": "mustBeOfOrConcerning",
+        "tail": 2
+      },
+      {
+        "head": 5,
+        "relation": "notSpecificallyNamedIn",
+        "tail": 0
+      }
+    ]
+  },
+  {
+    "document_id": 18,
+    "ragtruth_id": "66",
+    "text": "The first woman and person of color to serve in the Kentucky State Senate has criticized Rand Paul's presidential campaign for being out of touch with the needs of minority communities. She states that while Paul has attempted to brand himself as the GOP's minority outreach candidate, his policies do not support this image. She cites Paul's questioning of the Civil Rights Act and his belief that private business owners have a right to discriminate as evidence of his outdated views. Furthermore, she criticizes his dismissive attitude towards the need for a more robust Voting Rights Act, pointing out his comment, \"We have an African-American President,\" as a response. She argues that Paul's record shows his views are outside of the mainstream and disqualifying for a presidential candidate, and that the American people deserve a leader who respects their intelligence and won't work to dismantle progress made over the last five decades.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "The first woman and person of color to serve in the Kentucky State Senate"
+      },
+      {
+        "id": 1,
+        "text": "Rand Paul's"
+      },
+      {
+        "id": 2,
+        "text": "the American people"
+      },
+      {
+        "id": 3,
+        "text": "GOP"
+      },
+      {
+        "id": 4,
+        "text": "the Civil Rights Act"
+      },
+      {
+        "id": 5,
+        "text": "Voting Rights Act"
+      },
+      {
+        "id": 6,
+        "text": "African-American"
+      },
+      {
+        "id": 7,
+        "text": "the last five decades"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "candidateFor",
+        "tail": 3
+      },
+      {
+        "head": 1,
+        "relation": "criticizedBy",
+        "tail": 0
+      },
+      {
+        "head": 1,
+        "relation": "questioned",
+        "tail": 4
+      },
+      {
+        "head": 1,
+        "relation": "supports",
+        "tail": 5
+      },
+      {
+        "head": 1,
+        "relation": "mentioned",
+        "tail": 6
+      },
+      {
+        "head": 2,
+        "relation": "deserves",
+        "tail": 0
+      }
+    ]
+  },
+  {
+    "document_id": 19,
+    "ragtruth_id": "67",
+    "text": "Rand Paul, a politician from Kentucky, has announced his presidential campaign with a focus on expanding the Republican Party and inclusion. However, his record and positions on issues like voting rights, civil rights legislation, and minority communities raise concerns. Paul has questioned the Civil Rights Act and believes private business owners have the right to discriminate. He opposes a more robust Voting Rights Act and has made condescending remarks at historically black colleges and universities. Paul's views are seen as outdated and disqualifying for someone who wants to lead the country. The American people deserve a leader who respects their intelligence, doesn't pander to them, and works to build upon the progress made over the last five decades. Overall, the author believes that Paul's campaign message of inclusion is just hype, and the American people deserve better.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Rand Paul, a politician from Kentucky"
+      },
+      {
+        "id": 1,
+        "text": "The American people"
+      },
+      {
+        "id": 2,
+        "text": "the Republican Party"
+      },
+      {
+        "id": 3,
+        "text": "the Civil Rights Act"
+      },
+      {
+        "id": 4,
+        "text": "Voting Rights Act"
+      },
+      {
+        "id": 5,
+        "text": "the last five decades"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "memberOf",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "opposes",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "questions",
+        "tail": 3
+      }
+    ]
+  }
+]

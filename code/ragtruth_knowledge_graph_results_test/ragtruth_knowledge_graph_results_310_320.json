@@ -1,0 +1,982 @@
+[
+  {
+    "document_id": 310,
+    "ragtruth_id": "1354",
+    "text": "Here is a summary of the article in 198 words:\n\nThe Obama administration's Clean Power Plan has been criticized for neglecting nuclear energy as a means of reducing carbon emissions. Despite being the largest source of carbon-free energy, the plan assumes the phasing out of nuclear power plants and instead focuses on natural gas and renewables. This bias is evident in the Environmental Protection Agency's (EPA) modeling, which does not account for the importance of nuclear energy in meeting carbon reduction targets. The administration's approach has been criticized as a departure from its previously stated commitment to an \"all-of-the-above\" energy strategy and a lack of seriousness in addressing carbon emissions.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "The Obama administration's Clean Power Plan"
+      },
+      {
+        "id": 1,
+        "text": "The Obama administration's"
+      },
+      {
+        "id": 2,
+        "text": "198"
+      },
+      {
+        "id": 3,
+        "text": "the Environmental Protection Agency's"
+      },
+      {
+        "id": 4,
+        "text": "EPA"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "criticizedFor",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "assumes",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "focusesOn",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "modeledBy",
+        "tail": 3
+      },
+      {
+        "head": 1,
+        "relation": "hasCommitment",
+        "tail": 2
+      }
+    ]
+  },
+  {
+    "document_id": 311,
+    "ragtruth_id": "1355",
+    "text": "The Obama administration's Clean Power Plan is an energy policy plan that neglects the potential of nuclear energy to reduce carbon emissions. Despite nuclear energy being the largest source of carbon-free energy in the US, the plan assumes the phaseout of nuclear power by 2050. The Environmental Protection Agency's (EPA) modeling, which determines emission targets and state actions, assumes no new nuclear construction and the retirement of 96 of the 99 operating nuclear plants by 2050. This bias is also evident in President Obama's executive order \"Planning for Federal Sustainability in the Next Decade,\" which excludes existing nuclear plants from emission reduction credits. The administration's stance on nuclear energy is at odds with its professed support for an all-of-the-above energy strategy and its belief in man-driven global warming. The Clean Power Plan and the executive order demonstrate that the administration is not serious about reducing carbon emissions or supporting nuclear energy.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "The Obama administration's Clean Power Plan"
+      },
+      {
+        "id": 1,
+        "text": "2050"
+      },
+      {
+        "id": 2,
+        "text": "assumes"
+      },
+      {
+        "id": 3,
+        "text": "Obama"
+      },
+      {
+        "id": 4,
+        "text": "The Obama administration's"
+      },
+      {
+        "id": 5,
+        "text": "President Obama's executive order \"Planning for Federal Sustainability in the Next Decade,\" which excludes existing nuclear plants from emission reduction credits"
+      },
+      {
+        "id": 6,
+        "text": "US"
+      },
+      {
+        "id": 7,
+        "text": "The Environmental Protection Agency's"
+      },
+      {
+        "id": 8,
+        "text": "EPA"
+      },
+      {
+        "id": 9,
+        "text": "96"
+      },
+      {
+        "id": 10,
+        "text": "99"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "assumes",
+        "tail": 1
+      },
+      {
+        "head": 2,
+        "relation": "assumes",
+        "tail": 9
+      },
+      {
+        "head": 2,
+        "relation": "assumes",
+        "tail": 10
+      },
+      {
+        "head": 5,
+        "relation": "excludesFromCredits",
+        "tail": 0
+      }
+    ]
+  },
+  {
+    "document_id": 312,
+    "ragtruth_id": "1452",
+    "text": "The 100th anniversary of the massacre of Armenians under the Ottoman Empire has caused controversy in Turkey, with many of its citizens denying that the event, in which 1.5 million people died, was genocide. The Turkish government also denies the occurrence of genocide, instead asserting that the deaths were the result of violence between Armenian Christians and Turkish Muslims during World War I. The government has also disputed the number of people killed, claiming it was 300,000 rather than the 1.5 million Armenians claim. This has led to widespread dispute, with scholars widely viewing the event as genocide, and the Armenian government and diaspora lobbying for international recognition of the event as such. The Armenian Prime Minister has called the event a “monstrous crime” and encouraged other countries to recognise it as genocide. However, countries such as the UK and Israel do not recognise the event as genocide, and the US President refrained from using the term genocide due to fears of damaging relations with Turkey. Turkey has long maintained that the event was not genocide, associating the term with Nazis rather than the founders of modern Turkey. The government has expressed condolences for the deaths of Armenians during the event, but has labelled it as a “necessary deportation” during the run-up to World War I. However, an increasing number of scholars and world leaders now believe the event should be recognised as genocide, with Germany joining the European Parliament, France, Austria, Canada and 20 other countries in labelling the event as such.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Turkey"
+      },
+      {
+        "id": 1,
+        "text": "the massacre of Armenians under the Ottoman Empire"
+      },
+      {
+        "id": 2,
+        "text": "the number of people killed"
+      },
+      {
+        "id": 3,
+        "text": "disputed"
+      },
+      {
+        "id": 4,
+        "text": "the term genocide"
+      },
+      {
+        "id": 5,
+        "text": "the deaths"
+      },
+      {
+        "id": 6,
+        "text": "World War I."
+      },
+      {
+        "id": 7,
+        "text": "100th"
+      },
+      {
+        "id": 8,
+        "text": "Armenian"
+      },
+      {
+        "id": 9,
+        "text": "Christians"
+      },
+      {
+        "id": 10,
+        "text": "Turkish Muslims"
+      },
+      {
+        "id": 11,
+        "text": "300,000"
+      },
+      {
+        "id": 12,
+        "text": "1.5 million"
+      },
+      {
+        "id": 13,
+        "text": "Armenians"
+      },
+      {
+        "id": 14,
+        "text": "Armenian"
+      },
+      {
+        "id": 15,
+        "text": "diaspora lobbying"
+      },
+      {
+        "id": 16,
+        "text": "Armenian"
+      },
+      {
+        "id": 17,
+        "text": "UK"
+      },
+      {
+        "id": 18,
+        "text": "Israel"
+      },
+      {
+        "id": 19,
+        "text": "US"
+      },
+      {
+        "id": 20,
+        "text": "Nazis"
+      },
+      {
+        "id": 21,
+        "text": "Germany"
+      },
+      {
+        "id": 22,
+        "text": "the European Parliament"
+      },
+      {
+        "id": 23,
+        "text": "France"
+      },
+      {
+        "id": 24,
+        "text": "Austria"
+      },
+      {
+        "id": 25,
+        "text": "Canada"
+      },
+      {
+        "id": 26,
+        "text": "20"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "anniversary",
+        "tail": 7
+      },
+      {
+        "head": 1,
+        "relation": "locatedIn",
+        "tail": 0
+      },
+      {
+        "head": 5,
+        "relation": "causedBy",
+        "tail": 8
+      },
+      {
+        "head": 5,
+        "relation": "causedBy",
+        "tail": 9
+      },
+      {
+        "head": 5,
+        "relation": "causedBy",
+        "tail": 10
+      },
+      {
+        "head": 5,
+        "relation": "during",
+        "tail": 6
+      },
+      {
+        "head": 2,
+        "relation": "value",
+        "tail": 11
+      },
+      {
+        "head": 2,
+        "relation": "value",
+        "tail": 12
+      },
+      {
+        "head": 2,
+        "relation": "refersTo",
+        "tail": 13
+      },
+      {
+        "head": 1,
+        "relation": "recognizedAs",
+        "tail": 4
+      },
+      {
+        "head": 1,
+        "relation": "notRecognizedAs",
+        "tail": 4
+      },
+      {
+        "head": 1,
+        "relation": "labeledAs",
+        "tail": 4
+      },
+      {
+        "head": 1,
+        "relation": "associatedWith",
+        "tail": 20
+      },
+      {
+        "head": 1,
+        "relation": "recognizedBy",
+        "tail": 21
+      },
+      {
+        "head": 1,
+        "relation": "recognizedBy",
+        "tail": 22
+      },
+      {
+        "head": 1,
+        "relation": "recognizedBy",
+        "tail": 23
+      },
+      {
+        "head": 1,
+        "relation": "recognizedBy",
+        "tail": 24
+      },
+      {
+        "head": 1,
+        "relation": "recognizedBy",
+        "tail": 25
+      },
+      {
+        "head": 1,
+        "relation": "recognizedBy",
+        "tail": 26
+      }
+    ]
+  },
+  {
+    "document_id": 313,
+    "ragtruth_id": "1453",
+    "text": "A recent poll shows that 91% of Turks do not believe that the events of 1915, when 1.5 million ethnic Armenians were killed under the Ottoman Empire, were genocide. This sentiment is shared by the Turkish government, which denies that a genocide occurred and disputes Armenia's count of the numbers killed. However, a growing number of scholars and world leaders believe that the events should be called genocide. Germany looks set to join the European Parliament, France, Austria, Canada, and other countries in labeling the killings as genocide. The Pope also referred to the mass killings as the first genocide of the 20th century, which angered Turkish President Recep Tayyip Erdogan. Some notable countries, including the UK, Israel, and the US, do not recognize the killings as genocide. \n\nThere are several reasons why Turkey maintains its position on the issue. Some argue that the term \"genocide\" is associated with Nazis, not the founders of modern Turkey. Turkey also says that the events were a wartime precaution, similar to the relocation of the Japanese population during World War II. Additionally, labeling the events as genocide would undermine the narratives that Turks hold dear and stain the legacy of the country's founders. There are also fears that recognition of genocide could lead to lawsuits against the Turkish government. \n\nDespite the controversy, there is hope that Turkey's younger generation is more willing to accept that a genocide occurred. Many Armenians living in Turkey still feel treated as second-class citizens and hope for a larger democratization process in Turkey. The issue also affects relations between Turkey and Armenia, with tensions surrounding the closed border between the two countries. Some argue that Armenia should enter into dialogue with Turkey and normalize relations rather than pushing for recognition of genocide. Overall, the issue remains highly debated and divisive in Turkey.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "believe"
+      },
+      {
+        "id": 1,
+        "text": "1.5 million ethnic Armenians"
+      },
+      {
+        "id": 2,
+        "text": "the events of 1915, when 1.5 million ethnic Armenians were killed under the Ottoman Empire"
+      },
+      {
+        "id": 3,
+        "text": "Turkey"
+      },
+      {
+        "id": 4,
+        "text": "the founders of modern Turkey"
+      },
+      {
+        "id": 5,
+        "text": "the issue"
+      },
+      {
+        "id": 6,
+        "text": "Armenia's"
+      },
+      {
+        "id": 7,
+        "text": "Turkey and Armenia"
+      },
+      {
+        "id": 8,
+        "text": "91%"
+      },
+      {
+        "id": 9,
+        "text": "Turks"
+      },
+      {
+        "id": 10,
+        "text": "Turkish"
+      },
+      {
+        "id": 11,
+        "text": "Germany"
+      },
+      {
+        "id": 12,
+        "text": "the European Parliament"
+      },
+      {
+        "id": 13,
+        "text": "France"
+      },
+      {
+        "id": 14,
+        "text": "Austria"
+      },
+      {
+        "id": 15,
+        "text": "Canada"
+      },
+      {
+        "id": 16,
+        "text": "Pope"
+      },
+      {
+        "id": 17,
+        "text": "first"
+      },
+      {
+        "id": 18,
+        "text": "the 20th century"
+      },
+      {
+        "id": 19,
+        "text": "Turkish"
+      },
+      {
+        "id": 20,
+        "text": "Recep Tayyip Erdogan"
+      },
+      {
+        "id": 21,
+        "text": "UK"
+      },
+      {
+        "id": 22,
+        "text": "Israel"
+      },
+      {
+        "id": 23,
+        "text": "US"
+      },
+      {
+        "id": 24,
+        "text": "Nazis"
+      },
+      {
+        "id": 25,
+        "text": "Japanese"
+      },
+      {
+        "id": 26,
+        "text": "World War II"
+      },
+      {
+        "id": 27,
+        "text": "Turks"
+      },
+      {
+        "id": 28,
+        "text": "Armenians"
+      },
+      {
+        "id": 29,
+        "text": "second"
+      }
+    ],
+    "relations": [
+      {
+        "head": 2,
+        "relation": "deniedAsGenocideBy",
+        "tail": 3
+      },
+      {
+        "head": 2,
+        "relation": "labeledAsGenocideBy",
+        "tail": 12
+      },
+      {
+        "head": 2,
+        "relation": "labeledAsGenocideBy",
+        "tail": 13
+      },
+      {
+        "head": 2,
+        "relation": "labeledAsGenocideBy",
+        "tail": 14
+      },
+      {
+        "head": 2,
+        "relation": "labeledAsGenocideBy",
+        "tail": 15
+      },
+      {
+        "head": 2,
+        "relation": "labeledAsGenocideBy",
+        "tail": 16
+      },
+      {
+        "head": 2,
+        "relation": "notRecognizedAsGenocideBy",
+        "tail": 21
+      },
+      {
+        "head": 2,
+        "relation": "notRecognizedAsGenocideBy",
+        "tail": 22
+      },
+      {
+        "head": 2,
+        "relation": "notRecognizedAsGenocideBy",
+        "tail": 23
+      },
+      {
+        "head": 2,
+        "relation": "killedUnder",
+        "tail": 3
+      },
+      {
+        "head": 5,
+        "relation": "affectsRelationsBetween",
+        "tail": 7
+      }
+    ]
+  },
+  {
+    "document_id": 314,
+    "ragtruth_id": "1454",
+    "text": "The article discusses the controversial anniversary of the Armenian genocide and how it is seen differently by different individuals in Turkey. Many Turks, including the cleaner Fadime Gurgen, dismiss any talk of genocide and claim that the massacre of the Armenian people in the early 20th century was an unfortunate result of World War I. This position is supported by several prominent figures, including the Turkish government, which has refused to recognize the genocide committed against the Armenian people. Despite this, there is a growing debate within Turkey regarding the classification of the events of 1915 as a genocide and the implications of doing so. Some scholars and world leaders believe that the Armenian killings were indeed a genocide and are pushing for greater recognition and understanding of the event. However, the Turkish government and other opponents argue that the use of the word \"genocide\" is associated with Nazi Germany and that the events of the Ottoman Empire cannot be compared to the Holocaust. Ultimately, the debate highlights the emotional and political complexities involved in the recognition and interpretation of historical events.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "the Armenian genocide"
+      },
+      {
+        "id": 1,
+        "text": "Turkey"
+      },
+      {
+        "id": 2,
+        "text": "the Armenian people"
+      },
+      {
+        "id": 3,
+        "text": "a growing debate within Turkey regarding the classification of the events of 1915 as a genocide and the implications of doing so"
+      },
+      {
+        "id": 4,
+        "text": "Turks"
+      },
+      {
+        "id": 5,
+        "text": "Gurgen"
+      },
+      {
+        "id": 6,
+        "text": "World War I."
+      },
+      {
+        "id": 7,
+        "text": "Nazi Germany"
+      },
+      {
+        "id": 8,
+        "text": "the Ottoman Empire"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "locationOfDebate",
+        "tail": 1
+      },
+      {
+        "head": 1,
+        "relation": "government",
+        "tail": 1
+      },
+      {
+        "head": 1,
+        "relation": "refusesToRecognize",
+        "tail": 0
+      },
+      {
+        "head": 3,
+        "relation": "within",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "victims",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "associatedWith",
+        "tail": 6
+      },
+      {
+        "head": 0,
+        "relation": "associatedWith",
+        "tail": 7
+      },
+      {
+        "head": 0,
+        "relation": "associatedWith",
+        "tail": 8
+      }
+    ]
+  },
+  {
+    "document_id": 315,
+    "ragtruth_id": "1455",
+    "text": "On the 100th anniversary of the massacre of Armenians under the Ottoman Empire, Turkey remains steadfast in its refusal to acknowledge the event as genocide. Despite pressure from scholars, world leaders, and the Armenian government, the Turkish government continues to deny that a genocide took place, insisting that the deaths were part of broader intercommunal violence during World War I. The issue is highly politicized, with the ruling party avoiding the term genocide due to fears of damaging relations with neighboring countries and staining the legacy of the country's founders. Meanwhile, many Turks remain unaware or uncomfortable with the topic, and the issue continues to divide opinions both within Turkey and internationally.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Turkey"
+      },
+      {
+        "id": 1,
+        "text": "the massacre of Armenians under the Ottoman Empire"
+      },
+      {
+        "id": 2,
+        "text": "The issue"
+      },
+      {
+        "id": 3,
+        "text": "100th"
+      },
+      {
+        "id": 4,
+        "text": "Armenian"
+      },
+      {
+        "id": 5,
+        "text": "World War I."
+      },
+      {
+        "id": 6,
+        "text": "Turks"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "anniversary",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "refusalToAcknowledge",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "deniesAsGenocide",
+        "tail": 1
+      },
+      {
+        "head": 1,
+        "relation": "during",
+        "tail": 5
+      },
+      {
+        "head": 2,
+        "relation": "dividesOpinionsIn",
+        "tail": 0
+      }
+    ]
+  },
+  {
+    "document_id": 316,
+    "ragtruth_id": "1456",
+    "text": "Here is a summary of the article in 200 words or less:\n\nTurkey is marking the 100th anniversary of the massacre of Armenians under the Ottoman Empire, but most Turks do not acknowledge the event as a genocide. According to a recent poll, 91% of Turks do not believe that the events of 1915 were genocidal, and the Turkish government disputes Armenia's count of the numbers killed. The issue remains heavily disputed, with many Armenians still feeling treated as second-class citizens in Turkey. While some Turks are open to accepting the truth about the past, the topic remains sensitive and is not likely to be officially acknowledged by the Turkish government anytime soon.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "the massacre of Armenians under the Ottoman Empire"
+      },
+      {
+        "id": 1,
+        "text": "Turkey"
+      },
+      {
+        "id": 2,
+        "text": "The issue"
+      },
+      {
+        "id": 3,
+        "text": "200"
+      },
+      {
+        "id": 4,
+        "text": "100th"
+      },
+      {
+        "id": 5,
+        "text": "Turks"
+      },
+      {
+        "id": 6,
+        "text": "91%"
+      },
+      {
+        "id": 7,
+        "text": "Turks"
+      },
+      {
+        "id": 8,
+        "text": "1915"
+      },
+      {
+        "id": 9,
+        "text": "Armenia"
+      },
+      {
+        "id": 10,
+        "text": "Armenians"
+      },
+      {
+        "id": 11,
+        "text": "second"
+      },
+      {
+        "id": 12,
+        "text": "Turks"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "anniversaryOf",
+        "tail": 0
+      },
+      {
+        "head": 1,
+        "relation": "disputes",
+        "tail": 9
+      },
+      {
+        "head": 2,
+        "relation": "disputed",
+        "tail": 0
+      },
+      {
+        "head": 10,
+        "relation": "treatedAs",
+        "tail": 11
+      }
+    ]
+  },
+  {
+    "document_id": 317,
+    "ragtruth_id": "1457",
+    "text": "The article discusses the controversy surrounding the 100th anniversary of the massacre of Armenians under the Ottoman Empire, which some countries and scholars recognize as genocide, while the Turkish government and many Turks deny it. The article highlights the views of Fadime Gurgen, a 55-year-old cleaner who dismisses the idea of genocide, and Diana Van, a member of the Armenian diaspora who believes that Turkey's younger generation is more willing to accept the truth. The article also mentions that Turkey's government has expressed condolences to Armenians, but maintains that the events were not genocide. Additionally, the article highlights the fears of Turks that recognition of genocide could lead to lawsuits against the government.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "the massacre of Armenians under the Ottoman Empire, which some countries and scholars recognize as genocide"
+      },
+      {
+        "id": 1,
+        "text": "The article"
+      },
+      {
+        "id": 2,
+        "text": "the Turkish government"
+      },
+      {
+        "id": 3,
+        "text": "100th"
+      },
+      {
+        "id": 4,
+        "text": "Turks"
+      },
+      {
+        "id": 5,
+        "text": "Gurgen"
+      },
+      {
+        "id": 6,
+        "text": "55-year-old"
+      },
+      {
+        "id": 7,
+        "text": "Diana Van"
+      },
+      {
+        "id": 8,
+        "text": "Armenian"
+      },
+      {
+        "id": 9,
+        "text": "Armenians"
+      },
+      {
+        "id": 10,
+        "text": "Turks"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "anniversary",
+        "tail": 3
+      },
+      {
+        "head": 2,
+        "relation": "expressedCondolencesTo",
+        "tail": 9
+      }
+    ]
+  },
+  {
+    "document_id": 318,
+    "ragtruth_id": "1476",
+    "text": "As several US states consider religious freedom laws, which opponents suggest may open the door to discrimination against gay and lesbian customers, Walmart has emerged as a bellwether for shifting public opinion on this contentious issue. Walmart's staunch criticism of a religious freedom law in its home state of Arkansas, came after the company had already said it would increase pay for about 500,000 workers well above the federal minimum wage. Observers are suggesting that the Republican Party should take notice of the stand that Walmart has taken. Former Minnesota Gov. Tim Pawlenty, told CNN that Walmart's actions \"foreshadow where the Republican Party will need to move.\" \"The Republican Party will have to better stand for\" ideas on helping the middle class, said Pawlenty, the head of the Financial Services Roundtable, a Washington lobbying group for the finance industry. The party's leaders must be \"willing to put forward ideas that will help modest income workers, such as a reasonable increase in the minimum wage, and prohibit discrimination in things such as jobs, housing, public accommodation against gays and lesbians.\"",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Walmart"
+      },
+      {
+        "id": 1,
+        "text": "the Republican Party"
+      },
+      {
+        "id": 2,
+        "text": "Former Minnesota Gov. Tim Pawlenty"
+      },
+      {
+        "id": 3,
+        "text": "the federal minimum wage"
+      },
+      {
+        "id": 4,
+        "text": "US"
+      },
+      {
+        "id": 5,
+        "text": "Arkansas"
+      },
+      {
+        "id": 6,
+        "text": "about 500,000"
+      },
+      {
+        "id": 7,
+        "text": "CNN"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "criticized",
+        "tail": 5
+      },
+      {
+        "head": 0,
+        "relation": "increasedPayFor",
+        "tail": 6
+      },
+      {
+        "head": 2,
+        "relation": "told",
+        "tail": 7
+      }
+    ]
+  },
+  {
+    "document_id": 319,
+    "ragtruth_id": "1477",
+    "text": "Walmart's opposition to religious freedom laws in Arkansas is seen as a significant moment in the fight for gay rights. The company's criticism of the legislation, which they believe would enable discrimination against gay and lesbian customers, is further evidence of the growing support for gay rights in the heartland of America. Walmart's stance on this issue, along with their recent decision to boost pay for their workers above the federal minimum wage, is positioning them as a bellwether for changing public opinion on political issues that divide conservatives and liberals. Some prominent Republicans, such as former Minnesota Governor Tim Pawlenty, are urging the party to take notice of Walmart's actions and adjust their stance accordingly. Walmart employs over 50,000 people in Arkansas, making their opposition to the religious freedom law particularly significant. The company's political action committee has traditionally supported Republicans, but this may change as Walmart's stance on social issues evolves. Walmart's position reflects the changing attitudes towards gay equality in the United States, with support for same-sex marriage at a new high of 59%. The backlash against religious freedom measures in Indiana and Arkansas has highlighted the overwhelming support from the business community for workplace policies that promote gay equality. The debate has even reached presidential politics, with likely Republican candidate Jeb Bush initially supporting Indiana's religious freedom law but later moderating his tone. Other Republican candidates, such as Ted Cruz, are standing firm in their support for the legislation, while Hillary Clinton has called for the Arkansas bill to be vetoed. The business community is becoming increasingly involved in politically controversial debates to ensure inclusive workplace policies that benefit their employees.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Walmart's"
+      },
+      {
+        "id": 1,
+        "text": "religious freedom laws in Arkansas"
+      },
+      {
+        "id": 2,
+        "text": "gay rights"
+      },
+      {
+        "id": 3,
+        "text": "the party"
+      },
+      {
+        "id": 4,
+        "text": "Arkansas"
+      },
+      {
+        "id": 5,
+        "text": "Walmart's opposition to religious freedom laws in Arkansas"
+      },
+      {
+        "id": 6,
+        "text": "supported"
+      },
+      {
+        "id": 7,
+        "text": "America"
+      },
+      {
+        "id": 8,
+        "text": "Indiana"
+      },
+      {
+        "id": 9,
+        "text": "likely Republican candidate Jeb Bush"
+      },
+      {
+        "id": 10,
+        "text": "Other Republican candidates, such as Ted Cruz"
+      },
+      {
+        "id": 11,
+        "text": "the business community"
+      },
+      {
+        "id": 12,
+        "text": "Republicans"
+      },
+      {
+        "id": 13,
+        "text": "Minnesota"
+      },
+      {
+        "id": 14,
+        "text": "Tim Pawlenty"
+      },
+      {
+        "id": 15,
+        "text": "over 50,000"
+      },
+      {
+        "id": 16,
+        "text": "Republicans"
+      },
+      {
+        "id": 17,
+        "text": "59%"
+      },
+      {
+        "id": 18,
+        "text": "Hillary Clinton"
+      }
+    ],
+    "relations": [
+      {
+        "head": 5,
+        "relation": "locatedIn",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "employs",
+        "tail": 15
+      },
+      {
+        "head": 11,
+        "relation": "supports",
+        "tail": 2
+      },
+      {
+        "head": 9,
+        "relation": "supports",
+        "tail": 1
+      },
+      {
+        "head": 10,
+        "relation": "supports",
+        "tail": 1
+      }
+    ]
+  }
+]

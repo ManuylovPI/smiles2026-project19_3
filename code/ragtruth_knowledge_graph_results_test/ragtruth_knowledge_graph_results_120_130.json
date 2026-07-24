@@ -1,0 +1,942 @@
+[
+  {
+    "document_id": 120,
+    "ragtruth_id": "480",
+    "text": "Seven people, including an associate men's basketball coach Torrey Ward and deputy athletic director Aaron Leetch, died when a small plane crashed while heading back from the NCAA tournament final. The plane crashed about 2 miles east of the Central Illinois Regional Airport in Bloomington. The victims were not immediately identified. The plane was returning from the NCAA Final Four championship game in Indianapolis. Illinois State University President Larry Dietz said in a statement, \"Words cannot fully express the grief that is felt in the wake of such a tragedy,\" Dietz said. \"We move between shock and profound sadness.\"",
+    "entities": [
+      {
+        "id": 0,
+        "text": "a small plane"
+      },
+      {
+        "id": 1,
+        "text": "Seven people, including an associate men's basketball coach Torrey Ward and deputy athletic director Aaron Leetch,"
+      },
+      {
+        "id": 2,
+        "text": "Illinois State University President Larry Dietz"
+      },
+      {
+        "id": 3,
+        "text": "Illinois State University"
+      },
+      {
+        "id": 4,
+        "text": "NCAA"
+      },
+      {
+        "id": 5,
+        "text": "about 2 miles"
+      },
+      {
+        "id": 6,
+        "text": "the Central Illinois Regional Airport"
+      },
+      {
+        "id": 7,
+        "text": "Bloomington"
+      },
+      {
+        "id": 8,
+        "text": "Four"
+      },
+      {
+        "id": 9,
+        "text": "Indianapolis"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "crashedNear",
+        "tail": 6
+      },
+      {
+        "head": 0,
+        "relation": "crashedIn",
+        "tail": 7
+      },
+      {
+        "head": 0,
+        "relation": "returnedFrom",
+        "tail": 9
+      },
+      {
+        "head": 1,
+        "relation": "diedIn",
+        "tail": 0
+      },
+      {
+        "head": 2,
+        "relation": "presidentOf",
+        "tail": 3
+      }
+    ]
+  },
+  {
+    "document_id": 121,
+    "ragtruth_id": "481",
+    "text": "Seven people, including Illinois State University associate men's basketball coach Torrey Ward and deputy athletic director Aaron Leetch, were killed when their small plane crashed on its way back from the NCAA tournament final. The plane went down near the Central Illinois Regional Airport in Bloomington, just 5 miles from the campus of Illinois State. The aircraft was identified as a Cessna 414 by the National Transportation Safety Board. The plane was returning from the NCAA Final Four championship game in Indianapolis. The Illinois State University community is mourning the loss and the university president expressed profound sadness over the tragedy. Ward and Leetch were described as well-respected colleagues in the athletics department.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Illinois State University associate men's basketball coach Torrey Ward and deputy athletic director Aaron Leetch"
+      },
+      {
+        "id": 1,
+        "text": "their small plane"
+      },
+      {
+        "id": 2,
+        "text": "Illinois State University"
+      },
+      {
+        "id": 3,
+        "text": "killed"
+      },
+      {
+        "id": 4,
+        "text": "Illinois State University associate men's basketball coach Torrey Ward"
+      },
+      {
+        "id": 5,
+        "text": "deputy athletic director Aaron Leetch"
+      },
+      {
+        "id": 6,
+        "text": "Seven"
+      },
+      {
+        "id": 7,
+        "text": "NCAA"
+      },
+      {
+        "id": 8,
+        "text": "the Central Illinois Regional Airport"
+      },
+      {
+        "id": 9,
+        "text": "Bloomington"
+      },
+      {
+        "id": 10,
+        "text": "just 5 miles"
+      },
+      {
+        "id": 11,
+        "text": "Cessna"
+      },
+      {
+        "id": 12,
+        "text": "the National Transportation Safety Board"
+      },
+      {
+        "id": 13,
+        "text": "Four"
+      },
+      {
+        "id": 14,
+        "text": "Indianapolis"
+      },
+      {
+        "id": 15,
+        "text": "The Illinois State University"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "crashedNear",
+        "tail": 8
+      },
+      {
+        "head": 1,
+        "relation": "crashedNear",
+        "tail": 9
+      },
+      {
+        "head": 1,
+        "relation": "distanceFrom",
+        "tail": 10
+      },
+      {
+        "head": 1,
+        "relation": "returnedFrom",
+        "tail": 13
+      },
+      {
+        "head": 1,
+        "relation": "returnedFromLocation",
+        "tail": 14
+      },
+      {
+        "head": 1,
+        "relation": "identifiedAs",
+        "tail": 11
+      },
+      {
+        "head": 1,
+        "relation": "identifiedBy",
+        "tail": 12
+      },
+      {
+        "head": 15,
+        "relation": "mourning",
+        "tail": 3
+      }
+    ]
+  },
+  {
+    "document_id": 122,
+    "ragtruth_id": "482",
+    "text": "Seven individuals, including Illinois State University associate men's basketball coach Torrey Ward and deputy athletic director Aaron Leetch, died in a plane crash while returning from the NCAA tournament final. The plane went down about 2 miles east of the Central Illinois Regional Airport in Bloomington, just 5 miles away from the campus of Illinois State. The aircraft was a Cessna 414, and it was not immediately clear who else was on board. The accident has caused shock and sadness among the Illinois State community, and a standout player at the University of Alabama at Birmingham, Ward played professionally in China alongside Yao Ming before becoming a coach. He was promoted to associate head coach in May 2014. Leech came from Arkansas State University and joined Illinois State in 2005. He left the university in 2011 to become the director of athletics at Whitworth University in Spokane, Washington, but returned in 2013 as the deputy director of athletics. Both Ward and Leetch were well-respected and loved members of the Illinois State community.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Illinois State University"
+      },
+      {
+        "id": 1,
+        "text": "The plane"
+      },
+      {
+        "id": 2,
+        "text": "a plane crash"
+      },
+      {
+        "id": 3,
+        "text": "Illinois State University associate men's basketball coach Torrey Ward"
+      },
+      {
+        "id": 4,
+        "text": "deputy athletic director Aaron Leetch"
+      },
+      {
+        "id": 5,
+        "text": "Seven individuals, including Illinois State University associate men's basketball coach Torrey Ward and deputy athletic director Aaron Leetch"
+      },
+      {
+        "id": 6,
+        "text": "the Illinois State community"
+      },
+      {
+        "id": 7,
+        "text": "NCAA"
+      },
+      {
+        "id": 8,
+        "text": "about 2 miles"
+      },
+      {
+        "id": 9,
+        "text": "the Central Illinois Regional Airport"
+      },
+      {
+        "id": 10,
+        "text": "Bloomington"
+      },
+      {
+        "id": 11,
+        "text": "just 5 miles"
+      },
+      {
+        "id": 12,
+        "text": "Cessna"
+      },
+      {
+        "id": 13,
+        "text": "China"
+      },
+      {
+        "id": 14,
+        "text": "Yao Ming"
+      },
+      {
+        "id": 15,
+        "text": "May 2014"
+      },
+      {
+        "id": 16,
+        "text": "Arkansas State University"
+      },
+      {
+        "id": 17,
+        "text": "2005"
+      },
+      {
+        "id": 18,
+        "text": "2011"
+      },
+      {
+        "id": 19,
+        "text": "Whitworth University"
+      },
+      {
+        "id": 20,
+        "text": "Spokane"
+      },
+      {
+        "id": 21,
+        "text": "Washington"
+      },
+      {
+        "id": 22,
+        "text": "2013"
+      }
+    ],
+    "relations": [
+      {
+        "head": 2,
+        "relation": "location",
+        "tail": 10
+      },
+      {
+        "head": 1,
+        "relation": "type",
+        "tail": 12
+      },
+      {
+        "head": 3,
+        "relation": "employer",
+        "tail": 0
+      },
+      {
+        "head": 3,
+        "relation": "promotedTo",
+        "tail": 15
+      },
+      {
+        "head": 4,
+        "relation": "employer",
+        "tail": 0
+      },
+      {
+        "head": 4,
+        "relation": "employer",
+        "tail": 19
+      },
+      {
+        "head": 4,
+        "relation": "locatedIn",
+        "tail": 20
+      },
+      {
+        "head": 4,
+        "relation": "locatedIn",
+        "tail": 21
+      },
+      {
+        "head": 4,
+        "relation": "joined",
+        "tail": 0
+      }
+    ]
+  },
+  {
+    "document_id": 123,
+    "ragtruth_id": "483",
+    "text": "Seven people, including Illinois State University associate men's basketball coach Torrey Ward and deputy athletic director Aaron Leetch, died in a small plane crash near Bloomington, Illinois. The plane went down overnight Monday while returning from the NCAA tournament final in Indianapolis. Ward and Leetch were well-respected and much-loved colleagues in the athletics department, according to university president Larry Dietz. The cause of the crash is unknown, but the National Transportation Safety Board tweeted that it was a Cessna 414. Ward played professionally in China before becoming a coach, and Leetch had served as athletic director at several universities before joining Illinois State in 2005.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Illinois State University associate men's basketball coach Torrey Ward"
+      },
+      {
+        "id": 1,
+        "text": "Illinois State University associate men's basketball coach Torrey Ward and deputy athletic director Aaron Leetch"
+      },
+      {
+        "id": 2,
+        "text": "deputy athletic director Aaron Leetch"
+      },
+      {
+        "id": 3,
+        "text": "a small plane crash near Bloomington, Illinois"
+      },
+      {
+        "id": 4,
+        "text": "The plane"
+      },
+      {
+        "id": 5,
+        "text": "Illinois State University"
+      },
+      {
+        "id": 6,
+        "text": "Seven"
+      },
+      {
+        "id": 7,
+        "text": "overnight Monday"
+      },
+      {
+        "id": 8,
+        "text": "NCAA"
+      },
+      {
+        "id": 9,
+        "text": "Indianapolis"
+      },
+      {
+        "id": 10,
+        "text": "the athletics department"
+      },
+      {
+        "id": 11,
+        "text": "Larry Dietz"
+      },
+      {
+        "id": 12,
+        "text": "the National Transportation Safety Board"
+      },
+      {
+        "id": 13,
+        "text": "Cessna 414"
+      },
+      {
+        "id": 14,
+        "text": "China"
+      },
+      {
+        "id": 15,
+        "text": "2005"
+      }
+    ],
+    "relations": [
+      {
+        "head": 3,
+        "relation": "location",
+        "tail": 9
+      },
+      {
+        "head": 3,
+        "relation": "time",
+        "tail": 7
+      },
+      {
+        "head": 4,
+        "relation": "type",
+        "tail": 13
+      },
+      {
+        "head": 0,
+        "relation": "playedIn",
+        "tail": 14
+      },
+      {
+        "head": 2,
+        "relation": "joined",
+        "tail": 5
+      },
+      {
+        "head": 2,
+        "relation": "joinedYear",
+        "tail": 15
+      }
+    ]
+  },
+  {
+    "document_id": 124,
+    "ragtruth_id": "484",
+    "text": "Seven people, including Illinois State University associate men's basketball coach Torrey Ward and deputy athletic director Aaron Leetch, died in a plane crash while returning from the NCAA tournament final. The plane went down near the Central Illinois Regional Airport in Bloomington, killing all on board. Ward and Leetch were well-respected members of the university's athletics department, and their loss has been described as a \"tragedy\" by university officials.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Seven people, including Illinois State University associate men's basketball coach Torrey Ward and deputy athletic director Aaron Leetch"
+      },
+      {
+        "id": 1,
+        "text": "Illinois State University associate men's basketball coach Torrey Ward"
+      },
+      {
+        "id": 2,
+        "text": "Illinois State University associate men's basketball coach Torrey Ward and deputy athletic director Aaron Leetch"
+      },
+      {
+        "id": 3,
+        "text": "deputy athletic director Aaron Leetch"
+      },
+      {
+        "id": 4,
+        "text": "Illinois State University"
+      },
+      {
+        "id": 5,
+        "text": "died"
+      },
+      {
+        "id": 6,
+        "text": "NCAA"
+      },
+      {
+        "id": 7,
+        "text": "the Central Illinois Regional Airport"
+      },
+      {
+        "id": 8,
+        "text": "Bloomington"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "diedIn",
+        "tail": 7
+      },
+      {
+        "head": 0,
+        "relation": "diedIn",
+        "tail": 8
+      },
+      {
+        "head": 1,
+        "relation": "memberOf",
+        "tail": 4
+      },
+      {
+        "head": 3,
+        "relation": "memberOf",
+        "tail": 4
+      }
+    ]
+  },
+  {
+    "document_id": 125,
+    "ragtruth_id": "485",
+    "text": "Seven people, including Illinois State University associate men's basketball coach Torrey Ward and deputy athletic director Aaron Leetch, were killed in a plane crash near Bloomington, Illinois, while returning from the NCAA tournament final. The plane, a Cessna 414, went down about 2 miles east of the Central Illinois Regional Airport, with no survivors. The crash occurred around 12:30 AM local time, and the cause is currently unknown. Ward was a well-respected coach and former professional player, while Leetch was a veteran athletic administrator. Both were remembered by their colleagues as kind, dedicated, and passionate about their work.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "a plane crash near Bloomington, Illinois, while returning from the NCAA tournament final"
+      },
+      {
+        "id": 1,
+        "text": "Illinois State University associate men's basketball coach Torrey Ward"
+      },
+      {
+        "id": 2,
+        "text": "deputy athletic director Aaron Leetch"
+      },
+      {
+        "id": 3,
+        "text": "Illinois State University associate men's basketball coach Torrey Ward and deputy athletic director Aaron Leetch"
+      },
+      {
+        "id": 4,
+        "text": "Seven"
+      },
+      {
+        "id": 5,
+        "text": "Cessna 414"
+      },
+      {
+        "id": 6,
+        "text": "about 2 miles"
+      },
+      {
+        "id": 7,
+        "text": "the Central Illinois Regional Airport"
+      },
+      {
+        "id": 8,
+        "text": "12:30 AM"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "location",
+        "tail": 7
+      },
+      {
+        "head": 0,
+        "relation": "time",
+        "tail": 8
+      },
+      {
+        "head": 0,
+        "relation": "aircraft",
+        "tail": 5
+      },
+      {
+        "head": 0,
+        "relation": "distanceFrom",
+        "tail": 6
+      }
+    ]
+  },
+  {
+    "document_id": 126,
+    "ragtruth_id": "540",
+    "text": "Survivors and family members from the Boston Marathon bombing continue to provide powerful testimony during the sentencing phase for Dzhokhar Tsarnaev, the surviving member of the two brothers who perpetrated the attack. The prosecution has rested after portraying Tsarnaev as cold and remorseless. The defense, led by death penalty opponent Judy Clarke, is expected to call witnesses to discuss Tsarnaev's difficult upbringing in an attempt to soften the prosecution's portrayal. A group of Tsarnaev's relatives arrived in Boston on Thursday, but it is unclear if they will testify. The jury must decide whether Tsarnaev, who has been found guilty of the attack, will be sentenced to death or life in prison. Survivor Steve Woolfenden, a biomedical researcher, gave moving testimony about the injuries he and his son sustained from the blast, and the aid they received from bystanders. Other survivors, including Heather Abbott, and Marc Fucarile, who both chose to amputate limbs due to their injuries, also testified. The prosecution showed a close-up video of 8-year-old victim Martin Richard, who died from the bombing. His parents, who are opposed to the death penalty, did not participate in this phase of the trial.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "the Boston Marathon bombing"
+      },
+      {
+        "id": 1,
+        "text": "Dzhokhar Tsarnaev, the surviving member of the two brothers who perpetrated the attack"
+      },
+      {
+        "id": 2,
+        "text": "The prosecution"
+      },
+      {
+        "id": 3,
+        "text": "A group of Tsarnaev's relatives"
+      },
+      {
+        "id": 4,
+        "text": "Survivor Steve Woolfenden, a biomedical researcher,"
+      },
+      {
+        "id": 5,
+        "text": "he and his son"
+      },
+      {
+        "id": 6,
+        "text": "both"
+      },
+      {
+        "id": 7,
+        "text": "8-year-old victim Martin Richard, who died from the bombing"
+      },
+      {
+        "id": 8,
+        "text": "Judy Clarke"
+      },
+      {
+        "id": 9,
+        "text": "Boston"
+      },
+      {
+        "id": 10,
+        "text": "Thursday"
+      },
+      {
+        "id": 11,
+        "text": "Heather Abbott"
+      },
+      {
+        "id": 12,
+        "text": "Marc Fucarile"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "perpetratorOf",
+        "tail": 0
+      },
+      {
+        "head": 1,
+        "relation": "defendedBy",
+        "tail": 8
+      },
+      {
+        "head": 3,
+        "relation": "arrivedIn",
+        "tail": 9
+      },
+      {
+        "head": 3,
+        "relation": "arrivedOn",
+        "tail": 10
+      },
+      {
+        "head": 4,
+        "relation": "testifiedAbout",
+        "tail": 0
+      },
+      {
+        "head": 4,
+        "relation": "injuredIn",
+        "tail": 0
+      },
+      {
+        "head": 5,
+        "relation": "receivedAidFrom",
+        "tail": 5
+      },
+      {
+        "head": 11,
+        "relation": "testifiedAbout",
+        "tail": 0
+      },
+      {
+        "head": 12,
+        "relation": "testifiedAbout",
+        "tail": 0
+      },
+      {
+        "head": 7,
+        "relation": "diedFrom",
+        "tail": 0
+      }
+    ]
+  },
+  {
+    "document_id": 127,
+    "ragtruth_id": "541",
+    "text": "During the sentencing phase for Dzhokhar Tsarnaev, survivors and family members of those killed in the Boston Marathon bombing shared their stories. Steve Woolfenden, a survivor, testified about the moment of the explosion and finding his 3-year-old son bleeding from the head. He noticed his own injuries, including his Achilles tendon and left tibia. Woolfenden used his belt as a tourniquet and tried to comfort his son while waiting for help. Another survivor, Heather Abbott, testified about her experience of being thrown into chaos and feeling her foot on fire. She eventually had to make the difficult decision to have her leg amputated below the knee. Marc Fucarile, another survivor, recounted the bombs going off and the chaos that ensued. He suffered severe burns and had to undergo multiple surgeries. Doctors had to amputate part of his leg and he still deals with open wounds and blisters. The testimony also included the tragic death of 8-year-old Martin Richard. Video footage showed the boy's injuries and the immense amount of blood. Dr. David King, a trauma surgeon, explained that Martin died from rapid blood loss and would have experienced excruciating pain from his internal organs being twisted and pulled. The prosecution aimed to convince the jury that Tsarnaev was cold-hearted and remorseless, while the defense is expected to present witnesses to explain his difficult upbringing. Tsarnaev's relatives also arrived in Boston, but it is unclear if they plan to testify. The jury must now decide whether Tsarnaev will face the death penalty or life in prison.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "survivors and family members of those killed in the Boston Marathon bombing"
+      },
+      {
+        "id": 1,
+        "text": "the Boston Marathon bombing"
+      },
+      {
+        "id": 2,
+        "text": "Steve Woolfenden, a survivor,"
+      },
+      {
+        "id": 3,
+        "text": "his 3-year-old son"
+      },
+      {
+        "id": 4,
+        "text": "Another survivor, Heather Abbott"
+      },
+      {
+        "id": 5,
+        "text": "Marc Fucarile, another survivor,"
+      },
+      {
+        "id": 6,
+        "text": "8-year-old Martin Richard"
+      },
+      {
+        "id": 7,
+        "text": "Dzhokhar Tsarnaev"
+      },
+      {
+        "id": 8,
+        "text": "Tsarnaev's relatives"
+      },
+      {
+        "id": 9,
+        "text": "the jury"
+      },
+      {
+        "id": 10,
+        "text": "Achilles"
+      },
+      {
+        "id": 11,
+        "text": "David King"
+      },
+      {
+        "id": 12,
+        "text": "Boston"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "sharedStoriesAbout",
+        "tail": 1
+      },
+      {
+        "head": 2,
+        "relation": "testifiedAbout",
+        "tail": 1
+      },
+      {
+        "head": 2,
+        "relation": "parentOf",
+        "tail": 3
+      },
+      {
+        "head": 2,
+        "relation": "injuredAchilles",
+        "tail": 10
+      },
+      {
+        "head": 4,
+        "relation": "testifiedAbout",
+        "tail": 1
+      },
+      {
+        "head": 5,
+        "relation": "testifiedAbout",
+        "tail": 1
+      },
+      {
+        "head": 6,
+        "relation": "diedIn",
+        "tail": 1
+      },
+      {
+        "head": 11,
+        "relation": "explainedCauseOfDeath",
+        "tail": 6
+      },
+      {
+        "head": 8,
+        "relation": "arrivedIn",
+        "tail": 12
+      }
+    ]
+  },
+  {
+    "document_id": 128,
+    "ragtruth_id": "542",
+    "text": "Boston Marathon Bombing Survivor Testifies: \"I Was Completely Terrified\"\n\nSteve Woolfenden, a survivor of the Boston Marathon bombing, testified on Thursday about the moment he realized he had been badly injured. He was pushing his son's stroller when the bomb went off, and he pulled back the cover to see his son, Leo, 3, bleeding from the head. Woolfenden then noticed his own injuries, including his Achilles tendon and left tibia, which were covered in blood.\n\nWoolfenden testified that he was initially focused on getting his son out of harm's way, but he quickly became aware of his own condition. He tried to use his belt as a makeshift tourniquet on his leg, but it was too tight and he couldn't move. A Good Samaritan eventually arrived and applied a new tourniquet, and Woolfenden was rushed to the hospital.\n\nHeather Abbott, another survivor, also testified about the moment she realized she had been injured. She was sitting in a restaurant near the finish line of the marathon when one of the bombs detonated, sending her flying through the doors and into a \"puddle of chaos and blood and glass.\"\n\nAbbott testified that she called for her husband and two women helped her as she struggled to walk. She eventually made it to a hospital, where she was treated for severe burns over much of her body. Doctors had to amputate part of her leg below the knee to save her life.\n\nThe defense team for Dzhokhar Tsarnaev, the accused bomber, has yet to call any witnesses. They are expected to focus on Tsarnaev's difficult upbringing and attempt to soften the prosecution's portrayal of him as cold-hearted and remorseless.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Boston Marathon Bombing Survivor"
+      },
+      {
+        "id": 1,
+        "text": "Boston Marathon"
+      },
+      {
+        "id": 2,
+        "text": "his son's"
+      },
+      {
+        "id": 3,
+        "text": "his belt"
+      },
+      {
+        "id": 4,
+        "text": "the moment he realized he had been badly injured"
+      },
+      {
+        "id": 5,
+        "text": "\n\nHeather Abbott, another survivor,"
+      },
+      {
+        "id": 6,
+        "text": "The defense team for Dzhokhar Tsarnaev, the accused bomber"
+      },
+      {
+        "id": 7,
+        "text": "Dzhokhar Tsarnaev, the accused bomber"
+      },
+      {
+        "id": 8,
+        "text": "I Was Completely Terrified"
+      },
+      {
+        "id": 9,
+        "text": "Steve Woolfenden"
+      },
+      {
+        "id": 10,
+        "text": "Thursday"
+      },
+      {
+        "id": 11,
+        "text": "Achilles"
+      },
+      {
+        "id": 12,
+        "text": "tibia"
+      },
+      {
+        "id": 13,
+        "text": "Samaritan"
+      },
+      {
+        "id": 14,
+        "text": "two"
+      }
+    ],
+    "relations": [
+      {
+        "head": 9,
+        "relation": "survivorOf",
+        "tail": 1
+      },
+      {
+        "head": 5,
+        "relation": "survivorOf",
+        "tail": 1
+      },
+      {
+        "head": 6,
+        "relation": "defenseTeamFor",
+        "tail": 7
+      }
+    ]
+  },
+  {
+    "document_id": 129,
+    "ragtruth_id": "543",
+    "text": "On Thursday, survivors and family members of the Boston Marathon bombing victims testified against Dzhokhar Tsarnaev in the sentencing phase of his trial. Steve Woolfenden, a biomedical researcher, described how he and his 3-year-old son, Leo, were injured in the bombing. Woolfenden recalled holding onto Leo's stroller while he lay on the ground and saw that his son was conscious but bleeding from the left side of his head. He also described the gruesome scenes he witnessed, including the death of 8-year-old Martin Richard, who was close to one of the bombs and suffered rapid blood loss. Other witnesses included Dr. David King, a trauma surgeon who has treated hundreds of troops injured by improvised explosive devices, and Heather Abbott, who lost her foot in the bombing. The prosecution presented these testimonies to argue that Tsarnaev is cold-hearted and remorseless, while the defense will attempt to paint a different picture of him when they present their case.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Dzhokhar Tsarnaev"
+      },
+      {
+        "id": 1,
+        "text": "Steve Woolfenden, a biomedical researcher,"
+      },
+      {
+        "id": 2,
+        "text": "his 3-year-old son, Leo"
+      },
+      {
+        "id": 3,
+        "text": "Heather Abbott, who lost her foot in the bombing"
+      },
+      {
+        "id": 4,
+        "text": "the bombing"
+      },
+      {
+        "id": 5,
+        "text": "the defense"
+      },
+      {
+        "id": 6,
+        "text": "Thursday"
+      },
+      {
+        "id": 7,
+        "text": "8-year-old"
+      },
+      {
+        "id": 8,
+        "text": "Martin Richard"
+      },
+      {
+        "id": 9,
+        "text": "David King"
+      },
+      {
+        "id": 10,
+        "text": "hundreds"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "injuredIn",
+        "tail": 4
+      },
+      {
+        "head": 2,
+        "relation": "injuredIn",
+        "tail": 4
+      },
+      {
+        "head": 8,
+        "relation": "deathIn",
+        "tail": 4
+      },
+      {
+        "head": 3,
+        "relation": "lostFootIn",
+        "tail": 4
+      }
+    ]
+  }
+]

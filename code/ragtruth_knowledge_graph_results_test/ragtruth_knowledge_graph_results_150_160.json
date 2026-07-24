@@ -1,0 +1,773 @@
+[
+  {
+    "document_id": 150,
+    "ragtruth_id": "606",
+    "text": "The penalty phase of the trial of Boston Marathon bomber, Dzhokhar Tsarnaev, has begun with the prosecution arguing for the death penalty due to the \"heinous, cruel and depraved\" nature of the crime. Tsarnaev placed a bomb in a crowd, killing three people and injuring 260 others. The prosecution has highlighted the substantial planning and premeditation involved in the attack, as well as Tsarnaev's apparent lack of remorse. The defence is expected to argue that Dzhokhar was influenced by his older brother, Tamerlan, and was not fully responsible for his actions. They may also argue that at 19, Dzhokhar's brain was not fully developed, and therefore he could not be held fully responsible. The jury will need to reach a unanimous decision for Tsarnaev to receive the death penalty. The author predicts a 10-2 or 9-3 vote in favour of death, but expects that the historical record will proclaim that the jury chose life for Tsarnaev.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Boston Marathon bomber, Dzhokhar Tsarnaev"
+      },
+      {
+        "id": 1,
+        "text": "the prosecution"
+      },
+      {
+        "id": 2,
+        "text": "the crime"
+      },
+      {
+        "id": 3,
+        "text": "The defence"
+      },
+      {
+        "id": 4,
+        "text": "the death penalty"
+      },
+      {
+        "id": 5,
+        "text": "The jury"
+      },
+      {
+        "id": 6,
+        "text": "three"
+      },
+      {
+        "id": 7,
+        "text": "260"
+      },
+      {
+        "id": 8,
+        "text": "Tamerlan"
+      },
+      {
+        "id": 9,
+        "text": "19"
+      },
+      {
+        "id": 10,
+        "text": "10-2"
+      },
+      {
+        "id": 11,
+        "text": "9"
+      }
+    ],
+    "relations": [
+      {
+        "head": 2,
+        "relation": "punishmentSought",
+        "tail": 4
+      },
+      {
+        "head": 2,
+        "relation": "numberOfDeaths",
+        "tail": 6
+      },
+      {
+        "head": 2,
+        "relation": "numberOfInjuries",
+        "tail": 7
+      },
+      {
+        "head": 0,
+        "relation": "influencedBy",
+        "tail": 8
+      },
+      {
+        "head": 0,
+        "relation": "age",
+        "tail": 9
+      },
+      {
+        "head": 0,
+        "relation": "eligibleFor",
+        "tail": 4
+      }
+    ]
+  },
+  {
+    "document_id": 151,
+    "ragtruth_id": "607",
+    "text": "The article discusses the ongoing trial of Dzhokhar Tsarnaev, the surviving Boston Marathon bomber, and the question of what he deserves as punishment. The prosecution has emphasized the heinous and cruel nature of the crime, with Tsarnaev placing a bomb in a crowd and causing the death of three people and injuries to 260 others, including children. The prosecution also highlights the substantial planning and premeditation involved, as well as the betrayal of the United States, the country that gave Tsarnaev shelter and citizenship. The defense, on the other hand, argues that Tsarnaev was influenced by his older brother and was not fully responsible for his actions, citing brain development research that suggests individuals under 25 are not fully mature. However, the article questions the connection between brain development and moral responsibility, comparing it to the celebration of bravery and heroism in young adults. The author predicts that the jury will vote in favor of the death penalty, but notes that a unanimous decision is required. The article concludes by discussing the advantages the defense has in the trial and the need for the punishment to fit the crime, arguing that Tsarnaev is among the worst of the worst.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Dzhokhar Tsarnaev, the surviving Boston Marathon bomber"
+      },
+      {
+        "id": 1,
+        "text": "The prosecution"
+      },
+      {
+        "id": 2,
+        "text": "The article"
+      },
+      {
+        "id": 3,
+        "text": "the connection between brain development and moral responsibility"
+      },
+      {
+        "id": 4,
+        "text": "The defense"
+      },
+      {
+        "id": 5,
+        "text": "the ongoing trial of Dzhokhar Tsarnaev, the surviving Boston Marathon bomber"
+      },
+      {
+        "id": 6,
+        "text": "the crime"
+      },
+      {
+        "id": 7,
+        "text": "three"
+      },
+      {
+        "id": 8,
+        "text": "260"
+      },
+      {
+        "id": 9,
+        "text": "the United States"
+      },
+      {
+        "id": 10,
+        "text": "25"
+      }
+    ],
+    "relations": [
+      {
+        "head": 5,
+        "relation": "trialOf",
+        "tail": 0
+      },
+      {
+        "head": 6,
+        "relation": "committedBy",
+        "tail": 0
+      },
+      {
+        "head": 6,
+        "relation": "deathToll",
+        "tail": 7
+      },
+      {
+        "head": 6,
+        "relation": "injuryToll",
+        "tail": 8
+      },
+      {
+        "head": 0,
+        "relation": "shelteredBy",
+        "tail": 9
+      },
+      {
+        "head": 0,
+        "relation": "citizenOf",
+        "tail": 9
+      },
+      {
+        "head": 0,
+        "relation": "influencedBy",
+        "tail": 0
+      },
+      {
+        "head": 3,
+        "relation": "questionedBy",
+        "tail": 2
+      }
+    ]
+  },
+  {
+    "document_id": 152,
+    "ragtruth_id": "608",
+    "text": "The trial of Boston Marathon bomber Dzhokhar Tsarnaev has begun, with the prosecution presenting its case. The prosecution argues that Tsarnaev's actions were heinous, cruel, and depraved, citing his selection of the Boston Marathon as an iconic event, substantial planning and premeditation, and lack of remorse. The defense argues that Tsarnaev was not fully responsible due to his age and brain development, which they claim is still not fully developed until age 25. The jury is expected to vote unanimously for death, with a lopsided but divided jury resulting in a life sentence.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "the prosecution"
+      },
+      {
+        "id": 1,
+        "text": "Boston Marathon bomber Dzhokhar Tsarnaev"
+      },
+      {
+        "id": 2,
+        "text": "Boston Marathon"
+      },
+      {
+        "id": 3,
+        "text": "The defense"
+      },
+      {
+        "id": 4,
+        "text": "age 25"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "trial",
+        "tail": 0
+      },
+      {
+        "head": 1,
+        "relation": "selectedAsTarget",
+        "tail": 2
+      },
+      {
+        "head": 1,
+        "relation": "age",
+        "tail": 4
+      }
+    ]
+  },
+  {
+    "document_id": 153,
+    "ragtruth_id": "609",
+    "text": "The trial of Dzhokhar Tsarnaev, the surviving Boston Marathon bomber, has begun with the prosecution presenting its case. The prosecutors argue that Tsarnaev deserves the harshest punishment due to the heinous and cruel nature of the crime, which resulted in the deaths of three people and injured hundreds more. The prosecution highlights Tsarnaev's deliberate and calculated actions, including placing a bomb in a crowd of innocent civilians and showing a lack of remorse. The defense, however, is expected to argue that Tsarnaev was influenced by his older brother and was not fully responsible for his actions due to his age and lack of full brain development. The outcome of the trial is uncertain, but the jury is likely to vote for death despite the potential for a divided verdict. The author argues that requiring a unanimous verdict for death gives the defense an advantage and highlights the complexities of the justice system in dealing with heinous crimes.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "the prosecution"
+      },
+      {
+        "id": 1,
+        "text": "Dzhokhar Tsarnaev, the surviving Boston Marathon bomber"
+      },
+      {
+        "id": 2,
+        "text": "The trial of Dzhokhar Tsarnaev, the surviving Boston Marathon bomber"
+      },
+      {
+        "id": 3,
+        "text": "The defense"
+      },
+      {
+        "id": 4,
+        "text": "three"
+      },
+      {
+        "id": 5,
+        "text": "hundreds"
+      }
+    ],
+    "relations": [
+      {
+        "head": 2,
+        "relation": "trialOf",
+        "tail": 1
+      },
+      {
+        "head": 2,
+        "relation": "prosecution",
+        "tail": 0
+      },
+      {
+        "head": 2,
+        "relation": "defense",
+        "tail": 3
+      },
+      {
+        "head": 1,
+        "relation": "olderBrotherInfluence",
+        "tail": 1
+      }
+    ]
+  },
+  {
+    "document_id": 154,
+    "ragtruth_id": "610",
+    "text": "The surviving Boston Marathon bomber, Dzhokhar Tsarnaev, is currently facing the penalty phase of his trial, where prosecutors are arguing that he deserves the harshest punishment due to the heinous nature of his crimes. The prosecution has highlighted several aggravating circumstances, including the fact that Tsarnaev placed a bomb in a crowded area, targeting children and adults indiscriminately, and that he showed a lack of remorse for his actions. The victims include 8-year-old Martin Richard, and the attack resulted in three deaths and over 260 injuries. The prosecution argues that Tsarnaev's age does not excuse his actions, and that he is fully responsible for his crimes despite being only 19 years old at the time. The defense, on the other hand, may argue that Tsarnaev was influenced by his older brother and that he is not fully responsible for his actions. The outcome of the trial is uncertain, but the author predicts that the jury will vote for death, although the requirement of a unanimous verdict for death gives the defense an advantage.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "The surviving Boston Marathon bomber, Dzhokhar Tsarnaev"
+      },
+      {
+        "id": 1,
+        "text": "prosecutors"
+      },
+      {
+        "id": 2,
+        "text": "his crimes"
+      },
+      {
+        "id": 3,
+        "text": "his trial"
+      },
+      {
+        "id": 4,
+        "text": "The defense"
+      },
+      {
+        "id": 5,
+        "text": "8-year-old"
+      },
+      {
+        "id": 6,
+        "text": "Martin Richard"
+      },
+      {
+        "id": 7,
+        "text": "three"
+      },
+      {
+        "id": 8,
+        "text": "260"
+      },
+      {
+        "id": 9,
+        "text": "only 19 years old"
+      }
+    ],
+    "relations": [
+      {
+        "head": 3,
+        "relation": "trialOf",
+        "tail": 0
+      },
+      {
+        "head": 3,
+        "relation": "prosecutor",
+        "tail": 1
+      },
+      {
+        "head": 3,
+        "relation": "defense",
+        "tail": 4
+      },
+      {
+        "head": 2,
+        "relation": "committedBy",
+        "tail": 0
+      },
+      {
+        "head": 2,
+        "relation": "victim",
+        "tail": 6
+      },
+      {
+        "head": 6,
+        "relation": "age",
+        "tail": 5
+      },
+      {
+        "head": 2,
+        "relation": "deathToll",
+        "tail": 7
+      },
+      {
+        "head": 2,
+        "relation": "injuryToll",
+        "tail": 8
+      },
+      {
+        "head": 0,
+        "relation": "age",
+        "tail": 9
+      }
+    ]
+  },
+  {
+    "document_id": 155,
+    "ragtruth_id": "611",
+    "text": "The trial of Dzhokhar Tsarnaev, the surviving Boston Marathon bomber, is underway, and prosecutors are arguing for the death penalty. They cite the heinous nature of the crime, the large number of victims, including an 8-year-old boy, and Tsarnaev's lack of remorse. The defense, on the other hand, is expected to argue that Tsarnaev was influenced by his older brother and that he was only 19 at the time of the crime, which could affect his moral responsibility. The article suggests that the jury may vote for death, but the requirement of a unanimous verdict gives the defense an advantage. Ultimately, the author believes that Tsarnaev's actions were among the worst of the worst and that the death penalty would be an appropriate punishment.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "prosecutors"
+      },
+      {
+        "id": 1,
+        "text": "Boston Marathon"
+      },
+      {
+        "id": 2,
+        "text": "Dzhokhar Tsarnaev, the surviving Boston Marathon bomber"
+      },
+      {
+        "id": 3,
+        "text": "The defense"
+      },
+      {
+        "id": 4,
+        "text": "the death penalty"
+      },
+      {
+        "id": 5,
+        "text": "8-year-old"
+      },
+      {
+        "id": 6,
+        "text": "only 19"
+      }
+    ],
+    "relations": [
+      {
+        "head": 2,
+        "relation": "punishment",
+        "tail": 4
+      },
+      {
+        "head": 2,
+        "relation": "ageAtTimeOfCrime",
+        "tail": 6
+      }
+    ]
+  },
+  {
+    "document_id": 156,
+    "ragtruth_id": "612",
+    "text": "Jurors from the trial of former NFL star Aaron Hernandez have given their first nationally televised interview, in which they described the emotional toll of the trial and their shock at the defendant's \"indifference\" to the killing of Odin Lloyd. The jury had deliberated for more than 35 hours over seven days, hearing the testimony of over 130 witnesses and reviewing more than 400 pieces of evidence. \"It's been an incredibly emotional toll on all of us,\" Lesa Strachan, the jury foreperson, told CNN's Anderson Cooper. Juror Kelly Dorsey said that the fact Hernandez was a football player did not affect her vote to convict, nor did it matter whether he actually pulled the trigger. \"To leave your friend on the ground, knowing that he's not there anymore -- he's either dead or he's going to die -- that's indifference,\" she said. The word \"indifference\" was used multiple times by members of the jury. Hernandez, once a $40 million pro-football player, was sentenced to life without parole.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Jurors from the trial of former NFL star Aaron Hernandez"
+      },
+      {
+        "id": 1,
+        "text": "the trial of former NFL star Aaron Hernandez"
+      },
+      {
+        "id": 2,
+        "text": "former NFL star Aaron Hernandez"
+      },
+      {
+        "id": 3,
+        "text": "Juror Kelly Dorsey"
+      },
+      {
+        "id": 4,
+        "text": "Odin Lloyd"
+      },
+      {
+        "id": 5,
+        "text": "leave"
+      },
+      {
+        "id": 6,
+        "text": "first"
+      },
+      {
+        "id": 7,
+        "text": "more than 35 hours"
+      },
+      {
+        "id": 8,
+        "text": "seven days"
+      },
+      {
+        "id": 9,
+        "text": "over 130"
+      },
+      {
+        "id": 10,
+        "text": "more than 400"
+      },
+      {
+        "id": 11,
+        "text": "Lesa Strachan"
+      },
+      {
+        "id": 12,
+        "text": "CNN"
+      },
+      {
+        "id": 13,
+        "text": "Anderson Cooper"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "interviewedBy",
+        "tail": 12
+      },
+      {
+        "head": 0,
+        "relation": "interviewedBy",
+        "tail": 13
+      },
+      {
+        "head": 0,
+        "relation": "deliberationDuration",
+        "tail": 7
+      },
+      {
+        "head": 0,
+        "relation": "deliberationDuration",
+        "tail": 8
+      },
+      {
+        "head": 0,
+        "relation": "witnessCount",
+        "tail": 9
+      },
+      {
+        "head": 0,
+        "relation": "evidenceCount",
+        "tail": 10
+      },
+      {
+        "head": 11,
+        "relation": "speaksTo",
+        "tail": 13
+      }
+    ]
+  },
+  {
+    "document_id": 157,
+    "ragtruth_id": "613",
+    "text": "The jury in the Massachusetts murder trial of former NFL star Aaron Hernandez has spoken out about their emotional toll during the trial. After more than 35 hours of deliberation, the jury found Hernandez guilty of first-degree murder in the shooting death of Odin Lloyd. Lesa Strachan, the jury foreperson, expressed her shock at the viciousness of the crime, noting that Lloyd was shot six times. The jury members emphasized that Hernandez being a football player did not influence their decision to convict him, and they were all equal in the eyes of the law. They were also surprised to receive congratulatory calls after the verdict, as they felt there were no winners in this case. The jurors declined to discuss the dynamics within the jury room, but stressed the seriousness and gravity of their task. Hernandez, who went from a pro-football contract to a life sentence without parole, will now face prison life at a maximum-security facility. The jury members expressed their sadness for Lloyd's family, especially his young daughter who will never see her father again.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "The jury in the Massachusetts murder trial of former NFL star Aaron Hernandez"
+      },
+      {
+        "id": 1,
+        "text": "the Massachusetts murder trial of former NFL star Aaron Hernandez"
+      },
+      {
+        "id": 2,
+        "text": "former NFL star Aaron Hernandez"
+      },
+      {
+        "id": 3,
+        "text": "Lesa Strachan, the jury foreperson"
+      },
+      {
+        "id": 4,
+        "text": "the shooting death of Odin Lloyd"
+      },
+      {
+        "id": 5,
+        "text": "Odin Lloyd"
+      },
+      {
+        "id": 6,
+        "text": "found"
+      },
+      {
+        "id": 7,
+        "text": "his young daughter who will never see her father again"
+      },
+      {
+        "id": 8,
+        "text": "more than 35 hours"
+      },
+      {
+        "id": 9,
+        "text": "first"
+      },
+      {
+        "id": 10,
+        "text": "six"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "trial",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "found",
+        "tail": 6
+      },
+      {
+        "head": 2,
+        "relation": "guiltyOf",
+        "tail": 4
+      },
+      {
+        "head": 4,
+        "relation": "victim",
+        "tail": 5
+      },
+      {
+        "head": 3,
+        "relation": "role",
+        "tail": 0
+      },
+      {
+        "head": 4,
+        "relation": "shotCount",
+        "tail": 10
+      },
+      {
+        "head": 0,
+        "relation": "deliberationDuration",
+        "tail": 8
+      }
+    ]
+  },
+  {
+    "document_id": 158,
+    "ragtruth_id": "614",
+    "text": "After 35 hours of deliberation over a seven-day period, the jury in the Aaron Hernandez murder trial convicted the former NFL star of first-degree murder in the 2013 shooting death of his onetime friend, Odin Lloyd. The jury was composed of 12 men and women, including a woman who had never heard of Hernandez before the trial. The verdict was based on testimony from more than 130 witnesses and evidence from over 400 pieces. The jury foreperson, Lesa Strachan, said she was struck by the viciousness of the multiple gunshots and that there was no need for such violence. Juror Kelly Dorsey, who watched the Patriots every Sunday during the football season, said she wasn't affected by Hernandez's celebrity status and that he played football for a living didn't influence her vote. Rosalie Oliver, another juror, said she was surprised to hear from friends congratulating her after the verdict and that the worst part of the trial was the thought of the little girl who would never see her father again. The jury declined to discuss the dynamics inside the jury room, focusing instead on the evidence presented during the trial.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Aaron Hernandez"
+      },
+      {
+        "id": 1,
+        "text": "the jury in the Aaron Hernandez murder trial"
+      },
+      {
+        "id": 2,
+        "text": "the Aaron Hernandez murder trial"
+      },
+      {
+        "id": 3,
+        "text": "convicted"
+      },
+      {
+        "id": 4,
+        "text": "a woman who had never heard of Hernandez before the trial"
+      },
+      {
+        "id": 5,
+        "text": "Juror Kelly Dorsey, who watched the Patriots every Sunday during the football season"
+      },
+      {
+        "id": 6,
+        "text": "Rosalie Oliver, another juror,"
+      },
+      {
+        "id": 7,
+        "text": "the little girl who would never see her father again"
+      },
+      {
+        "id": 8,
+        "text": "35 hours"
+      },
+      {
+        "id": 9,
+        "text": "seven-day"
+      },
+      {
+        "id": 10,
+        "text": "first"
+      },
+      {
+        "id": 11,
+        "text": "2013"
+      },
+      {
+        "id": 12,
+        "text": "Odin Lloyd"
+      },
+      {
+        "id": 13,
+        "text": "12"
+      },
+      {
+        "id": 14,
+        "text": "more than 130"
+      }
+    ],
+    "relations": [
+      {
+        "head": 2,
+        "relation": "verdict",
+        "tail": 3
+      },
+      {
+        "head": 2,
+        "relation": "defendant",
+        "tail": 0
+      },
+      {
+        "head": 2,
+        "relation": "victim",
+        "tail": 12
+      },
+      {
+        "head": 2,
+        "relation": "date",
+        "tail": 11
+      },
+      {
+        "head": 1,
+        "relation": "memberCount",
+        "tail": 13
+      },
+      {
+        "head": 2,
+        "relation": "duration",
+        "tail": 8
+      },
+      {
+        "head": 2,
+        "relation": "duration",
+        "tail": 9
+      }
+    ]
+  },
+  {
+    "document_id": 159,
+    "ragtruth_id": "615",
+    "text": "After deliberating for 35 hours over 7 days, a jury has convicted former NFL star Aaron Hernandez of first-degree murder in the 2013 shooting death of his onetime friend Odin Lloyd. The jury, consisting of 12 men and women, was struck by the viciousness of multiple gunshots and the lack of empathy shown by Hernandez. Despite being a well-known football player, the jurors emphasized that his celebrity status did not influence their decision. They were also surprised by the calls they received from friends congratulating them after the verdict, and expressed the importance of treating all individuals equally under the law. The jurors declined to discuss the dynamics inside the jury room, focusing instead on the evidence presented during the trial. Hernandez faces a sentence of life in prison without parole.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "former NFL star Aaron Hernandez"
+      },
+      {
+        "id": 1,
+        "text": "a jury"
+      },
+      {
+        "id": 2,
+        "text": "convicted"
+      },
+      {
+        "id": 3,
+        "text": "35 hours"
+      },
+      {
+        "id": 4,
+        "text": "7 days"
+      },
+      {
+        "id": 5,
+        "text": "first"
+      },
+      {
+        "id": 6,
+        "text": "2013"
+      },
+      {
+        "id": 7,
+        "text": "Odin Lloyd"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "convictedOf",
+        "tail": 7
+      },
+      {
+        "head": 0,
+        "relation": "convictionYear",
+        "tail": 6
+      },
+      {
+        "head": 1,
+        "relation": "deliberationDuration",
+        "tail": 3
+      },
+      {
+        "head": 1,
+        "relation": "deliberationPeriod",
+        "tail": 4
+      }
+    ]
+  }
+]

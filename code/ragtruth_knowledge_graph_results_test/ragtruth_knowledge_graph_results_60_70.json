@@ -1,0 +1,928 @@
+[
+  {
+    "document_id": 60,
+    "ragtruth_id": "246",
+    "text": "Emy Afalava, a decorated veteran born in American Samoa, a US territory since 1900, has been denied the right to vote as the federal government insists he is not a citizen. Despite the Fourteenth Amendment declaring that all persons born in the US are citizens, Afalava and other American Samoans have been denied this right. This issue is now being addressed in a federal lawsuit before the D.C. Circuit, with a decision expected soon. The situation echoes past instances of racial discrimination, such as the Dred Scott case, which declared free African-Americans were not citizens, and the case of Isabel Gonzalez, a Puerto Rican woman prevented from entering the mainland US despite it being a US territory. Today, American Samoans remain the only inhabitants of US island territories yet to be granted citizenship.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Emy Afalava, a decorated veteran born in American Samoa, a US territory since 1900"
+      },
+      {
+        "id": 1,
+        "text": "the federal government"
+      },
+      {
+        "id": 2,
+        "text": "the right to vote"
+      },
+      {
+        "id": 3,
+        "text": "the mainland US"
+      },
+      {
+        "id": 4,
+        "text": "the Fourteenth Amendment"
+      },
+      {
+        "id": 5,
+        "text": "American"
+      },
+      {
+        "id": 6,
+        "text": "Samoans"
+      },
+      {
+        "id": 7,
+        "text": "the D.C. Circuit"
+      },
+      {
+        "id": 8,
+        "text": "the Dred Scott"
+      },
+      {
+        "id": 9,
+        "text": "African-Americans"
+      },
+      {
+        "id": 10,
+        "text": "Isabel Gonzalez"
+      },
+      {
+        "id": 11,
+        "text": "Puerto Rican"
+      },
+      {
+        "id": 12,
+        "text": "US"
+      },
+      {
+        "id": 13,
+        "text": "Today"
+      },
+      {
+        "id": 14,
+        "text": "American Samoans"
+      },
+      {
+        "id": 15,
+        "text": "US"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "deniedRight",
+        "tail": 2
+      },
+      {
+        "head": 14,
+        "relation": "citizenshipStatus",
+        "tail": 2
+      }
+    ]
+  },
+  {
+    "document_id": 61,
+    "ragtruth_id": "247",
+    "text": "Emy Afalava, a decorated veteran and loyal American, has been denied the right to vote because the federal government does not consider him a citizen. Although born in American Samoa, a U.S. territory since 1900, Afalava argues that he should be granted citizenship according to the Fourteenth Amendment of the Constitution. This amendment states that anyone born in the United States and subject to its jurisdiction is a U.S. citizen. Afalava, along with other American Samoans, is currently involved in a federal lawsuit seeking to rectify this situation. The case is pending before the D.C. Circuit, and a decision is expected soon. The article highlights historical instances of racial discrimination, such as the infamous Dred Scott case, which denied citizenship to African-Americans. It also mentions the case of Isabel Gonzalez, a Puerto Rican woman who was initially denied entry into the mainland U.S. despite Puerto Rico's status as a U.S. territory. The article argues that it is time to end this discrimination and grant American Samoans their long-awaited citizenship.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Emy Afalava, a decorated veteran and loyal American"
+      },
+      {
+        "id": 1,
+        "text": "the Fourteenth Amendment of the Constitution"
+      },
+      {
+        "id": 2,
+        "text": "the federal government"
+      },
+      {
+        "id": 3,
+        "text": "a federal lawsuit seeking to rectify this situation"
+      },
+      {
+        "id": 4,
+        "text": "The article"
+      },
+      {
+        "id": 5,
+        "text": "denied"
+      },
+      {
+        "id": 6,
+        "text": "American Samoans"
+      },
+      {
+        "id": 7,
+        "text": "American Samoa"
+      },
+      {
+        "id": 8,
+        "text": "U.S."
+      },
+      {
+        "id": 9,
+        "text": "1900"
+      },
+      {
+        "id": 10,
+        "text": "U.S."
+      },
+      {
+        "id": 11,
+        "text": "American Samoans"
+      },
+      {
+        "id": 12,
+        "text": "the D.C. Circuit"
+      },
+      {
+        "id": 13,
+        "text": "Dred Scott"
+      },
+      {
+        "id": 14,
+        "text": "African-Americans"
+      },
+      {
+        "id": 15,
+        "text": "Isabel Gonzalez"
+      },
+      {
+        "id": 16,
+        "text": "Puerto Rican"
+      },
+      {
+        "id": 17,
+        "text": "U.S."
+      },
+      {
+        "id": 18,
+        "text": "Puerto Rico's"
+      },
+      {
+        "id": 19,
+        "text": "U.S."
+      }
+    ],
+    "relations": [
+      {
+        "head": 7,
+        "relation": "territorySince",
+        "tail": 9
+      },
+      {
+        "head": 0,
+        "relation": "involvedIn",
+        "tail": 3
+      },
+      {
+        "head": 3,
+        "relation": "pendingBefore",
+        "tail": 12
+      }
+    ]
+  },
+  {
+    "document_id": 62,
+    "ragtruth_id": "248",
+    "text": "Emy Afalava, a decorated American veteran who was born in American Samoa, has been denied citizenship despite being born on US soil. The Fourteenth Amendment states that all persons born in the US are citizens, but the federal government claims that American Samoans are not citizens due to a 1904 Supreme Court ruling in the Isabel Gonzalez case. This ruling allowed Puerto Ricans to enter the country without being considered aliens, but it did not grant them citizenship. The Supreme Court also refused to decide whether Gonzalez was a citizen. The current court case seeks to right this wrong and declare American Samoans citizens.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "a 1904 Supreme Court ruling in the Isabel Gonzalez case"
+      },
+      {
+        "id": 1,
+        "text": "the US"
+      },
+      {
+        "id": 2,
+        "text": "Puerto Ricans"
+      },
+      {
+        "id": 3,
+        "text": "Supreme Court"
+      },
+      {
+        "id": 4,
+        "text": "Isabel Gonzalez"
+      },
+      {
+        "id": 5,
+        "text": "refused"
+      },
+      {
+        "id": 6,
+        "text": "Emy Afalava"
+      },
+      {
+        "id": 7,
+        "text": "American"
+      },
+      {
+        "id": 8,
+        "text": "American Samoa"
+      },
+      {
+        "id": 9,
+        "text": "US"
+      },
+      {
+        "id": 10,
+        "text": "The Fourteenth Amendment"
+      },
+      {
+        "id": 11,
+        "text": "American Samoans"
+      },
+      {
+        "id": 12,
+        "text": "American"
+      },
+      {
+        "id": 13,
+        "text": "Samoans"
+      }
+    ],
+    "relations": [
+      {
+        "head": 6,
+        "relation": "bornIn",
+        "tail": 8
+      },
+      {
+        "head": 6,
+        "relation": "nationality",
+        "tail": 7
+      },
+      {
+        "head": 6,
+        "relation": "bornOnSoilOf",
+        "tail": 9
+      },
+      {
+        "head": 11,
+        "relation": "citizenshipDeniedBy",
+        "tail": 0
+      },
+      {
+        "head": 2,
+        "relation": "allowedToEnter",
+        "tail": 1
+      },
+      {
+        "head": 2,
+        "relation": "notGrantedCitizenshipBy",
+        "tail": 0
+      },
+      {
+        "head": 4,
+        "relation": "citizenshipStatusUndecidedBy",
+        "tail": 3
+      },
+      {
+        "head": 11,
+        "relation": "declaredCitizensBy",
+        "tail": 10
+      }
+    ]
+  },
+  {
+    "document_id": 63,
+    "ragtruth_id": "249",
+    "text": "Emy Afalava, a loyal American and decorated veteran, was born in American Samoa, a US territory since 1900. Despite being subject to US law his whole life, Afalava has been denied the right to vote due to the federal government's insistence that he is not a citizen. This is despite the Fourteenth Amendment's declaration that all persons born in the US are citizens. Afalava and other American Samoans are seeking to right this injustice through a federal lawsuit. The case has echoes of the Dred Scott decision, which ruled that free African Americans had no rights that white men were bound to respect. Despite being overturned in the Civil War, similar racial discrimination continues to affect the rights of Americans born in US territories.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Emy Afalava, a loyal American and decorated veteran"
+      },
+      {
+        "id": 1,
+        "text": "denied"
+      },
+      {
+        "id": 2,
+        "text": "the federal government's"
+      },
+      {
+        "id": 3,
+        "text": "a federal lawsuit"
+      },
+      {
+        "id": 4,
+        "text": "American Samoa"
+      },
+      {
+        "id": 5,
+        "text": "US"
+      },
+      {
+        "id": 6,
+        "text": "1900"
+      },
+      {
+        "id": 7,
+        "text": "US"
+      },
+      {
+        "id": 8,
+        "text": "the Fourteenth Amendment's"
+      },
+      {
+        "id": 9,
+        "text": "American"
+      },
+      {
+        "id": 10,
+        "text": "Samoans"
+      },
+      {
+        "id": 11,
+        "text": "African Americans"
+      },
+      {
+        "id": 12,
+        "text": "the Civil War"
+      },
+      {
+        "id": 13,
+        "text": "Americans"
+      },
+      {
+        "id": 14,
+        "text": "US"
+      }
+    ],
+    "relations": [
+      {
+        "head": 4,
+        "relation": "territoryOf",
+        "tail": 5
+      },
+      {
+        "head": 4,
+        "relation": "territorySince",
+        "tail": 6
+      },
+      {
+        "head": 0,
+        "relation": "bornIn",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "subjectToLawOf",
+        "tail": 7
+      },
+      {
+        "head": 0,
+        "relation": "deniedBy",
+        "tail": 2
+      },
+      {
+        "head": 3,
+        "relation": "relatedTo",
+        "tail": 1
+      },
+      {
+        "head": 11,
+        "relation": "rightsDeniedBy",
+        "tail": 12
+      },
+      {
+        "head": 13,
+        "relation": "bornIn",
+        "tail": 14
+      }
+    ]
+  },
+  {
+    "document_id": 64,
+    "ragtruth_id": "250",
+    "text": "Emy Afalava, a decorated veteran born in American Samoa, is fighting for his right to citizenship despite being subject to American law his entire life. The Constitution grants citizenship to all persons born in the US, but the federal government denies Afalava and other American Samoans this right. This injustice has its roots in historical racism, as seen in the Dred Scott case, which denied citizenship to free African Americans. Similar discrimination was faced by Isabel Gonzalez, a Puerto Rican woman who was labeled an \"undesirable alien\" when she tried to enter the US in 1904. The Supreme Court eventually granted her citizenship, but the fight for equal rights continues for Afalava and other US territory inhabitants.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Emy Afalava, a decorated veteran born in American Samoa"
+      },
+      {
+        "id": 1,
+        "text": "the US"
+      },
+      {
+        "id": 2,
+        "text": "his right to citizenship"
+      },
+      {
+        "id": 3,
+        "text": "denies"
+      },
+      {
+        "id": 4,
+        "text": "Isabel Gonzalez, a Puerto Rican woman who was labeled an \"undesirable alien\" when she tried to enter the US in 1904"
+      },
+      {
+        "id": 5,
+        "text": "Afalava and other American Samoans"
+      },
+      {
+        "id": 6,
+        "text": "American"
+      },
+      {
+        "id": 7,
+        "text": "Constitution"
+      },
+      {
+        "id": 8,
+        "text": "the Dred Scott"
+      },
+      {
+        "id": 9,
+        "text": "African Americans"
+      },
+      {
+        "id": 10,
+        "text": "The Supreme Court"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "bornIn",
+        "tail": 6
+      },
+      {
+        "head": 7,
+        "relation": "grantsCitizenshipTo",
+        "tail": 1
+      },
+      {
+        "head": 1,
+        "relation": "deniesCitizenshipTo",
+        "tail": 5
+      },
+      {
+        "head": 8,
+        "relation": "deniedCitizenshipTo",
+        "tail": 9
+      },
+      {
+        "head": 10,
+        "relation": "grantedCitizenshipTo",
+        "tail": 4
+      }
+    ]
+  },
+  {
+    "document_id": 65,
+    "ragtruth_id": "251",
+    "text": "Emy Afalava, a decorated veteran and American Samoan, is denied the right to vote despite being born on U.S. soil. The federal government argues that he is not a citizen due to his birthplace, even though the Constitution grants citizenship to those born in the U.S. and subject to its jurisdiction. This injustice has been ongoing for over a century, with the Supreme Court previously ruling that residents of U.S. island territories are not citizens. The case is currently being fought in a federal lawsuit, with a decision expected soon. The issue is rooted in racial discrimination, with historical cases such as Dred Scott and Isabel Gonzalez demonstrating the court's past bias against certain groups. It is time for this injustice to end, and for Afalava and other American Samoans to be granted the citizenship they deserve.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Emy Afalava, a decorated veteran and American Samoan"
+      },
+      {
+        "id": 1,
+        "text": "The federal government"
+      },
+      {
+        "id": 2,
+        "text": "denied"
+      },
+      {
+        "id": 3,
+        "text": "the Supreme Court"
+      },
+      {
+        "id": 4,
+        "text": "Afalava and other American Samoans"
+      },
+      {
+        "id": 5,
+        "text": "U.S."
+      },
+      {
+        "id": 6,
+        "text": "Constitution"
+      },
+      {
+        "id": 7,
+        "text": "over a century"
+      },
+      {
+        "id": 8,
+        "text": "U.S."
+      },
+      {
+        "id": 9,
+        "text": "Dred Scott"
+      },
+      {
+        "id": 10,
+        "text": "Gonzalez"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "bornIn",
+        "tail": 5
+      },
+      {
+        "head": 1,
+        "relation": "arguesNotCitizen",
+        "tail": 0
+      },
+      {
+        "head": 6,
+        "relation": "grantsCitizenshipToBornIn",
+        "tail": 5
+      },
+      {
+        "head": 2,
+        "relation": "ongoingFor",
+        "tail": 7
+      },
+      {
+        "head": 3,
+        "relation": "ruledNotCitizens",
+        "tail": 8
+      }
+    ]
+  },
+  {
+    "document_id": 66,
+    "ragtruth_id": "270",
+    "text": "Iman Hashi, 25, and her sister Siham, 27, are currently laying down tracks for their debut album in a recording studio in Los Angeles. The sisters were born in Mogadishu, the Somali capital, but were forced to flee after war broke out in 1991. The girls relocated to Canada as refugees with their parents and discovered a passion for music during their teenage years. Now, the singing sisters with a bold flair for fashion are embarking on a musical journey, hoping to release their Afro-pop sound to the world. The duo is known as Faarrow, which combines the translation of their names into English -- Iman means \"Faith\" and Siham means \"Arrow\". Additionally, the sisters work with the U.N. High Commissioner for Refugees (UNHCR). They started a non-profit and hold small benefit concerts in Toronto and in San Diego -- wherever there is a large Somali community and do outreach through their singing, working with UNHCR in a capacity as a spokesperson.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Iman Hashi, 25"
+      },
+      {
+        "id": 1,
+        "text": "Iman Hashi, 25, and her sister Siham, 27"
+      },
+      {
+        "id": 2,
+        "text": "her sister Siham, 27"
+      },
+      {
+        "id": 3,
+        "text": "the U.N. High Commissioner for Refugees (UNHCR)"
+      },
+      {
+        "id": 4,
+        "text": "Los Angeles"
+      },
+      {
+        "id": 5,
+        "text": "Mogadishu"
+      },
+      {
+        "id": 6,
+        "text": "Somali"
+      },
+      {
+        "id": 7,
+        "text": "1991"
+      },
+      {
+        "id": 8,
+        "text": "Canada"
+      },
+      {
+        "id": 9,
+        "text": "their teenage years"
+      },
+      {
+        "id": 10,
+        "text": "Afro"
+      },
+      {
+        "id": 11,
+        "text": "Faarrow"
+      },
+      {
+        "id": 12,
+        "text": "English"
+      },
+      {
+        "id": 13,
+        "text": "Faith"
+      },
+      {
+        "id": 14,
+        "text": "Arrow"
+      },
+      {
+        "id": 15,
+        "text": "Toronto"
+      },
+      {
+        "id": 16,
+        "text": "San Diego"
+      },
+      {
+        "id": 17,
+        "text": "Somali"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "recordingLocation",
+        "tail": 4
+      },
+      {
+        "head": 1,
+        "relation": "birthPlace",
+        "tail": 5
+      },
+      {
+        "head": 1,
+        "relation": "relocatedTo",
+        "tail": 8
+      },
+      {
+        "head": 1,
+        "relation": "activeSince",
+        "tail": 9
+      },
+      {
+        "head": 1,
+        "relation": "alias",
+        "tail": 11
+      },
+      {
+        "head": 1,
+        "relation": "worksWith",
+        "tail": 3
+      },
+      {
+        "head": 1,
+        "relation": "performedIn",
+        "tail": 15
+      },
+      {
+        "head": 1,
+        "relation": "performedIn",
+        "tail": 16
+      }
+    ]
+  },
+  {
+    "document_id": 67,
+    "ragtruth_id": "271",
+    "text": "Iman and Siham Hashi, known as the sister act Faarrow, are preparing to release their debut album, blending Afro-pop, hip hop, and African percussion. The sisters, who were born in Mogadishu but fled to Canada as refugees, have always had a passion for music and are now working with actor and producer Elijah Kelley to create their sound. The entire album was written and produced by the sisters and Kelley, and they are grateful for the support from Warner Brothers Records to let them have creative control. In addition to their music, the sisters also work with the UN High Commissioner for Refugees (UNHCR) as advocates for Somalia and have started a non-profit organization to support women in Kenya and Somalia. They have performed at various events and concerts to raise awareness and funds for their cause. The sisters are currently in the process of finishing up their album and hope to release their first single soon. Despite cultural challenges and expectations, they continue to follow their dreams and inspire others along the way.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Iman and Siham Hashi, known as the sister act Faarrow"
+      },
+      {
+        "id": 1,
+        "text": "their debut album"
+      },
+      {
+        "id": 2,
+        "text": "actor and producer Elijah Kelley"
+      },
+      {
+        "id": 3,
+        "text": "Somalia"
+      },
+      {
+        "id": 4,
+        "text": "Afro"
+      },
+      {
+        "id": 5,
+        "text": "African"
+      },
+      {
+        "id": 6,
+        "text": "Warner Brothers Records"
+      },
+      {
+        "id": 7,
+        "text": "UN"
+      },
+      {
+        "id": 8,
+        "text": "UNHCR"
+      },
+      {
+        "id": 9,
+        "text": "Kenya"
+      },
+      {
+        "id": 10,
+        "text": "first"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "writtenBy",
+        "tail": 0
+      },
+      {
+        "head": 1,
+        "relation": "producedBy",
+        "tail": 0
+      },
+      {
+        "head": 1,
+        "relation": "writtenBy",
+        "tail": 2
+      },
+      {
+        "head": 1,
+        "relation": "producedBy",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "advocateFor",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "worksWith",
+        "tail": 8
+      },
+      {
+        "head": 0,
+        "relation": "supportsWomenIn",
+        "tail": 9
+      },
+      {
+        "head": 0,
+        "relation": "supportsWomenIn",
+        "tail": 3
+      }
+    ]
+  },
+  {
+    "document_id": 68,
+    "ragtruth_id": "272",
+    "text": "Two sisters who fled war in their homeland of Somalia and settled in Canada as refugees are preparing for their debut album in Los Angeles. Faarrow, whose names mean \"Faith\" and \"Arrow,\" respectively, draw inspiration from artists such as Michael Jackson, Lionel Richie, and the Spice Girls. Their music combines Afrobeat sounds with pop, hip hop, and rhythmic African percussion. The sisters also work with the United Nations High Commissioner for Refugees and have launched a socially conscious fashion brand. Faarrow's debut album is expected to drop soon, and they continue to use their platform to advocate for refugees and promote cultural appreciation.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Two sisters who fled war in their homeland of Somalia and settled in Canada as refugees"
+      },
+      {
+        "id": 1,
+        "text": "their debut album"
+      },
+      {
+        "id": 2,
+        "text": "Los Angeles"
+      },
+      {
+        "id": 3,
+        "text": "Michael Jackson"
+      },
+      {
+        "id": 4,
+        "text": "Lionel Richie"
+      },
+      {
+        "id": 5,
+        "text": "Afrobeat"
+      },
+      {
+        "id": 6,
+        "text": "African"
+      },
+      {
+        "id": 7,
+        "text": "the United Nations"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "location",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "inspiredBy",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "inspiredBy",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "usesMusicStyle",
+        "tail": 5
+      },
+      {
+        "head": 0,
+        "relation": "usesPercussionStyle",
+        "tail": 6
+      },
+      {
+        "head": 0,
+        "relation": "worksWith",
+        "tail": 7
+      }
+    ]
+  },
+  {
+    "document_id": 69,
+    "ragtruth_id": "273",
+    "text": "Sure, here's a summary of the article in 200 words:\n\nSomali-Canadian singing sisters Iman and Siham Hashi, known as Faarrow, are set to release their debut album in Los Angeles after fleeing their home country due to war in 1991. They have been working with producer Elijah Kelley and have described their sound as a fusion of pop, hip-hop, and African rhythms. The sisters also work with the UNHCR and have started a non-profit organization to provide sustainable income for women in Kenya and Somalia. They hope to use their platform to inspire others and help rebuild their home country.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Somali-Canadian singing sisters Iman and Siham Hashi, known as Faarrow"
+      },
+      {
+        "id": 1,
+        "text": "their home country"
+      },
+      {
+        "id": 2,
+        "text": "200"
+      },
+      {
+        "id": 3,
+        "text": "Los Angeles"
+      },
+      {
+        "id": 4,
+        "text": "1991"
+      },
+      {
+        "id": 5,
+        "text": "Elijah Kelley"
+      },
+      {
+        "id": 6,
+        "text": "African"
+      },
+      {
+        "id": 7,
+        "text": "UNHCR"
+      },
+      {
+        "id": 8,
+        "text": "Kenya"
+      },
+      {
+        "id": 9,
+        "text": "Somalia"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "recordedIn",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "producer",
+        "tail": 5
+      },
+      {
+        "head": 0,
+        "relation": "worksWith",
+        "tail": 7
+      },
+      {
+        "head": 0,
+        "relation": "fledFrom",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "fledIn",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "worksIn",
+        "tail": 8
+      },
+      {
+        "head": 0,
+        "relation": "worksIn",
+        "tail": 9
+      }
+    ]
+  }
+]

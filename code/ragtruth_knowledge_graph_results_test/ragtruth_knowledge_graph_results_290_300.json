@@ -1,0 +1,782 @@
+[
+  {
+    "document_id": 290,
+    "ragtruth_id": "1184",
+    "text": "President Barack Obama, US Surgeon General Dr. Vivek Murthy, and Environmental Protection Agency (EPA) Administrator Gina McCarthy discussed the linkage of climate change to public health during a roundtable at Howard University's College of Medicine. Obama said that while the debate on climate change may break down quickly, focusing on its impact on public health issues can resonate with people. He shared his experience of living in Los Angeles during the 1979 air pollution crisis and the subsequent improvements brought by the Clean Air Act. Surgeon General Murthy highlighted the issue of asthma, which he said has been linked to climate change, and how individuals and communities can monitor the air quality using apps. Meanwhile, the World Health Organization predicts that climate change will cause an additional 250,000 deaths per year between 2030 and 2050, and Medscape reports that doctors worldwide have increased their concern about the role of climate change in patient health. Despite the ongoing skepticism surrounding climate change, the use of healthcare as a messaging platform has been suggested as a way to build support for action.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "President Barack Obama"
+      },
+      {
+        "id": 1,
+        "text": "climate change"
+      },
+      {
+        "id": 2,
+        "text": "US Surgeon General Dr. Vivek Murthy"
+      },
+      {
+        "id": 3,
+        "text": "doctors worldwide"
+      },
+      {
+        "id": 4,
+        "text": "Environmental Protection Agency"
+      },
+      {
+        "id": 5,
+        "text": "EPA"
+      },
+      {
+        "id": 6,
+        "text": "Gina McCarthy"
+      },
+      {
+        "id": 7,
+        "text": "Howard University's"
+      },
+      {
+        "id": 8,
+        "text": "College of Medicine"
+      },
+      {
+        "id": 9,
+        "text": "Los Angeles"
+      },
+      {
+        "id": 10,
+        "text": "1979"
+      },
+      {
+        "id": 11,
+        "text": "the Clean Air Act"
+      },
+      {
+        "id": 12,
+        "text": "the World Health Organization"
+      },
+      {
+        "id": 13,
+        "text": "an additional 250,000"
+      },
+      {
+        "id": 14,
+        "text": "between 2030 and 2050"
+      },
+      {
+        "id": 15,
+        "text": "Medscape"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "linkedTo",
+        "tail": 2
+      },
+      {
+        "head": 1,
+        "relation": "linkedTo",
+        "tail": 3
+      },
+      {
+        "head": 1,
+        "relation": "predictedDeaths",
+        "tail": 13
+      },
+      {
+        "head": 1,
+        "relation": "predictedTimePeriod",
+        "tail": 14
+      }
+    ]
+  },
+  {
+    "document_id": 291,
+    "ragtruth_id": "1185",
+    "text": "On Tuesday, President Barack Obama joined other officials to discuss the link between climate change and public health. The event occurred during National Public Health Week and featured U.S. Surgeon General Dr. Vivek Murthy and EPA Administrator Gina McCarthy. The discussion focused on how climate change affects people's health and the steps being taken to address the issue. Obama shared his personal experience with air quality in Los Angeles, stating that it was bad enough in the 1970s that he couldn't go outside during smog alerts. He highlighted the progress made since then due to the Clean Air Act and stressed the importance of taking action to improve air quality. Murphy discussed the impact of climate change on his family, citing his father's battle with asthma, and emphasized the need for communities to prepare for and respond to the health effects of climate change. The event also featured a roundtable discussion with doctors and nurses who are working to raise awareness and develop strategies to address the health effects of climate change. According to the Environmental Protection Agency (EPA), climate change will lead to increased heat exposure, malnutrition, and the spread of disease-carrying insects, and is expected to cause an additional 250,000 deaths per year between 2030 and 2050. Despite this, there remains a sizable group of people who deny that climate change is occurring.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "discuss"
+      },
+      {
+        "id": 1,
+        "text": "climate change"
+      },
+      {
+        "id": 2,
+        "text": "President Barack Obama"
+      },
+      {
+        "id": 3,
+        "text": "air quality in Los Angeles"
+      },
+      {
+        "id": 4,
+        "text": "U.S. Surgeon General Dr. Vivek Murthy"
+      },
+      {
+        "id": 5,
+        "text": "the health effects of climate change"
+      },
+      {
+        "id": 6,
+        "text": "EPA"
+      },
+      {
+        "id": 7,
+        "text": "Tuesday"
+      },
+      {
+        "id": 8,
+        "text": "National Public Health Week"
+      },
+      {
+        "id": 9,
+        "text": "Gina McCarthy"
+      },
+      {
+        "id": 10,
+        "text": "the 1970s"
+      },
+      {
+        "id": 11,
+        "text": "the Clean Air Act"
+      },
+      {
+        "id": 12,
+        "text": "an additional 250,000"
+      },
+      {
+        "id": 13,
+        "text": "between 2030 and 2050"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "occursDuring",
+        "tail": 8
+      },
+      {
+        "head": 0,
+        "relation": "featured",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "featured",
+        "tail": 9
+      },
+      {
+        "head": 2,
+        "relation": "discussed",
+        "tail": 1
+      },
+      {
+        "head": 2,
+        "relation": "sharedExperienceWith",
+        "tail": 3
+      },
+      {
+        "head": 3,
+        "relation": "timePeriod",
+        "tail": 10
+      },
+      {
+        "head": 2,
+        "relation": "highlighted",
+        "tail": 11
+      },
+      {
+        "head": 4,
+        "relation": "discussedImpactOf",
+        "tail": 1
+      },
+      {
+        "head": 4,
+        "relation": "familyMember",
+        "tail": 4
+      },
+      {
+        "head": 4,
+        "relation": "emphasizedNeedFor",
+        "tail": 5
+      },
+      {
+        "head": 0,
+        "relation": "addressed",
+        "tail": 5
+      },
+      {
+        "head": 6,
+        "relation": "statedCauseOf",
+        "tail": 12
+      },
+      {
+        "head": 12,
+        "relation": "timePeriod",
+        "tail": 13
+      }
+    ]
+  },
+  {
+    "document_id": 292,
+    "ragtruth_id": "1186",
+    "text": "Here is a summary of the article in 200 words or less:\n\nPresident Barack Obama and health experts are highlighting the link between climate change and public health, focusing on personal health risks to raise awareness and push for action. At a roundtable discussion at Howard University's College of Medicine, Obama emphasized the improvement in air quality in Los Angeles due to the Clean Air Act and expressed confidence in America's innovative spirit to address climate change. The discussion linked climate change to increased asthma instances, heat-related illnesses, and other health problems. According to the World Health Organization, climate change could cause an additional 250,000 deaths per year by 2050. Despite this, a significant portion of the public remains skeptical about climate change, with a recent Gallup poll showing that only 55% of Americans believe its effects are occurring. Medical professionals may be key messengers in raising awareness about the public health risks of climate change.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "President Barack Obama"
+      },
+      {
+        "id": 1,
+        "text": "climate change"
+      },
+      {
+        "id": 2,
+        "text": "a roundtable discussion at Howard University's College of Medicine"
+      },
+      {
+        "id": 3,
+        "text": "cause"
+      },
+      {
+        "id": 4,
+        "text": "the public"
+      },
+      {
+        "id": 5,
+        "text": "200"
+      },
+      {
+        "id": 6,
+        "text": "Los Angeles"
+      },
+      {
+        "id": 7,
+        "text": "the Clean Air Act"
+      },
+      {
+        "id": 8,
+        "text": "America"
+      },
+      {
+        "id": 9,
+        "text": "the World Health Organization"
+      },
+      {
+        "id": 10,
+        "text": "an additional 250,000"
+      },
+      {
+        "id": 11,
+        "text": "2050"
+      },
+      {
+        "id": 12,
+        "text": "Gallup"
+      },
+      {
+        "id": 13,
+        "text": "only 55%"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "highlightedLinkBetween",
+        "tail": 1
+      },
+      {
+        "head": 2,
+        "relation": "linkedTo",
+        "tail": 1
+      },
+      {
+        "head": 1,
+        "relation": "cause",
+        "tail": 10
+      },
+      {
+        "head": 1,
+        "relation": "causeDate",
+        "tail": 11
+      },
+      {
+        "head": 12,
+        "relation": "pollResult",
+        "tail": 13
+      }
+    ]
+  },
+  {
+    "document_id": 293,
+    "ragtruth_id": "1187",
+    "text": "The discussion on climate change is shifting from its impact on the environment to its impact on public health. President Barack Obama, US Surgeon General Dr. Vivek Murthy, and EPA Administrator Gina McCarthy emphasized the significance of this shift during a roundtable at Howard University's College of Medicine. They pointed out that personal health is closely related to climate change, and the effects of climate change could worsen respiratory problems such as asthma.\n\nAccording to a study by the American Thoracic Society, seven out of ten doctors report that climate change is contributing to more health problems among their patients. The participants at the roundtable discussed the need for doctors and nurses to raise awareness and prepare for the impacts of climate change.\n\nThe Environmental Protection Agency (EPA) states that the impacts of climate change on health will depend on various factors such as public health systems, individual behaviors, and societal adaptation. The World Health Organization (WHO) estimates that climate change will cause an additional 250,000 deaths annually between 2030 and 2050, mostly due to malaria, diarrhea, heat exposure, and under-nutrition.\n\nThe panel highlighted the urgent need to act on climate change to protect vulnerable populations, especially children and the elderly, who will be most affected. While there is still a significant group of people who doubt the existence of climate change, framing it as a public health issue rather than an environmental one may be a more effective way to communicate its importance and encourage action.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "climate change"
+      },
+      {
+        "id": 1,
+        "text": "shifting"
+      },
+      {
+        "id": 2,
+        "text": "President Barack Obama, US Surgeon General Dr. Vivek Murthy, and EPA Administrator Gina McCarthy"
+      },
+      {
+        "id": 3,
+        "text": "seven out of ten doctors"
+      },
+      {
+        "id": 4,
+        "text": "a roundtable at Howard University's College of Medicine"
+      },
+      {
+        "id": 5,
+        "text": "EPA"
+      },
+      {
+        "id": 6,
+        "text": "the impacts of climate change"
+      },
+      {
+        "id": 7,
+        "text": "climate change"
+      },
+      {
+        "id": 8,
+        "text": "the American Thoracic Society"
+      },
+      {
+        "id": 9,
+        "text": "The World Health Organization (WHO"
+      },
+      {
+        "id": 10,
+        "text": "an additional 250,000"
+      },
+      {
+        "id": 11,
+        "text": "annually"
+      },
+      {
+        "id": 12,
+        "text": "2030"
+      },
+      {
+        "id": 13,
+        "text": "2050"
+      }
+    ],
+    "relations": [
+      {
+        "head": 2,
+        "relation": "emphasized",
+        "tail": 1
+      },
+      {
+        "head": 2,
+        "relation": "spokeAt",
+        "tail": 4
+      },
+      {
+        "head": 3,
+        "relation": "report",
+        "tail": 6
+      },
+      {
+        "head": 8,
+        "relation": "studyBy",
+        "tail": 3
+      },
+      {
+        "head": 5,
+        "relation": "states",
+        "tail": 6
+      },
+      {
+        "head": 9,
+        "relation": "estimates",
+        "tail": 10
+      },
+      {
+        "head": 10,
+        "relation": "frequency",
+        "tail": 11
+      },
+      {
+        "head": 10,
+        "relation": "startDate",
+        "tail": 12
+      },
+      {
+        "head": 10,
+        "relation": "endDate",
+        "tail": 13
+      }
+    ]
+  },
+  {
+    "document_id": 294,
+    "ragtruth_id": "1236",
+    "text": "Cyclist Wang Pingan's bike was stolen in Shenzhen, China just days before he was set to complete an epic 460-day trip around China. The bike was stolen from a road junction known for bike thefts, while Wang was checking out electronic markets. Despite initial concerns that the bike would not be recovered, local police were able to find it, after it had likely been sold twice. Wang, who had travelled 29,200km, had earlier turned down offers for a new bike, vowing to walk if he couldn't be reunited with his \"old lover\". He can now continue his journey to his final destination, Hainan Island.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Cyclist Wang Pingan's"
+      },
+      {
+        "id": 1,
+        "text": "China"
+      },
+      {
+        "id": 2,
+        "text": "Cyclist Wang Pingan's bike"
+      },
+      {
+        "id": 3,
+        "text": "stolen"
+      },
+      {
+        "id": 4,
+        "text": "Shenzhen"
+      },
+      {
+        "id": 5,
+        "text": "460-day"
+      },
+      {
+        "id": 6,
+        "text": "Hainan Island"
+      }
+    ],
+    "relations": [
+      {
+        "head": 2,
+        "relation": "stolenIn",
+        "tail": 4
+      },
+      {
+        "head": 2,
+        "relation": "stolenIn",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "travellingIn",
+        "tail": 5
+      },
+      {
+        "head": 0,
+        "relation": "destination",
+        "tail": 6
+      }
+    ]
+  },
+  {
+    "document_id": 295,
+    "ragtruth_id": "1237",
+    "text": "Cyclist Wang Pingan had his bike stolen just days before completing his 460-day trip around China. Wang had traveled thousands of miles through every major province in the country before arriving in Shenzhen. Despite initial doubts, the police managed to track down the stolen bike and return it to Wang. The theft was caught on surveillance cameras, and the bike had likely been sold twice before its recovery. Wang, who had turned down offers to replace his bike, had posted a heartfelt tribute to it on social media before its return. With his bike now back, Wang can continue his journey to Hainan Island, adding it to his already impressive route.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Cyclist Wang Pingan"
+      },
+      {
+        "id": 1,
+        "text": "China"
+      },
+      {
+        "id": 2,
+        "text": "his bike"
+      },
+      {
+        "id": 3,
+        "text": "stolen"
+      },
+      {
+        "id": 4,
+        "text": "its recovery"
+      },
+      {
+        "id": 5,
+        "text": "his journey to Hainan Island"
+      },
+      {
+        "id": 6,
+        "text": "just days"
+      },
+      {
+        "id": 7,
+        "text": "460-day"
+      },
+      {
+        "id": 8,
+        "text": "thousands of miles"
+      },
+      {
+        "id": 9,
+        "text": "Shenzhen"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "tripDuration",
+        "tail": 7
+      },
+      {
+        "head": 0,
+        "relation": "traveledDistance",
+        "tail": 8
+      },
+      {
+        "head": 0,
+        "relation": "traveledIn",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "arrivedIn",
+        "tail": 9
+      },
+      {
+        "head": 2,
+        "relation": "stolen",
+        "tail": 3
+      },
+      {
+        "head": 2,
+        "relation": "recovered",
+        "tail": 4
+      },
+      {
+        "head": 5,
+        "relation": "destination",
+        "tail": 1
+      }
+    ]
+  },
+  {
+    "document_id": 296,
+    "ragtruth_id": "1238",
+    "text": "Cyclist Wang Pingan's mountain bike, which he used to cycle around China for 460 days covering thousands of miles through all major provinces, was stolen just days before he completed his epic journey in Shenzhen. However, to his surprise, the police were able to track down and recover the bike within ten minutes after he locked it up. Wang, who embarked on his trip with a budget of $100, vowed to walk if he couldn't be reunited with his \"old lover.\" After the bike's recovery, Wang posted a heartfelt tribute to his bike on social media, thanking it for accompanying him on his journey and taking him to every place without complaints.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Cyclist Wang Pingan's"
+      },
+      {
+        "id": 1,
+        "text": "Cyclist Wang Pingan's mountain bike, which he used to cycle around China for 460 days covering thousands of miles through all major provinces"
+      },
+      {
+        "id": 2,
+        "text": "recover"
+      },
+      {
+        "id": 3,
+        "text": "just days"
+      },
+      {
+        "id": 4,
+        "text": "Shenzhen"
+      },
+      {
+        "id": 5,
+        "text": "ten minutes"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "recoveredBy",
+        "tail": 2
+      },
+      {
+        "head": 1,
+        "relation": "location",
+        "tail": 4
+      },
+      {
+        "head": 1,
+        "relation": "timeToRecover",
+        "tail": 5
+      }
+    ]
+  },
+  {
+    "document_id": 297,
+    "ragtruth_id": "1239",
+    "text": "Cyclist Wang Pingan's epic 460-day trip across China came to an abrupt halt when his beloved bike was stolen in the city of Shenzhen. However, in a surprising twist, the bike was recovered by police just days later, thanks to surveillance footage. Wang had refused to replace the bike, which held sentimental value after accompanying him on a two-wheel trek through every major province in China. Despite the setback, Wang is determined to complete his journey, which includes reaching the final destination of Hainan Island.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Cyclist Wang Pingan's"
+      },
+      {
+        "id": 1,
+        "text": "his beloved bike"
+      },
+      {
+        "id": 2,
+        "text": "China"
+      },
+      {
+        "id": 3,
+        "text": "an abrupt halt"
+      },
+      {
+        "id": 4,
+        "text": "460-day"
+      },
+      {
+        "id": 5,
+        "text": "Shenzhen"
+      },
+      {
+        "id": 6,
+        "text": "Hainan Island"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "tripDuration",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "tripAcross",
+        "tail": 2
+      },
+      {
+        "head": 1,
+        "relation": "stolenIn",
+        "tail": 5
+      },
+      {
+        "head": 1,
+        "relation": "recoveredIn",
+        "tail": 5
+      },
+      {
+        "head": 1,
+        "relation": "accompaniedOnJourneyThrough",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "finalDestination",
+        "tail": 6
+      }
+    ]
+  },
+  {
+    "document_id": 298,
+    "ragtruth_id": "1240",
+    "text": "Sure! Here's the summary in 108 words:\n\nA Chinese cyclist had his bike stolen just before completing a 460-day, 29,200 km journey across China. Despite the theft, the police were able to recover the bike and returned it to the cyclist. The cyclist had become attached to the bike, which he called his \"old lover,\" and had written an emotional tribute to it on social media.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "A Chinese cyclist"
+      },
+      {
+        "id": 1,
+        "text": "stolen"
+      },
+      {
+        "id": 2,
+        "text": "his bike"
+      },
+      {
+        "id": 3,
+        "text": "108"
+      },
+      {
+        "id": 4,
+        "text": "460-day"
+      },
+      {
+        "id": 5,
+        "text": "29,200 km"
+      },
+      {
+        "id": 6,
+        "text": "China"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "hadStolen",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "journeyDuration",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "journeyDistance",
+        "tail": 5
+      },
+      {
+        "head": 0,
+        "relation": "journeyAcross",
+        "tail": 6
+      }
+    ]
+  },
+  {
+    "document_id": 299,
+    "ragtruth_id": "1241",
+    "text": "A Chinese cyclist's epic 460-day journey across China was almost ruined when his bike was stolen just days before he was set to complete his trip. However, thanks to the efforts of Shenzhen police, the bike was recovered and returned to the cyclist. The police were able to track down the bike using surveillance footage and apprehend an alleged criminal. The cyclist, Wang Pingan, had refused offers of new bikes and was determined to be reunited with his \"old lover.\" The bike held sentimental value for Wang, who had spent over a year traveling with it and documenting their adventures on social media.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "A Chinese cyclist's"
+      },
+      {
+        "id": 1,
+        "text": "A Chinese cyclist's epic 460-day journey across China"
+      },
+      {
+        "id": 2,
+        "text": "his bike"
+      },
+      {
+        "id": 3,
+        "text": "just days"
+      },
+      {
+        "id": 4,
+        "text": "Shenzhen"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "duration",
+        "tail": 3
+      },
+      {
+        "head": 1,
+        "relation": "location",
+        "tail": 4
+      },
+      {
+        "head": 2,
+        "relation": "owner",
+        "tail": 0
+      }
+    ]
+  }
+]

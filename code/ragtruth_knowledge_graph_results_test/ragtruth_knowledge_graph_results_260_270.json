@@ -1,0 +1,827 @@
+[
+  {
+    "document_id": 260,
+    "ragtruth_id": "1052",
+    "text": "A Polish photographer traveled to Russia to capture the faces of survivors who were forced to relocate there from Poland during World War II. He documented the emotional pain and trauma experienced by these individuals, some of whom lost family members. Despite the difficult circumstances, the people Lazar spoke with welcomed him with open arms and were eager to share their stories. Time is running out for them to pass on their memories and Lazar believes their experiences should be preserved for the sake of future generations.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "A Polish photographer"
+      },
+      {
+        "id": 1,
+        "text": "survivors who were forced to relocate there from Poland during World War II"
+      },
+      {
+        "id": 2,
+        "text": "Russia"
+      },
+      {
+        "id": 3,
+        "text": "Time"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "locatedIn",
+        "tail": 2
+      }
+    ]
+  },
+  {
+    "document_id": 261,
+    "ragtruth_id": "1053",
+    "text": "Here is a summary of the article in 99 words:\n\nTomasz Lazar, a Polish photographer, has been interviewing and photographing adults who were forced to live in Siberia as children during World War II. He has located over 30 survivors, now in their 80s, who share their traumatic experiences of being deported and separated from their families. Despite their painful memories, the survivors have welcomed Lazar with open arms and shared their stories to ensure their legacy is remembered. Lazar's work aims to remind future generations of the importance of human rights and avoiding similar mistakes in the past.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Tomasz Lazar, a Polish photographer"
+      },
+      {
+        "id": 1,
+        "text": "over 30 survivors, now in their 80s, who share their traumatic experiences of being deported and separated from their families"
+      },
+      {
+        "id": 2,
+        "text": "their traumatic experiences of being deported and separated from their families"
+      },
+      {
+        "id": 3,
+        "text": "99"
+      },
+      {
+        "id": 4,
+        "text": "Siberia"
+      },
+      {
+        "id": 5,
+        "text": "World War II"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "interviewing",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "photographing",
+        "tail": 1
+      },
+      {
+        "head": 1,
+        "relation": "locatedIn",
+        "tail": 4
+      },
+      {
+        "head": 1,
+        "relation": "during",
+        "tail": 5
+      },
+      {
+        "head": 1,
+        "relation": "sharesExperience",
+        "tail": 2
+      }
+    ]
+  },
+  {
+    "document_id": 262,
+    "ragtruth_id": "1054",
+    "text": "Here is a summary of the article in 99 words:\n\nTomasz Lazar, a Polish photographer, captured the faces and stories of Poles who were deported to Siberia as children during WWII. His photos and interviews show the deep scars of trauma and loss that still linger today. Despite the pain, the survivors welcomed Lazar with open arms and shared their stories, fearing for their safety until the fall of the Soviet Union. Lazar's work aims to document their struggles and serve as a reminder to future generations not to repeat the past.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Tomasz Lazar, a Polish photographer"
+      },
+      {
+        "id": 1,
+        "text": "Poles who were deported to Siberia as children during WWII"
+      },
+      {
+        "id": 2,
+        "text": "99"
+      },
+      {
+        "id": 3,
+        "text": "today"
+      },
+      {
+        "id": 4,
+        "text": "the Soviet Union"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "capturedBy",
+        "tail": 0
+      },
+      {
+        "head": 1,
+        "relation": "fearsForSafetyUntil",
+        "tail": 4
+      }
+    ]
+  },
+  {
+    "document_id": 263,
+    "ragtruth_id": "1055",
+    "text": "Tomasz Lazar photographed and interviewed Polish adults who were deported to Siberia as children during WWII. The portraits show the emotional impact of their traumatic experiences. Survivors shared their stories, which were previously untold due to fear of Soviet reprisals. The project aims to document their struggles for history and serve as a reminder to future generations not to repeat past mistakes.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Polish adults who were deported to Siberia as children during WWII"
+      },
+      {
+        "id": 1,
+        "text": "Survivors"
+      },
+      {
+        "id": 2,
+        "text": "Lazar"
+      },
+      {
+        "id": 3,
+        "text": "Soviet"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "photographedAndInterviewedBy",
+        "tail": 2
+      },
+      {
+        "head": 1,
+        "relation": "sharedStoriesWith",
+        "tail": 2
+      }
+    ]
+  },
+  {
+    "document_id": 264,
+    "ragtruth_id": "1104",
+    "text": "A Yazidi family managed to escape from ISIS after being held captive for eight months. Ahlam, a mother of three, and her family were held at a school turned prison in Tal Afar after ISIS fighters arrived in their town. From there, the family was moved from village to village where they were forced to work as herders. Ahlam was able to call her husband, Mahmoud, who was not captured, and tell him that they were alive. Ahlam and her family decided to try to escape one night, after ISIS fighters took away her in-laws and the other elderly people living in the house. The family made it into Iraqi Kurdistan, where they were reunited with Mahmoud. A few days later, 217 captives were released by ISIS, including Mahmoud's parents. However, Ahlam's parents are still being held captive.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "A Yazidi family"
+      },
+      {
+        "id": 1,
+        "text": "Ahlam, a mother of three"
+      },
+      {
+        "id": 2,
+        "text": "ISIS"
+      },
+      {
+        "id": 3,
+        "text": "her husband, Mahmoud, who was not captured"
+      },
+      {
+        "id": 4,
+        "text": "Mahmoud's parents"
+      },
+      {
+        "id": 5,
+        "text": "eight months"
+      },
+      {
+        "id": 6,
+        "text": "Tal Afar"
+      },
+      {
+        "id": 7,
+        "text": "one night"
+      },
+      {
+        "id": 8,
+        "text": "Iraqi"
+      },
+      {
+        "id": 9,
+        "text": "Kurdistan"
+      },
+      {
+        "id": 10,
+        "text": "A few days later"
+      },
+      {
+        "id": 11,
+        "text": "217"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "heldBy",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "captivityDuration",
+        "tail": 5
+      },
+      {
+        "head": 0,
+        "relation": "heldIn",
+        "tail": 6
+      },
+      {
+        "head": 0,
+        "relation": "spouse",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "escapedTo",
+        "tail": 8
+      },
+      {
+        "head": 0,
+        "relation": "escapedTo",
+        "tail": 9
+      },
+      {
+        "head": 4,
+        "relation": "releasedBy",
+        "tail": 2
+      },
+      {
+        "head": 4,
+        "relation": "releasedCount",
+        "tail": 11
+      }
+    ]
+  },
+  {
+    "document_id": 265,
+    "ragtruth_id": "1105",
+    "text": "The Shariya refugee camp in Iraqi Kurdistan is home to thousands of Yazidis who fled the ISIS assault on their town of Sinjar. Many Yazidis were taken captive by ISIS, with young women and girls being sold as slaves and men being forced to convert to Islam or be shot. One family, consisting of Mahmoud, Ahlam, and their three children, were taken to a school turned prison in Tal Afar and then moved from village to village. They eventually ended up in a Shia village where they were part of a group of around 40 living in one house. Ahlam managed to contact her husband using a cell phone left behind by the previous occupants of the house. The village itself was a prison, guarded by ISIS fighters, and escape attempts were met with brutal punishment. Ahlam and the group decided to flee and made it into Iraqi Kurdistan. They were eventually reunited with Mahmoud's parents when ISIS released 217 captives, including 60 children and several elderly individuals. However, Ahlam's parents are still with ISIS. Vian Dakhil, a Yazidi member of Iraq's parliament, is advocating for more international support and airstrikes to help defeat ISIS and rescue the Yazidi captives. Ahlam, who was spared from being a sex slave due to breastfeeding and having young children, is haunted by the screams and images of the girls and young women being taken away by ISIS fighters.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "thousands of Yazidis who fled the ISIS assault on their town of Sinjar"
+      },
+      {
+        "id": 1,
+        "text": "ISIS"
+      },
+      {
+        "id": 2,
+        "text": "Mahmoud, Ahlam"
+      },
+      {
+        "id": 3,
+        "text": "One family, consisting of Mahmoud, Ahlam, and their three children"
+      },
+      {
+        "id": 4,
+        "text": "Ahlam"
+      },
+      {
+        "id": 5,
+        "text": "one house"
+      },
+      {
+        "id": 6,
+        "text": "a Shia village where they were part of a group of around 40 living in one house"
+      },
+      {
+        "id": 7,
+        "text": "a group of around 40 living in one house"
+      },
+      {
+        "id": 8,
+        "text": "Iraqi Kurdistan"
+      },
+      {
+        "id": 9,
+        "text": "Ahlam and the group"
+      },
+      {
+        "id": 10,
+        "text": "Mahmoud"
+      },
+      {
+        "id": 11,
+        "text": "Mahmoud's parents"
+      },
+      {
+        "id": 12,
+        "text": "217 captives, including 60 children and several elderly individuals"
+      },
+      {
+        "id": 13,
+        "text": "young women and girls"
+      },
+      {
+        "id": 14,
+        "text": "Shariya"
+      },
+      {
+        "id": 15,
+        "text": "Yazidis"
+      },
+      {
+        "id": 16,
+        "text": "Islam"
+      },
+      {
+        "id": 17,
+        "text": "Tal Afar"
+      },
+      {
+        "id": 18,
+        "text": "Dakhil"
+      },
+      {
+        "id": 19,
+        "text": "Yazidi"
+      },
+      {
+        "id": 20,
+        "text": "Iraq"
+      }
+    ],
+    "relations": [
+      {
+        "head": 14,
+        "relation": "locatedIn",
+        "tail": 8
+      },
+      {
+        "head": 0,
+        "relation": "fledFrom",
+        "tail": 1
+      },
+      {
+        "head": 3,
+        "relation": "takenTo",
+        "tail": 17
+      },
+      {
+        "head": 3,
+        "relation": "movedTo",
+        "tail": 6
+      },
+      {
+        "head": 3,
+        "relation": "partOf",
+        "tail": 7
+      },
+      {
+        "head": 4,
+        "relation": "contacted",
+        "tail": 2
+      },
+      {
+        "head": 6,
+        "relation": "guardedBy",
+        "tail": 1
+      },
+      {
+        "head": 9,
+        "relation": "fledTo",
+        "tail": 8
+      },
+      {
+        "head": 9,
+        "relation": "reunitedWith",
+        "tail": 11
+      },
+      {
+        "head": 11,
+        "relation": "heldBy",
+        "tail": 1
+      },
+      {
+        "head": 18,
+        "relation": "memberOf",
+        "tail": 19
+      },
+      {
+        "head": 18,
+        "relation": "memberOfParliamentOf",
+        "tail": 20
+      },
+      {
+        "head": 18,
+        "relation": "advocatesFor",
+        "tail": 12
+      }
+    ]
+  },
+  {
+    "document_id": 266,
+    "ragtruth_id": "1106",
+    "text": "The Shariya refugee camp in Iraqi Kurdistan houses thousands of Yazidis who were displaced by Islamic State of Iraq and the Levant (ISIL) attacks. Many of the camp's inhabitants, including Ahlam and her family, were captured by ISIL and taken to prisons in Tal Afar, where they were tortured and forced into labor. Ahlam's in-laws and other elderly residents of the house were also taken captive. Despite the danger, Ahlam and her family escaped the prison and were reunited with their husband and father. However, Ahlam's parents remain with ISIL and are still being held as captives. The Yazidis are being held captive by ISIL in several prisons and detention centers across Iraq. ISIL has separated the young women and girls, some as young as eight years old, from their families and sold them as slaves to be used as concubines by their masters. The men were given a choice - convert to Islam or be shot. Many Yazidis have fled their homes in order to escape ISIL's persecution.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "The Shariya refugee camp in Iraqi Kurdistan"
+      },
+      {
+        "id": 1,
+        "text": "Ahlam"
+      },
+      {
+        "id": 2,
+        "text": "Islamic State of Iraq and the Levant (ISIL)"
+      },
+      {
+        "id": 3,
+        "text": "Many of the camp's inhabitants, including Ahlam and her family"
+      },
+      {
+        "id": 4,
+        "text": "Ahlam and her family"
+      },
+      {
+        "id": 5,
+        "text": "her family"
+      },
+      {
+        "id": 6,
+        "text": "thousands of Yazidis who were displaced by Islamic State of Iraq and the Levant (ISIL) attacks"
+      },
+      {
+        "id": 7,
+        "text": "the young women and girls, some as young as eight years old"
+      },
+      {
+        "id": 8,
+        "text": "their masters"
+      },
+      {
+        "id": 9,
+        "text": "Many Yazidis"
+      },
+      {
+        "id": 10,
+        "text": "Tal Afar"
+      },
+      {
+        "id": 11,
+        "text": "Iraq"
+      },
+      {
+        "id": 12,
+        "text": "Islam"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "locatedIn",
+        "tail": 11
+      },
+      {
+        "head": 6,
+        "relation": "displacedBy",
+        "tail": 2
+      },
+      {
+        "head": 3,
+        "relation": "capturedBy",
+        "tail": 2
+      },
+      {
+        "head": 3,
+        "relation": "takenTo",
+        "tail": 10
+      },
+      {
+        "head": 1,
+        "relation": "capturedBy",
+        "tail": 2
+      },
+      {
+        "head": 5,
+        "relation": "capturedBy",
+        "tail": 2
+      },
+      {
+        "head": 1,
+        "relation": "heldBy",
+        "tail": 2
+      },
+      {
+        "head": 6,
+        "relation": "heldBy",
+        "tail": 2
+      },
+      {
+        "head": 7,
+        "relation": "separatedFrom",
+        "tail": 7
+      },
+      {
+        "head": 7,
+        "relation": "soldAsSlavesTo",
+        "tail": 8
+      },
+      {
+        "head": 9,
+        "relation": "fledFrom",
+        "tail": 0
+      },
+      {
+        "head": 9,
+        "relation": "fledFrom",
+        "tail": 2
+      }
+    ]
+  },
+  {
+    "document_id": 267,
+    "ragtruth_id": "1107",
+    "text": "A family, including a pregnant woman and three young children, managed to escape from a Yazidi refugee camp in Duhok, Iraqi Kurdistan, after being held captive by ISIS for eight months. The family, along with hundreds of others, were taken from their homes in Sinjar and brought to the camp, located near the front lines with ISIS. Many of the camp's inhabitants are Yazidis who were captured and enslaved by ISIS, with reports of widespread rape and abuse. The family's story is one of horror and resilience, as they recount the brutality they faced at the hands of their captors, including the separation of women and children, and the sale of young girls as sex slaves. Despite the hardship, the family is grateful to be alive and are hoping for international support to help free the remaining captives and rebuild their community.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "A family, including a pregnant woman and three young children"
+      },
+      {
+        "id": 1,
+        "text": "a Yazidi refugee camp in Duhok, Iraqi Kurdistan"
+      },
+      {
+        "id": 2,
+        "text": "ISIS"
+      },
+      {
+        "id": 3,
+        "text": "eight months"
+      },
+      {
+        "id": 4,
+        "text": "Sinjar"
+      },
+      {
+        "id": 5,
+        "text": "Yazidis"
+      },
+      {
+        "id": 6,
+        "text": "one"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "heldCaptiveBy",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "captivityDuration",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "takenFrom",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "broughtTo",
+        "tail": 1
+      },
+      {
+        "head": 1,
+        "relation": "inhabitants",
+        "tail": 5
+      }
+    ]
+  },
+  {
+    "document_id": 268,
+    "ragtruth_id": "1108",
+    "text": "Here is a summary of the article in 200 words or less:\n\nIn Iraqi Kurdistan, thousands of Yazidis have fled to the Shariya refugee camp after escaping from ISIS militants. The camp is home to 4,000 tents and counts among its inhabitants many who were captured and held as slaves by ISIS. Ahlam and her family were taken captive by ISIS, separated from her husband, and forced to herd goats. They were able to escape and are now in the camp, but Ahlam's parents remain with ISIS. Many Yazidis have been sold as slaves and subjected to horrific conditions, including being forced to watch the executions of other prisoners. The Iraqi government and the international community are being urged to take action to rescue the remaining captives and bring those responsible to justice.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "the Shariya refugee camp"
+      },
+      {
+        "id": 1,
+        "text": "ISIS"
+      },
+      {
+        "id": 2,
+        "text": "Ahlam"
+      },
+      {
+        "id": 3,
+        "text": "Ahlam and her family"
+      },
+      {
+        "id": 4,
+        "text": "200"
+      },
+      {
+        "id": 5,
+        "text": "Iraqi"
+      },
+      {
+        "id": 6,
+        "text": "Kurdistan"
+      },
+      {
+        "id": 7,
+        "text": "thousands"
+      },
+      {
+        "id": 8,
+        "text": "Yazidis"
+      },
+      {
+        "id": 9,
+        "text": "4,000"
+      },
+      {
+        "id": 10,
+        "text": "Yazidis"
+      },
+      {
+        "id": 11,
+        "text": "Iraqi"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "locatedIn",
+        "tail": 6
+      },
+      {
+        "head": 0,
+        "relation": "inhabitedBy",
+        "tail": 8
+      },
+      {
+        "head": 0,
+        "relation": "inhabitedBy",
+        "tail": 10
+      },
+      {
+        "head": 0,
+        "relation": "hasNumberOfTents",
+        "tail": 9
+      },
+      {
+        "head": 2,
+        "relation": "capturedBy",
+        "tail": 1
+      },
+      {
+        "head": 3,
+        "relation": "capturedBy",
+        "tail": 1
+      },
+      {
+        "head": 3,
+        "relation": "escapedFrom",
+        "tail": 1
+      },
+      {
+        "head": 2,
+        "relation": "familyTakenCaptiveBy",
+        "tail": 1
+      }
+    ]
+  },
+  {
+    "document_id": 269,
+    "ragtruth_id": "1109",
+    "text": "The Shariya refugee camp in Iraqi Kurdistan is home to thousands of Yazidis who fled ISIS attacks. Ahlam, a Yazidi woman, and her family were captured by ISIS and held captive for eight months. They were separated, with Ahlam and her children being taken to one location and her husband being taken to another. Ahlam was forced to work as a cleaner and was sexually harassed by her captors. She managed to escape with her children by pretending to be a Muslim and hiding her Yazidi identity. They eventually made it to the Shariya refugee camp, where they were reunited with Mahmoud, Ahlam's husband. However, Ahlam's parents are still being held captive by ISIS. Vian Dakhil, a Yazidi member of Iraq's parliament, is calling for more international support to defeat ISIS and free the remaining captives.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Ahlam, a Yazidi woman"
+      },
+      {
+        "id": 1,
+        "text": "ISIS"
+      },
+      {
+        "id": 2,
+        "text": "Ahlam, a Yazidi woman, and her family"
+      },
+      {
+        "id": 3,
+        "text": "her family"
+      },
+      {
+        "id": 4,
+        "text": "her husband"
+      },
+      {
+        "id": 5,
+        "text": "Shariya"
+      },
+      {
+        "id": 6,
+        "text": "Iraqi"
+      },
+      {
+        "id": 7,
+        "text": "Kurdistan"
+      },
+      {
+        "id": 8,
+        "text": "thousands"
+      },
+      {
+        "id": 9,
+        "text": "eight months"
+      },
+      {
+        "id": 10,
+        "text": "Muslim"
+      },
+      {
+        "id": 11,
+        "text": "Yazidi"
+      },
+      {
+        "id": 12,
+        "text": "Shariya"
+      },
+      {
+        "id": 13,
+        "text": "Dakhil"
+      },
+      {
+        "id": 14,
+        "text": "Yazidi"
+      },
+      {
+        "id": 15,
+        "text": "Iraq"
+      }
+    ],
+    "relations": [
+      {
+        "head": 5,
+        "relation": "locatedIn",
+        "tail": 6
+      },
+      {
+        "head": 5,
+        "relation": "locatedIn",
+        "tail": 7
+      },
+      {
+        "head": 5,
+        "relation": "homeTo",
+        "tail": 8
+      },
+      {
+        "head": 2,
+        "relation": "capturedBy",
+        "tail": 1
+      },
+      {
+        "head": 2,
+        "relation": "heldCaptiveFor",
+        "tail": 9
+      },
+      {
+        "head": 2,
+        "relation": "separatedFrom",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "escapedWith",
+        "tail": 3
+      },
+      {
+        "head": 2,
+        "relation": "reunitedWith",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "heldCaptiveBy",
+        "tail": 1
+      },
+      {
+        "head": 13,
+        "relation": "memberOf",
+        "tail": 14
+      },
+      {
+        "head": 13,
+        "relation": "memberOf",
+        "tail": 15
+      }
+    ]
+  }
+]

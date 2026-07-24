@@ -1,0 +1,643 @@
+[
+  {
+    "document_id": 50,
+    "ragtruth_id": "206",
+    "text": "Tejano superstar Selena will soon return as a holographic figure thanks to a new technology developed by Acrovirt LLC. Dubbed \"Selena the One,\" the walking, talking, singing, and dancing digital embodiment of the late singer will be created using detailed individual personalized functions that span the mind, brain, and body. The family behind Selena's estate is excited about the new technology and believes it will help her legacy continue to grow. In addition to the hologram, the family also plans to release new music and collaborate with current hit artists. The project has already raised $1.3 million from an Indiegogo campaign, and a commemorative Fiesta de la Flor event is planned for April 17 and 18.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Tejano superstar Selena"
+      },
+      {
+        "id": 1,
+        "text": "a new technology developed by Acrovirt LLC"
+      },
+      {
+        "id": 2,
+        "text": "The family behind Selena's estate"
+      },
+      {
+        "id": 3,
+        "text": "One"
+      },
+      {
+        "id": 4,
+        "text": "$1.3 million"
+      },
+      {
+        "id": 5,
+        "text": "Indiegogo"
+      },
+      {
+        "id": 6,
+        "text": "Fiesta de la Flor"
+      },
+      {
+        "id": 7,
+        "text": "April 17 and 18"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "nickname",
+        "tail": 3
+      },
+      {
+        "head": 1,
+        "relation": "developer",
+        "tail": 1
+      },
+      {
+        "head": 6,
+        "relation": "plannedDate",
+        "tail": 7
+      }
+    ]
+  },
+  {
+    "document_id": 51,
+    "ragtruth_id": "207",
+    "text": "Selena, the Tejano music icon who passed away 20 years ago, is set to make a comeback through a hologram-like figure created by her family using advanced technology. The digital embodiment will allow the singer to walk, talk, sing, and dance, and will be the first of its kind using the new technology developed by Acrovirt LLC. The project, called \"Selena the One,\" aims to expand her legacy by releasing new songs and videos, collaborating with current hit artists, and going on tour in 2018. Fans can support the launch through an Indiegogo campaign starting April 16, with a goal of raising $500,000.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Selena, the Tejano music icon who passed away 20 years ago"
+      },
+      {
+        "id": 1,
+        "text": "a hologram-like figure created by her family"
+      },
+      {
+        "id": 2,
+        "text": "advanced technology"
+      },
+      {
+        "id": 3,
+        "text": "first"
+      },
+      {
+        "id": 4,
+        "text": "Selena the One"
+      },
+      {
+        "id": 5,
+        "text": "2018"
+      },
+      {
+        "id": 6,
+        "text": "Indiegogo"
+      },
+      {
+        "id": 7,
+        "text": "April 16"
+      },
+      {
+        "id": 8,
+        "text": "500,000"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "createdBy",
+        "tail": 0
+      },
+      {
+        "head": 1,
+        "relation": "usesTechnology",
+        "tail": 2
+      },
+      {
+        "head": 1,
+        "relation": "ordinal",
+        "tail": 3
+      },
+      {
+        "head": 1,
+        "relation": "developedBy",
+        "tail": 2
+      },
+      {
+        "head": 4,
+        "relation": "about",
+        "tail": 0
+      },
+      {
+        "head": 4,
+        "relation": "launchPlatform",
+        "tail": 6
+      },
+      {
+        "head": 4,
+        "relation": "startDate",
+        "tail": 7
+      },
+      {
+        "head": 4,
+        "relation": "goalAmount",
+        "tail": 8
+      },
+      {
+        "head": 4,
+        "relation": "plannedYear",
+        "tail": 5
+      }
+    ]
+  },
+  {
+    "document_id": 52,
+    "ragtruth_id": "208",
+    "text": "Selena, the late Tejano star, will be resurrected as a hologram-like figure using advanced technology. Her family plans to release new music and potentially go on tour in 2018. The technology, developed by Acrovirt LLC, allows for a digital embodiment of the singer that will walk, talk, sing, and dance. This is not the first time a deceased artist has been brought back in a virtual format, but the new technology is considered a step forward. Fans can support the launch through an Indiegogo campaign starting on April 16, and a commemorative festival will take place in Corpus Christi, Texas on April 17 and 18.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Selena, the late Tejano star"
+      },
+      {
+        "id": 1,
+        "text": "advanced technology"
+      },
+      {
+        "id": 2,
+        "text": "resurrected"
+      },
+      {
+        "id": 3,
+        "text": "2018"
+      },
+      {
+        "id": 4,
+        "text": "first"
+      },
+      {
+        "id": 5,
+        "text": "Indiegogo"
+      },
+      {
+        "id": 6,
+        "text": "April 16"
+      },
+      {
+        "id": 7,
+        "text": "Corpus Christi"
+      },
+      {
+        "id": 8,
+        "text": "Texas"
+      },
+      {
+        "id": 9,
+        "text": "April 17 and 18"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "resurrectedAs",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "plannedIn",
+        "tail": 3
+      },
+      {
+        "head": 1,
+        "relation": "developedBy",
+        "tail": 0
+      },
+      {
+        "head": 2,
+        "relation": "campaignPlatform",
+        "tail": 5
+      },
+      {
+        "head": 2,
+        "relation": "campaignStartDate",
+        "tail": 6
+      },
+      {
+        "head": 2,
+        "relation": "festivalLocation",
+        "tail": 7
+      },
+      {
+        "head": 2,
+        "relation": "festivalLocation",
+        "tail": 8
+      },
+      {
+        "head": 2,
+        "relation": "festivalDate",
+        "tail": 9
+      }
+    ]
+  },
+  {
+    "document_id": 53,
+    "ragtruth_id": "209",
+    "text": "Selena, the Tejano star who died 20 years ago, is being brought back to life through a hologram-like figure called \"Selena the One.\" Her family is working with Acrovirt LLC to create a digital embodiment of the singer that will be able to walk, talk, sing, and dance. The technology is expected to be advanced, allowing the hologram to learn and react on its own. The project aims to continue growing Selena's legacy, with plans to release new songs and videos, collaborate with current artists, and go on tour in 2018. Fans can support the launch by joining an Indiegogo campaign, and a commemorative festival, Fiesta de la Flor, will take place in Corpus Christi, Texas.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Selena, the Tejano star who died 20 years ago"
+      },
+      {
+        "id": 1,
+        "text": "a hologram-like figure called \"Selena the One"
+      },
+      {
+        "id": 2,
+        "text": "brought"
+      },
+      {
+        "id": 3,
+        "text": "2018"
+      },
+      {
+        "id": 4,
+        "text": "Indiegogo"
+      },
+      {
+        "id": 5,
+        "text": "Fiesta de la Flor"
+      },
+      {
+        "id": 6,
+        "text": "Corpus Christi"
+      },
+      {
+        "id": 7,
+        "text": "Texas"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "embodimentOf",
+        "tail": 0
+      },
+      {
+        "head": 2,
+        "relation": "launch",
+        "tail": 1
+      },
+      {
+        "head": 5,
+        "relation": "location",
+        "tail": 6
+      },
+      {
+        "head": 6,
+        "relation": "locatedIn",
+        "tail": 7
+      },
+      {
+        "head": 2,
+        "relation": "supportedByCampaign",
+        "tail": 4
+      },
+      {
+        "head": 1,
+        "relation": "plannedTourYear",
+        "tail": 3
+      }
+    ]
+  },
+  {
+    "document_id": 54,
+    "ragtruth_id": "210",
+    "text": "An Alaska Airlines flight had to return to Seattle-Tacoma International Airport shortly after take-off, when the pilot heard banging from the cargo hold. The noise was from a ramp agent who had fallen asleep in the hold. The agent, an employee of Menzies Aviation, was in no danger as the cargo hold is pressurised and temperature controlled. The aircraft was only in the air for 14 minutes. After the plane landed, the ramp agent was taken to hospital as a precaution, but later passed a drug test and was discharged. The airline is now investigating the incident.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "banging"
+      },
+      {
+        "id": 1,
+        "text": "the cargo hold"
+      },
+      {
+        "id": 2,
+        "text": "a ramp agent who had fallen asleep in the hold"
+      },
+      {
+        "id": 3,
+        "text": "An Alaska Airlines flight"
+      },
+      {
+        "id": 4,
+        "text": "Alaska Airlines"
+      },
+      {
+        "id": 5,
+        "text": "Seattle-Tacoma International Airport"
+      },
+      {
+        "id": 6,
+        "text": "14 minutes"
+      }
+    ],
+    "relations": [
+      {
+        "head": 3,
+        "relation": "returnedTo",
+        "tail": 5
+      },
+      {
+        "head": 3,
+        "relation": "heard",
+        "tail": 0
+      },
+      {
+        "head": 0,
+        "relation": "from",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "causedBy",
+        "tail": 2
+      },
+      {
+        "head": 2,
+        "relation": "employeeOf",
+        "tail": 4
+      },
+      {
+        "head": 3,
+        "relation": "duration",
+        "tail": 6
+      }
+    ]
+  },
+  {
+    "document_id": 55,
+    "ragtruth_id": "211",
+    "text": "An Alaska Airlines flight from Seattle-Tacoma International Airport to Los Angeles was forced to make an emergency landing after a ramp agent from Menzies Aviation, a contractor for Alaska Airlines, was found sleeping in the cargo hold. The pilot reported hearing banging coming from the cargo hold, which turned out to be the agent trying to get out. The cargo hold is pressurized and temperature controlled, so the agent was not in any danger. Passengers on the flight heard the banging and screams for help, prompting a federal air marshal to intervene. The ramp agent was taken to the hospital but was found to be okay and was discharged after passing a drug test. Alaska Airlines is conducting an investigation into the incident.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Alaska Airlines"
+      },
+      {
+        "id": 1,
+        "text": "the cargo hold"
+      },
+      {
+        "id": 2,
+        "text": "the agent"
+      },
+      {
+        "id": 3,
+        "text": "An Alaska Airlines flight from Seattle-Tacoma International Airport to Los Angeles"
+      },
+      {
+        "id": 4,
+        "text": "banging coming from the cargo hold, which turned out to be the agent trying to get out"
+      },
+      {
+        "id": 5,
+        "text": "Menzies Aviation"
+      }
+    ],
+    "relations": [
+      {
+        "head": 3,
+        "relation": "operator",
+        "tail": 0
+      },
+      {
+        "head": 5,
+        "relation": "contractorFor",
+        "tail": 0
+      },
+      {
+        "head": 4,
+        "relation": "source",
+        "tail": 1
+      },
+      {
+        "head": 4,
+        "relation": "causedBy",
+        "tail": 2
+      }
+    ]
+  },
+  {
+    "document_id": 56,
+    "ragtruth_id": "212",
+    "text": "An Alaska Airlines Flight 448 made an emergency landing on Monday after a worker from a contractor handling loading the luggage fell asleep and accidentally triggered an alarm in the cargo hold. The worker was taken to a hospital as a precaution but passed a drug test and was later discharged. The flight was delayed for several hours and the passengers were spooked by the incident. Alaska Airlines is investigating the incident and has stated that all ramp employees have security badges and undergo full criminal background checks before being hired.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "a worker from a contractor handling loading the luggage"
+      },
+      {
+        "id": 1,
+        "text": "An Alaska Airlines Flight 448"
+      },
+      {
+        "id": 2,
+        "text": "triggered"
+      },
+      {
+        "id": 3,
+        "text": "Monday"
+      },
+      {
+        "id": 4,
+        "text": "several hours"
+      },
+      {
+        "id": 5,
+        "text": "Alaska Airlines"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "emergencyLandingDate",
+        "tail": 3
+      },
+      {
+        "head": 1,
+        "relation": "delayDuration",
+        "tail": 4
+      },
+      {
+        "head": 5,
+        "relation": "investigates",
+        "tail": 2
+      }
+    ]
+  },
+  {
+    "document_id": 57,
+    "ragtruth_id": "213",
+    "text": "On Monday, Alaska Airlines Flight 448 made an unexpected stop in Los Angeles after the pilot heard strange noises coming from the cargo hold. Further investigation revealed that a ramp agent from Menzies Aviation had fallen asleep in the cargo hold. Although the passenger compartment was pressurized and temperature-controlled, the man's presence caused concern among the passengers. An emergency landing was made, and the agent was taken to the hospital as a precaution but was later released. The airline is investigating the incident.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "the cargo hold"
+      },
+      {
+        "id": 1,
+        "text": "a ramp agent from Menzies Aviation"
+      },
+      {
+        "id": 2,
+        "text": "Alaska Airlines Flight 448"
+      },
+      {
+        "id": 3,
+        "text": "Monday"
+      },
+      {
+        "id": 4,
+        "text": "Los Angeles"
+      }
+    ],
+    "relations": [
+      {
+        "head": 2,
+        "relation": "stopover",
+        "tail": 4
+      },
+      {
+        "head": 1,
+        "relation": "employedBy",
+        "tail": 1
+      }
+    ]
+  },
+  {
+    "document_id": 58,
+    "ragtruth_id": "214",
+    "text": "An Alaska Airlines flight returning from Seattle to Los Angeles was forced to make an emergency landing after a ramp agent was discovered sleeping in the cargo hold. The agent, who worked for a contractor, was taken to the hospital as a precaution but was later released. The incident raised concerns about safety and security, as the cargo hold is pressurized and temperature-controlled. The airline is investigating the incident and passengers were shaken by the experience.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "a ramp agent"
+      },
+      {
+        "id": 1,
+        "text": "the cargo hold"
+      },
+      {
+        "id": 2,
+        "text": "Alaska Airlines"
+      },
+      {
+        "id": 3,
+        "text": "The incident"
+      },
+      {
+        "id": 4,
+        "text": "Seattle"
+      },
+      {
+        "id": 5,
+        "text": "Los Angeles"
+      }
+    ],
+    "relations": [
+      {
+        "head": 2,
+        "relation": "flightFrom",
+        "tail": 4
+      },
+      {
+        "head": 2,
+        "relation": "flightTo",
+        "tail": 5
+      },
+      {
+        "head": 0,
+        "relation": "locatedIn",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "workedFor",
+        "tail": 0
+      },
+      {
+        "head": 2,
+        "relation": "investigates",
+        "tail": 3
+      }
+    ]
+  },
+  {
+    "document_id": 59,
+    "ragtruth_id": "215",
+    "text": "An Alaska Airlines flight returned to Seattle-Tacoma International Airport shortly after takeoff due to a person trapped in the cargo hold. The pilot reported hearing banging coming from the cargo hold, and air traffic control was informed. It was discovered that a ramp agent employed by Menzies Aviation, a contractor for Alaska Airlines, had fallen asleep in the cargo hold. All ramp employees possess security badges and undergo thorough background checks. No danger was present, and the individual was safe. The plane carried 170 passengers and six crew members and eventually arrived in Los Angeles after a brief delay.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "the cargo hold"
+      },
+      {
+        "id": 1,
+        "text": "Alaska Airlines"
+      },
+      {
+        "id": 2,
+        "text": "a person trapped in the cargo hold"
+      },
+      {
+        "id": 3,
+        "text": "An Alaska Airlines flight"
+      },
+      {
+        "id": 4,
+        "text": "Seattle-Tacoma International Airport"
+      },
+      {
+        "id": 5,
+        "text": "Menzies Aviation"
+      },
+      {
+        "id": 6,
+        "text": "170"
+      },
+      {
+        "id": 7,
+        "text": "six"
+      },
+      {
+        "id": 8,
+        "text": "Los Angeles"
+      }
+    ],
+    "relations": [
+      {
+        "head": 3,
+        "relation": "returnedTo",
+        "tail": 4
+      },
+      {
+        "head": 3,
+        "relation": "dueTo",
+        "tail": 2
+      },
+      {
+        "head": 2,
+        "relation": "locatedIn",
+        "tail": 0
+      },
+      {
+        "head": 5,
+        "relation": "contractorFor",
+        "tail": 1
+      },
+      {
+        "head": 3,
+        "relation": "arrivedIn",
+        "tail": 8
+      }
+    ]
+  }
+]

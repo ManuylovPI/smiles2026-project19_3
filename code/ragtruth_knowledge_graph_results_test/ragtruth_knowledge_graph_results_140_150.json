@@ -1,0 +1,585 @@
+[
+  {
+    "document_id": 140,
+    "ragtruth_id": "590",
+    "text": "This week, Hillary Clinton launched her presidential campaign in an unconventional way. Her video, new logo, and road trip were designed to reframe her message and identity. Critics dismissed her launch as \"insultingly vapid\" and \"boring as s\\*\\*,\" but from a marketing perspective, her campaign may have been more successful than expected. Her announcement brought attention to her empathetic relationship with voters, which has been elusive in the past. Her logo, a bold red arrow moving left to right in front of a strong blue H, is an iconic expression of her emotional connection with her audience. In contrast, Marco Rubio's logo drew criticism for being amateurish and unconsidered. However, voters yearn for authenticity, and mass marketing has become a staple of presidential campaigns. Consistency is key to Hillary's success in reframing her message and movement, and she must integrate her humble and empathetic relationship with voters into all elements of her communication while living it every day.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Hillary Clinton"
+      },
+      {
+        "id": 1,
+        "text": "launched"
+      },
+      {
+        "id": 2,
+        "text": "her presidential campaign"
+      },
+      {
+        "id": 3,
+        "text": "her message and identity"
+      },
+      {
+        "id": 4,
+        "text": "her humble and empathetic relationship with voters"
+      },
+      {
+        "id": 5,
+        "text": "This week"
+      },
+      {
+        "id": 6,
+        "text": "Marco Rubio's"
+      }
+    ],
+    "relations": [
+      {
+        "head": 2,
+        "relation": "launchedBy",
+        "tail": 0
+      },
+      {
+        "head": 2,
+        "relation": "time",
+        "tail": 5
+      },
+      {
+        "head": 3,
+        "relation": "reframedBy",
+        "tail": 2
+      },
+      {
+        "head": 4,
+        "relation": "relationshipWith",
+        "tail": 0
+      }
+    ]
+  },
+  {
+    "document_id": 141,
+    "ragtruth_id": "591",
+    "text": "Hillary Clinton launched her 2020 presidential campaign in an unconventional manner, using a video, new logo, and a road trip to rebrand and reframe her message and image. Critics have dismissed her launch as \"vapid\" and \"boring,\" but her team may have successfully created an empathetic relationship with voters that eluded her in the past. Clinton's new logo, featuring a bold red arrow moving left to right in front of the letter \"H,\" represents the emotional connection she wants to establish with voters and her focus on supporting them. Her decision to break from traditional campaign norms and use unscripted moments to showcase her personality may pay off, especially if she can maintain consistency in her message and actions. Ultimately, the success of her campaign will depend on her ability to build a genuine connection with voters and avoid appearing hypocritical.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Hillary Clinton"
+      },
+      {
+        "id": 1,
+        "text": "launched"
+      },
+      {
+        "id": 2,
+        "text": "voters"
+      },
+      {
+        "id": 3,
+        "text": "her 2020 presidential campaign"
+      }
+    ],
+    "relations": [
+      {
+        "head": 3,
+        "relation": "launchedBy",
+        "tail": 0
+      },
+      {
+        "head": 3,
+        "relation": "campaignTarget",
+        "tail": 2
+      }
+    ]
+  },
+  {
+    "document_id": 142,
+    "ragtruth_id": "592",
+    "text": "Hillary Clinton launched her presidential campaign with an unconventional marketing approach, including a video, logo, and road trip to Iowa. Her campaign aims to reframe her image and message, projecting a more confident and empathetic persona. Critics have dismissed the launch as vapid and commercialized, but the campaign may have successfully created an emotional connection with voters. By using a bold and iconic logo, and engaging in unscripted moments, Clinton is trying to appeal to a younger demographic and convey a sense of movement and progress. The campaign's success will depend on consistent messaging and integration of the new image into all aspects of communication.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Hillary Clinton"
+      },
+      {
+        "id": 1,
+        "text": "her presidential campaign"
+      },
+      {
+        "id": 2,
+        "text": "launched"
+      },
+      {
+        "id": 3,
+        "text": "Iowa"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "launchLocation",
+        "tail": 3
+      }
+    ]
+  },
+  {
+    "document_id": 143,
+    "ragtruth_id": "593",
+    "text": "Hillary Clinton launched her presidential campaign with an unconventional approach, using a video, a new logo, and a road trip to rebrand and reframe her image. While some critics dismissed her launch video as \"vapid\" and \"boring,\" others saw it as a successful effort to project a more relatable and empathetic image. Clinton's use of a van nicknamed Scooby and her unscripted stop at a Chipotle restaurant were seen as ways to connect with everyday Americans. Her new logo, featuring a bold red arrow and the letter H, was praised for its simplicity and modernity. In contrast, Marco Rubio's traditional announcement was criticized for being too formulaic. Clinton's campaign has been accused of being overly sophisticated and manufactured, but effective marketing has become a necessary part of presidential campaigns. Consistency will be key to Clinton's success, as she must integrate her new message and style into all aspects of her communication and live it every day.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Hillary Clinton"
+      },
+      {
+        "id": 1,
+        "text": "a video"
+      },
+      {
+        "id": 2,
+        "text": "a new logo"
+      },
+      {
+        "id": 3,
+        "text": "her presidential campaign"
+      },
+      {
+        "id": 4,
+        "text": "her new message and style"
+      },
+      {
+        "id": 5,
+        "text": "Scooby"
+      },
+      {
+        "id": 6,
+        "text": "Chipotle"
+      },
+      {
+        "id": 7,
+        "text": "Americans"
+      },
+      {
+        "id": 8,
+        "text": "Marco Rubio's"
+      }
+    ],
+    "relations": [
+      {
+        "head": 3,
+        "relation": "launchedWith",
+        "tail": 1
+      },
+      {
+        "head": 3,
+        "relation": "launchedWith",
+        "tail": 2
+      },
+      {
+        "head": 3,
+        "relation": "uses",
+        "tail": 5
+      },
+      {
+        "head": 3,
+        "relation": "stoppedAt",
+        "tail": 6
+      },
+      {
+        "head": 3,
+        "relation": "connectsWith",
+        "tail": 7
+      },
+      {
+        "head": 3,
+        "relation": "hasMessageAndStyle",
+        "tail": 4
+      }
+    ]
+  },
+  {
+    "document_id": 144,
+    "ragtruth_id": "600",
+    "text": "In a male-dominated society, Sissa Abu Dahou, a 65-year-old grandmother from Luxor, Egypt, has dressed as a man for 43 years to avoid oppression and make a living. Becoming a widow at 21 and pregnant with her only child, Dahou was left to fend for herself in Egypt’s patriarchal south, where it was unheard of for a woman to earn her own living. Dahou worked as a brick maker until she saved enough to buy a shoeshine kit and worked alongside the all-male shoe shiners in her community. Following an interview on Egyptian television, the governor of Luxor province offered Dahou a kiosk and a cash advance. Egypt's President, Abdel Fattah el-Sisi, recognised her efforts, crowning her one of Egypt's ideal mothers in an official ceremony last month.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Sissa Abu Dahou, a 65-year-old grandmother from Luxor, Egypt"
+      },
+      {
+        "id": 1,
+        "text": "a woman"
+      },
+      {
+        "id": 2,
+        "text": "Egypt"
+      },
+      {
+        "id": 3,
+        "text": "43 years"
+      },
+      {
+        "id": 4,
+        "text": "21"
+      },
+      {
+        "id": 5,
+        "text": "Egypt"
+      },
+      {
+        "id": 6,
+        "text": "Egyptian"
+      },
+      {
+        "id": 7,
+        "text": "Luxor province"
+      },
+      {
+        "id": 8,
+        "text": "Abdel Fattah el-Sisi"
+      },
+      {
+        "id": 9,
+        "text": "last month"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "from",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "livedIn",
+        "tail": 5
+      },
+      {
+        "head": 0,
+        "relation": "duration",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "age",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "offeredBy",
+        "tail": 7
+      },
+      {
+        "head": 0,
+        "relation": "recognizedBy",
+        "tail": 8
+      },
+      {
+        "head": 0,
+        "relation": "honoredAs",
+        "tail": 9
+      }
+    ]
+  },
+  {
+    "document_id": 145,
+    "ragtruth_id": "601",
+    "text": "Sissa Abu Dahou, a woman from Luxor, Egypt, has been dressing as a man for 43 years to avoid oppression and support her family. After becoming a widow at a young age, Dahou had to find a way to earn a living in a patriarchal society where it was uncommon for women to work. She initially worked as a brick maker for very low wages before saving up to buy a shoeshine kit. Over the years, she faced criticism and judgment for her decision to dress as a man, but she remained determined to provide for her daughter. Recently, the governor of Luxor province offered Dahou a kiosk and financial support, and she accepted on the condition that she could meet the governor in male attire. Dahou's story has gained recognition and praise, and she was honored as one of Egypt's ideal mothers by President Abdel Fattah el-Sisi.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Sissa Abu Dahou, a woman from Luxor, Egypt"
+      },
+      {
+        "id": 1,
+        "text": "Luxor, Egypt"
+      },
+      {
+        "id": 2,
+        "text": "the governor of Luxor province"
+      },
+      {
+        "id": 3,
+        "text": "Egypt"
+      },
+      {
+        "id": 4,
+        "text": "43 years"
+      },
+      {
+        "id": 5,
+        "text": "the years"
+      },
+      {
+        "id": 6,
+        "text": "Abdel Fattah el-Sisi"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "origin",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "duration",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "honoredBy",
+        "tail": 6
+      },
+      {
+        "head": 0,
+        "relation": "honoredAs",
+        "tail": 3
+      }
+    ]
+  },
+  {
+    "document_id": 146,
+    "ragtruth_id": "602",
+    "text": "Sissa Abu Dahou, a 65-year-old Egyptian woman, has spent the past 43 years dressing as a man to avoid oppression and make a living in Luxor. She started working as a brick maker for just 25 piasters before saving up enough money to buy a shoeshine kit. Dahou's only child, Houda, now owns her own business and has two children. Recently, Dahou was interviewed on CBC television and the governor of Luxor province offered her a kiosk and a cash advance. In exchange, she insisted on meeting with him in male attire. Dahou's story has inspired many, and she was recently crowned as one of Egypt's ideal mothers by President Abdel Fattah el-Sisi.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Sissa Abu Dahou, a 65-year-old Egyptian woman"
+      },
+      {
+        "id": 1,
+        "text": "Dahou's only child, Houda"
+      },
+      {
+        "id": 2,
+        "text": "the governor of Luxor province"
+      },
+      {
+        "id": 3,
+        "text": "the past 43 years"
+      },
+      {
+        "id": 4,
+        "text": "Luxor"
+      },
+      {
+        "id": 5,
+        "text": "just 25"
+      },
+      {
+        "id": 6,
+        "text": "two"
+      },
+      {
+        "id": 7,
+        "text": "CBC"
+      },
+      {
+        "id": 8,
+        "text": "Egypt"
+      },
+      {
+        "id": 9,
+        "text": "Abdel Fattah el-Sisi"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "livedIn",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "duration",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "workedForWage",
+        "tail": 5
+      },
+      {
+        "head": 1,
+        "relation": "childOf",
+        "tail": 0
+      },
+      {
+        "head": 1,
+        "relation": "hasChildren",
+        "tail": 6
+      },
+      {
+        "head": 0,
+        "relation": "interviewedBy",
+        "tail": 7
+      },
+      {
+        "head": 2,
+        "relation": "offered",
+        "tail": 0
+      },
+      {
+        "head": 0,
+        "relation": "metWith",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "awardedBy",
+        "tail": 9
+      },
+      {
+        "head": 0,
+        "relation": "country",
+        "tail": 8
+      }
+    ]
+  },
+  {
+    "document_id": 147,
+    "ragtruth_id": "603",
+    "text": "Here is a summary of the article in 139 words:\n\nFor 43 years, Sissa Abu Dahou has dressed as a man to work and provide for her family in Luxor, Egypt. As a widow at 21, she had to fend for herself in a patriarchal society where women are underrepresented in the workforce. Despite facing discrimination and criticism, Dahou remained determined to support her daughter and eventually earned respect as a successful entrepreneur. Recognized by Egypt's President as one of the country's ideal mothers, Dahou continues to defy gender roles and prove that a strong, independent woman can overcome any obstacle.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Sissa Abu Dahou"
+      },
+      {
+        "id": 1,
+        "text": "Egypt"
+      },
+      {
+        "id": 2,
+        "text": "139"
+      },
+      {
+        "id": 3,
+        "text": "43 years"
+      },
+      {
+        "id": 4,
+        "text": "Luxor"
+      },
+      {
+        "id": 5,
+        "text": "21"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "livesIn",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "country",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "duration",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "age",
+        "tail": 5
+      }
+    ]
+  },
+  {
+    "document_id": 148,
+    "ragtruth_id": "604",
+    "text": "Sissa Abu Dahou, a grandmother from Egypt, has been dressing as a man for 43 years to support her family and escape oppression. She took on a male identity to work as a brick maker and later as a shoeshiner, earning just a few cents a day. Despite facing discrimination and ridicule, she raised her daughter and grandchildren on her own. Recently, the governor of Luxor province offered her a kiosk and a cash advance, but only if she met with him in male attire. Dahou refused to remove her male clothes, even in front of a TV camera, and has gained praise as a symbol of resilience and determination. Egypt's President, Abdel Fattah el-Sisi, named her one of Egypt's ideal mothers.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Sissa Abu Dahou, a grandmother from Egypt"
+      },
+      {
+        "id": 1,
+        "text": "the governor of Luxor province"
+      },
+      {
+        "id": 2,
+        "text": "Egypt"
+      },
+      {
+        "id": 3,
+        "text": "43 years"
+      },
+      {
+        "id": 4,
+        "text": "just a few cents"
+      },
+      {
+        "id": 5,
+        "text": "Abdel Fattah el-Sisi"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "countryOfOrigin",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "duration",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "income",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "awardTitle",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "namedBy",
+        "tail": 5
+      }
+    ]
+  },
+  {
+    "document_id": 149,
+    "ragtruth_id": "605",
+    "text": "Sissa Abu Dahou, a widowed mother of two, has been dressing as a man for 43 years in order to work and provide for her family in conservative Muslim Egypt. Despite facing oppression and discrimination, she has successfully supported her family and earned their respect. She has now been recognized by the government and awarded a kiosk and cash advance to start her own business. Dahou's determination and resilience have made her a role model for women in Egypt, and she continues to inspire others with her story.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Sissa Abu Dahou, a widowed mother of two"
+      },
+      {
+        "id": 1,
+        "text": "her family"
+      },
+      {
+        "id": 2,
+        "text": "conservative Muslim Egypt"
+      },
+      {
+        "id": 3,
+        "text": "43 years"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "duration",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "location",
+        "tail": 2
+      }
+    ]
+  }
+]

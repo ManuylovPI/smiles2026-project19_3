@@ -1,0 +1,592 @@
+[
+  {
+    "document_id": 250,
+    "ragtruth_id": "964",
+    "text": "Sure! Here's the summary within 67 words:\n\nOver 25,000 people have fought Ebola infections, with over 10,000 fatalities. Survivors face long-term effects, while governments have been exposed as vulnerable to disease outbreaks. Although the number of new cases has declined, some areas still report new infections, and there are concerns about hidden transmission chains.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "67"
+      },
+      {
+        "id": 1,
+        "text": "Over 25,000"
+      },
+      {
+        "id": 2,
+        "text": "10,000"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "count",
+        "tail": 0
+      },
+      {
+        "head": 2,
+        "relation": "count",
+        "tail": 1
+      }
+    ]
+  },
+  {
+    "document_id": 251,
+    "ragtruth_id": "965",
+    "text": "Over 25,000 people have been infected with Ebola in the past year, with over 10,000 deaths. While the number of new cases has decreased, the virus has exposed weaknesses in government healthcare systems. Liberia and Sierra Leone have seen a significant decrease in cases, but Guinea continues to report new infections and unsafe burials, indicating that the virus may still be circulating.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Ebola"
+      },
+      {
+        "id": 1,
+        "text": "Over 25,000"
+      },
+      {
+        "id": 2,
+        "text": "the past year"
+      },
+      {
+        "id": 3,
+        "text": "over 10,000"
+      },
+      {
+        "id": 4,
+        "text": "Liberia"
+      },
+      {
+        "id": 5,
+        "text": "Sierra Leone"
+      },
+      {
+        "id": 6,
+        "text": "Guinea"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "infectedCount",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "timePeriod",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "deathCount",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "presentIn",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "presentIn",
+        "tail": 5
+      },
+      {
+        "head": 0,
+        "relation": "presentIn",
+        "tail": 6
+      }
+    ]
+  },
+  {
+    "document_id": 252,
+    "ragtruth_id": "996",
+    "text": "A defence attorney writes that the video of Officer Michael Slager shooting Walter Scott in the back as he fled a police encounter haunts him. He is disturbed by how Slager cuffed Scott and left him to die face-down in the dirt while apparently planting an item next to his body. The attorney believes that had Slager been wearing a body camera, Scott might still be alive and Slager would not be facing life in prison or a possible death sentence. Although deploying body cameras is expensive, particularly when it comes to storing the data they generate, the attorney believes the cost would be offset by the punitive damages likely to be awarded to Scott's family in their inevitable civil suit against the North Charleston Police Department. He also argues that body cameras could help restore public confidence in law enforcement and break the cycle of tension and fear between police and the communities they serve. He concludes that although body cameras are an interim solution, they are a start towards shining a spotlight on racial bias.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Walter Scott"
+      },
+      {
+        "id": 1,
+        "text": "A defence attorney"
+      },
+      {
+        "id": 2,
+        "text": "Officer Michael Slager"
+      },
+      {
+        "id": 3,
+        "text": "body cameras"
+      },
+      {
+        "id": 4,
+        "text": "expensive"
+      },
+      {
+        "id": 5,
+        "text": "Scott's family"
+      },
+      {
+        "id": 6,
+        "text": "police"
+      },
+      {
+        "id": 7,
+        "text": "body cameras"
+      },
+      {
+        "id": 8,
+        "text": "the North Charleston Police Department"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "shootingVictimOf",
+        "tail": 2
+      },
+      {
+        "head": 1,
+        "relation": "writesAbout",
+        "tail": 2
+      },
+      {
+        "head": 1,
+        "relation": "writesAbout",
+        "tail": 0
+      },
+      {
+        "head": 1,
+        "relation": "believes",
+        "tail": 4
+      },
+      {
+        "head": 5,
+        "relation": "familyOf",
+        "tail": 0
+      },
+      {
+        "head": 5,
+        "relation": "civilSuitAgainst",
+        "tail": 8
+      },
+      {
+        "head": 6,
+        "relation": "serve",
+        "tail": 6
+      }
+    ]
+  },
+  {
+    "document_id": 253,
+    "ragtruth_id": "997",
+    "text": "The author expresses their horror and disbelief at the video of Officer Michael Slager shooting Walter Scott in the back as he fled from the police. They find it even more disturbing that Slager cuffs Scott and allows him to die face-down in the dirt, appearing to plant evidence next to his body. The author acknowledges the skepticism surrounding self-defense claims, especially when it involves law enforcement. They believe that without the video taken by a bystander, this incident would have been hidden behind an active investigation. The author, as a defense attorney, acknowledges the importance of the assumption of innocence but states that the video evidence makes it difficult to find a reasonable explanation for Scott's death. They emphasize the importance of body cameras for police officers, as it could have prevented this tragedy. The author acknowledges the cost of deploying and storing the data from these cameras but argues that it is worth it to protect human life and rebuild public confidence in law enforcement. They also mention that body cameras can help reduce the tension between police and communities and decrease the number of use-of-force incidents. However, the author also acknowledges that body cameras are only a temporary solution and that deeper social changes are needed to address racial biases and disparities in society.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Walter Scott"
+      },
+      {
+        "id": 1,
+        "text": "their"
+      },
+      {
+        "id": 2,
+        "text": "Officer Michael Slager"
+      },
+      {
+        "id": 3,
+        "text": "The author"
+      },
+      {
+        "id": 4,
+        "text": "self-defense claims"
+      },
+      {
+        "id": 5,
+        "text": "the video of Officer Michael Slager shooting Walter Scott in the back as he fled from the police"
+      },
+      {
+        "id": 6,
+        "text": "body cameras for police officers"
+      },
+      {
+        "id": 7,
+        "text": "Scott's death"
+      }
+    ],
+    "relations": [
+      {
+        "head": 5,
+        "relation": "shows",
+        "tail": 7
+      },
+      {
+        "head": 7,
+        "relation": "deathOf",
+        "tail": 0
+      },
+      {
+        "head": 5,
+        "relation": "shows",
+        "tail": 2
+      },
+      {
+        "head": 5,
+        "relation": "shows",
+        "tail": 0
+      },
+      {
+        "head": 6,
+        "relation": "couldHavePrevented",
+        "tail": 7
+      }
+    ]
+  },
+  {
+    "document_id": 254,
+    "ragtruth_id": "998",
+    "text": "Officer Michael Slager shot Walter Scott in the back while the latter fled his encounter with North Charleston police. While the officer's claim of self-defense is debatable, the availability of a video recording of the incident helped bring attention to the matter and expose it to scrutiny. People demand justice for Scott and want police to respect all lives equally, especially Black ones. Body-worn cameras have been found to reduce complaints against police and lower the occurrence of excessive force. Therefore, they should be deployed by law enforcement agencies. Social change is needed for the broad issue of racial divide, but body-mounted cameras can provide accountability and transparency in police behavior in the immediate term.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Walter Scott"
+      },
+      {
+        "id": 1,
+        "text": "Officer Michael Slager"
+      },
+      {
+        "id": 2,
+        "text": "his encounter with North Charleston police"
+      },
+      {
+        "id": 3,
+        "text": "the matter"
+      },
+      {
+        "id": 4,
+        "text": "Body-worn cameras"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "shotBy",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "fledFrom",
+        "tail": 2
+      },
+      {
+        "head": 3,
+        "relation": "sameAs",
+        "tail": 2
+      }
+    ]
+  },
+  {
+    "document_id": 255,
+    "ragtruth_id": "999",
+    "text": "The article discusses the recent killing of Walter Scott by North Charleston police officer Michael Slager, and the role that body cameras could have played in preventing the tragedy. The author argues that while body cameras can help ensure that justice is served and improve relations between police and the community, they are only a temporary solution to the larger issue of racial bias in the criminal justice system. The author suggests that deeper changes are needed, such as tougher employment screening standards, more training for officers, and broader social changes to address income, education, and opportunity disparities between races. The article concludes that while body cameras cannot eradicate racial bias, they can help bring it to light and prevent similar tragedies from occurring in the future.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "the recent killing of Walter Scott by North Charleston police officer Michael Slager"
+      },
+      {
+        "id": 1,
+        "text": "body cameras"
+      },
+      {
+        "id": 2,
+        "text": "The author"
+      },
+      {
+        "id": 3,
+        "text": "The article"
+      },
+      {
+        "id": 4,
+        "text": "body cameras"
+      },
+      {
+        "id": 5,
+        "text": "racial bias"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "discussedIn",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "preventedBy",
+        "tail": 1
+      },
+      {
+        "head": 1,
+        "relation": "temporarySolutionFor",
+        "tail": 5
+      },
+      {
+        "head": 4,
+        "relation": "cannotEradicate",
+        "tail": 5
+      },
+      {
+        "head": 5,
+        "relation": "broughtToLightBy",
+        "tail": 4
+      }
+    ]
+  },
+  {
+    "document_id": 256,
+    "ragtruth_id": "1000",
+    "text": "Here is a summary of the article in 187 words:\n\nThe recent shooting of Walter Scott by a North Charleston police officer has raised questions about racial bias and the use of force by law enforcement. The officer, Michael Slager, has been charged with murder, and the incident has sparked calls for police body cameras to help reduce tensions and improve accountability. The shooting has also highlighted the issue of racial bias in the criminal justice system, with black men disproportionately represented on death row. The use of body cameras could help to address these issues by providing a transparent and unbiased record of interactions between law enforcement and the communities they serve. However, addressing the underlying biases and social disparities will require long-term solutions that address systemic issues of inequality and discrimination.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "a North Charleston police officer"
+      },
+      {
+        "id": 1,
+        "text": "The recent shooting of Walter Scott by a North Charleston police officer"
+      },
+      {
+        "id": 2,
+        "text": "the issue of racial bias in the criminal justice system, with black men disproportionately represented on death row"
+      },
+      {
+        "id": 3,
+        "text": "law enforcement"
+      },
+      {
+        "id": 4,
+        "text": "187"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "involves",
+        "tail": 0
+      },
+      {
+        "head": 1,
+        "relation": "subject",
+        "tail": 2
+      },
+      {
+        "head": 2,
+        "relation": "relatedTo",
+        "tail": 3
+      }
+    ]
+  },
+  {
+    "document_id": 257,
+    "ragtruth_id": "1001",
+    "text": "The killing of Walter Scott by Officer Michael Slager has sparked outrage and calls for police reform. The video of the incident shows Slager shooting Scott eight times as he fled, with his back turned to the officer. The author argues that if Slager had been wearing a body camera, the tragedy may have been prevented. Body cameras can help to reduce complaints against police and use of force incidents. However, they are only an interim solution to the deeper problem of racial bias in the criminal justice system. The author suggests that stricter employment screening standards, training to recognize bias, and broad social changes to address disparities in income, education, and opportunities are needed to address this issue.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "The killing of Walter Scott by Officer Michael Slager"
+      },
+      {
+        "id": 1,
+        "text": "Officer Michael Slager"
+      },
+      {
+        "id": 2,
+        "text": "Walter Scott"
+      },
+      {
+        "id": 3,
+        "text": "Body cameras"
+      },
+      {
+        "id": 4,
+        "text": "The author"
+      },
+      {
+        "id": 5,
+        "text": "the deeper problem of racial bias in the criminal justice system"
+      },
+      {
+        "id": 6,
+        "text": "eight"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "victim",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "perpetrator",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "videoDepicts",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "videoDepicts",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "shotCount",
+        "tail": 6
+      },
+      {
+        "head": 0,
+        "relation": "preventedBy",
+        "tail": 3
+      },
+      {
+        "head": 3,
+        "relation": "helpsReduce",
+        "tail": 5
+      },
+      {
+        "head": 3,
+        "relation": "interimSolutionFor",
+        "tail": 5
+      }
+    ]
+  },
+  {
+    "document_id": 258,
+    "ragtruth_id": "1050",
+    "text": "Photographer Tomasz Lazar has interviewed and photographed the survivors of the forced deportation of hundreds of thousands of Poles by Soviet authorities during World War II. Many were children who were sent to prison camps in Siberia. Lazar described their faces as \"like maps,\" and many broke down in tears during their interviews. Despite their traumatic experiences, Lazar said they welcomed him with open arms and were eager to share their stories. Their stories could not be told publicly until the fall of the Soviet Union, and Lazar believes they should be documented to remind future generations \"not to make the same mistakes.\"",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Photographer Tomasz Lazar"
+      },
+      {
+        "id": 1,
+        "text": "the survivors of the forced deportation of hundreds of thousands of Poles by Soviet authorities during World War II"
+      },
+      {
+        "id": 2,
+        "text": "many"
+      },
+      {
+        "id": 3,
+        "text": "their stories"
+      },
+      {
+        "id": 4,
+        "text": "Siberia"
+      },
+      {
+        "id": 5,
+        "text": "the Soviet Union"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "interviewed",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "photographed",
+        "tail": 1
+      },
+      {
+        "head": 1,
+        "relation": "sentTo",
+        "tail": 4
+      },
+      {
+        "head": 3,
+        "relation": "couldNotBeToldPubliclyUntil",
+        "tail": 5
+      }
+    ]
+  },
+  {
+    "document_id": 259,
+    "ragtruth_id": "1051",
+    "text": "Polish photographer Tomasz Lazar has captured the stories and faces of adults who were forcibly removed from their homes as children in the 1940s and sent to live in Siberia. Soviet authorities invaded Poland during World War II and deported hundreds of thousands of Poles, many of whom were children. Lazar's photographs and interviews reveal the pain and trauma experienced by these individuals, with many breaking down in tears during the interviews. Now in their 80s, these survivors are running out of time to document their struggles, and Lazar hopes their stories will serve as a reminder for future generations.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "adults who were forcibly removed from their homes as children in the 1940s and sent to live in Siberia"
+      },
+      {
+        "id": 1,
+        "text": "Polish photographer Tomasz Lazar"
+      },
+      {
+        "id": 2,
+        "text": "the stories and faces of adults who were forcibly removed from their homes as children in the 1940s and sent to live in Siberia"
+      },
+      {
+        "id": 3,
+        "text": "Soviet"
+      },
+      {
+        "id": 4,
+        "text": "Poland"
+      },
+      {
+        "id": 5,
+        "text": "World War II"
+      },
+      {
+        "id": 6,
+        "text": "hundreds of thousands"
+      },
+      {
+        "id": 7,
+        "text": "Poles"
+      },
+      {
+        "id": 8,
+        "text": "80s"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "captured",
+        "tail": 2
+      },
+      {
+        "head": 3,
+        "relation": "invaded",
+        "tail": 4
+      },
+      {
+        "head": 3,
+        "relation": "during",
+        "tail": 5
+      },
+      {
+        "head": 3,
+        "relation": "deported",
+        "tail": 6
+      },
+      {
+        "head": 6,
+        "relation": "of",
+        "tail": 7
+      }
+    ]
+  }
+]

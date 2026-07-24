@@ -1,0 +1,767 @@
+[
+  {
+    "document_id": 340,
+    "ragtruth_id": "1570",
+    "text": "Here is a summary of the article in 179 words:\n\nLauren Hill, a 19-year-old college basketball player who fought brain cancer, passed away on Friday. Despite her illness, she played in her first college game last year and raised $1.4 million for pediatric cancer research. Hill's inspiring story touched the lives of many, including NBA star LeBron James, who called her the \"true definition of strength, courage, power, leadership.\" The NCAA president also praised her as an inspiration to millions. Hill's legacy will live on through her message of never giving up and cherishing every moment.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Lauren Hill, a 19-year-old college basketball player who fought brain cancer"
+      },
+      {
+        "id": 1,
+        "text": "179"
+      },
+      {
+        "id": 2,
+        "text": "Friday"
+      },
+      {
+        "id": 3,
+        "text": "first"
+      },
+      {
+        "id": 4,
+        "text": "last year"
+      },
+      {
+        "id": 5,
+        "text": "$1.4 million"
+      },
+      {
+        "id": 6,
+        "text": "NBA"
+      },
+      {
+        "id": 7,
+        "text": "LeBron James"
+      },
+      {
+        "id": 8,
+        "text": "NCAA"
+      },
+      {
+        "id": 9,
+        "text": "millions"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "deathDate",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "playedFirstCollegeGame",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "playedInYear",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "raised",
+        "tail": 5
+      },
+      {
+        "head": 0,
+        "relation": "praisedBy",
+        "tail": 7
+      },
+      {
+        "head": 0,
+        "relation": "praisedByOrganization",
+        "tail": 8
+      },
+      {
+        "head": 0,
+        "relation": "inspired",
+        "tail": 9
+      }
+    ]
+  },
+  {
+    "document_id": 341,
+    "ragtruth_id": "1571",
+    "text": "Lauren Hill, a young woman who inspired many with her courageous battle against brain cancer, has passed away at the age of 19. Hill's dream of playing college basketball was fulfilled when Mount St. Joseph University in Cincinnati moved up its schedule to accommodate her desire to play. Despite her health struggles, Hill scored the first two points and the final layup of the game, leaving a lasting impact on those who witnessed her determination and perseverance. Her story touched the hearts of many, including NBA great LeBron James, who called her the \"true definition of strength, courage, power, leadership.\" Hill's legacy continues to live on, as she raised $1.4 million for pediatric cancer research and inspired countless others to never give up on their dreams.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Lauren Hill, a young woman who inspired many with her courageous battle against brain cancer"
+      },
+      {
+        "id": 1,
+        "text": "Mount St. Joseph University in Cincinnati"
+      },
+      {
+        "id": 2,
+        "text": "countless others"
+      },
+      {
+        "id": 3,
+        "text": "the age of 19"
+      },
+      {
+        "id": 4,
+        "text": "first"
+      },
+      {
+        "id": 5,
+        "text": "two"
+      },
+      {
+        "id": 6,
+        "text": "NBA"
+      },
+      {
+        "id": 7,
+        "text": "LeBron James"
+      },
+      {
+        "id": 8,
+        "text": "$1.4 million"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "age",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "attended",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "inspired",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "raised",
+        "tail": 8
+      }
+    ]
+  },
+  {
+    "document_id": 342,
+    "ragtruth_id": "1584",
+    "text": "A section of a fiberglass boat, believed to be debris from the 2011 Japanese tsunami, was found off the Oregon coast. Inside were specimens of a variety of yellowtail jack fish, typically found in Japanese waters. The boat has been towed to a marina in Newport, Oregon for further inspection.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "a fiberglass boat, believed to be debris from the 2011 Japanese tsunami"
+      },
+      {
+        "id": 1,
+        "text": "Oregon"
+      },
+      {
+        "id": 2,
+        "text": "jack fish"
+      },
+      {
+        "id": 3,
+        "text": "Japanese"
+      },
+      {
+        "id": 4,
+        "text": "Newport"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "foundOffCoastOf",
+        "tail": 1
+      },
+      {
+        "head": 2,
+        "relation": "foundIn",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "towedTo",
+        "tail": 4
+      }
+    ]
+  },
+  {
+    "document_id": 343,
+    "ragtruth_id": "1585",
+    "text": "A section of a fiberglass boat, suspected to be from the 2011 earthquake and tsunami in Japan, was found off the coast of Oregon. Inside the boat were yellowtail jack fish, which will be taken to the Oregon Coast Aquarium. The ecological threat posed by invasive species was determined to be small.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "a fiberglass boat, suspected to be from the 2011 earthquake and tsunami in Japan"
+      },
+      {
+        "id": 1,
+        "text": "Oregon"
+      },
+      {
+        "id": 2,
+        "text": "jack fish"
+      },
+      {
+        "id": 3,
+        "text": "the Oregon Coast Aquarium"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "foundOffCoastOf",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "contains",
+        "tail": 2
+      },
+      {
+        "head": 2,
+        "relation": "willBeTakenTo",
+        "tail": 3
+      }
+    ]
+  },
+  {
+    "document_id": 344,
+    "ragtruth_id": "1586",
+    "text": "A 20-30 foot long fiberglass boat fragment, believed to have come from the 2011 Japan earthquake and tsunami, was discovered off the Oregon coast. Inside were found yellowtail jack fish normally found in Japanese waters. Officials suspect these fish may have survived the disaster in ballast tanks on the ship before being washed ashore. The boat debris will be taken to a landfill, while the fish will go to an aquarium for study and eventual release.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "yellowtail jack fish normally found in Japanese waters"
+      },
+      {
+        "id": 1,
+        "text": "the 2011 Japan earthquake and tsunami"
+      },
+      {
+        "id": 2,
+        "text": "20-30 foot"
+      },
+      {
+        "id": 3,
+        "text": "Oregon"
+      }
+    ],
+    "relations": [
+      {
+        "head": 2,
+        "relation": "length",
+        "tail": 2
+      },
+      {
+        "head": 2,
+        "relation": "foundOffCoastOf",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "foundInside",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "survived",
+        "tail": 1
+      }
+    ]
+  },
+  {
+    "document_id": 345,
+    "ragtruth_id": "1587",
+    "text": "A piece of a fiberglass boat believed to have originated from the 2011 Japan earthquake and tsunami was found off the Oregon coast and towed to shore. Inside, biologists found over 4,000 miles later, yellowtail jack fish typically found in Japanese waters. The fish will be taken to the Oregon Coast Aquarium.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "yellowtail jack fish"
+      },
+      {
+        "id": 1,
+        "text": "2011"
+      },
+      {
+        "id": 2,
+        "text": "Japan"
+      },
+      {
+        "id": 3,
+        "text": "Oregon"
+      },
+      {
+        "id": 4,
+        "text": "over 4,000 miles"
+      },
+      {
+        "id": 5,
+        "text": "Japanese"
+      },
+      {
+        "id": 6,
+        "text": "the Oregon Coast Aquarium"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "foundIn",
+        "tail": 5
+      },
+      {
+        "head": 0,
+        "relation": "destination",
+        "tail": 6
+      }
+    ]
+  },
+  {
+    "document_id": 346,
+    "ragtruth_id": "1588",
+    "text": "Sure! Here's the summary within 46 words:\n\nA section of a fiberglass boat believed to be from the 2011 Japanese tsunami was discovered off Oregon's coast with live yellowtail jack fish inside, 4,000 miles and four years later. The fish will be taken to the Oregon Coast Aquarium.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "live yellowtail jack fish"
+      },
+      {
+        "id": 1,
+        "text": "46"
+      },
+      {
+        "id": 2,
+        "text": "2011"
+      },
+      {
+        "id": 3,
+        "text": "Japanese"
+      },
+      {
+        "id": 4,
+        "text": "Oregon"
+      },
+      {
+        "id": 5,
+        "text": "4,000 miles"
+      },
+      {
+        "id": 6,
+        "text": "four years later"
+      },
+      {
+        "id": 7,
+        "text": "the Oregon Coast Aquarium"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "destination",
+        "tail": 7
+      }
+    ]
+  },
+  {
+    "document_id": 347,
+    "ragtruth_id": "1589",
+    "text": "A piece of a fiberglass boat from the 2011 Japan tsunami was found in Oregon with yellowtail jack fish still inside, 4,000 miles away from their native waters. The fish will be taken to the Oregon Coast Aquarium.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "yellowtail jack fish"
+      },
+      {
+        "id": 1,
+        "text": "2011"
+      },
+      {
+        "id": 2,
+        "text": "Japan"
+      },
+      {
+        "id": 3,
+        "text": "Oregon"
+      },
+      {
+        "id": 4,
+        "text": "4,000 miles"
+      },
+      {
+        "id": 5,
+        "text": "the Oregon Coast Aquarium"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "foundIn",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "distanceFromNativeWaters",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "destination",
+        "tail": 5
+      }
+    ]
+  },
+  {
+    "document_id": 348,
+    "ragtruth_id": "1596",
+    "text": "Former Australia cricket captain and renowned broadcaster, Richie Benaud, has died at the age of 84. Benaud was famous for his witty one-liners from the commentary box that resonated not only in Australia but globally. Cricket Australia stated, “After Don Bradman, there has been no Australian player more famous than Richie Benaud.” Benaud was a record-breaking leg-spinner and captain, and is considered cricket’s most famous broadcaster. Benaud was inducted into the Sport Australia Hall of Fame in 1985 and had a successful 64 Test matches. Benaud was not only popular in Australia, but also in the UK where he spent over four decades with the BBC, taking the sport into millions of British living rooms. Australian Prime Minister, Tony Abbott, said in a written statement “To most Australians Richie Benaud was cricket. He personified its traditions and its values.” Benaud led the Australian side from 1958/59 through to 1963/1964, never losing a series in his 28 Tests as captain. Benaud was the first cricketer to reach a Test double of 2,000 runs and 200 wickets.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Former Australia cricket captain and renowned broadcaster, Richie Benaud"
+      },
+      {
+        "id": 1,
+        "text": "Australia"
+      },
+      {
+        "id": 2,
+        "text": "cricket’s"
+      },
+      {
+        "id": 3,
+        "text": "cricket"
+      },
+      {
+        "id": 4,
+        "text": "the age of 84"
+      },
+      {
+        "id": 5,
+        "text": "one"
+      },
+      {
+        "id": 6,
+        "text": "Cricket Australia"
+      },
+      {
+        "id": 7,
+        "text": "Don Bradman"
+      },
+      {
+        "id": 8,
+        "text": "Australian"
+      },
+      {
+        "id": 9,
+        "text": "the Sport Australia Hall of Fame"
+      },
+      {
+        "id": 10,
+        "text": "1985"
+      },
+      {
+        "id": 11,
+        "text": "64"
+      },
+      {
+        "id": 12,
+        "text": "UK"
+      },
+      {
+        "id": 13,
+        "text": "four decades"
+      },
+      {
+        "id": 14,
+        "text": "BBC"
+      },
+      {
+        "id": 15,
+        "text": "millions"
+      },
+      {
+        "id": 16,
+        "text": "British"
+      },
+      {
+        "id": 17,
+        "text": "Australian"
+      },
+      {
+        "id": 18,
+        "text": "Tony Abbott"
+      },
+      {
+        "id": 19,
+        "text": "Australians Richie Benaud"
+      },
+      {
+        "id": 20,
+        "text": "Australian"
+      },
+      {
+        "id": 21,
+        "text": "1958/59"
+      },
+      {
+        "id": 22,
+        "text": "1963/1964"
+      },
+      {
+        "id": 23,
+        "text": "28"
+      },
+      {
+        "id": 24,
+        "text": "Tests"
+      },
+      {
+        "id": 25,
+        "text": "first"
+      },
+      {
+        "id": 26,
+        "text": "2,000"
+      },
+      {
+        "id": 27,
+        "text": "200"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "deathAge",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "country",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "inductedInto",
+        "tail": 9
+      },
+      {
+        "head": 0,
+        "relation": "inductionYear",
+        "tail": 10
+      },
+      {
+        "head": 0,
+        "relation": "workedFor",
+        "tail": 14
+      },
+      {
+        "head": 0,
+        "relation": "location",
+        "tail": 12
+      },
+      {
+        "head": 0,
+        "relation": "captained",
+        "tail": 20
+      },
+      {
+        "head": 0,
+        "relation": "captainFrom",
+        "tail": 21
+      },
+      {
+        "head": 0,
+        "relation": "captainTo",
+        "tail": 22
+      },
+      {
+        "head": 0,
+        "relation": "testMatchesAsCaptain",
+        "tail": 23
+      },
+      {
+        "head": 0,
+        "relation": "testMatches",
+        "tail": 11
+      },
+      {
+        "head": 0,
+        "relation": "firstToReach",
+        "tail": 25
+      },
+      {
+        "head": 0,
+        "relation": "runs",
+        "tail": 26
+      },
+      {
+        "head": 0,
+        "relation": "wickets",
+        "tail": 27
+      }
+    ]
+  },
+  {
+    "document_id": 349,
+    "ragtruth_id": "1597",
+    "text": "Richie Benaud, former Australia cricket captain and renowned broadcaster, has died at the age of 84. Benaud, who was being treated for skin cancer, was considered one of the most famous Australian players and the voice of cricket. He was inducted into the Sport Australia Hall of Fame in 1985 and spent over four decades with the BBC, bringing the game to millions of British living rooms. Benaud was known for his witty one-liners and insightful commentary. His passing has led to an outpouring of condolences, with Australian Prime Minister Tony Abbott stating that Benaud personified cricket's traditions and values. Benaud's record as a player has withstood the test of time, and he was the first cricketer to reach a Test double of 2,000 runs and 200 wickets. Flags in Australia flew at half-mast on the day of his funeral. Current Australian captain Michael Clarke and former teammate Shane Warne expressed their sadness and admiration for Benaud, with Warne describing him as a legend and mentor. Benaud's impact extended beyond Australia, with figures such as Imran Khan and Kumar Sangakkara expressing their condolences. British Prime Minister David Cameron also tweeted about his appreciation for Benaud's commentary. Benaud's authoritative and popular style made him the standard-bearer for cricket broadcasting, and his passing marks the end of an era.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Richie Benaud, former Australia cricket captain and renowned broadcaster"
+      },
+      {
+        "id": 1,
+        "text": "cricket"
+      },
+      {
+        "id": 2,
+        "text": "died"
+      },
+      {
+        "id": 3,
+        "text": "Australia"
+      },
+      {
+        "id": 4,
+        "text": "Current Australian captain Michael Clarke and former teammate Shane Warne"
+      },
+      {
+        "id": 5,
+        "text": "former teammate Shane Warne"
+      },
+      {
+        "id": 6,
+        "text": "figures such as Imran Khan and Kumar Sangakkara"
+      },
+      {
+        "id": 7,
+        "text": "British Prime Minister David Cameron"
+      },
+      {
+        "id": 8,
+        "text": "the age of 84"
+      },
+      {
+        "id": 9,
+        "text": "one"
+      },
+      {
+        "id": 10,
+        "text": "Australian"
+      },
+      {
+        "id": 11,
+        "text": "the Sport Australia Hall of Fame"
+      },
+      {
+        "id": 12,
+        "text": "1985"
+      },
+      {
+        "id": 13,
+        "text": "four decades"
+      },
+      {
+        "id": 14,
+        "text": "BBC"
+      },
+      {
+        "id": 15,
+        "text": "millions"
+      },
+      {
+        "id": 16,
+        "text": "British"
+      },
+      {
+        "id": 17,
+        "text": "one"
+      },
+      {
+        "id": 18,
+        "text": "Australian"
+      },
+      {
+        "id": 19,
+        "text": "Tony Abbott"
+      },
+      {
+        "id": 20,
+        "text": "first"
+      },
+      {
+        "id": 21,
+        "text": "2,000"
+      },
+      {
+        "id": 22,
+        "text": "200"
+      },
+      {
+        "id": 23,
+        "text": "the day"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "captainOf",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "diedAtAge",
+        "tail": 8
+      },
+      {
+        "head": 0,
+        "relation": "inductedInto",
+        "tail": 11
+      },
+      {
+        "head": 0,
+        "relation": "inductionYear",
+        "tail": 12
+      },
+      {
+        "head": 0,
+        "relation": "workedFor",
+        "tail": 14
+      },
+      {
+        "head": 0,
+        "relation": "durationOfEmployment",
+        "tail": 13
+      },
+      {
+        "head": 0,
+        "relation": "funeralDay",
+        "tail": 23
+      },
+      {
+        "head": 0,
+        "relation": "firstToReach",
+        "tail": 20
+      },
+      {
+        "head": 0,
+        "relation": "runs",
+        "tail": 21
+      },
+      {
+        "head": 0,
+        "relation": "wickets",
+        "tail": 22
+      }
+    ]
+  }
+]

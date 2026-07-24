@@ -1,0 +1,958 @@
+[
+  {
+    "document_id": 100,
+    "ragtruth_id": "412",
+    "text": "A second robotic probe has captured images of a green glow inside the crippled Fukushima nuclear plant, providing a \"great step forward\" in the decommissioning process. The robot detected lower radiation levels and temperatures than expected, indicating effective cooling systems. The cause of the green glow remains unknown. The first robot stalled due to a fallen object, but the second robot successfully collected data from all 11 points. The radiation levels inside the reactors are still extremely high, and the decommissioning process is estimated to cost $50 billion and take years to complete.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "A second robotic probe"
+      },
+      {
+        "id": 1,
+        "text": "a green glow inside the crippled Fukushima nuclear plant"
+      },
+      {
+        "id": 2,
+        "text": "the decommissioning process"
+      },
+      {
+        "id": 3,
+        "text": "first"
+      },
+      {
+        "id": 4,
+        "text": "11"
+      },
+      {
+        "id": 5,
+        "text": "$50 billion"
+      },
+      {
+        "id": 6,
+        "text": "years"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "capturedImagesOf",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "stepForwardIn",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "collectedDataFrom",
+        "tail": 4
+      },
+      {
+        "head": 2,
+        "relation": "cost",
+        "tail": 5
+      },
+      {
+        "head": 2,
+        "relation": "duration",
+        "tail": 6
+      }
+    ]
+  },
+  {
+    "document_id": 101,
+    "ragtruth_id": "413",
+    "text": "A second robotic probe has been sent into the Fukushima nuclear plant to assess damage after a meltdown in 2011. The robot detected lower radiation levels and temperature than expected, indicating effective cooling systems. The robot also captured images of a strange green glow, whose cause is unknown. The mission is considered a success, providing valuable data for decommissioning work, estimated to cost $50 billion and take years to complete.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "A second robotic probe"
+      },
+      {
+        "id": 1,
+        "text": "Fukushima"
+      },
+      {
+        "id": 2,
+        "text": "2011"
+      },
+      {
+        "id": 3,
+        "text": "$50 billion"
+      },
+      {
+        "id": 4,
+        "text": "years"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "sentTo",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "date",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "cost",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "duration",
+        "tail": 4
+      }
+    ]
+  },
+  {
+    "document_id": 102,
+    "ragtruth_id": "432",
+    "text": "Now that Dzhokhar Tsarnaev, the Boston Marathon bomber, has been found guilty on all counts, the jury has begun to hear the impact his crimes had on the survivors and the families of the dead, as they decide whether he should live or die. The testimony has reportedly been heartbreaking, and the jury has seen many photographs of the victims in happier times. Prosecutors are also presenting the jury with an image of Tsarnaev, taken in a holding cell at the courthouse where his trial is being held; in the image, he is seen glaring defiantly into the camera, his middle finger raised in a profane salute. \"This is Dzhokhar Tsarnaev, unconcerned, unrepentant and unchanged,\" said Assistant U.S. Attorney Nadine Pellegrini. The people who were maimed by Tsarnaev's bombs are also testifying during the sentencing phase of the trial, as prosecutors try to show the impact on victims of the attacks. The stories they have told have been described as even more gripping and horrific than the stories told during the guilt phase of Tsarnaev's trial.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Dzhokhar Tsarnaev, the Boston Marathon bomber"
+      },
+      {
+        "id": 1,
+        "text": "the jury"
+      },
+      {
+        "id": 2,
+        "text": "the dead"
+      },
+      {
+        "id": 3,
+        "text": "an image of Tsarnaev, taken in a holding cell at the courthouse where his trial is being held"
+      },
+      {
+        "id": 4,
+        "text": "his trial"
+      },
+      {
+        "id": 5,
+        "text": "Dzhokhar Tsarnaev"
+      },
+      {
+        "id": 6,
+        "text": "U.S."
+      },
+      {
+        "id": 7,
+        "text": "Nadine Pellegrini"
+      }
+    ],
+    "relations": [
+      {
+        "head": 3,
+        "relation": "depicts",
+        "tail": 0
+      },
+      {
+        "head": 4,
+        "relation": "trialOf",
+        "tail": 0
+      }
+    ]
+  },
+  {
+    "document_id": 103,
+    "ragtruth_id": "433",
+    "text": "Dzhokhar Tsarnaev, the Boston Marathon bomber, has been found guilty on all counts and now the jury must decide whether he should be sentenced to death or life in prison. During the victim impact part of the trial, the jury heard heartbreaking testimonies from the survivors and families of the victims. William A. Campbell Sr., the father of Krystle Campbell, a 29-year-old restaurant manager who was killed in the blast, described his daughter as the light of his life and spoke about the void her death has left in their family. Other victims that were remembered included Lingzi Lu, a Chinese grad student, Martin Richard, an 8-year-old boy, and Sean Collier, a police officer. The prosecutor, Nadine Pellegrini, emphasized that these victims were loved and had bright futures ahead of them, but Tsarnaev took that away from them in a cruel and terrorizing manner. She also reminded the jury of Tsarnaev's lack of remorse and defiance, as seen in a photograph of him raising his middle finger in a holding cell. The trial also included testimonies from survivors who described the horrific injuries they sustained and the physical and emotional pain they continue to endure. Gillian Reny, who suffered a broken shin bone and extensive blood loss, recalled the chaos and horror of the scene after the explosion. Celeste Corcoran, who lost both of her legs, described the unimaginable pain she felt and her initial thoughts of wanting to die. Despite the challenges they face, both survivors expressed their determination to move forward and live their lives. The trial will continue as the jury weighs the decision of whether Tsarnaev deserves the death penalty for his actions.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Dzhokhar Tsarnaev, the Boston Marathon bomber"
+      },
+      {
+        "id": 1,
+        "text": "the jury"
+      },
+      {
+        "id": 2,
+        "text": "William A. Campbell Sr., the father of Krystle Campbell, a 29-year-old restaurant manager who was killed in the blast,"
+      },
+      {
+        "id": 3,
+        "text": "Krystle Campbell, a 29-year-old restaurant manager who was killed in the blast"
+      },
+      {
+        "id": 4,
+        "text": "killed"
+      },
+      {
+        "id": 5,
+        "text": "the victims"
+      },
+      {
+        "id": 6,
+        "text": "The prosecutor, Nadine Pellegrini,"
+      },
+      {
+        "id": 7,
+        "text": "the trial"
+      },
+      {
+        "id": 8,
+        "text": "survivors who described the horrific injuries they sustained and the physical and emotional pain they continue to endure"
+      },
+      {
+        "id": 9,
+        "text": "the blast"
+      },
+      {
+        "id": 10,
+        "text": "Celeste Corcoran, who lost both of her legs,"
+      },
+      {
+        "id": 11,
+        "text": "they"
+      },
+      {
+        "id": 12,
+        "text": "Lingzi Lu"
+      },
+      {
+        "id": 13,
+        "text": "Chinese"
+      },
+      {
+        "id": 14,
+        "text": "Martin Richard"
+      },
+      {
+        "id": 15,
+        "text": "8-year-old"
+      },
+      {
+        "id": 16,
+        "text": "Sean Collier"
+      },
+      {
+        "id": 17,
+        "text": "Gillian Reny"
+      }
+    ],
+    "relations": [
+      {
+        "head": 3,
+        "relation": "father",
+        "tail": 2
+      },
+      {
+        "head": 3,
+        "relation": "killedIn",
+        "tail": 9
+      },
+      {
+        "head": 7,
+        "relation": "includes",
+        "tail": 8
+      },
+      {
+        "head": 17,
+        "relation": "testifiedIn",
+        "tail": 7
+      },
+      {
+        "head": 10,
+        "relation": "testifiedIn",
+        "tail": 7
+      },
+      {
+        "head": 5,
+        "relation": "rememberedIncludes",
+        "tail": 12
+      },
+      {
+        "head": 5,
+        "relation": "rememberedIncludes",
+        "tail": 14
+      },
+      {
+        "head": 5,
+        "relation": "rememberedIncludes",
+        "tail": 16
+      }
+    ]
+  },
+  {
+    "document_id": 104,
+    "ragtruth_id": "434",
+    "text": "Boston Marathon bomber Dzhokhar Tsarnaev's bombs killed four people and injured hundreds more. Now, the trial has moved on to the victim impact phase, where survivors and families of the victims have testified about the emotional toll the attacks took on their lives. One mother described her daughter, who was killed in the first blast, as a \"jolly soul.\" Another father wept while talking about his daughter, who was a restaurant manager and loved to host big celebrations. The prosecutor emphasized that the victims were loved and loved in return before they were murdered in a cruel manner. The defense attorney argued that Tsarnaev's actions were driven by mental illness and that he did not intend to harm anyone. The jury will now consider the evidence presented during the trial and determine whether Tsarnaev should receive the death penalty or life in prison without parole.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "four people"
+      },
+      {
+        "id": 1,
+        "text": "Boston Marathon bomber Dzhokhar Tsarnaev's bombs"
+      },
+      {
+        "id": 2,
+        "text": "One mother"
+      },
+      {
+        "id": 3,
+        "text": "Another father"
+      },
+      {
+        "id": 4,
+        "text": "Boston Marathon bomber Dzhokhar Tsarnaev's"
+      },
+      {
+        "id": 5,
+        "text": "the trial"
+      },
+      {
+        "id": 6,
+        "text": "hundreds"
+      },
+      {
+        "id": 7,
+        "text": "first"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "killed",
+        "tail": 0
+      },
+      {
+        "head": 1,
+        "relation": "injured",
+        "tail": 6
+      },
+      {
+        "head": 5,
+        "relation": "victimImpactPhase",
+        "tail": 0
+      },
+      {
+        "head": 5,
+        "relation": "evidencePresentedDuring",
+        "tail": 5
+      },
+      {
+        "head": 4,
+        "relation": "deathPenaltyConsideredIn",
+        "tail": 5
+      }
+    ]
+  },
+  {
+    "document_id": 105,
+    "ragtruth_id": "435",
+    "text": "On Tuesday, the trial of Dzhokhar Tsarnaev, the Boston Marathon bomber, entered its sentencing phase. The prosecution presented emotional testimony from the victims' families and friends, describing the devastating impact of Tsarnaev's actions on their lives. The bombs he detonated tore through their bodies, causing severe injuries and death. The witnesses recounted their harrowing experiences, including the sound of explosions, the sight of blood and mangled flesh, and the feeling of intense pain and fear. One witness, Gillian Reny, described the chaos and horror she witnessed after the bombing, including the sight of her own broken leg and the blood everywhere. Another witness, Celeste Corcoran, lost both of her legs in the blast and described the intense pain and discomfort she experiences daily. The prosecution also showed jurors a photo of Tsarnaev, glaring defiantly into the camera from a holding cell. The defense will present its case later in the trial. The jury must now decide whether Tsarnaev should live or die for his crimes.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "the trial of Dzhokhar Tsarnaev, the Boston Marathon bomber"
+      },
+      {
+        "id": 1,
+        "text": "Dzhokhar Tsarnaev, the Boston Marathon bomber"
+      },
+      {
+        "id": 2,
+        "text": "the victims'"
+      },
+      {
+        "id": 3,
+        "text": "The witnesses"
+      },
+      {
+        "id": 4,
+        "text": "One witness, Gillian Reny"
+      },
+      {
+        "id": 5,
+        "text": "Another witness, Celeste Corcoran"
+      },
+      {
+        "id": 6,
+        "text": "the bombing"
+      },
+      {
+        "id": 7,
+        "text": "The prosecution"
+      },
+      {
+        "id": 8,
+        "text": "The defense"
+      },
+      {
+        "id": 9,
+        "text": "jurors"
+      },
+      {
+        "id": 10,
+        "text": "Tuesday"
+      },
+      {
+        "id": 11,
+        "text": "daily"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "trialOf",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "date",
+        "tail": 10
+      },
+      {
+        "head": 7,
+        "relation": "presentedTestimonyFrom",
+        "tail": 2
+      },
+      {
+        "head": 1,
+        "relation": "caused",
+        "tail": 2
+      },
+      {
+        "head": 1,
+        "relation": "detonated",
+        "tail": 6
+      },
+      {
+        "head": 3,
+        "relation": "recounted",
+        "tail": 6
+      },
+      {
+        "head": 4,
+        "relation": "witnessed",
+        "tail": 6
+      },
+      {
+        "head": 5,
+        "relation": "witnessed",
+        "tail": 6
+      },
+      {
+        "head": 5,
+        "relation": "lostLegsIn",
+        "tail": 6
+      },
+      {
+        "head": 5,
+        "relation": "experiences",
+        "tail": 11
+      },
+      {
+        "head": 7,
+        "relation": "showedPhotoOf",
+        "tail": 1
+      },
+      {
+        "head": 8,
+        "relation": "willPresentCaseIn",
+        "tail": 0
+      },
+      {
+        "head": 9,
+        "relation": "mustDecideSentenceFor",
+        "tail": 1
+      }
+    ]
+  },
+  {
+    "document_id": 106,
+    "ragtruth_id": "436",
+    "text": "Boston Marathon bomber Dzhokhar Tsarnaev has been found guilty on all counts, and now the jury must decide whether he should live or die. In the victim impact portion of the trial, the families and friends of those killed and injured in the bombings shared their heart-wrenching stories. Krystle Campbell, a 29-year-old restaurant manager, was killed in the first blast, leaving her father with a broken heart. William A. Campbell Sr. described his daughter as \"extremely smart, hardworking, and beautiful.\" Other victims included Martin Richard, 8, and Lingzi Lu, a 23-year-old Chinese graduate student. The bombings also injured many others, including Gillian Reny, a high school senior who lost her shinbone and Celeste Corcoran, who lost both legs. The survivors and families of the deceased described the physical and emotional pain they have endured since the bombings, and the defendant's lack of remorse. The prosecution showed graphic images of the bombings and their aftermath to illustrate the extent of the damage and suffering. The jury must now decide whether Tsarnaev's actions justify the death penalty.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Boston Marathon bomber Dzhokhar Tsarnaev"
+      },
+      {
+        "id": 1,
+        "text": "the families and friends of those killed and injured in the bombings"
+      },
+      {
+        "id": 2,
+        "text": "Krystle Campbell, a 29-year-old restaurant manager,"
+      },
+      {
+        "id": 3,
+        "text": "her father"
+      },
+      {
+        "id": 4,
+        "text": "the bombings"
+      },
+      {
+        "id": 5,
+        "text": "Gillian Reny, a high school senior who lost her shinbone"
+      },
+      {
+        "id": 6,
+        "text": "The survivors and families of the deceased"
+      },
+      {
+        "id": 7,
+        "text": "the jury"
+      },
+      {
+        "id": 8,
+        "text": "first"
+      },
+      {
+        "id": 9,
+        "text": "Martin Richard"
+      },
+      {
+        "id": 10,
+        "text": "8"
+      },
+      {
+        "id": 11,
+        "text": "Lingzi Lu"
+      },
+      {
+        "id": 12,
+        "text": "23-year-old"
+      },
+      {
+        "id": 13,
+        "text": "Chinese"
+      },
+      {
+        "id": 14,
+        "text": "Celeste Corcoran"
+      }
+    ],
+    "relations": [
+      {
+        "head": 2,
+        "relation": "killedIn",
+        "tail": 4
+      },
+      {
+        "head": 5,
+        "relation": "injuredIn",
+        "tail": 4
+      },
+      {
+        "head": 14,
+        "relation": "injuredIn",
+        "tail": 4
+      },
+      {
+        "head": 11,
+        "relation": "victimOf",
+        "tail": 4
+      },
+      {
+        "head": 9,
+        "relation": "victimOf",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "defendantIn",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "guiltyOf",
+        "tail": 4
+      }
+    ]
+  },
+  {
+    "document_id": 107,
+    "ragtruth_id": "437",
+    "text": "Boston Marathon bomber Dzhokhar Tsarnaev has been found guilty on all counts and now faces the death penalty. During the sentencing phase, the jury heard heart-wrenching testimony from the families of the four people killed in the attack, as well as from those who were injured. The victims' families shared stories of their loved ones and the impact their loss has had on their lives. Survivors of the bombing also testified, describing the horrific injuries they sustained and the long road to recovery they have faced. Prosecutors presented evidence that Tsarnaev showed no remorse for his actions and referred to the people he killed as \"the enemy.\" The defense argues that Tsarnaev's brother, who was also involved in the bombing, was the mastermind behind the attack and that Tsarnaev should not receive the death penalty. The jury must now decide whether Tsarnaev should be sentenced to death or life in prison without parole.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "the four people killed in the attack"
+      },
+      {
+        "id": 1,
+        "text": "the families of the four people killed in the attack"
+      },
+      {
+        "id": 2,
+        "text": "the attack"
+      },
+      {
+        "id": 3,
+        "text": "Survivors of the bombing"
+      },
+      {
+        "id": 4,
+        "text": "Boston Marathon bomber Dzhokhar Tsarnaev"
+      },
+      {
+        "id": 5,
+        "text": "the death penalty"
+      },
+      {
+        "id": 6,
+        "text": "the jury"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "familiesOf",
+        "tail": 0
+      },
+      {
+        "head": 3,
+        "relation": "survivorsOf",
+        "tail": 2
+      },
+      {
+        "head": 4,
+        "relation": "faces",
+        "tail": 5
+      }
+    ]
+  },
+  {
+    "document_id": 108,
+    "ragtruth_id": "444",
+    "text": "The Academy of Country Music Awards celebrated its 50th anniversary on Sunday night with a record-breaking audience for a live TV awards show, which was hosted in the Dallas Cowboys stadium by Blake Shelton and Luke Bryan. Highlights of the night included Taylor Swift singing along to Eric Church or Martina McBride in the audience, and Garth Brooks’ performance of \"All-American Kid,\" in which he welcomed a slew of U.S. military representatives into AT&T Stadium. Swift's mother, recently diagnosed with cancer, presenting her daughter with a special award was another poignant moment. The ceremony also featured Christina Aguilera joining Rascal Flatts for \"Riot\" from their recent album \"Rewind,\" and Miranda Lambert dominated the night when it came to awards. On a less positive note, the show was criticised for its length, running for a full three and a half hours, and Dallas Cowboys QB, Tony Romo was criticised for a lacklustre performance as host. Meanwhile, Taylor Swift was berated on Twitter by country fans for attending the ACMs after leaving country music to go pop.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "The Academy of Country Music Awards"
+      },
+      {
+        "id": 1,
+        "text": "Sunday night"
+      },
+      {
+        "id": 2,
+        "text": "Garth Brooks’"
+      },
+      {
+        "id": 3,
+        "text": "the Dallas Cowboys stadium"
+      },
+      {
+        "id": 4,
+        "text": "Taylor Swift"
+      },
+      {
+        "id": 5,
+        "text": "Swift's mother, recently diagnosed with cancer"
+      },
+      {
+        "id": 6,
+        "text": "Rascal Flatts"
+      },
+      {
+        "id": 7,
+        "text": "Dallas Cowboys"
+      },
+      {
+        "id": 8,
+        "text": "50th"
+      },
+      {
+        "id": 9,
+        "text": "Highlights of the night"
+      },
+      {
+        "id": 10,
+        "text": "Eric Church"
+      },
+      {
+        "id": 11,
+        "text": "Martina McBride"
+      },
+      {
+        "id": 12,
+        "text": "All-American Kid"
+      },
+      {
+        "id": 13,
+        "text": "U.S."
+      },
+      {
+        "id": 14,
+        "text": "Christina Aguilera"
+      },
+      {
+        "id": 15,
+        "text": "Riot"
+      },
+      {
+        "id": 16,
+        "text": "Miranda Lambert"
+      },
+      {
+        "id": 17,
+        "text": "three and a half hours"
+      },
+      {
+        "id": 18,
+        "text": "QB"
+      },
+      {
+        "id": 19,
+        "text": "Tony Romo"
+      },
+      {
+        "id": 20,
+        "text": "Twitter"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "anniversary",
+        "tail": 8
+      },
+      {
+        "head": 0,
+        "relation": "date",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "hostedIn",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "hostedBy",
+        "tail": 7
+      },
+      {
+        "head": 2,
+        "relation": "performedSong",
+        "tail": 12
+      },
+      {
+        "head": 2,
+        "relation": "welcomed",
+        "tail": 13
+      },
+      {
+        "head": 5,
+        "relation": "motherOf",
+        "tail": 4
+      },
+      {
+        "head": 6,
+        "relation": "performedSong",
+        "tail": 15
+      },
+      {
+        "head": 19,
+        "relation": "host",
+        "tail": 0
+      },
+      {
+        "head": 0,
+        "relation": "duration",
+        "tail": 17
+      },
+      {
+        "head": 4,
+        "relation": "attended",
+        "tail": 0
+      }
+    ]
+  },
+  {
+    "document_id": 109,
+    "ragtruth_id": "445",
+    "text": "The 50th Academy of Country Music Awards took place on Sunday night at the Dallas Cowboys stadium, making it the biggest ACM Awards yet. The event had its highs and lows, with some standout moments. Eric Church and Keith Urban kicked off the show with a powerful performance, setting the tone for the night. The ACM Awards also set a Guinness World Record for the biggest audience for a live TV awards show ever. Reba McEntire showcased her vocal prowess and proved why she is a country legend. Taylor Swift, despite her transition to pop music, showed her love for country by singing along to the performances. Garth Brooks paid tribute to the U.S. armed forces and his home state of Oklahoma in an emotional moment. Taylor Swift's mother made an appearance to present her daughter with a special award, a poignant moment given her recent cancer diagnosis. Christina Aguilera surprised with a guest performance alongside Rascal Flatts. Miranda Lambert had a successful night, both in terms of her performance and winning awards. Little Big Town performed their controversial song \"Girl Crush\" and Jason Aldean delivered a strong vocal performance. However, there were also some low points, such as Tony Romo's stiffness on the mic and the excessive length of the show. Some fans on Twitter criticized Taylor Swift for attending the ACMs after transitioning to pop music, but it was noted that she still has a significant impact on the country genre. Overall, the 50th ACM Awards had its ups and downs, but it was a memorable and significant milestone for the country music community.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "The 50th Academy of Country Music Awards"
+      },
+      {
+        "id": 1,
+        "text": "Reba McEntire"
+      },
+      {
+        "id": 2,
+        "text": "Taylor Swift"
+      },
+      {
+        "id": 3,
+        "text": "Garth Brooks"
+      },
+      {
+        "id": 4,
+        "text": "Taylor Swift's mother"
+      },
+      {
+        "id": 5,
+        "text": "Miranda Lambert"
+      },
+      {
+        "id": 6,
+        "text": "Little Big Town"
+      },
+      {
+        "id": 7,
+        "text": "her transition to pop music"
+      },
+      {
+        "id": 8,
+        "text": "Sunday night"
+      },
+      {
+        "id": 9,
+        "text": "Dallas"
+      },
+      {
+        "id": 10,
+        "text": "Cowboys"
+      },
+      {
+        "id": 11,
+        "text": "Eric Church"
+      },
+      {
+        "id": 12,
+        "text": "Keith Urban"
+      },
+      {
+        "id": 13,
+        "text": "the night"
+      },
+      {
+        "id": 14,
+        "text": "Guinness World Record"
+      },
+      {
+        "id": 15,
+        "text": "U.S."
+      },
+      {
+        "id": 16,
+        "text": "Oklahoma"
+      },
+      {
+        "id": 17,
+        "text": "Christina Aguilera"
+      },
+      {
+        "id": 18,
+        "text": "Rascal Flatts"
+      },
+      {
+        "id": 19,
+        "text": "Girl Crush"
+      },
+      {
+        "id": 20,
+        "text": "Jason Aldean"
+      },
+      {
+        "id": 21,
+        "text": "Tony Romo's"
+      },
+      {
+        "id": 22,
+        "text": "Twitter"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "date",
+        "tail": 8
+      },
+      {
+        "head": 0,
+        "relation": "location",
+        "tail": 9
+      },
+      {
+        "head": 0,
+        "relation": "location",
+        "tail": 10
+      },
+      {
+        "head": 0,
+        "relation": "record",
+        "tail": 14
+      },
+      {
+        "head": 0,
+        "relation": "performedBy",
+        "tail": 11
+      },
+      {
+        "head": 0,
+        "relation": "performedBy",
+        "tail": 12
+      },
+      {
+        "head": 0,
+        "relation": "performedBy",
+        "tail": 17
+      },
+      {
+        "head": 0,
+        "relation": "performedBy",
+        "tail": 18
+      },
+      {
+        "head": 0,
+        "relation": "performedBy",
+        "tail": 6
+      },
+      {
+        "head": 0,
+        "relation": "performedBy",
+        "tail": 20
+      },
+      {
+        "head": 3,
+        "relation": "tributeTo",
+        "tail": 15
+      },
+      {
+        "head": 3,
+        "relation": "tributeTo",
+        "tail": 16
+      },
+      {
+        "head": 4,
+        "relation": "motherOf",
+        "tail": 2
+      },
+      {
+        "head": 6,
+        "relation": "performedSong",
+        "tail": 19
+      },
+      {
+        "head": 2,
+        "relation": "transitionTo",
+        "tail": 7
+      },
+      {
+        "head": 2,
+        "relation": "criticizedOn",
+        "tail": 22
+      }
+    ]
+  }
+]

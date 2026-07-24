@@ -1,0 +1,839 @@
+[
+  {
+    "document_id": 80,
+    "ragtruth_id": "332",
+    "text": "A trailer for \"Batman v. Superman: Dawn of Justice\" was leaked online and quickly removed. It began with a commentator's voice questioning the controversy surrounding the most powerful man in the world. The trailer showed footage of Superman and included comments from various people about the superheroes. Ryan Gosling is in talks to star in the \"Blade Runner\" sequel. The trailer premiered in IMAX theaters on Monday and will be released on March 25, 2016.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "A trailer for \"Batman v. Superman: Dawn of Justice\""
+      },
+      {
+        "id": 1,
+        "text": "the most powerful man in the world"
+      },
+      {
+        "id": 2,
+        "text": "Ryan Gosling"
+      },
+      {
+        "id": 3,
+        "text": "Blade Runner"
+      },
+      {
+        "id": 4,
+        "text": "Monday"
+      },
+      {
+        "id": 5,
+        "text": "March 25, 2016"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "premieredOn",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "releaseDate",
+        "tail": 5
+      }
+    ]
+  },
+  {
+    "document_id": 81,
+    "ragtruth_id": "333",
+    "text": "Here is a summary of the article in 55 words or less:\n\nZack Snyder's \"Batman v. Superman: Dawn of Justice\" trailer leaked online before being removed, showing footage of Superman and Batman facing off. The trailer will premiere in Imax theaters on Monday, and the film stars Henry Cavill and Ben Affleck.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Zack Snyder's \"Batman v. Superman: Dawn of Justice\" trailer"
+      },
+      {
+        "id": 1,
+        "text": "55"
+      },
+      {
+        "id": 2,
+        "text": "Superman"
+      },
+      {
+        "id": 3,
+        "text": "Batman"
+      },
+      {
+        "id": 4,
+        "text": "Monday"
+      },
+      {
+        "id": 5,
+        "text": "Henry Cavill"
+      },
+      {
+        "id": 6,
+        "text": "Ben Affleck"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "premiereDate",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "stars",
+        "tail": 5
+      },
+      {
+        "head": 0,
+        "relation": "stars",
+        "tail": 6
+      }
+    ]
+  },
+  {
+    "document_id": 82,
+    "ragtruth_id": "334",
+    "text": "A leaked trailer for \"Batman v. Superman: Dawn of Justice\" features Spanish subtitles and highlights the controversial nature of Superman, with commentators discussing his power and intentions. The trailer also shows glimpses of Ben Affleck as Batman and the two superheroes facing off. The highly anticipated footage was set to premiere in Imax theaters on Monday, but was taken down shortly after its leak.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Superman"
+      },
+      {
+        "id": 1,
+        "text": "A leaked trailer for \"Batman v. Superman: Dawn of Justice\""
+      },
+      {
+        "id": 2,
+        "text": "Spanish"
+      },
+      {
+        "id": 3,
+        "text": "Ben Affleck"
+      },
+      {
+        "id": 4,
+        "text": "Batman"
+      },
+      {
+        "id": 5,
+        "text": "two"
+      },
+      {
+        "id": 6,
+        "text": "Monday"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "subtitlesLanguage",
+        "tail": 2
+      },
+      {
+        "head": 1,
+        "relation": "featuresCharacter",
+        "tail": 0
+      },
+      {
+        "head": 1,
+        "relation": "featuresActor",
+        "tail": 3
+      },
+      {
+        "head": 1,
+        "relation": "featuresCharacter",
+        "tail": 4
+      },
+      {
+        "head": 1,
+        "relation": "premiereDate",
+        "tail": 6
+      }
+    ]
+  },
+  {
+    "document_id": 83,
+    "ragtruth_id": "335",
+    "text": "A leaked trailer for \"Batman v. Superman: Dawn of Justice\" was taken down minutes after it appeared online. The trailer features commentary about Superman and shows him facing off against Batman, played by Ben Affleck. The film is set to release on March 25, 2016.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "A leaked trailer for \"Batman v. Superman: Dawn of Justice\""
+      },
+      {
+        "id": 1,
+        "text": "Superman"
+      },
+      {
+        "id": 2,
+        "text": "\"Batman v. Superman: Dawn of Justice\""
+      },
+      {
+        "id": 3,
+        "text": "minutes"
+      },
+      {
+        "id": 4,
+        "text": "Batman"
+      },
+      {
+        "id": 5,
+        "text": "Ben Affleck"
+      },
+      {
+        "id": 6,
+        "text": "March 25, 2016"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "about",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "features",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "features",
+        "tail": 4
+      },
+      {
+        "head": 4,
+        "relation": "playedBy",
+        "tail": 5
+      },
+      {
+        "head": 2,
+        "relation": "releaseDate",
+        "tail": 6
+      }
+    ]
+  },
+  {
+    "document_id": 84,
+    "ragtruth_id": "348",
+    "text": "Pope Francis held a special Mass on Sunday to commemorate the Armenian genocide of 1915 and referred to the massacre as the \"first genocide of the 20th century\". The Pope's comments angered Turkey, which has always denied that the deaths of up to 1.5 million Armenians constituted genocide. The Turkish government responded by recalling its ambassador to the Vatican and calling the Pope's comments \"unacceptable\" and \"out of touch with both historical facts and legal basis\". Pope Francis is the first Pope to publicly use the word \"genocide\" in connection with the Armenian massacre. His two predecessors, John Paul II and Benedict XVI, both avoided using the term, despite acknowledging the scale of the tragedy. Francis' comments were made in the presence of Armenia's President and may be seen as a change in the Catholic Church's policy towards the issue.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "the Armenian genocide of 1915"
+      },
+      {
+        "id": 1,
+        "text": "Pope Francis"
+      },
+      {
+        "id": 2,
+        "text": "referred"
+      },
+      {
+        "id": 3,
+        "text": "Turkey, which has always denied that the deaths of up to 1.5 million Armenians constituted genocide"
+      },
+      {
+        "id": 4,
+        "text": "the word \"genocide\""
+      },
+      {
+        "id": 5,
+        "text": "Sunday"
+      },
+      {
+        "id": 6,
+        "text": "first"
+      },
+      {
+        "id": 7,
+        "text": "the 20th century"
+      },
+      {
+        "id": 8,
+        "text": "Vatican"
+      },
+      {
+        "id": 9,
+        "text": "first"
+      },
+      {
+        "id": 10,
+        "text": "two"
+      },
+      {
+        "id": 11,
+        "text": "John Paul II"
+      },
+      {
+        "id": 12,
+        "text": "Benedict XVI"
+      },
+      {
+        "id": 13,
+        "text": "Armenia"
+      },
+      {
+        "id": 14,
+        "text": "the Catholic Church's"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "heldOn",
+        "tail": 5
+      },
+      {
+        "head": 1,
+        "relation": "referredTo",
+        "tail": 0
+      },
+      {
+        "head": 0,
+        "relation": "describedAs",
+        "tail": 6
+      },
+      {
+        "head": 0,
+        "relation": "describedAs",
+        "tail": 7
+      },
+      {
+        "head": 3,
+        "relation": "deniesGenocide",
+        "tail": 0
+      },
+      {
+        "head": 3,
+        "relation": "recallAmbassadorTo",
+        "tail": 8
+      },
+      {
+        "head": 1,
+        "relation": "firstToUse",
+        "tail": 4
+      },
+      {
+        "head": 1,
+        "relation": "predecessor",
+        "tail": 11
+      },
+      {
+        "head": 1,
+        "relation": "predecessor",
+        "tail": 12
+      },
+      {
+        "head": 1,
+        "relation": "policyChangeTowards",
+        "tail": 14
+      }
+    ]
+  },
+  {
+    "document_id": 85,
+    "ragtruth_id": "349",
+    "text": "Pope Francis faced a dilemma on Sunday as he prepared to commemorate the 100th anniversary of the Armenian genocide. In the past, popes have avoided using the term \"genocide\" when referring to the killings of over 1 million Armenians by the Turks, in order to maintain diplomatic ties. However, Pope Francis chose to use the term indirectly by quoting a document signed by his predecessor, John Paul II, which referred to the events as \"the first genocide of the 20th century.\" This decision was seen as a way to maintain continuity and avoid any perception of change in church policy. However, it also risked angering Turkey, who vehemently denies that the killings were genocide. In response to the Pope's remarks, Turkey recalled its ambassador to the Vatican for \"consultations\" and summoned the Vatican's ambassador for a meeting. Turkey's Foreign Minister called the Pope's use of the term \"unacceptable\" and \"out of touch with historical facts and legal basis.\" Despite the controversy, Pope Francis has shown a willingness to engage in geopolitics and take a different tone than his predecessors. He has played a role in brokering a detente between the US and Cuba, organized a prayer service with Israeli and Palestinian leaders, and has made strong statements regarding the persecution of Christians by ISIS. Pope Francis encourages frankness and courage in his priests, urging them to speak out against injustice.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Pope Francis"
+      },
+      {
+        "id": 1,
+        "text": "the Armenian genocide"
+      },
+      {
+        "id": 2,
+        "text": "the term \"genocide\""
+      },
+      {
+        "id": 3,
+        "text": "chose"
+      },
+      {
+        "id": 4,
+        "text": "the Turks"
+      },
+      {
+        "id": 5,
+        "text": "the Vatican"
+      },
+      {
+        "id": 6,
+        "text": "his priests"
+      },
+      {
+        "id": 7,
+        "text": "Sunday"
+      },
+      {
+        "id": 8,
+        "text": "100th"
+      },
+      {
+        "id": 9,
+        "text": "John Paul II"
+      },
+      {
+        "id": 10,
+        "text": "first"
+      },
+      {
+        "id": 11,
+        "text": "the 20th century"
+      },
+      {
+        "id": 12,
+        "text": "US"
+      },
+      {
+        "id": 13,
+        "text": "Cuba"
+      },
+      {
+        "id": 14,
+        "text": "Israeli"
+      },
+      {
+        "id": 15,
+        "text": "Palestinian"
+      },
+      {
+        "id": 16,
+        "text": "Christians"
+      },
+      {
+        "id": 17,
+        "text": "ISIS"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "commemoratedOn",
+        "tail": 7
+      },
+      {
+        "head": 1,
+        "relation": "anniversary",
+        "tail": 8
+      },
+      {
+        "head": 1,
+        "relation": "describedAs",
+        "tail": 10
+      },
+      {
+        "head": 1,
+        "relation": "describedAs",
+        "tail": 11
+      },
+      {
+        "head": 0,
+        "relation": "quoted",
+        "tail": 9
+      },
+      {
+        "head": 4,
+        "relation": "recalledAmbassadorFrom",
+        "tail": 5
+      },
+      {
+        "head": 0,
+        "relation": "brokering",
+        "tail": 12
+      },
+      {
+        "head": 0,
+        "relation": "brokering",
+        "tail": 13
+      },
+      {
+        "head": 0,
+        "relation": "organizedWith",
+        "tail": 14
+      },
+      {
+        "head": 0,
+        "relation": "organizedWith",
+        "tail": 15
+      },
+      {
+        "head": 0,
+        "relation": "persecutionOf",
+        "tail": 16
+      },
+      {
+        "head": 16,
+        "relation": "persecutedBy",
+        "tail": 17
+      },
+      {
+        "head": 0,
+        "relation": "encourages",
+        "tail": 6
+      }
+    ]
+  },
+  {
+    "document_id": 86,
+    "ragtruth_id": "350",
+    "text": "The article discusses the challenges of being the Pope, including leading a global faith and managing a nation with interests around the world. This past weekend, Pope Francis faced a difficult decision during a Mass celebrating the 100th anniversary of the Armenian Genocide. While previous popes had skirted the issue of using the term \"genocide,\" Francis chose to quote John Paul II's document that described the killings as a genocide. However, he did so in a roundabout way, highlighting the importance of continuity in Vatican tradition. Despite this, Turkey, where many of the victims were from, was not pleased with the decision and recalled its ambassador to the Vatican for consultations.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Pope Francis"
+      },
+      {
+        "id": 1,
+        "text": "a difficult decision"
+      },
+      {
+        "id": 2,
+        "text": "Turkey, where many of the victims were from"
+      },
+      {
+        "id": 3,
+        "text": "Vatican"
+      },
+      {
+        "id": 4,
+        "text": "This past weekend"
+      },
+      {
+        "id": 5,
+        "text": "100th"
+      },
+      {
+        "id": 6,
+        "text": "the Armenian Genocide"
+      },
+      {
+        "id": 7,
+        "text": "John Paul II's"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "faced",
+        "tail": 1
+      },
+      {
+        "head": 1,
+        "relation": "during",
+        "tail": 4
+      },
+      {
+        "head": 1,
+        "relation": "about",
+        "tail": 6
+      },
+      {
+        "head": 6,
+        "relation": "anniversary",
+        "tail": 5
+      },
+      {
+        "head": 0,
+        "relation": "quoted",
+        "tail": 7
+      },
+      {
+        "head": 2,
+        "relation": "recalledAmbassadorTo",
+        "tail": 3
+      }
+    ]
+  },
+  {
+    "document_id": 87,
+    "ragtruth_id": "351",
+    "text": "The Pope faced a difficult decision during a recent mass in Rome, where he chose to acknowledge the deaths of over 1 million Armenians a century ago, while avoiding using the term \"genocide\". This move was seen as a balance between maintaining the church's moral and political clout, while also avoiding offending Turkey, a key ally in the fight against ISIS. The Pope cited a previous Pope's document, rather than using the word directly, in order to emphasize continuity in the church's stance on the issue. However, Turkey was not pleased with the Pope's remarks and recalled its ambassador to the Vatican, leading to a diplomatic spat. The Pope also spoke at a mass for priests on Monday, encouraging them to speak openly and without fear, as the early apostles did.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "The Pope"
+      },
+      {
+        "id": 1,
+        "text": "chose"
+      },
+      {
+        "id": 2,
+        "text": "the term \"genocide\""
+      },
+      {
+        "id": 3,
+        "text": "the church's"
+      },
+      {
+        "id": 4,
+        "text": "Turkey, a key ally in the fight against ISIS"
+      },
+      {
+        "id": 5,
+        "text": "priests"
+      },
+      {
+        "id": 6,
+        "text": "Rome"
+      },
+      {
+        "id": 7,
+        "text": "over 1 million"
+      },
+      {
+        "id": 8,
+        "text": "a century ago"
+      },
+      {
+        "id": 9,
+        "text": "Pope"
+      },
+      {
+        "id": 10,
+        "text": "Vatican"
+      },
+      {
+        "id": 11,
+        "text": "Monday"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "spokeIn",
+        "tail": 6
+      },
+      {
+        "head": 0,
+        "relation": "acknowledgedDeathsOf",
+        "tail": 7
+      },
+      {
+        "head": 0,
+        "relation": "avoidedUsing",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "cited",
+        "tail": 9
+      },
+      {
+        "head": 4,
+        "relation": "recalledAmbassadorTo",
+        "tail": 10
+      },
+      {
+        "head": 0,
+        "relation": "spokeAt",
+        "tail": 5
+      },
+      {
+        "head": 0,
+        "relation": "spokeOn",
+        "tail": 11
+      }
+    ]
+  },
+  {
+    "document_id": 88,
+    "ragtruth_id": "352",
+    "text": "Pope Francis sparked controversy by using the term \"genocide\" to describe the killing of Armenians by Turks 100 years ago during a special mass. The move drew a swift recall of the Vatican's ambassador from Turkey and criticism from the Turkish government. The Pope's decision to use the term \"genocide\" was seen as a delicate balancing act between speaking out against injustice and maintaining diplomatic relations with Turkey, which is a key ally in the fight against ISIS in the Middle East. The Pope's approach to the issue is consistent with the Catholic Church's tradition of emphasizing continuity and avoiding changes in policy, but his willingness to engage in geopolitical issues and speak plainly on matters of doctrine and diplomacy sets him apart from his predecessors.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "using"
+      },
+      {
+        "id": 1,
+        "text": "Turkey"
+      },
+      {
+        "id": 2,
+        "text": "Pope Francis"
+      },
+      {
+        "id": 3,
+        "text": "the term \"genocide\""
+      },
+      {
+        "id": 4,
+        "text": "Armenians"
+      },
+      {
+        "id": 5,
+        "text": "100 years ago"
+      },
+      {
+        "id": 6,
+        "text": "Vatican"
+      },
+      {
+        "id": 7,
+        "text": "the Catholic Church's"
+      }
+    ],
+    "relations": [
+      {
+        "head": 2,
+        "relation": "usedTerm",
+        "tail": 3
+      },
+      {
+        "head": 4,
+        "relation": "killedBy",
+        "tail": 1
+      },
+      {
+        "head": 6,
+        "relation": "ambassadorFrom",
+        "tail": 1
+      }
+    ]
+  },
+  {
+    "document_id": 89,
+    "ragtruth_id": "353",
+    "text": "Pope Francis faced a difficult decision on Sunday as he prepared to commemorate the 100th anniversary of the Armenian genocide. Previous popes had avoided using the term \"genocide\" when referring to the event, instead using more ambiguous language. However, Francis chose to quote a document signed by Pope John Paul II and the head of the Armenian church, which referred to the killings as \"the first genocide of the 20th century.\" This move was seen as a way for Francis to acknowledge the genocide without directly angering Turkey, which has denied that the killings constituted a genocide. Turkey responded by recalling its ambassador to the Vatican for \"consultations\" and summoning the Vatican's ambassador for a meeting. Pope Francis has a history of taking a strong stance on geopolitical issues, including brokering a peace agreement between the US and Cuba and speaking out against ISIS' persecution of Christians. His willingness to engage in geopolitics has led some to view him as a different kind of pope, one who is unafraid to speak his mind and take a stand on important issues.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Pope Francis"
+      },
+      {
+        "id": 1,
+        "text": "the Armenian genocide"
+      },
+      {
+        "id": 2,
+        "text": "quote"
+      },
+      {
+        "id": 3,
+        "text": "Turkey, which has denied that the killings constituted a genocide"
+      },
+      {
+        "id": 4,
+        "text": "the Vatican"
+      },
+      {
+        "id": 5,
+        "text": "Sunday"
+      },
+      {
+        "id": 6,
+        "text": "100th"
+      },
+      {
+        "id": 7,
+        "text": "John Paul II"
+      },
+      {
+        "id": 8,
+        "text": "Armenian"
+      },
+      {
+        "id": 9,
+        "text": "first"
+      },
+      {
+        "id": 10,
+        "text": "the 20th century"
+      },
+      {
+        "id": 11,
+        "text": "US"
+      },
+      {
+        "id": 12,
+        "text": "Cuba"
+      },
+      {
+        "id": 13,
+        "text": "ISIS"
+      },
+      {
+        "id": 14,
+        "text": "Christians"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "commemoratesAnniversaryOf",
+        "tail": 1
+      },
+      {
+        "head": 2,
+        "relation": "performedBy",
+        "tail": 0
+      },
+      {
+        "head": 2,
+        "relation": "refersTo",
+        "tail": 1
+      },
+      {
+        "head": 2,
+        "relation": "signedBy",
+        "tail": 7
+      },
+      {
+        "head": 2,
+        "relation": "signedBy",
+        "tail": 8
+      },
+      {
+        "head": 1,
+        "relation": "called",
+        "tail": 9
+      },
+      {
+        "head": 1,
+        "relation": "called",
+        "tail": 10
+      },
+      {
+        "head": 3,
+        "relation": "denies",
+        "tail": 1
+      },
+      {
+        "head": 3,
+        "relation": "recallsAmbassadorTo",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "brokeredPeaceAgreementBetween",
+        "tail": 11
+      },
+      {
+        "head": 0,
+        "relation": "brokeredPeaceAgreementBetween",
+        "tail": 12
+      },
+      {
+        "head": 0,
+        "relation": "spokeOutAgainst",
+        "tail": 13
+      },
+      {
+        "head": 13,
+        "relation": "persecuted",
+        "tail": 14
+      }
+    ]
+  }
+]

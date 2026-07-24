@@ -1,0 +1,803 @@
+[
+  {
+    "document_id": 180,
+    "ragtruth_id": "690",
+    "text": "The French prosecutor leading the investigation into the crash of Germanwings Flight 9525 has insisted that he was not aware of any video footage from on board the plane. The comments follow claims by Paris Match and Bild that a cell phone video showing the final seconds from on board the flight was recovered from a phone at the wreckage site. The two publications described the video, but did not post it on their websites. They claim the video was found by a source close to the investigation. An official with France's accident investigation agency, the BEA, said the agency is not aware of any such video. Jean-Marc Menichini, a French Gendarmerie spokesman in charge of communications on rescue efforts around the crash site, said the reports were \"completely wrong\" and \"unwarranted\". Cell phones have been collected at the site, he said, but that they \"hadn't been exploited yet\".",
+    "entities": [
+      {
+        "id": 0,
+        "text": "The French prosecutor leading the investigation into the crash of Germanwings Flight 9525"
+      },
+      {
+        "id": 1,
+        "text": "Germanwings Flight 9525"
+      },
+      {
+        "id": 2,
+        "text": "Paris Match and Bild"
+      },
+      {
+        "id": 3,
+        "text": "a cell phone video showing the final seconds from on board the flight"
+      },
+      {
+        "id": 4,
+        "text": "the investigation into the crash of Germanwings Flight 9525"
+      },
+      {
+        "id": 5,
+        "text": "France's accident investigation agency, the BEA"
+      },
+      {
+        "id": 6,
+        "text": "the wreckage site"
+      },
+      {
+        "id": 7,
+        "text": "Jean-Marc Menichini, a French Gendarmerie spokesman in charge of communications on rescue efforts around the crash site"
+      },
+      {
+        "id": 8,
+        "text": "Cell phones"
+      }
+    ],
+    "relations": [
+      {
+        "head": 3,
+        "relation": "foundAt",
+        "tail": 6
+      },
+      {
+        "head": 8,
+        "relation": "collectedAt",
+        "tail": 6
+      }
+    ]
+  },
+  {
+    "document_id": 181,
+    "ragtruth_id": "691",
+    "text": "The French prosecutor leading the investigation into the crash of Germanwings Flight 9525 has stated that he is not aware of any video footage from onboard the plane. This comes after two magazines, German daily Bild and French Paris Match, claimed to have seen a cell phone video showing the final moments of the crash. The video was reportedly recovered from a phone at the wreckage site and shows cries of “My God” in several languages and metallic banging, possibly from the pilot attempting to open the cockpit door. However, an official with France’s accident investigation agency has stated that they are not aware of any such video. The prosecutor also stated that no cell phones found at the crash site have been sent to the Criminal Research Institute for analysis. Meanwhile, it has been confirmed that the co-pilot of the flight, Andreas Lubitz, had battled depression in the past. Lufthansa, the parent company of Germanwings, has admitted that they were aware of his history of depression and had allowed him to continue training as a pilot. Recovery teams continue to search the crash site for human remains and plane debris, and it is expected that all victims will be identified using DNA analysis by the end of the week.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "The French prosecutor leading the investigation into the crash of Germanwings Flight 9525"
+      },
+      {
+        "id": 1,
+        "text": "Germanwings Flight 9525"
+      },
+      {
+        "id": 2,
+        "text": "stated"
+      },
+      {
+        "id": 3,
+        "text": "the crash of Germanwings Flight 9525"
+      },
+      {
+        "id": 4,
+        "text": "a cell phone video showing the final moments of the crash"
+      },
+      {
+        "id": 5,
+        "text": "France’s accident investigation agency"
+      },
+      {
+        "id": 6,
+        "text": "the wreckage site"
+      },
+      {
+        "id": 7,
+        "text": "Lufthansa, the parent company of Germanwings"
+      },
+      {
+        "id": 8,
+        "text": "the co-pilot of the flight, Andreas Lubitz"
+      },
+      {
+        "id": 9,
+        "text": "two"
+      },
+      {
+        "id": 10,
+        "text": "German"
+      },
+      {
+        "id": 11,
+        "text": "daily"
+      },
+      {
+        "id": 12,
+        "text": "Bild"
+      },
+      {
+        "id": 13,
+        "text": "French"
+      },
+      {
+        "id": 14,
+        "text": "Paris Match"
+      },
+      {
+        "id": 15,
+        "text": "the Criminal Research Institute"
+      },
+      {
+        "id": 16,
+        "text": "the end of the week"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "crash",
+        "tail": 3
+      },
+      {
+        "head": 4,
+        "relation": "recoveredFrom",
+        "tail": 6
+      },
+      {
+        "head": 7,
+        "relation": "parentCompanyOf",
+        "tail": 1
+      },
+      {
+        "head": 7,
+        "relation": "awareOf",
+        "tail": 8
+      },
+      {
+        "head": 7,
+        "relation": "allowedToContinueTraining",
+        "tail": 8
+      }
+    ]
+  },
+  {
+    "document_id": 182,
+    "ragtruth_id": "692",
+    "text": "The French prosecutor leading the investigation into the crash of Germanwings Flight 9525 claims that he is not aware of any video footage from on board the plane. However, two magazines, German daily Bild and French Paris Match, have reported claims that a cell phone video showing the final moments of the plane's descent was found at the wreckage site. The video is said to show metallic banging and screams in various languages. The Paris Match and Bild reportedly watched the video, which was not posted on their websites. Officials with France's accident investigation agency, the BEA, claim they are not aware of the video. Meanwhile, the German airline Lufthansa has admitted that co-pilot Andreas Lubitz had battled depression years before taking the controls of Germanwings Flight 9525. The announcement suggests that Lufthansa, the parent company of Germanwings, was aware of Lubitz's depression and allowed him to continue training and ultimately put him in the cockpit. The German government has stated that it will provide compensation to the families of the victims of the crash.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "The French prosecutor leading the investigation into the crash of Germanwings Flight 9525"
+      },
+      {
+        "id": 1,
+        "text": "Germanwings Flight 9525"
+      },
+      {
+        "id": 2,
+        "text": "a cell phone video showing the final moments of the plane's descent"
+      },
+      {
+        "id": 3,
+        "text": "two magazines, German daily Bild and French Paris Match"
+      },
+      {
+        "id": 4,
+        "text": "French Paris Match"
+      },
+      {
+        "id": 5,
+        "text": "German daily Bild"
+      },
+      {
+        "id": 6,
+        "text": "Officials with France's accident investigation agency, the BEA"
+      },
+      {
+        "id": 7,
+        "text": "admitted"
+      },
+      {
+        "id": 8,
+        "text": "the German airline Lufthansa"
+      },
+      {
+        "id": 9,
+        "text": "co-pilot Andreas Lubitz"
+      },
+      {
+        "id": 10,
+        "text": "The German government"
+      },
+      {
+        "id": 11,
+        "text": "the crash of Germanwings Flight 9525"
+      },
+      {
+        "id": 12,
+        "text": "years"
+      }
+    ],
+    "relations": [
+      {
+        "head": 11,
+        "relation": "investigatedBy",
+        "tail": 0
+      },
+      {
+        "head": 2,
+        "relation": "reportedBy",
+        "tail": 3
+      },
+      {
+        "head": 2,
+        "relation": "reportedBy",
+        "tail": 4
+      },
+      {
+        "head": 2,
+        "relation": "reportedBy",
+        "tail": 5
+      },
+      {
+        "head": 1,
+        "relation": "videoFootage",
+        "tail": 2
+      },
+      {
+        "head": 2,
+        "relation": "notAwareOf",
+        "tail": 6
+      },
+      {
+        "head": 8,
+        "relation": "admitted",
+        "tail": 7
+      },
+      {
+        "head": 9,
+        "relation": "depressionDuration",
+        "tail": 12
+      },
+      {
+        "head": 8,
+        "relation": "parentCompanyOf",
+        "tail": 1
+      },
+      {
+        "head": 10,
+        "relation": "compensationTo",
+        "tail": 11
+      }
+    ]
+  },
+  {
+    "document_id": 183,
+    "ragtruth_id": "693",
+    "text": "On Wednesday, the lead investigator in the crash of Germanwings Flight 9525 denied any knowledge of a video allegedly showing the final moments of the doomed flight. Prosecutor Brice Robin stated that no such video had been provided to the investigation team. Two publications, Bild and Paris Match, claimed to have obtained a cell phone video taken by a passenger showing the plane's descent into the Alps, but neither publication has released the footage. Meanwhile, German airline Lufthansa confirmed that co-pilot Andreas Lubitz had battled depression in the past, leading some to speculate that his mental state may have played a role in the crash. Investigators are still trying to determine the cause of the crash and Lubitz's possible motive.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Germanwings Flight 9525"
+      },
+      {
+        "id": 1,
+        "text": "the lead investigator in the crash of Germanwings Flight 9525"
+      },
+      {
+        "id": 2,
+        "text": "a video allegedly showing the final moments of the doomed flight"
+      },
+      {
+        "id": 3,
+        "text": "co-pilot Andreas Lubitz"
+      },
+      {
+        "id": 4,
+        "text": "the crash of Germanwings Flight 9525"
+      },
+      {
+        "id": 5,
+        "text": "Wednesday"
+      },
+      {
+        "id": 6,
+        "text": "Two"
+      },
+      {
+        "id": 7,
+        "text": "Bild"
+      },
+      {
+        "id": 8,
+        "text": "Paris Match"
+      },
+      {
+        "id": 9,
+        "text": "German"
+      },
+      {
+        "id": 10,
+        "text": "Lufthansa"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "investigatorOf",
+        "tail": 4
+      },
+      {
+        "head": 1,
+        "relation": "statementDate",
+        "tail": 5
+      },
+      {
+        "head": 7,
+        "relation": "claimedToHaveObtained",
+        "tail": 2
+      },
+      {
+        "head": 8,
+        "relation": "claimedToHaveObtained",
+        "tail": 2
+      },
+      {
+        "head": 10,
+        "relation": "confirmed",
+        "tail": 3
+      }
+    ]
+  },
+  {
+    "document_id": 184,
+    "ragtruth_id": "694",
+    "text": "Here is a summary of the article in 200 words or less:\n\nProsecutors deny knowledge of any video footage from Germanwings Flight 9525, despite claims by two magazines that they have accessed a cell phone video showing the final moments of the crash. The video is said to feature cries of \"My God\" and metallic banging, but officials say they have not received any such footage. The investigation into the crash, which killed all 150 on board, is ongoing, with a focus on the mental state of co-pilot Andreas Lubitz, who is suspected of deliberately downing the plane. Lubitz had a history of depression and had previously been declared unfit to fly due to his medical conditions. Lufthansa, the parent company of Germanwings, knew of Lubitz's history but allowed him to continue training and flying. Recovery efforts are ongoing, and DNA analysis is expected to help identify the victims by the end of the week.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "two magazines"
+      },
+      {
+        "id": 1,
+        "text": "a cell phone video showing the final moments of the crash"
+      },
+      {
+        "id": 2,
+        "text": "officials"
+      },
+      {
+        "id": 3,
+        "text": "the crash"
+      },
+      {
+        "id": 4,
+        "text": "Germanwings Flight 9525"
+      },
+      {
+        "id": 5,
+        "text": "co-pilot Andreas Lubitz, who is suspected of deliberately downing the plane"
+      },
+      {
+        "id": 6,
+        "text": "a history of depression"
+      },
+      {
+        "id": 7,
+        "text": "all 150 on board"
+      },
+      {
+        "id": 8,
+        "text": "200"
+      },
+      {
+        "id": 9,
+        "text": "metallic banging"
+      },
+      {
+        "id": 10,
+        "text": "Lufthansa"
+      },
+      {
+        "id": 11,
+        "text": "Germanwings"
+      },
+      {
+        "id": 12,
+        "text": "the end of the week"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "accessed",
+        "tail": 1
+      },
+      {
+        "head": 1,
+        "relation": "features",
+        "tail": 9
+      },
+      {
+        "head": 3,
+        "relation": "killed",
+        "tail": 7
+      },
+      {
+        "head": 5,
+        "relation": "suspectedOf",
+        "tail": 4
+      },
+      {
+        "head": 5,
+        "relation": "hasHistoryOf",
+        "tail": 6
+      },
+      {
+        "head": 10,
+        "relation": "parentCompanyOf",
+        "tail": 11
+      },
+      {
+        "head": 10,
+        "relation": "knewOf",
+        "tail": 6
+      }
+    ]
+  },
+  {
+    "document_id": 185,
+    "ragtruth_id": "695",
+    "text": "The French prosecutor leading the investigation into the Germanwings Flight 9525 crash has denied knowledge of any video footage from the plane, despite reports of a cell phone video showing the final moments before the crash. The video is said to show passengers screaming and metallic banging sounds, possibly from the pilot trying to open the cockpit door. The crash killed all 150 people on board and investigators are still searching for clues as to why the plane went down. The co-pilot, Andreas Lubitz, has been found to have had a history of depression and suicidal tendencies, and investigators are looking into whether he deliberately brought down the plane. Recovery efforts are ongoing and personal belongings of the victims, including cell phones, are being returned to their families.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Germanwings Flight 9525"
+      },
+      {
+        "id": 1,
+        "text": "the Germanwings Flight 9525 crash"
+      },
+      {
+        "id": 2,
+        "text": "a cell phone video showing the final moments before the crash"
+      },
+      {
+        "id": 3,
+        "text": "the pilot"
+      },
+      {
+        "id": 4,
+        "text": "all 150 people on board"
+      },
+      {
+        "id": 5,
+        "text": "French"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "victimCount",
+        "tail": 4
+      },
+      {
+        "head": 1,
+        "relation": "involves",
+        "tail": 0
+      },
+      {
+        "head": 2,
+        "relation": "shows",
+        "tail": 1
+      },
+      {
+        "head": 2,
+        "relation": "shows",
+        "tail": 3
+      },
+      {
+        "head": 3,
+        "relation": "broughtDown",
+        "tail": 0
+      }
+    ]
+  },
+  {
+    "document_id": 186,
+    "ragtruth_id": "720",
+    "text": "Robert Lewis Burns Jr., the original drummer for Lynyrd Skynyrd, died in a car crash on Friday night, according to a Georgia State Patrol spokesman. Burns, 64, died after his car hit a mailbox and a tree in northern Georgia, with no other cars involved in the accident. Burns was part of the band’s original lineup, which formed in 1965 and produced rock anthems such as “Sweet Home Alabama” and “Freebird”.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Robert Lewis Burns Jr., the original drummer for Lynyrd Skynyrd,"
+      },
+      {
+        "id": 1,
+        "text": "a car crash"
+      },
+      {
+        "id": 2,
+        "text": "Lynyrd Skynyrd"
+      },
+      {
+        "id": 3,
+        "text": "Friday night"
+      },
+      {
+        "id": 4,
+        "text": "Georgia State"
+      },
+      {
+        "id": 5,
+        "text": "Georgia"
+      },
+      {
+        "id": 6,
+        "text": "1965"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "memberOf",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "deathPlace",
+        "tail": 5
+      },
+      {
+        "head": 0,
+        "relation": "deathDate",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "deathCause",
+        "tail": 1
+      },
+      {
+        "head": 2,
+        "relation": "formationDate",
+        "tail": 6
+      }
+    ]
+  },
+  {
+    "document_id": 187,
+    "ragtruth_id": "721",
+    "text": "Robert Lewis Burns Jr., the original drummer of Lynyrd Skynyrd, died in a car crash at the age of 64. The crash occurred when his car hit a mailbox and a tree in Cartersville, Georgia. Burns was not wearing a seatbelt at the time of the accident. He was a member of Lynyrd Skynyrd's original lineup but left the band before their third studio album. Lynyrd Skynyrd is known for rock anthems like \"Sweet Home Alabama\" and \"Freebird.\"",
+    "entities": [
+      {
+        "id": 0,
+        "text": "a car crash"
+      },
+      {
+        "id": 1,
+        "text": "Robert Lewis Burns Jr., the original drummer of Lynyrd Skynyrd"
+      },
+      {
+        "id": 2,
+        "text": "Lynyrd Skynyrd"
+      },
+      {
+        "id": 3,
+        "text": "the age of 64"
+      },
+      {
+        "id": 4,
+        "text": "Cartersville"
+      },
+      {
+        "id": 5,
+        "text": "Georgia"
+      },
+      {
+        "id": 6,
+        "text": "third"
+      },
+      {
+        "id": 7,
+        "text": "Sweet Home Alabama"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "memberOf",
+        "tail": 2
+      },
+      {
+        "head": 1,
+        "relation": "diedIn",
+        "tail": 0
+      },
+      {
+        "head": 1,
+        "relation": "ageAtDeath",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "occurredIn",
+        "tail": 4
+      },
+      {
+        "head": 4,
+        "relation": "locatedIn",
+        "tail": 5
+      },
+      {
+        "head": 1,
+        "relation": "leftBefore",
+        "tail": 6
+      },
+      {
+        "head": 2,
+        "relation": "knownFor",
+        "tail": 7
+      }
+    ]
+  },
+  {
+    "document_id": 188,
+    "ragtruth_id": "722",
+    "text": "Robert Lewis Burns Jr., the original drummer of the Southern rock band Lynyrd Skynyrd, died in a car accident on Friday night. The car crash occurred in Cartersville, Georgia, and resulted in Burns hitting a mailbox and a tree, killing him. He was not wearing a seatbelt at the time of the crash. Burns was 64 years old and had played in Lynyrd Skynyrd from 1965 until he left the band before its third studio album. The band was inducted into the Rock and Roll Hall of Fame in 2006.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "a car accident"
+      },
+      {
+        "id": 1,
+        "text": "Robert Lewis Burns Jr., the original drummer of the Southern rock band Lynyrd Skynyrd,"
+      },
+      {
+        "id": 2,
+        "text": "the Southern rock band Lynyrd Skynyrd"
+      },
+      {
+        "id": 3,
+        "text": "Friday"
+      },
+      {
+        "id": 4,
+        "text": "night"
+      },
+      {
+        "id": 5,
+        "text": "Cartersville"
+      },
+      {
+        "id": 6,
+        "text": "Georgia"
+      },
+      {
+        "id": 7,
+        "text": "64 years old"
+      },
+      {
+        "id": 8,
+        "text": "1965"
+      },
+      {
+        "id": 9,
+        "text": "third"
+      },
+      {
+        "id": 10,
+        "text": "the Rock and Roll Hall of Fame"
+      },
+      {
+        "id": 11,
+        "text": "2006"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "diedIn",
+        "tail": 0
+      },
+      {
+        "head": 0,
+        "relation": "location",
+        "tail": 5
+      },
+      {
+        "head": 0,
+        "relation": "location",
+        "tail": 6
+      },
+      {
+        "head": 1,
+        "relation": "age",
+        "tail": 7
+      },
+      {
+        "head": 1,
+        "relation": "memberOf",
+        "tail": 2
+      },
+      {
+        "head": 1,
+        "relation": "startYear",
+        "tail": 8
+      },
+      {
+        "head": 2,
+        "relation": "inductedInto",
+        "tail": 10
+      },
+      {
+        "head": 2,
+        "relation": "inductionYear",
+        "tail": 11
+      }
+    ]
+  },
+  {
+    "document_id": 189,
+    "ragtruth_id": "723",
+    "text": "Here is a summary of the article in 68 words or less:\n\nRobert Lewis Burns Jr., original drummer of Lynyrd Skynyrd, died in a car crash at age 64. Burns was part of the band's original lineup and left before their third album. He was not involved in the 1977 plane crash that killed three members. The band has continued to tour with Gary Rossington, the only remaining original member.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Robert Lewis Burns Jr., original drummer of Lynyrd Skynyrd"
+      },
+      {
+        "id": 1,
+        "text": "Lynyrd Skynyrd"
+      },
+      {
+        "id": 2,
+        "text": "68"
+      },
+      {
+        "id": 3,
+        "text": "age 64"
+      },
+      {
+        "id": 4,
+        "text": "third"
+      },
+      {
+        "id": 5,
+        "text": "1977"
+      },
+      {
+        "id": 6,
+        "text": "three"
+      },
+      {
+        "id": 7,
+        "text": "Gary Rossington"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "memberOf",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "diedAtAge",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "leftBeforeAlbum",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "notInvolvedIn",
+        "tail": 5
+      },
+      {
+        "head": 1,
+        "relation": "tourWith",
+        "tail": 7
+      }
+    ]
+  }
+]

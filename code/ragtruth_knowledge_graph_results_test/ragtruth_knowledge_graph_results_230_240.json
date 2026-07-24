@@ -1,0 +1,858 @@
+[
+  {
+    "document_id": 230,
+    "ragtruth_id": "884",
+    "text": "Recently discovered graffiti in a French chalk quarry dating back to World War I has shed new light on the lives of soldiers stationed in the area. The simple yet poignant messages were written by soldiers from various countries, including Australia, the United States, and Britain. These inscriptions provide a glimpse into the experiences of ordinary men caught up in the horrors of war. The underground city in which these writings were found is vast and elaborate, stretching for miles in certain directions. Despite its discovery years ago, the site remained largely overlooked due to its private ownership and limited accessibility. This newfound awareness of the area's history is due to recent changes in ownership and the subsequent efforts to promote awareness and preserve the site.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Recently discovered graffiti in a French chalk quarry dating back to World War I"
+      },
+      {
+        "id": 1,
+        "text": "the area"
+      },
+      {
+        "id": 2,
+        "text": "Australia"
+      },
+      {
+        "id": 3,
+        "text": "the United States"
+      },
+      {
+        "id": 4,
+        "text": "Britain"
+      },
+      {
+        "id": 5,
+        "text": "discovery years ago"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "locatedIn",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "writtenBy",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "writtenBy",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "writtenBy",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "discovery",
+        "tail": 5
+      }
+    ]
+  },
+  {
+    "document_id": 231,
+    "ragtruth_id": "885",
+    "text": "Here is a summary of the article in 121 words:\n\nGraffiti left behind by World War I soldiers has been discovered in a French chalk quarry, including the names and ranks of nearly 2,000 soldiers. The inscriptions date back to 1916 and provide a personal glimpse into the lives of the soldiers. Many of the inscriptions are from Australian and British soldiers, with a smaller number from the US. The graffiti is fragile and difficult to find, as it is hidden beneath layers of earth and debris. The discoveries have been documented by photographer Jeff Gusky, who has been working to preserve the history of the area. The graffiti serves as a poignant reminder of the human cost of war.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "nearly 2,000 soldiers"
+      },
+      {
+        "id": 1,
+        "text": "The inscriptions"
+      },
+      {
+        "id": 2,
+        "text": "Graffiti left behind by World War I soldiers"
+      },
+      {
+        "id": 3,
+        "text": "discovered"
+      },
+      {
+        "id": 4,
+        "text": "121"
+      },
+      {
+        "id": 5,
+        "text": "French"
+      },
+      {
+        "id": 6,
+        "text": "1916"
+      },
+      {
+        "id": 7,
+        "text": "Australian"
+      },
+      {
+        "id": 8,
+        "text": "British"
+      },
+      {
+        "id": 9,
+        "text": "US"
+      },
+      {
+        "id": 10,
+        "text": "Jeff Gusky"
+      }
+    ],
+    "relations": [
+      {
+        "head": 2,
+        "relation": "discoveredBy",
+        "tail": 3
+      },
+      {
+        "head": 1,
+        "relation": "date",
+        "tail": 6
+      },
+      {
+        "head": 1,
+        "relation": "from",
+        "tail": 7
+      },
+      {
+        "head": 1,
+        "relation": "from",
+        "tail": 8
+      },
+      {
+        "head": 1,
+        "relation": "from",
+        "tail": 9
+      },
+      {
+        "head": 3,
+        "relation": "documentedBy",
+        "tail": 10
+      }
+    ]
+  },
+  {
+    "document_id": 232,
+    "ragtruth_id": "886",
+    "text": "Here is a summary of the article in 121 words:\n\nPhotographer Jeff Gusky has discovered over 1,800 graffiti inscriptions in an underground network of tunnels beneath a French chalk quarry, dating back to World War I. The inscriptions include the names, ranks, and hometowns of soldiers from Australia, Britain, and the US. The graffiti provides a human connection to men who lived a century ago, and Gusky notes that some of the soldiers may have carved their names as a last act before heading to the front lines. The discovery sheds new light on the history of the war and offers a glimpse into the lives of the soldiers who fought in it.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "over 1,800 graffiti inscriptions"
+      },
+      {
+        "id": 1,
+        "text": "Photographer Jeff Gusky"
+      },
+      {
+        "id": 2,
+        "text": "soldiers from Australia, Britain, and the US"
+      },
+      {
+        "id": 3,
+        "text": "some of the soldiers"
+      },
+      {
+        "id": 4,
+        "text": "discovered"
+      },
+      {
+        "id": 5,
+        "text": "World War I."
+      },
+      {
+        "id": 6,
+        "text": "121"
+      },
+      {
+        "id": 7,
+        "text": "French"
+      },
+      {
+        "id": 8,
+        "text": "a century ago"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "discoveredBy",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "locatedIn",
+        "tail": 7
+      },
+      {
+        "head": 0,
+        "relation": "date",
+        "tail": 5
+      },
+      {
+        "head": 2,
+        "relation": "participatedIn",
+        "tail": 5
+      },
+      {
+        "head": 2,
+        "relation": "timePeriod",
+        "tail": 8
+      },
+      {
+        "head": 3,
+        "relation": "partOf",
+        "tail": 2
+      }
+    ]
+  },
+  {
+    "document_id": 233,
+    "ragtruth_id": "887",
+    "text": "The discovery of graffiti left by World War I soldiers in a French chalk quarry has provided a unique glimpse into the lives of those who fought in the war. The graffiti, which includes names, dates, and messages, was found in an underground city that extends for miles and was used as a refuge by soldiers during the war. The city had been sealed up for centuries before being rediscovered in the late 19th century, and has only recently been explored in detail. Photographer Jeff Gusky has been documenting the site and has identified over 1,800 names, including 55 Americans and 662 that have yet to be traced. The graffiti provides a powerful human connection to the soldiers who lived and fought a century ago, and serves as a reminder of the sacrifices made during the war.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "World War I"
+      },
+      {
+        "id": 1,
+        "text": "graffiti left by World War I soldiers in a French chalk quarry"
+      },
+      {
+        "id": 2,
+        "text": "an underground city that extends for miles and was used as a refuge by soldiers during the war"
+      },
+      {
+        "id": 3,
+        "text": "those who fought in the war"
+      },
+      {
+        "id": 4,
+        "text": "centuries"
+      },
+      {
+        "id": 5,
+        "text": "the late 19th century"
+      },
+      {
+        "id": 6,
+        "text": "Jeff Gusky"
+      },
+      {
+        "id": 7,
+        "text": "55"
+      },
+      {
+        "id": 8,
+        "text": "Americans"
+      },
+      {
+        "id": 9,
+        "text": "662"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "foundIn",
+        "tail": 2
+      },
+      {
+        "head": 2,
+        "relation": "usedAsRefugeBy",
+        "tail": 0
+      },
+      {
+        "head": 2,
+        "relation": "sealedFor",
+        "tail": 4
+      },
+      {
+        "head": 2,
+        "relation": "rediscoveredIn",
+        "tail": 5
+      },
+      {
+        "head": 6,
+        "relation": "documenting",
+        "tail": 2
+      },
+      {
+        "head": 6,
+        "relation": "identified",
+        "tail": 7
+      },
+      {
+        "head": 6,
+        "relation": "identified",
+        "tail": 8
+      },
+      {
+        "head": 6,
+        "relation": "identified",
+        "tail": 9
+      }
+    ]
+  },
+  {
+    "document_id": 234,
+    "ragtruth_id": "906",
+    "text": "The University of Virginia (UVA) is currently under investigation for how it handles sexual assault cases on campus. The university has never expelled a student for sexual assault, even in cases where the student has admitted to it. The Virginia attorney general has asked law firm O'Melveny & Myers to look at how UVA has historically handled allegations of sexual assault by its students. The investigation also includes how UVA officials handled the allegations in the now-retracted Rolling Stone article, which detailed an alleged 2012 gang rape at a fraternity house. Women have come forward to talk about a campus culture that is not sensitive to victims. Many women have told CNN about a euphemism for the word rape used by other students on campus, where they refer to it as a \"bad experience.\" Some women have stated that there were fraternities with reputations for being \"rapey\" and for using date-rape drugs. Following the Rolling Stone article, UVA admitted to never having expelled a student for sexual assault and instituted a zero-tolerance policy on sexual assault going forward. However, the policy was never defined, so it is unclear what it means. Along with the O'Melveny & Myers investigation, the U.S. Department of Education is also conducting a Title IX investigation into UVA as a result of a civil suit.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "The University of Virginia (UVA)"
+      },
+      {
+        "id": 1,
+        "text": "a student"
+      },
+      {
+        "id": 2,
+        "text": "sexual assault"
+      },
+      {
+        "id": 3,
+        "text": "investigation"
+      },
+      {
+        "id": 4,
+        "text": "Many women"
+      },
+      {
+        "id": 5,
+        "text": "the now-retracted Rolling Stone article, which detailed an alleged 2012 gang rape at a fraternity house"
+      },
+      {
+        "id": 6,
+        "text": "Rolling Stone"
+      },
+      {
+        "id": 7,
+        "text": "a zero-tolerance policy on sexual assault going forward"
+      },
+      {
+        "id": 8,
+        "text": "law firm O'Melveny & Myers"
+      },
+      {
+        "id": 9,
+        "text": "Virginia"
+      },
+      {
+        "id": 10,
+        "text": "CNN"
+      },
+      {
+        "id": 11,
+        "text": "the U.S. Department of Education"
+      },
+      {
+        "id": 12,
+        "text": "Title IX"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "underInvestigationFor",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "neverExpelledFor",
+        "tail": 2
+      },
+      {
+        "head": 8,
+        "relation": "requestedBy",
+        "tail": 9
+      },
+      {
+        "head": 3,
+        "relation": "includes",
+        "tail": 5
+      },
+      {
+        "head": 4,
+        "relation": "told",
+        "tail": 10
+      },
+      {
+        "head": 4,
+        "relation": "referToAs",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "institutedPolicy",
+        "tail": 7
+      },
+      {
+        "head": 11,
+        "relation": "conductingInvestigationInto",
+        "tail": 0
+      },
+      {
+        "head": 11,
+        "relation": "investigationType",
+        "tail": 12
+      }
+    ]
+  },
+  {
+    "document_id": 235,
+    "ragtruth_id": "907",
+    "text": "The University of Virginia (UVA) is facing ongoing investigation into its handling of sexual assault cases on campus. The school has never expelled a student for sexual assault, even when the student admitted to it. The Virginia attorney general has asked the law firm of O'Melveny & Myers to investigate how UVA has historically dealt with sexual assault allegations by its students. This investigation includes examining how UVA officials handled the allegations in the discredited Rolling Stone article by a student referred to as \"Jackie.\" The university had been aware of these allegations for over a year before the article was published. The alleged gang rape occurred in 2012, and Jackie reported it to the university the following spring. Although she publicly shared her story and reported it to the police, the case was not pursued due to her refusal to cooperate. However, other women came forward to speak about their own experiences and the campus culture that was unsupportive towards victims. Rolling Stone's article sparked a conversation about the issue, leading UVA to implement a zero-tolerance policy on sexual assault. The article was later retracted, but some fear that this setback may discourage survivors from coming forward. In addition to the O'Melveny & Myers investigation, the U.S. Department of Education is conducting an open Title IX investigation into UVA as a result of a civil suit. The Columbia Journalism School's critique of the article highlighted the need for better fact-checking and communication with sources. Overall, there are still unresolved questions about UVA's handling of sexual assault cases, and the retraction of the Rolling Stone article has complicated the conversation surrounding this issue.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "The University of Virginia (UVA)"
+      },
+      {
+        "id": 1,
+        "text": "a student"
+      },
+      {
+        "id": 2,
+        "text": "sexual assault"
+      },
+      {
+        "id": 3,
+        "text": "ongoing investigation into its handling of sexual assault cases on campus"
+      },
+      {
+        "id": 4,
+        "text": "sexual assault allegations by its students"
+      },
+      {
+        "id": 5,
+        "text": "the discredited Rolling Stone article by a student referred to as \"Jackie"
+      },
+      {
+        "id": 6,
+        "text": "a student referred to as \"Jackie"
+      },
+      {
+        "id": 7,
+        "text": "The alleged gang rape"
+      },
+      {
+        "id": 8,
+        "text": "her story"
+      },
+      {
+        "id": 9,
+        "text": "other women"
+      },
+      {
+        "id": 10,
+        "text": "Rolling Stone"
+      },
+      {
+        "id": 11,
+        "text": "retracted"
+      },
+      {
+        "id": 12,
+        "text": "the law firm of O'Melveny & Myers"
+      },
+      {
+        "id": 13,
+        "text": "Virginia"
+      },
+      {
+        "id": 14,
+        "text": "2012"
+      },
+      {
+        "id": 15,
+        "text": "zero"
+      },
+      {
+        "id": 16,
+        "text": "the U.S. Department of Education"
+      },
+      {
+        "id": 17,
+        "text": "Title IX"
+      },
+      {
+        "id": 18,
+        "text": "The Columbia Journalism School's"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "investigation",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "expelledFor",
+        "tail": 2
+      },
+      {
+        "head": 3,
+        "relation": "investigator",
+        "tail": 12
+      },
+      {
+        "head": 0,
+        "relation": "dealtWith",
+        "tail": 4
+      },
+      {
+        "head": 3,
+        "relation": "includes",
+        "tail": 4
+      },
+      {
+        "head": 5,
+        "relation": "by",
+        "tail": 6
+      },
+      {
+        "head": 0,
+        "relation": "awareOf",
+        "tail": 4
+      },
+      {
+        "head": 7,
+        "relation": "occurredIn",
+        "tail": 14
+      },
+      {
+        "head": 6,
+        "relation": "reportedTo",
+        "tail": 0
+      },
+      {
+        "head": 6,
+        "relation": "reportedTo",
+        "tail": 16
+      },
+      {
+        "head": 10,
+        "relation": "article",
+        "tail": 5
+      },
+      {
+        "head": 5,
+        "relation": "retractedStatus",
+        "tail": 11
+      },
+      {
+        "head": 16,
+        "relation": "investigation",
+        "tail": 17
+      },
+      {
+        "head": 18,
+        "relation": "critiqueOf",
+        "tail": 5
+      }
+    ]
+  },
+  {
+    "document_id": 236,
+    "ragtruth_id": "908",
+    "text": "Rolling Stone has retracted its story about a purported gang rape at the University of Virginia (UVA), citing discrepancies in the narrative that were never confirmed. The retraction has raised questions about how UVA handles sexual assault cases, with reports suggesting that no students have been expelled for the offense despite multiple claims. Investigations into UVA’s handling of sexual assault are ongoing, with the Virginia attorney general asking a law firm to review past cases. Meanwhile, a survey conducted by the Washington Post reveals that nearly half of college women have experienced unwanted sexual advances or contact. Additionally, a recent study shows that women are more likely to report sexual assault to their peers rather than authority figures, citing fear of retribution. As a result, many universities are implementing new measures to improve communication and support for victims, such as anonymous reporting options and peer-led response teams. However, concerns remain that these measures may not be enough to change the culture of silence surrounding sexual assault on college campuses.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Rolling Stone"
+      },
+      {
+        "id": 1,
+        "text": "retracted"
+      },
+      {
+        "id": 2,
+        "text": "the University of Virginia (UVA)"
+      },
+      {
+        "id": 3,
+        "text": "a purported gang rape at the University of Virginia (UVA)"
+      },
+      {
+        "id": 4,
+        "text": "women"
+      },
+      {
+        "id": 5,
+        "text": "new measures to improve communication and support for victims, such as anonymous reporting options and peer-led response teams"
+      },
+      {
+        "id": 6,
+        "text": "Virginia"
+      },
+      {
+        "id": 7,
+        "text": "the Washington Post"
+      },
+      {
+        "id": 8,
+        "text": "nearly half"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "retractedStoryAbout",
+        "tail": 3
+      }
+    ]
+  },
+  {
+    "document_id": 237,
+    "ragtruth_id": "909",
+    "text": "On Sunday night, Rolling Stone retracted a controversial article about a purported gang rape at the University of Virginia (UVA). The article had sparked a national conversation about sexual assault on college campuses, but it was widely criticized for its flawed reporting and lack of fact-checking. According to the article, UVA has never expelled a student for sexual assault, despite numerous allegations. However, an investigation by the law firm of O'Melveny & Myers found that the university failed to handle these allegations properly. The article also highlighted a culture on campus where sexual assault is normalized, with students using a euphemism for rape and judging victims based on their clothing. The retraction has raised concerns about whether survivors will come forward, fearing they will be accused of lying. The university has implemented a zero-tolerance policy on sexual assault, but it remains to be seen how effective this policy will be. The incident has sparked a wider debate about the need for better reporting and handling of sexual assault allegations on college campuses.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "a controversial article about a purported gang rape at the University of Virginia (UVA)"
+      },
+      {
+        "id": 1,
+        "text": "the University of Virginia (UVA)"
+      },
+      {
+        "id": 2,
+        "text": "numerous allegations"
+      },
+      {
+        "id": 3,
+        "text": "victims"
+      },
+      {
+        "id": 4,
+        "text": "retracted"
+      },
+      {
+        "id": 5,
+        "text": "survivors"
+      },
+      {
+        "id": 6,
+        "text": "a zero-tolerance policy on sexual assault"
+      },
+      {
+        "id": 7,
+        "text": "a purported gang rape at the University of Virginia (UVA)"
+      },
+      {
+        "id": 8,
+        "text": "Sunday"
+      },
+      {
+        "id": 9,
+        "text": "night"
+      },
+      {
+        "id": 10,
+        "text": "Rolling Stone"
+      },
+      {
+        "id": 11,
+        "text": "O'Melveny & Myers"
+      }
+    ],
+    "relations": [
+      {
+        "head": 10,
+        "relation": "retracted",
+        "tail": 0
+      },
+      {
+        "head": 0,
+        "relation": "about",
+        "tail": 7
+      },
+      {
+        "head": 0,
+        "relation": "about",
+        "tail": 1
+      },
+      {
+        "head": 1,
+        "relation": "failedToHandle",
+        "tail": 2
+      },
+      {
+        "head": 1,
+        "relation": "implementedPolicy",
+        "tail": 6
+      }
+    ]
+  },
+  {
+    "document_id": 238,
+    "ragtruth_id": "910",
+    "text": "Sure! Here's the summary within 200 words:\n\nThe University of Virginia is facing an investigation over its handling of sexual assault cases, prompted by a now-retracted Rolling Stone article about a alleged gang rape at a fraternity house. The article sparked a national conversation about campus sexual assault, but its central claim was found to be false. The university has never expelled a student for sexual assault, despite knowing about the allegations for over a year before the article was published. The Virginia Attorney General has hired a law firm to investigate the university's handling of sexual assault allegations, and there is also an open Title IX investigation by the US Department of Education. Many women have come forward with their own experiences of sexual assault at UVA, describing a culture that downplays or ignores such incidents. The university's response to the scandal has been mixed, with some arguing that the article brought attention to the issue while others worry that the retraction may discourage victims from coming forward.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "The University of Virginia"
+      },
+      {
+        "id": 1,
+        "text": "a now-retracted Rolling Stone article about a alleged gang rape at a fraternity house"
+      },
+      {
+        "id": 2,
+        "text": "Many women"
+      },
+      {
+        "id": 3,
+        "text": "the scandal"
+      },
+      {
+        "id": 4,
+        "text": "200"
+      },
+      {
+        "id": 5,
+        "text": "Virginia"
+      },
+      {
+        "id": 6,
+        "text": "Title IX"
+      },
+      {
+        "id": 7,
+        "text": "the US Department of Education"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "investigatedBy",
+        "tail": 7
+      },
+      {
+        "head": 0,
+        "relation": "investigatedBy",
+        "tail": 5
+      },
+      {
+        "head": 0,
+        "relation": "investigatedFor",
+        "tail": 6
+      },
+      {
+        "head": 1,
+        "relation": "publishedAbout",
+        "tail": 0
+      }
+    ]
+  },
+  {
+    "document_id": 239,
+    "ragtruth_id": "911",
+    "text": "The Rolling Stone article about a purported gang rape at the University of Virginia (UVA) has been retracted, but the story has brought attention to the university's handling of sexual assault cases. The university has never expelled a student for sexual assault, even when the student admits to it. The Virginia attorney general has asked a law firm to investigate how UVA historically handled allegations of sexual assault, including the allegations in the Rolling Stone article. Survivors and advocates are concerned that the retraction may discourage others from coming forward, but the article has sparked a necessary conversation about sexual assault on college campuses. The university has instituted a zero-tolerance policy on sexual assault, but the policy is not clearly defined. There are ongoing investigations into UVA's handling of sexual assault cases, including a Title IX investigation by the US Department of Education. The Columbia Journalism School has criticized Rolling Stone's reporting, stating that the mistake could have been avoided with further fact-checking. Some survivors feel that the article sensationalized a rare experience and minimized the experiences of others who have been assaulted. Despite the controversy, some believe that the article has brought attention to a serious issue that needs to be addressed nationwide.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "The Rolling Stone article about a purported gang rape at the University of Virginia (UVA)"
+      },
+      {
+        "id": 1,
+        "text": "the University of Virginia (UVA)"
+      },
+      {
+        "id": 2,
+        "text": "a student"
+      },
+      {
+        "id": 3,
+        "text": "sexual assault"
+      },
+      {
+        "id": 4,
+        "text": "Rolling Stone"
+      },
+      {
+        "id": 5,
+        "text": "retracted"
+      },
+      {
+        "id": 6,
+        "text": "a zero-tolerance policy on sexual assault"
+      },
+      {
+        "id": 7,
+        "text": "the university's handling of sexual assault cases"
+      },
+      {
+        "id": 8,
+        "text": "Virginia"
+      },
+      {
+        "id": 9,
+        "text": "Title IX"
+      },
+      {
+        "id": 10,
+        "text": "the US Department of Education"
+      },
+      {
+        "id": 11,
+        "text": "The Columbia Journalism School"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "about",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "retracted",
+        "tail": 5
+      },
+      {
+        "head": 7,
+        "relation": "of",
+        "tail": 1
+      },
+      {
+        "head": 1,
+        "relation": "expels",
+        "tail": 2
+      },
+      {
+        "head": 2,
+        "relation": "admits",
+        "tail": 3
+      },
+      {
+        "head": 1,
+        "relation": "instituted",
+        "tail": 6
+      },
+      {
+        "head": 7,
+        "relation": "investigatedBy",
+        "tail": 10
+      },
+      {
+        "head": 0,
+        "relation": "criticizedBy",
+        "tail": 11
+      }
+    ]
+  }
+]

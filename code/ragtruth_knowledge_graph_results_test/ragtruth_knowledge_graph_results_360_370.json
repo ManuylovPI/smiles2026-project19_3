@@ -1,0 +1,878 @@
+[
+  {
+    "document_id": 360,
+    "ragtruth_id": "1620",
+    "text": "An explosion at a bus station in Gombe, Nigeria, has killed at least five people and injured over a dozen, according to witnesses. The explosion occurred after a woman left a handbag filled with explosives near a bus, which was set to travel towards the central Nigerian city of Jos. No one has claimed responsibility for the attack, but Boko Haram militants are the main suspects, as they have repeatedly conducted suicide and bombing attacks on bus stations and markets in Gombe and other northern cities.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "An explosion at a bus station in Gombe, Nigeria,"
+      },
+      {
+        "id": 1,
+        "text": "Boko Haram militants"
+      },
+      {
+        "id": 2,
+        "text": "Gombe, Nigeria"
+      },
+      {
+        "id": 3,
+        "text": "at least five"
+      },
+      {
+        "id": 4,
+        "text": "over a dozen"
+      },
+      {
+        "id": 5,
+        "text": "Nigerian"
+      },
+      {
+        "id": 6,
+        "text": "Jos"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "location",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "deathToll",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "injuryToll",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "targetCity",
+        "tail": 6
+      },
+      {
+        "head": 1,
+        "relation": "suspectIn",
+        "tail": 0
+      }
+    ]
+  },
+  {
+    "document_id": 361,
+    "ragtruth_id": "1621",
+    "text": "An explosion outside a bus station in Gombe, Nigeria, killed at least five people and injured over a dozen others. The explosion occurred when a woman left her explosives-laden handbag near a bus filling up with passengers. Boko Haram is the main suspect, as they have carried out similar attacks in the past. The group has been weakened by a regional alliance's offensives, prompting them to target soft targets like bus stations. This is the first attack since Nigeria's presidential election, which was won by Muhammadu Buhari, who has promised to crush Boko Haram.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "An explosion outside a bus station in Gombe, Nigeria,"
+      },
+      {
+        "id": 1,
+        "text": "a woman"
+      },
+      {
+        "id": 2,
+        "text": "Boko Haram"
+      },
+      {
+        "id": 3,
+        "text": "Nigeria"
+      },
+      {
+        "id": 4,
+        "text": "at least five"
+      },
+      {
+        "id": 5,
+        "text": "over a dozen"
+      },
+      {
+        "id": 6,
+        "text": "first"
+      },
+      {
+        "id": 7,
+        "text": "Muhammadu Buhari"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "location",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "deathToll",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "injuryToll",
+        "tail": 5
+      },
+      {
+        "head": 0,
+        "relation": "suspect",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "ordinal",
+        "tail": 6
+      },
+      {
+        "head": 0,
+        "relation": "afterElectionOf",
+        "tail": 7
+      }
+    ]
+  },
+  {
+    "document_id": 362,
+    "ragtruth_id": "1622",
+    "text": "An explosion occurred at a bus station in Gombe, Nigeria, killing at least five people and injuring over 12 others. The blast occurred after a female suicide bomber left a backpack filled with explosives near a bus that was about to depart for Jos. She had pretended to wait for the bus and later blew herself up when it arrived. Boko Haram is believed to be responsible for the attack, although no one has claimed responsibility. The explosion was the first attack since the weekend's presidential election, which saw Muhammadu Buhari win and promise to end the insurgency.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "An explosion"
+      },
+      {
+        "id": 1,
+        "text": "a female suicide bomber"
+      },
+      {
+        "id": 2,
+        "text": "a bus that was about to depart for Jos"
+      },
+      {
+        "id": 3,
+        "text": "Gombe"
+      },
+      {
+        "id": 4,
+        "text": "at least five"
+      },
+      {
+        "id": 5,
+        "text": "over 12"
+      },
+      {
+        "id": 6,
+        "text": "Boko Haram"
+      },
+      {
+        "id": 7,
+        "text": "first"
+      },
+      {
+        "id": 8,
+        "text": "weekend"
+      },
+      {
+        "id": 9,
+        "text": "Muhammadu Buhari"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "location",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "deathToll",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "injuryToll",
+        "tail": 5
+      },
+      {
+        "head": 0,
+        "relation": "responsibleParty",
+        "tail": 6
+      },
+      {
+        "head": 0,
+        "relation": "ordinal",
+        "tail": 7
+      },
+      {
+        "head": 9,
+        "relation": "electionWinner",
+        "tail": 8
+      }
+    ]
+  },
+  {
+    "document_id": 363,
+    "ragtruth_id": "1623",
+    "text": "Here is a summary of the article in 89 words:\n\nAt least five people were killed and over a dozen injured in an explosion outside a bus station in Gombe, Nigeria. A woman left her explosives-laden handbag near a bus filled with passengers, setting it on fire. Boko Haram is believed to be responsible, despite recent offensives against the group. This is the first attack since Nigeria's presidential election, which was won by opposition candidate Muhammadu Buhari, who vowed to end Boko Haram's reign of terror.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "A woman"
+      },
+      {
+        "id": 1,
+        "text": "a bus filled with passengers"
+      },
+      {
+        "id": 2,
+        "text": "Boko Haram"
+      },
+      {
+        "id": 3,
+        "text": "an explosion outside a bus station in Gombe, Nigeria"
+      },
+      {
+        "id": 4,
+        "text": "Nigeria"
+      },
+      {
+        "id": 5,
+        "text": "89"
+      },
+      {
+        "id": 6,
+        "text": "At least five"
+      },
+      {
+        "id": 7,
+        "text": "over a dozen"
+      },
+      {
+        "id": 8,
+        "text": "first"
+      },
+      {
+        "id": 9,
+        "text": "Muhammadu Buhari"
+      }
+    ],
+    "relations": [
+      {
+        "head": 3,
+        "relation": "location",
+        "tail": 4
+      },
+      {
+        "head": 3,
+        "relation": "deathToll",
+        "tail": 6
+      },
+      {
+        "head": 3,
+        "relation": "injuryToll",
+        "tail": 7
+      },
+      {
+        "head": 1,
+        "relation": "targetOf",
+        "tail": 0
+      },
+      {
+        "head": 3,
+        "relation": "firstAttackSince",
+        "tail": 9
+      }
+    ]
+  },
+  {
+    "document_id": 364,
+    "ragtruth_id": "1624",
+    "text": "Here is a summary of the article in 89 words:\n\nAt least five people were killed and over a dozen injured in an explosion outside a bus station in Gombe, Nigeria. The blast occurred when a woman left a bomb-laden handbag near a bus filling with passengers. The attack is suspected to be the work of Boko Haram, who have carried out similar bombings in the past. This is the first attack since Nigeria's recent presidential election, which was won by opposition candidate Muhammadu Buhari, who has vowed to defeat the terrorist group.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "an explosion outside a bus station in Gombe, Nigeria"
+      },
+      {
+        "id": 1,
+        "text": "Nigeria"
+      },
+      {
+        "id": 2,
+        "text": "Boko Haram, who have carried out similar bombings in the past"
+      },
+      {
+        "id": 3,
+        "text": "89"
+      },
+      {
+        "id": 4,
+        "text": "At least five"
+      },
+      {
+        "id": 5,
+        "text": "over a dozen"
+      },
+      {
+        "id": 6,
+        "text": "first"
+      },
+      {
+        "id": 7,
+        "text": "Muhammadu Buhari"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "location",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "suspectedPerpetrator",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "ordinal",
+        "tail": 6
+      },
+      {
+        "head": 1,
+        "relation": "presidentialElectionWinner",
+        "tail": 7
+      }
+    ]
+  },
+  {
+    "document_id": 365,
+    "ragtruth_id": "1625",
+    "text": "At least five people were killed and over a dozen injured in an explosion outside a bus station in Gombe, Nigeria. A woman pretended to be waiting for a bus, then left her explosives-laden handbag behind and disappeared. The blast set a bus on fire and is suspected to have been carried out by Boko Haram, which has been weakened by recent military offensives but has resorted to attacks on soft targets.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "A woman"
+      },
+      {
+        "id": 1,
+        "text": "an explosion outside a bus station in Gombe, Nigeria"
+      },
+      {
+        "id": 2,
+        "text": "At least five"
+      },
+      {
+        "id": 3,
+        "text": "over a dozen"
+      },
+      {
+        "id": 4,
+        "text": "Boko Haram"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "location",
+        "tail": 4
+      }
+    ]
+  },
+  {
+    "document_id": 366,
+    "ragtruth_id": "1644",
+    "text": "The US has been losing influence in Latin America due to a focus on challenges at home and instability in the Middle East. As a result, China, Russia and Iran have all made inroads in the region at Washington's expense. The US needs to put on a strong performance in Panama at the Summit of the Americas if the US is to have a chance of improving ties. The summit is an opportunity for the US to reverse the tide and build on the potential offered by a natural alliance strengthened by millions of people with Latin American and Caribbean blood who make their homes in the US. There are difficulties, however, as the US has had recent summits descending into diplomatic and PR disasters, such as the last summit which stayed in the news much longer than anyone expected after Secret Service agents embarrassed the US by hiring prostitutes and bringing them to their hotel rooms, in violation of basic security protocols. However, the Obama administration is attempting to move past this by meeting with Cuban dissidents, which sends a message that he is not neglecting other issues such as human rights as he recasts relations with Cuba.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "the Middle East"
+      },
+      {
+        "id": 1,
+        "text": "The US"
+      },
+      {
+        "id": 2,
+        "text": "the Summit of the Americas"
+      },
+      {
+        "id": 3,
+        "text": "millions of people with Latin American and Caribbean blood who make their homes in the US"
+      },
+      {
+        "id": 4,
+        "text": "prostitutes"
+      },
+      {
+        "id": 5,
+        "text": "Obama"
+      },
+      {
+        "id": 6,
+        "text": "Latin America"
+      },
+      {
+        "id": 7,
+        "text": "China"
+      },
+      {
+        "id": 8,
+        "text": "Russia"
+      },
+      {
+        "id": 9,
+        "text": "Iran"
+      },
+      {
+        "id": 10,
+        "text": "Panama"
+      },
+      {
+        "id": 11,
+        "text": "Secret Service"
+      },
+      {
+        "id": 12,
+        "text": "Cuban"
+      },
+      {
+        "id": 13,
+        "text": "Cuba"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "losingInfluenceIn",
+        "tail": 6
+      },
+      {
+        "head": 7,
+        "relation": "madeInroadsIn",
+        "tail": 0
+      },
+      {
+        "head": 8,
+        "relation": "madeInroadsIn",
+        "tail": 0
+      },
+      {
+        "head": 9,
+        "relation": "madeInroadsIn",
+        "tail": 0
+      },
+      {
+        "head": 1,
+        "relation": "needsToPerformIn",
+        "tail": 10
+      },
+      {
+        "head": 1,
+        "relation": "opportunityAt",
+        "tail": 2
+      },
+      {
+        "head": 1,
+        "relation": "hasPeopleOfDescent",
+        "tail": 3
+      },
+      {
+        "head": 11,
+        "relation": "embarrassed",
+        "tail": 1
+      },
+      {
+        "head": 11,
+        "relation": "hired",
+        "tail": 4
+      },
+      {
+        "head": 5,
+        "relation": "metWith",
+        "tail": 12
+      },
+      {
+        "head": 5,
+        "relation": "recastsRelationsWith",
+        "tail": 13
+      }
+    ]
+  },
+  {
+    "document_id": 367,
+    "ragtruth_id": "1645",
+    "text": "The news article discusses the importance of President Obama's attendance at the Summit of the Americas in Panama. It emphasizes the need for the United States to regain influence in Latin America, as it has been losing ground to China, Russia, and Iran. The article suggests that the summit offers an opportunity for the U.S. to reverse this trend and strengthen alliances with its neighbors. \n\nHowever, the article also highlights the potential pitfalls that the U.S. must avoid at the summit. It mentions the embarrassing incident at the previous summit in Cartagena, where Secret Service agents were caught hiring prostitutes. It also mentions the confrontation between President Obama and the late Venezuelan President Hugo Chavez, where Chavez handed Obama a book blaming the U.S. for Latin America's problems. These incidents damaged the U.S.'s reputation and strained relations with regional leaders. \n\nThe article argues that the U.S. should aim to articulate a clear vision and rally its neighbors behind it. It suggests that Obama's new Cuba policy could be a step in the right direction, but cautions that the U.S. must be careful not to give ammunition to repressive regimes like Venezuela's. The article also highlights the importance of addressing issues such as democracy, human rights, and corruption in the region, as these are concerns for many Latin Americans. \n\nOverall, the article emphasizes the need for the U.S. to make a strong impression at the summit and show that it is a reliable partner for Latin America. It suggests that if Obama can effectively communicate America's goals and support for the region's aspirations, he can leave a lasting legacy beyond just a handshake with Cuban President Raul Castro.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "The news article"
+      },
+      {
+        "id": 1,
+        "text": "the United States"
+      },
+      {
+        "id": 2,
+        "text": "the Summit of the Americas in Panama"
+      },
+      {
+        "id": 3,
+        "text": "losing"
+      },
+      {
+        "id": 4,
+        "text": "President Obama's"
+      },
+      {
+        "id": 5,
+        "text": "the late Venezuelan President Hugo Chavez"
+      },
+      {
+        "id": 6,
+        "text": "Latin America"
+      },
+      {
+        "id": 7,
+        "text": "its neighbors"
+      },
+      {
+        "id": 8,
+        "text": "a clear vision"
+      },
+      {
+        "id": 9,
+        "text": "issues such as democracy, human rights, and corruption in the region"
+      },
+      {
+        "id": 10,
+        "text": "China"
+      },
+      {
+        "id": 11,
+        "text": "Russia"
+      },
+      {
+        "id": 12,
+        "text": "Iran"
+      },
+      {
+        "id": 13,
+        "text": "Cartagena"
+      },
+      {
+        "id": 14,
+        "text": "Secret Service"
+      },
+      {
+        "id": 15,
+        "text": "Cuba"
+      },
+      {
+        "id": 16,
+        "text": "Venezuela"
+      },
+      {
+        "id": 17,
+        "text": "Latin Americans"
+      },
+      {
+        "id": 18,
+        "text": "Cuban"
+      },
+      {
+        "id": 19,
+        "text": "Raul Castro"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "influenceIn",
+        "tail": 6
+      },
+      {
+        "head": 1,
+        "relation": "losingGroundTo",
+        "tail": 10
+      },
+      {
+        "head": 1,
+        "relation": "losingGroundTo",
+        "tail": 11
+      },
+      {
+        "head": 1,
+        "relation": "losingGroundTo",
+        "tail": 12
+      },
+      {
+        "head": 2,
+        "relation": "location",
+        "tail": 15
+      },
+      {
+        "head": 1,
+        "relation": "neighbor",
+        "tail": 7
+      },
+      {
+        "head": 1,
+        "relation": "policy",
+        "tail": 15
+      },
+      {
+        "head": 16,
+        "relation": "country",
+        "tail": 6
+      },
+      {
+        "head": 1,
+        "relation": "partnerIn",
+        "tail": 6
+      },
+      {
+        "head": 4,
+        "relation": "handshakeWith",
+        "tail": 19
+      }
+    ]
+  },
+  {
+    "document_id": 368,
+    "ragtruth_id": "1646",
+    "text": "President Barack Obama recently met with Cuban President Raul Castro during the Summit of the Americas, marking the first official meeting between the two leaders since they announced plans to restore diplomatic ties. However, the focus of the summit should not solely be on this historic handshake. Obama needs to make a strong showing at the summit to repair the strained relationship with neighboring countries, particularly in Latin America. Despite the increased influence of China, Russia, and Iran in the region, the United States still has the potential to form a strong hemispheric bloc with its natural allies. However, recent summits have resulted in diplomatic and PR disasters for the US due to mishaps such as Secret Service agents hiring prostitutes and political gaffes by Obama. To avoid repeating these mistakes, the US must carefully orchestrate the Panama meeting. Obama has been working towards repairing relationships with Venezuela and Nicaragua, and he plans to address corruption and human rights violations in the region. If successful, Obama will leave a lasting legacy in Latin America beyond the handshake with Castro.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "met"
+      },
+      {
+        "id": 1,
+        "text": "the two leaders"
+      },
+      {
+        "id": 2,
+        "text": "the Summit of the Americas"
+      },
+      {
+        "id": 3,
+        "text": "President Barack Obama"
+      },
+      {
+        "id": 4,
+        "text": "Latin America"
+      },
+      {
+        "id": 5,
+        "text": "the United States"
+      },
+      {
+        "id": 6,
+        "text": "mishaps such as Secret Service agents hiring prostitutes and political gaffes by Obama"
+      },
+      {
+        "id": 7,
+        "text": "Venezuela and Nicaragua"
+      },
+      {
+        "id": 8,
+        "text": "Cuban President Raul Castro"
+      },
+      {
+        "id": 9,
+        "text": "China"
+      },
+      {
+        "id": 10,
+        "text": "Russia"
+      },
+      {
+        "id": 11,
+        "text": "Iran"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "participants",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "participants",
+        "tail": 8
+      },
+      {
+        "head": 0,
+        "relation": "partOf",
+        "tail": 2
+      },
+      {
+        "head": 1,
+        "relation": "announcedPlansToRestoreDiplomaticTies",
+        "tail": 1
+      },
+      {
+        "head": 3,
+        "relation": "attended",
+        "tail": 2
+      },
+      {
+        "head": 3,
+        "relation": "worksTowardsRepairingRelationshipsWith",
+        "tail": 7
+      },
+      {
+        "head": 3,
+        "relation": "willLeaveLegacyIn",
+        "tail": 4
+      },
+      {
+        "head": 5,
+        "relation": "hasPotentialToFormBlocWith",
+        "tail": 5
+      }
+    ]
+  },
+  {
+    "document_id": 369,
+    "ragtruth_id": "1647",
+    "text": "At the Summit of the Americas in Panama, President Barack Obama is seeking to improve US relations with Latin American and Caribbean countries, which have declined in recent years due to a perceived lack of US interest and influence in the region. However, past summits have ended in diplomatic and public relations disasters for the US, including incidents of US Secret Service agents hiring prostitutes and a confrontation between Obama and Venezuelan President Hugo Chavez. Obama has a chance to turn things around with his new Cuba policy, but risks handing a propaganda victory to Venezuelan President Nicolás Maduro by imposing sanctions on his regime. The US has lost influence in the region to China, Russia, and Iran, and faces challenges such as oppression of opposition leaders, suppression of press freedom, and corruption. If Obama can articulate a clear vision and demonstrate support for democracy, human rights, and the rule of law in the region, he may be able to rebuild US relationships and improve the lives of millions of people living in poverty.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "President Barack Obama"
+      },
+      {
+        "id": 1,
+        "text": "Venezuelan President Nicolás Maduro"
+      },
+      {
+        "id": 2,
+        "text": "the US"
+      },
+      {
+        "id": 3,
+        "text": "the region"
+      },
+      {
+        "id": 4,
+        "text": "Americas"
+      },
+      {
+        "id": 5,
+        "text": "Panama"
+      },
+      {
+        "id": 6,
+        "text": "US"
+      },
+      {
+        "id": 7,
+        "text": "Latin American"
+      },
+      {
+        "id": 8,
+        "text": "Caribbean"
+      },
+      {
+        "id": 9,
+        "text": "recent years"
+      },
+      {
+        "id": 10,
+        "text": "US"
+      },
+      {
+        "id": 11,
+        "text": "US Secret Service"
+      },
+      {
+        "id": 12,
+        "text": "Venezuelan"
+      },
+      {
+        "id": 13,
+        "text": "Hugo Chavez"
+      },
+      {
+        "id": 14,
+        "text": "Cuba"
+      },
+      {
+        "id": 15,
+        "text": "China"
+      },
+      {
+        "id": 16,
+        "text": "Russia"
+      },
+      {
+        "id": 17,
+        "text": "Iran"
+      },
+      {
+        "id": 18,
+        "text": "US"
+      },
+      {
+        "id": 19,
+        "text": "millions"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "seekingToImproveRelationsWith",
+        "tail": 6
+      },
+      {
+        "head": 2,
+        "relation": "relationsWith",
+        "tail": 7
+      },
+      {
+        "head": 2,
+        "relation": "relationsWith",
+        "tail": 8
+      },
+      {
+        "head": 2,
+        "relation": "lostInfluenceTo",
+        "tail": 15
+      },
+      {
+        "head": 2,
+        "relation": "lostInfluenceTo",
+        "tail": 16
+      },
+      {
+        "head": 2,
+        "relation": "lostInfluenceTo",
+        "tail": 17
+      },
+      {
+        "head": 0,
+        "relation": "policyOn",
+        "tail": 14
+      },
+      {
+        "head": 0,
+        "relation": "confrontationWith",
+        "tail": 13
+      },
+      {
+        "head": 0,
+        "relation": "supportFor",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "supportFor",
+        "tail": 3
+      }
+    ]
+  }
+]

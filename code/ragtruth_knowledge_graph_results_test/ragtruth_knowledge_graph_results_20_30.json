@@ -1,0 +1,488 @@
+[
+  {
+    "document_id": 20,
+    "ragtruth_id": "68",
+    "text": "Senator Elizabeth Warren has responded to Rand Paul's decision to run for president by stating that she finds it \"almost unfathomable\" that a politician from her own state is attempting to launch his campaign on a record that includes questioning landmark voting rights and civil rights legislation. She criticized his campaign team's message of inclusion as hype and highlighted his past actions that have undermined the rights of marginalized communities. Warren urged the GOP to have a real commitment to the issues facing minority communities and reminded Paul's supporters of his previous comments on the Civil Rights Act, the Department of Education, women's rights, and DREAMers' protection.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Senator Elizabeth Warren"
+      },
+      {
+        "id": 1,
+        "text": "Rand Paul's"
+      },
+      {
+        "id": 2,
+        "text": "GOP"
+      },
+      {
+        "id": 3,
+        "text": "the Civil Rights Act"
+      },
+      {
+        "id": 4,
+        "text": "the Department of Education"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "criticizedBy",
+        "tail": 0
+      },
+      {
+        "head": 0,
+        "relation": "urged",
+        "tail": 2
+      },
+      {
+        "head": 1,
+        "relation": "commentedOn",
+        "tail": 3
+      },
+      {
+        "head": 1,
+        "relation": "commentedOn",
+        "tail": 4
+      }
+    ]
+  },
+  {
+    "document_id": 21,
+    "ragtruth_id": "69",
+    "text": "Rand Paul, a Republican Senator from Kentucky, announced his candidacy for President of the United States. However, his record has been criticized for questioning landmark voting rights and civil rights legislation, which has led some to believe that he is out of touch with the mainstream and lacks commitment to minority communities. Despite his attempts to position himself as a bridge builder between the GOP and minority groups, his policies have been seen as regressive and disqualifying for a potential President. The author argues that the American people deserve a leader who respects their intelligence and will work towards progress, rather than rolling back the gains made over the past five decades.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Rand Paul, a Republican Senator from Kentucky"
+      },
+      {
+        "id": 1,
+        "text": "the American people"
+      },
+      {
+        "id": 2,
+        "text": "the United States"
+      },
+      {
+        "id": 3,
+        "text": "GOP"
+      },
+      {
+        "id": 4,
+        "text": "the past five decades"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "candidateFor",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "memberOf",
+        "tail": 3
+      }
+    ]
+  },
+  {
+    "document_id": 22,
+    "ragtruth_id": "70",
+    "text": "Rand Paul announced his presidential campaign with a message of inclusivity, but his record shows otherwise. As the first woman and person of color in the Kentucky State Senate, the author knows how important it is to have a leader who supports civil rights and voting rights. However, Paul has questioned landmark legislation and opposed policies that benefit minority communities. He has also shown a lack of cultural competency and disrespected the intelligence of the American people. The author concludes that Paul's record is outdated and disqualifies him from leading the country.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Rand Paul"
+      },
+      {
+        "id": 1,
+        "text": "the author"
+      },
+      {
+        "id": 2,
+        "text": "his record"
+      },
+      {
+        "id": 3,
+        "text": "first"
+      },
+      {
+        "id": 4,
+        "text": "Kentucky State Senate"
+      },
+      {
+        "id": 5,
+        "text": "American"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "record",
+        "tail": 2
+      },
+      {
+        "head": 1,
+        "relation": "memberOf",
+        "tail": 4
+      }
+    ]
+  },
+  {
+    "document_id": 23,
+    "ragtruth_id": "71",
+    "text": "Rand Paul, a Kentucky Senator, has announced his candidacy for President, but his record on civil rights and voting rights has been criticized as being out of touch with the mainstream. Paul has questioned the Civil Rights Act and the Voting Rights Act, and has suggested that private business owners have the right to discriminate. His attempts to rebrand himself as a champion of minority outreach have been met with skepticism, as his policies do not align with the issues facing minority communities. The author argues that Paul's positions would take the country back to a time before the Civil Rights Act and the Department of Education, and would limit the choices of women and DREAMers. The author believes that the American people deserve a leader who will not dismantle the progress made over the past five decades and who will not pander to certain groups for political gain.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Rand Paul, a Kentucky Senator"
+      },
+      {
+        "id": 1,
+        "text": "the Civil Rights Act"
+      },
+      {
+        "id": 2,
+        "text": "The author"
+      },
+      {
+        "id": 3,
+        "text": "the Voting Rights Act"
+      },
+      {
+        "id": 4,
+        "text": "the Department of Education"
+      },
+      {
+        "id": 5,
+        "text": "American"
+      },
+      {
+        "id": 6,
+        "text": "the past five decades"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "criticizedOn",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "criticizedOn",
+        "tail": 3
+      }
+    ]
+  },
+  {
+    "document_id": 24,
+    "ragtruth_id": "120",
+    "text": "Mary Kay Letourneau Fualaau, who served over seven years in prison after having an affair with her 13-year-old student, Vili Fualaau, appears in an ABC interview with her now husband. In the interview, she discusses their marriage, her plans to teach again, and her intention to have her status as a registered sex offender lifted.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "her"
+      },
+      {
+        "id": 1,
+        "text": "an ABC interview with her now husband"
+      },
+      {
+        "id": 2,
+        "text": "Mary Kay Letourneau Fualaau"
+      },
+      {
+        "id": 3,
+        "text": "seven years"
+      },
+      {
+        "id": 4,
+        "text": "13-year-old"
+      },
+      {
+        "id": 5,
+        "text": "Vili Fualaau"
+      }
+    ],
+    "relations": [
+      {
+        "head": 2,
+        "relation": "servedSentence",
+        "tail": 3
+      },
+      {
+        "head": 2,
+        "relation": "spouse",
+        "tail": 5
+      }
+    ]
+  },
+  {
+    "document_id": 25,
+    "ragtruth_id": "121",
+    "text": "Mary Kay Letourneau Fualaau, who gained infamy for her relationship with her 13-year-old student, is still happily married to Vili Fualaau. After serving over seven years in prison, they have been married for 10 years and have two teenage daughters. In an upcoming interview with Barbara Walters, Letourneau Fualaau discusses their marriage, her plans to teach again, and her desire to have her status as a registered sex offender lifted. Fualaau talks about his struggles with alcoholism, depression, and feeling failed by the system.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Mary Kay Letourneau Fualaau, who gained infamy for her relationship with her 13-year-old student"
+      },
+      {
+        "id": 1,
+        "text": "they"
+      },
+      {
+        "id": 2,
+        "text": "married"
+      },
+      {
+        "id": 3,
+        "text": "Vili Fualaau"
+      },
+      {
+        "id": 4,
+        "text": "seven years"
+      },
+      {
+        "id": 5,
+        "text": "10 years"
+      },
+      {
+        "id": 6,
+        "text": "two"
+      },
+      {
+        "id": 7,
+        "text": "Barbara Walters"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "spouse",
+        "tail": 3
+      },
+      {
+        "head": 1,
+        "relation": "marriedDuration",
+        "tail": 5
+      },
+      {
+        "head": 0,
+        "relation": "interviewedBy",
+        "tail": 7
+      }
+    ]
+  },
+  {
+    "document_id": 26,
+    "ragtruth_id": "122",
+    "text": "Mary Kay Letourneau Fualaau, the 53-year-old woman who served jail time for having an affair with her 13-year-old student, is sharing her story of love and redemption on \"20/20.\" With her husband, Vili Fualaau, by her side, she will discuss how they have managed to make their marriage work despite their age difference. Additionally, Letourneau Fualaau plans to teach again and hopes to have her status as a registered sex offender lifted.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "her"
+      },
+      {
+        "id": 1,
+        "text": "they"
+      },
+      {
+        "id": 2,
+        "text": "Mary Kay Letourneau Fualaau"
+      },
+      {
+        "id": 3,
+        "text": "53-year-old"
+      },
+      {
+        "id": 4,
+        "text": "13-year-old"
+      },
+      {
+        "id": 5,
+        "text": "20/20"
+      },
+      {
+        "id": 6,
+        "text": "Vili Fualaau"
+      }
+    ],
+    "relations": [
+      {
+        "head": 2,
+        "relation": "spouse",
+        "tail": 6
+      },
+      {
+        "head": 2,
+        "relation": "age",
+        "tail": 3
+      }
+    ]
+  },
+  {
+    "document_id": 27,
+    "ragtruth_id": "123",
+    "text": "Mary Kay Letourneau, who served 7 years in prison for having an affair with her 13-year-old student, is still married to her husband Vili Fualaau and they are celebrating their 10th wedding anniversary this May. Despite their large age gap, they claim their marriage works due to their shared values and love for each other. Letourneau hopes to become a teacher again and has applied to have her sex offender status lifted.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Mary Kay Letourneau, who served 7 years in prison for having an affair with her 13-year-old student"
+      },
+      {
+        "id": 1,
+        "text": "they"
+      },
+      {
+        "id": 2,
+        "text": "Vili Fualaau"
+      },
+      {
+        "id": 3,
+        "text": "10th"
+      },
+      {
+        "id": 4,
+        "text": "May"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "spouse",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "weddingAnniversary",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "weddingAnniversaryMonth",
+        "tail": 4
+      }
+    ]
+  },
+  {
+    "document_id": 28,
+    "ragtruth_id": "124",
+    "text": "Mary Kay Letourneau Fualaau and her husband Vili Fualaau, who were once tabloid fodder for their controversial relationship, are celebrating their 10th wedding anniversary. Despite serving time in prison for their sexual relationship when he was a minor, they say they're still happy together. They plan to teach again and lift Mary Kay's status as a registered sex offender.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Mary Kay Letourneau Fualaau"
+      },
+      {
+        "id": 1,
+        "text": "Mary Kay Letourneau Fualaau and her husband Vili Fualaau, who were once tabloid fodder for their controversial relationship"
+      },
+      {
+        "id": 2,
+        "text": "her husband Vili Fualaau"
+      },
+      {
+        "id": 3,
+        "text": "10th"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "spouse",
+        "tail": 2
+      },
+      {
+        "head": 1,
+        "relation": "anniversary",
+        "tail": 3
+      }
+    ]
+  },
+  {
+    "document_id": 29,
+    "ragtruth_id": "125",
+    "text": "Mary Kay Letourneau Fualaau and her husband Vili Fualaau are celebrating their 10th wedding anniversary, despite their controversial past. After serving 7 years in prison for their sexual relationship, which began when he was 13 and she was a 34-year-old teacher, they wed in 2005 and have two teen daughters. They will appear on ABC's \"20/20\" to discuss their marriage, her plans to teach again, and his struggles with addiction and depression.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Mary Kay Letourneau Fualaau"
+      },
+      {
+        "id": 1,
+        "text": "Mary Kay Letourneau Fualaau and her husband Vili Fualaau"
+      },
+      {
+        "id": 2,
+        "text": "her husband Vili Fualaau"
+      },
+      {
+        "id": 3,
+        "text": "10th"
+      },
+      {
+        "id": 4,
+        "text": "7 years"
+      },
+      {
+        "id": 5,
+        "text": "13"
+      },
+      {
+        "id": 6,
+        "text": "34-year-old"
+      },
+      {
+        "id": 7,
+        "text": "2005"
+      },
+      {
+        "id": 8,
+        "text": "two"
+      },
+      {
+        "id": 9,
+        "text": "ABC"
+      },
+      {
+        "id": 10,
+        "text": "20/20"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "anniversary",
+        "tail": 3
+      },
+      {
+        "head": 1,
+        "relation": "servedSentence",
+        "tail": 4
+      },
+      {
+        "head": 1,
+        "relation": "marriedIn",
+        "tail": 7
+      },
+      {
+        "head": 1,
+        "relation": "hasChildren",
+        "tail": 8
+      },
+      {
+        "head": 1,
+        "relation": "appearsOn",
+        "tail": 10
+      },
+      {
+        "head": 10,
+        "relation": "broadcastOn",
+        "tail": 9
+      }
+    ]
+  }
+]

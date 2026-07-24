@@ -1,0 +1,474 @@
+[
+  {
+    "document_id": 30,
+    "ragtruth_id": "138",
+    "text": "Kanye West has settled a civil lawsuit with a paparazzo, whom he attacked in July 2013. The photographer, Daniel Ramos, had filed the suit, claiming that West had interfered with his rights to pursue a lawful occupation. Ramos' lawyer, Gloria Allred, has stated that the case has been dismissed as it was \"settled to the satisfaction of the parties\", adding that \"one important aspect of it was an apology by Kanye West to our client, Daniel Ramos.\" The pair were pictured shaking hands after West's apology. No further details of the settlement have been disclosed.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Kanye West"
+      },
+      {
+        "id": 1,
+        "text": "a paparazzo, whom he attacked in July 2013"
+      },
+      {
+        "id": 2,
+        "text": "a civil lawsuit"
+      },
+      {
+        "id": 3,
+        "text": "a civil lawsuit with a paparazzo, whom he attacked in July 2013"
+      },
+      {
+        "id": 4,
+        "text": "settled"
+      },
+      {
+        "id": 5,
+        "text": "an apology by Kanye West to our client, Daniel Ramos"
+      },
+      {
+        "id": 6,
+        "text": "Gloria Allred"
+      },
+      {
+        "id": 7,
+        "text": "one"
+      }
+    ],
+    "relations": [
+      {
+        "head": 3,
+        "relation": "settled",
+        "tail": 0
+      },
+      {
+        "head": 3,
+        "relation": "dismissed",
+        "tail": 4
+      },
+      {
+        "head": 5,
+        "relation": "by",
+        "tail": 0
+      },
+      {
+        "head": 5,
+        "relation": "to",
+        "tail": 1
+      }
+    ]
+  },
+  {
+    "document_id": 31,
+    "ragtruth_id": "139",
+    "text": "Kanye West has settled a lawsuit with paparazzi photographer Daniel Ramos, whom he assaulted in 2013 at Los Angeles International Airport. West pleaded no contest to a misdemeanor count of battery and received probation, anger management sessions, and community service. Ramos had filed a civil suit seeking damages, alleging that West interfered with his right to work. The case was set for trial, but Ramos filed a dismissal after reaching a settlement with West. The settlement included an apology from West to Ramos, as shown in a picture of them shaking hands. This incident is not the first time West has been accused of assault.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Kanye West"
+      },
+      {
+        "id": 1,
+        "text": "paparazzi photographer Daniel Ramos, whom he assaulted in 2013 at Los Angeles International Airport"
+      },
+      {
+        "id": 2,
+        "text": "settled"
+      },
+      {
+        "id": 3,
+        "text": "assaulted"
+      },
+      {
+        "id": 4,
+        "text": "first"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "settlementWith",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "assaulted",
+        "tail": 1
+      }
+    ]
+  },
+  {
+    "document_id": 32,
+    "ragtruth_id": "140",
+    "text": "Kanye West has settled a lawsuit with a paparazzi photographer he assaulted in 2013. The photographer, Daniel Ramos, had sued West for damages and accused him of interfering with his right to pursue a lawful occupation. Ramos accepted an apology from West and the two shook hands in a photo released by Ramos' lawyer, Gloria Allred. Ramos and West had previously reached a criminal settlement in which West pleaded no contest to a misdemeanor count of battery and received two years' probation and community service. Allred stated that the case sent an important message that celebrities are not above the law and cannot physically attack someone simply because they were asked a question.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Kanye West"
+      },
+      {
+        "id": 1,
+        "text": "a paparazzi photographer he assaulted in 2013"
+      },
+      {
+        "id": 2,
+        "text": "a lawsuit with a paparazzi photographer he assaulted in 2013"
+      },
+      {
+        "id": 3,
+        "text": "the two"
+      },
+      {
+        "id": 4,
+        "text": "Ramos' lawyer, Gloria Allred"
+      },
+      {
+        "id": 5,
+        "text": "someone"
+      },
+      {
+        "id": 6,
+        "text": "two years'"
+      }
+    ],
+    "relations": [
+      {
+        "head": 2,
+        "relation": "involves",
+        "tail": 0
+      },
+      {
+        "head": 2,
+        "relation": "involves",
+        "tail": 1
+      },
+      {
+        "head": 2,
+        "relation": "lawyer",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "settled",
+        "tail": 2
+      },
+      {
+        "head": 1,
+        "relation": "acceptedApologyFrom",
+        "tail": 0
+      },
+      {
+        "head": 3,
+        "relation": "refersTo",
+        "tail": 1
+      },
+      {
+        "head": 3,
+        "relation": "refersTo",
+        "tail": 0
+      },
+      {
+        "head": 0,
+        "relation": "pleadedNoContestIn",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "probation",
+        "tail": 6
+      }
+    ]
+  },
+  {
+    "document_id": 33,
+    "ragtruth_id": "141",
+    "text": "Kanye West has settled a lawsuit with a paparazzo he assaulted in 2013. The photographer, Daniel Ramos, sought damages for interfering with his right to work. West pleaded guilty to battery and was sentenced to probation and anger management classes. The settlement includes an apology from West to Ramos. This is the second time West has settled a legal dispute involving physical altercations, having previously reached a civil settlement with another man in 2014.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Kanye West"
+      },
+      {
+        "id": 1,
+        "text": "a paparazzo he assaulted in 2013"
+      },
+      {
+        "id": 2,
+        "text": "settled"
+      },
+      {
+        "id": 3,
+        "text": "second"
+      },
+      {
+        "id": 4,
+        "text": "2014"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "settlementWith",
+        "tail": 1
+      },
+      {
+        "head": 2,
+        "relation": "includesApologyFrom",
+        "tail": 0
+      },
+      {
+        "head": 0,
+        "relation": "settlementWith",
+        "tail": 4
+      }
+    ]
+  },
+  {
+    "document_id": 34,
+    "ragtruth_id": "142",
+    "text": "Kanye West settled a lawsuit with a paparazzo he assaulted at LAX in 2013. The photographer, Daniel Ramos, had filed a civil suit seeking damages after West pleaded no contest to battery. As part of the settlement, West apologized to Ramos and the case was dismissed. The settlement terms were not disclosed. This marks the second time West has settled a legal dispute related to physical altercations, after avoiding criminal charges in a separate incident in 2014.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Kanye West"
+      },
+      {
+        "id": 1,
+        "text": "a paparazzo he assaulted at LAX in 2013"
+      },
+      {
+        "id": 2,
+        "text": "a lawsuit with a paparazzo he assaulted at LAX in 2013"
+      },
+      {
+        "id": 3,
+        "text": "settled"
+      },
+      {
+        "id": 4,
+        "text": "second"
+      },
+      {
+        "id": 5,
+        "text": "2014"
+      }
+    ],
+    "relations": [
+      {
+        "head": 2,
+        "relation": "settledBy",
+        "tail": 0
+      },
+      {
+        "head": 0,
+        "relation": "apologizedTo",
+        "tail": 1
+      },
+      {
+        "head": 2,
+        "relation": "dismissed",
+        "tail": 3
+      }
+    ]
+  },
+  {
+    "document_id": 35,
+    "ragtruth_id": "143",
+    "text": "Kanye West has settled a lawsuit with paparazzo Daniel Ramos, who he assaulted at LAX in 2013. West pleaded no contest to battery and was sentenced to probation and anger management. The civil suit sought damages for interfering with Ramos' right to pursue his occupation. The case was settled out of court, with West apologizing to Ramos and the parties agreeing to keep the terms confidential. The incident was caught on video and sparked debate about celebrities' treatment of paparazzi.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Kanye West"
+      },
+      {
+        "id": 1,
+        "text": "a lawsuit with paparazzo Daniel Ramos, who he assaulted at LAX in 2013"
+      },
+      {
+        "id": 2,
+        "text": "paparazzo Daniel Ramos, who he assaulted at LAX in 2013"
+      },
+      {
+        "id": 3,
+        "text": "settled"
+      },
+      {
+        "id": 4,
+        "text": "assaulted"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "involves",
+        "tail": 2
+      },
+      {
+        "head": 1,
+        "relation": "settlementStatus",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "assaulted",
+        "tail": 2
+      }
+    ]
+  },
+  {
+    "document_id": 36,
+    "ragtruth_id": "144",
+    "text": "Blues legend B.B. King was hospitalized due to dehydration caused by his Type II diabetes. His daughter, Claudette King, has since stated that he is feeling much better and is now back at home. Last year, the musician suffered from dehydration and exhaustion after a show, which forced him to cancel the remainder of his tour.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Blues legend B.B. King"
+      },
+      {
+        "id": 1,
+        "text": "Claudette King"
+      },
+      {
+        "id": 2,
+        "text": "Last year"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "daughter",
+        "tail": 1
+      }
+    ]
+  },
+  {
+    "document_id": 37,
+    "ragtruth_id": "145",
+    "text": "Blues legend B.B. King was briefly hospitalized for dehydration, a result of his Type II diabetes. However, he is now feeling much better and has been discharged from the hospital. King thanked his fans for their concerns and is now resting at home with his grandchildren. No further details about his condition or where he was hospitalized have been released. King, known for his iconic Gibson guitar named Lucille, has had a successful career with numerous Grammy nominations and hits such as \"The Thrill Is Gone.\" Last year, he had to cancel his tour due to dehydration and exhaustion.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Blues legend B.B. King"
+      },
+      {
+        "id": 1,
+        "text": "his fans"
+      },
+      {
+        "id": 2,
+        "text": "Grammy"
+      },
+      {
+        "id": 3,
+        "text": "Last year"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "awardNomination",
+        "tail": 2
+      }
+    ]
+  },
+  {
+    "document_id": 38,
+    "ragtruth_id": "146",
+    "text": "B.B. King, the legendary blues musician, was hospitalized for dehydration caused by his Type II diabetes. However, he has since been discharged and is now resting at home. The cause of his dehydration was attributed to his busy schedule and not drinking enough water. King is known for his hit songs such as \"The Thrill Is Gone\" and \"There Must be a Better World Somewhere\".",
+    "entities": [
+      {
+        "id": 0,
+        "text": "B.B. King, the legendary blues musician"
+      },
+      {
+        "id": 1,
+        "text": "dehydration caused by his Type II diabetes"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "causeOf",
+        "tail": 1
+      }
+    ]
+  },
+  {
+    "document_id": 39,
+    "ragtruth_id": "147",
+    "text": "B.B. King, 89, was hospitalized for dehydration due to his Type II diabetes. His daughter Claudette King confirmed he is feeling much better and will return home to rest. King has 30 Grammy nominations and is known for using Gibson guitars, naming each one \"Lucille\". Last year, he canceled his tour due to dehydration and exhaustion after a show in Chicago.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "B.B. King, 89"
+      },
+      {
+        "id": 1,
+        "text": "Claudette King"
+      },
+      {
+        "id": 2,
+        "text": "30"
+      },
+      {
+        "id": 3,
+        "text": "Grammy"
+      },
+      {
+        "id": 4,
+        "text": "Gibson"
+      },
+      {
+        "id": 5,
+        "text": "Lucille"
+      },
+      {
+        "id": 6,
+        "text": "Last year"
+      },
+      {
+        "id": 7,
+        "text": "Chicago"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "child",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "awardNominationCount",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "award",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "usesInstrumentBrand",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "namedGuitar",
+        "tail": 5
+      },
+      {
+        "head": 0,
+        "relation": "tourCanceledIn",
+        "tail": 6
+      },
+      {
+        "head": 0,
+        "relation": "showIn",
+        "tail": 7
+      }
+    ]
+  }
+]

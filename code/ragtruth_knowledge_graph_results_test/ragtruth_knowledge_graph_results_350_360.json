@@ -1,0 +1,780 @@
+[
+  {
+    "document_id": 350,
+    "ragtruth_id": "1598",
+    "text": "Richie Benaud, a former Australia cricket captain and legendary broadcaster, passed away on March 8 at the age of 84. He was well known for his witty one-liners during commentary and was widely regarded as the greatest voice of cricket. Benaud played in 64 Test matches and was inducted into the Sport Australia Hall of Fame in 1985. He also had a successful career with the BBC as a commentator for over four decades. His insightful and insightful style of commentating was greatly appreciated by fans of cricket. News of his passing quickly led to an outpouring of grief from fans and his fellow cricket players alike.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Richie Benaud, a former Australia cricket captain and legendary broadcaster"
+      },
+      {
+        "id": 1,
+        "text": "passed"
+      },
+      {
+        "id": 2,
+        "text": "March 8"
+      },
+      {
+        "id": 3,
+        "text": "the age of 84"
+      },
+      {
+        "id": 4,
+        "text": "one"
+      },
+      {
+        "id": 5,
+        "text": "64"
+      },
+      {
+        "id": 6,
+        "text": "the Sport Australia Hall of Fame"
+      },
+      {
+        "id": 7,
+        "text": "1985"
+      },
+      {
+        "id": 8,
+        "text": "BBC"
+      },
+      {
+        "id": 9,
+        "text": "four decades"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "dateOfDeath",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "ageAtDeath",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "numberOfTestMatches",
+        "tail": 5
+      },
+      {
+        "head": 0,
+        "relation": "inductedInto",
+        "tail": 6
+      },
+      {
+        "head": 0,
+        "relation": "inductionYear",
+        "tail": 7
+      },
+      {
+        "head": 0,
+        "relation": "employer",
+        "tail": 8
+      },
+      {
+        "head": 0,
+        "relation": "commentatorDuration",
+        "tail": 9
+      }
+    ]
+  },
+  {
+    "document_id": 351,
+    "ragtruth_id": "1599",
+    "text": "Former Australian cricket captain and legendary broadcaster Richie Benaud has passed away at the age of 84. Benaud was widely regarded as the greatest commentator in cricket history, with a career spanning over four decades with the BBC. He was known for his witty one-liners and insightful analysis, and was inducted into the Sport Australia Hall of Fame in 1985. Benaud was a pioneering figure in Australian cricket, leading the team as captain from 1958 to 1964 and setting an incredibly high standard on and off the field. His passing has drawn tributes from around the world, including from Australian Prime Minister Tony Abbott, who described Benaud as \"cricket personified\". Current Australian captain Michael Clarke and former Pakistani captain Imran Khan are among those who have paid their respects, while British Prime Minister David Cameron has also expressed his sadness at Benaud's passing.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Former Australian cricket captain and legendary broadcaster Richie Benaud"
+      },
+      {
+        "id": 1,
+        "text": "passed"
+      },
+      {
+        "id": 2,
+        "text": "Current Australian captain Michael Clarke and former Pakistani captain Imran Khan"
+      },
+      {
+        "id": 3,
+        "text": "British Prime Minister David Cameron"
+      },
+      {
+        "id": 4,
+        "text": "the age of 84"
+      },
+      {
+        "id": 5,
+        "text": "four decades"
+      },
+      {
+        "id": 6,
+        "text": "BBC"
+      },
+      {
+        "id": 7,
+        "text": "one"
+      },
+      {
+        "id": 8,
+        "text": "the Sport Australia Hall of Fame"
+      },
+      {
+        "id": 9,
+        "text": "1985"
+      },
+      {
+        "id": 10,
+        "text": "Australian"
+      },
+      {
+        "id": 11,
+        "text": "1958"
+      },
+      {
+        "id": 12,
+        "text": "1964"
+      },
+      {
+        "id": 13,
+        "text": "Australian"
+      },
+      {
+        "id": 14,
+        "text": "Tony Abbott"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "age",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "careerDuration",
+        "tail": 5
+      },
+      {
+        "head": 0,
+        "relation": "employer",
+        "tail": 6
+      },
+      {
+        "head": 0,
+        "relation": "inductedInto",
+        "tail": 8
+      },
+      {
+        "head": 0,
+        "relation": "inductionYear",
+        "tail": 9
+      },
+      {
+        "head": 0,
+        "relation": "nationality",
+        "tail": 10
+      },
+      {
+        "head": 0,
+        "relation": "captainStartYear",
+        "tail": 11
+      },
+      {
+        "head": 0,
+        "relation": "captainEndYear",
+        "tail": 12
+      },
+      {
+        "head": 0,
+        "relation": "describedBy",
+        "tail": 14
+      },
+      {
+        "head": 0,
+        "relation": "describedBy",
+        "tail": 3
+      }
+    ]
+  },
+  {
+    "document_id": 352,
+    "ragtruth_id": "1600",
+    "text": "Here is a summary of the article in 200 words or less:\n\nFormer Australian cricket captain and legendary broadcaster Richie Benaud passed away at the age of 84. Benaud was known for his wit and insightful commentary, which made him a beloved figure in the cricketing world. He led the Australian team to victory in numerous series and was inducted into the Sport Australia Hall of Fame. After retiring from playing, he became a renowned broadcaster, bringing the game to millions of viewers around the world. His passing has generated an outpouring of tributes from cricket enthusiasts and notable figures, including Australian Prime Minister Tony Abbott and British Prime Minister David Cameron. Benaud will be remembered as a true legend of the sport.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Former Australian cricket captain and legendary broadcaster Richie Benaud"
+      },
+      {
+        "id": 1,
+        "text": "passed"
+      },
+      {
+        "id": 2,
+        "text": "the game"
+      },
+      {
+        "id": 3,
+        "text": "200"
+      },
+      {
+        "id": 4,
+        "text": "the age of 84"
+      },
+      {
+        "id": 5,
+        "text": "Australian"
+      },
+      {
+        "id": 6,
+        "text": "the Sport Australia Hall of Fame"
+      },
+      {
+        "id": 7,
+        "text": "millions"
+      },
+      {
+        "id": 8,
+        "text": "Australian"
+      },
+      {
+        "id": 9,
+        "text": "Tony Abbott"
+      },
+      {
+        "id": 10,
+        "text": "British"
+      },
+      {
+        "id": 11,
+        "text": "David Cameron"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "age",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "inductedInto",
+        "tail": 6
+      },
+      {
+        "head": 0,
+        "relation": "nationality",
+        "tail": 5
+      },
+      {
+        "head": 0,
+        "relation": "commentaryAudience",
+        "tail": 7
+      },
+      {
+        "head": 0,
+        "relation": "tributeFrom",
+        "tail": 9
+      },
+      {
+        "head": 0,
+        "relation": "tributeFrom",
+        "tail": 11
+      }
+    ]
+  },
+  {
+    "document_id": 353,
+    "ragtruth_id": "1601",
+    "text": "Richie Benaud, former Australian cricket captain and legendary broadcaster, passed away at the age of 84. Benaud was a veteran of 64 Test matches and was known for his witty one-liners and insightful commentary. He led Australia into an era of world dominance as a player and later became a renowned broadcaster, setting a high standard both on and off the field. Benaud was revered by cricket fans around the world, and his passing has generated a wave of condolences, including from Australian Prime Minister Tony Abbott and various cricket personalities. He will be remembered as a legendary figure in the world of cricket and will be deeply missed.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Richie Benaud, former Australian cricket captain and legendary broadcaster"
+      },
+      {
+        "id": 1,
+        "text": "passed"
+      },
+      {
+        "id": 2,
+        "text": "the age of 84"
+      },
+      {
+        "id": 3,
+        "text": "64"
+      },
+      {
+        "id": 4,
+        "text": "one"
+      },
+      {
+        "id": 5,
+        "text": "Australia"
+      },
+      {
+        "id": 6,
+        "text": "Australian"
+      },
+      {
+        "id": 7,
+        "text": "Tony Abbott"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "ageAtDeath",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "captained",
+        "tail": 5
+      }
+    ]
+  },
+  {
+    "document_id": 354,
+    "ragtruth_id": "1602",
+    "text": "NASA astrophysicist, Amy Mainzer, has named an asteroid after Malala Yousafzai, the Pakistani education activist who survived an assassination attempt by the Taliban. The asteroid, now named 316201 Malala, was discovered in 2010 by Mainzer, who said that very few asteroids have been named to honour women, particularly women of colour. The asteroid orbits the sun between Mars and Jupiter every five and half years, and is dark and 4km in diameter.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "an asteroid"
+      },
+      {
+        "id": 1,
+        "text": "NASA astrophysicist, Amy Mainzer"
+      },
+      {
+        "id": 2,
+        "text": "Malala Yousafzai"
+      },
+      {
+        "id": 3,
+        "text": "Pakistani"
+      },
+      {
+        "id": 4,
+        "text": "Taliban"
+      },
+      {
+        "id": 5,
+        "text": "2010"
+      },
+      {
+        "id": 6,
+        "text": "Mars"
+      },
+      {
+        "id": 7,
+        "text": "Jupiter"
+      },
+      {
+        "id": 8,
+        "text": "five and half years"
+      },
+      {
+        "id": 9,
+        "text": "4km"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "namedAfter",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "discoveredBy",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "discoveryDate",
+        "tail": 5
+      },
+      {
+        "head": 0,
+        "relation": "orbitsBetween",
+        "tail": 6
+      },
+      {
+        "head": 0,
+        "relation": "orbitsBetween",
+        "tail": 7
+      },
+      {
+        "head": 0,
+        "relation": "orbitalPeriod",
+        "tail": 8
+      },
+      {
+        "head": 0,
+        "relation": "diameter",
+        "tail": 9
+      }
+    ]
+  },
+  {
+    "document_id": 355,
+    "ragtruth_id": "1603",
+    "text": "Malala Yousafzai, the Nobel Peace Prize-winning education activist, has had an asteroid named after her by a NASA astrophysicist. Malala was gravely injured by the Pakistani Taliban for promoting girls' education. The asteroid, called 316201 Malala, was discovered in 2010 and orbits between Mars and Jupiter. The astrophysicist, Amy Mainzer, named the asteroid to honor the contributions of women, particularly women of color. Mainzer believes that educating girls is crucial for solving humanity's challenges and utilizing the potential of all intelligent individuals.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Malala Yousafzai, the Nobel Peace Prize-winning education activist"
+      },
+      {
+        "id": 1,
+        "text": "a NASA astrophysicist"
+      },
+      {
+        "id": 2,
+        "text": "named"
+      },
+      {
+        "id": 3,
+        "text": "an asteroid"
+      },
+      {
+        "id": 4,
+        "text": "the Pakistani Taliban"
+      },
+      {
+        "id": 5,
+        "text": "316201"
+      },
+      {
+        "id": 6,
+        "text": "Malala"
+      },
+      {
+        "id": 7,
+        "text": "2010"
+      },
+      {
+        "id": 8,
+        "text": "Mars"
+      },
+      {
+        "id": 9,
+        "text": "Jupiter"
+      }
+    ],
+    "relations": [
+      {
+        "head": 3,
+        "relation": "namedAfter",
+        "tail": 0
+      },
+      {
+        "head": 3,
+        "relation": "namedBy",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "injuredBy",
+        "tail": 4
+      },
+      {
+        "head": 3,
+        "relation": "discoveredIn",
+        "tail": 7
+      },
+      {
+        "head": 3,
+        "relation": "orbitsBetween",
+        "tail": 8
+      },
+      {
+        "head": 3,
+        "relation": "orbitsBetween",
+        "tail": 9
+      }
+    ]
+  },
+  {
+    "document_id": 356,
+    "ragtruth_id": "1604",
+    "text": "Malala Yousafzai received a new honor as an asteroid in our solar system has been named after her. The asteroid, 316201 Malala, discovered in June 2010, circles the sun between Mars and Jupiter and is about 4 kilometers in diameter. Scientist Amy Mainzer, who worked with Malala on an educational science show, decided to name the asteroid after her due to her significant contribution to education.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Malala Yousafzai"
+      },
+      {
+        "id": 1,
+        "text": "named"
+      },
+      {
+        "id": 2,
+        "text": "an asteroid in our solar system"
+      },
+      {
+        "id": 3,
+        "text": "316201"
+      },
+      {
+        "id": 4,
+        "text": "Malala"
+      },
+      {
+        "id": 5,
+        "text": "June 2010"
+      },
+      {
+        "id": 6,
+        "text": "Mars"
+      },
+      {
+        "id": 7,
+        "text": "Jupiter"
+      },
+      {
+        "id": 8,
+        "text": "about 4 kilometers"
+      },
+      {
+        "id": 9,
+        "text": "Amy Mainzer"
+      }
+    ],
+    "relations": [
+      {
+        "head": 2,
+        "relation": "namedAfter",
+        "tail": 0
+      },
+      {
+        "head": 2,
+        "relation": "discoveredIn",
+        "tail": 5
+      },
+      {
+        "head": 2,
+        "relation": "orbitsBetween",
+        "tail": 6
+      },
+      {
+        "head": 2,
+        "relation": "orbitsBetween",
+        "tail": 7
+      },
+      {
+        "head": 2,
+        "relation": "diameter",
+        "tail": 8
+      },
+      {
+        "head": 2,
+        "relation": "namedBy",
+        "tail": 9
+      }
+    ]
+  },
+  {
+    "document_id": 357,
+    "ragtruth_id": "1605",
+    "text": "Malala Yousafzai, Nobel laureate and education advocate, has been given an asteroid named after her by NASA astrophysicist Amy Mainzer. The asteroid, 316201 Malala, orbits the sun between Mars and Jupiter every five and a half years and is approximately 4 kilometers in diameter. Mainzer chose to honor Malala for her work in promoting girls' education, which she believes is crucial for increasing human potential and solving global problems.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Malala Yousafzai, Nobel laureate and education advocate"
+      },
+      {
+        "id": 1,
+        "text": "an asteroid named after her"
+      },
+      {
+        "id": 2,
+        "text": "NASA astrophysicist Amy Mainzer"
+      },
+      {
+        "id": 3,
+        "text": "Mars"
+      },
+      {
+        "id": 4,
+        "text": "Jupiter"
+      },
+      {
+        "id": 5,
+        "text": "five and a half years"
+      },
+      {
+        "id": 6,
+        "text": "approximately 4 kilometers"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "namedAfter",
+        "tail": 0
+      },
+      {
+        "head": 1,
+        "relation": "namedBy",
+        "tail": 2
+      },
+      {
+        "head": 1,
+        "relation": "orbitsBetween",
+        "tail": 3
+      },
+      {
+        "head": 1,
+        "relation": "orbitsBetween",
+        "tail": 4
+      },
+      {
+        "head": 1,
+        "relation": "orbitalPeriod",
+        "tail": 5
+      },
+      {
+        "head": 1,
+        "relation": "diameter",
+        "tail": 6
+      }
+    ]
+  },
+  {
+    "document_id": 358,
+    "ragtruth_id": "1606",
+    "text": "Sure! Here's the summary within 70 words:\n\nNASA astrophysicist Amy Mainzer named an asteroid after Malala Yousafzai to honor her advocacy for girls' education. The asteroid, 316201 Malala, orbits the sun between Mars and Jupiter every five and a half years. Mainzer believes that education for all, including girls, is essential to solving global problems and realizing human potential.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Malala Yousafzai"
+      },
+      {
+        "id": 1,
+        "text": "an asteroid"
+      },
+      {
+        "id": 2,
+        "text": "NASA astrophysicist Amy Mainzer"
+      },
+      {
+        "id": 3,
+        "text": "70"
+      },
+      {
+        "id": 4,
+        "text": "Mars"
+      },
+      {
+        "id": 5,
+        "text": "Jupiter"
+      },
+      {
+        "id": 6,
+        "text": "five and a half years"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "namedAfter",
+        "tail": 0
+      },
+      {
+        "head": 1,
+        "relation": "orbitsBetween",
+        "tail": 4
+      },
+      {
+        "head": 1,
+        "relation": "orbitsBetween",
+        "tail": 5
+      },
+      {
+        "head": 1,
+        "relation": "orbitalPeriod",
+        "tail": 6
+      }
+    ]
+  },
+  {
+    "document_id": 359,
+    "ragtruth_id": "1607",
+    "text": "Malala Yousafzai, Nobel Peace Prize winner and education activist, has been honored with an asteroid named after her. Astrophysicist Amy Mainzer named asteroid 316201 Malala, recognizing her advocacy for girls' education. The asteroid orbits between Mars and Jupiter and is 4 km in diameter. Mainzer believes that supporting girls' education is crucial for maximizing human potential and solving global problems.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Malala Yousafzai, Nobel Peace Prize winner and education activist"
+      },
+      {
+        "id": 1,
+        "text": "named"
+      },
+      {
+        "id": 2,
+        "text": "an asteroid named after her"
+      },
+      {
+        "id": 3,
+        "text": "Astrophysicist Amy Mainzer"
+      },
+      {
+        "id": 4,
+        "text": "Malala"
+      },
+      {
+        "id": 5,
+        "text": "Mars"
+      },
+      {
+        "id": 6,
+        "text": "Jupiter"
+      },
+      {
+        "id": 7,
+        "text": "4 km"
+      }
+    ],
+    "relations": [
+      {
+        "head": 2,
+        "relation": "namedAfter",
+        "tail": 0
+      },
+      {
+        "head": 2,
+        "relation": "namedBy",
+        "tail": 3
+      },
+      {
+        "head": 2,
+        "relation": "named",
+        "tail": 4
+      },
+      {
+        "head": 2,
+        "relation": "orbitsBetween",
+        "tail": 5
+      },
+      {
+        "head": 2,
+        "relation": "orbitsBetween",
+        "tail": 6
+      },
+      {
+        "head": 2,
+        "relation": "diameter",
+        "tail": 7
+      }
+    ]
+  }
+]

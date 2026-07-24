@@ -1,0 +1,1032 @@
+[
+  {
+    "document_id": 0,
+    "ragtruth_id": "24",
+    "text": "The FBI has charged a Philadelphia woman, Keonna Thomas, with trying to travel overseas to fight for ISIS. This follows the arrests of two New York women, Noelle Velentzas and Asia Siddiqui, who were accused of planning to build an explosive device for attacks in the United States. Thomas purchased an electronic visa to Turkey and a round-trip ticket to Barcelona, following the advice given in an ISIS manual for recruits. She has been charged with attempting to provide material support to a terrorist organisation and could face 15 years in prison.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "charged"
+      },
+      {
+        "id": 1,
+        "text": "a Philadelphia woman, Keonna Thomas,"
+      },
+      {
+        "id": 2,
+        "text": "ISIS"
+      },
+      {
+        "id": 3,
+        "text": "FBI"
+      },
+      {
+        "id": 4,
+        "text": "two"
+      },
+      {
+        "id": 5,
+        "text": "New York"
+      },
+      {
+        "id": 6,
+        "text": "Noelle Velentzas"
+      },
+      {
+        "id": 7,
+        "text": "Asia Siddiqui"
+      },
+      {
+        "id": 8,
+        "text": "the United States"
+      },
+      {
+        "id": 9,
+        "text": "Turkey"
+      },
+      {
+        "id": 10,
+        "text": "Barcelona"
+      },
+      {
+        "id": 11,
+        "text": "15 years"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "chargedBy",
+        "tail": 3
+      },
+      {
+        "head": 1,
+        "relation": "associatedWith",
+        "tail": 2
+      },
+      {
+        "head": 1,
+        "relation": "travelDestination",
+        "tail": 9
+      },
+      {
+        "head": 1,
+        "relation": "travelDestination",
+        "tail": 10
+      },
+      {
+        "head": 1,
+        "relation": "possibleSentence",
+        "tail": 11
+      }
+    ]
+  },
+  {
+    "document_id": 1,
+    "ragtruth_id": "25",
+    "text": "A Philadelphia woman, Keonna Thomas, has been charged by the FBI for attempting to travel overseas to fight for ISIS. Two other women from New York were also arrested on terror charges. Thomas had sent multiple social media messages expressing support for ISIS and had purchased a visa to Turkey, a common route to Syria for joining the terrorist group. In a separate case, two women in New York, Noelle Velentzas and Asia Siddiqui, were arrested for planning to build an explosive device for attacks in the US. The Department of Justice has prosecuted over 30 cases related to terrorism in the past 18 months.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "A Philadelphia woman, Keonna Thomas"
+      },
+      {
+        "id": 1,
+        "text": "ISIS"
+      },
+      {
+        "id": 2,
+        "text": "New York"
+      },
+      {
+        "id": 3,
+        "text": "FBI"
+      },
+      {
+        "id": 4,
+        "text": "Two"
+      },
+      {
+        "id": 5,
+        "text": "Turkey"
+      },
+      {
+        "id": 6,
+        "text": "Syria"
+      },
+      {
+        "id": 7,
+        "text": "two"
+      },
+      {
+        "id": 8,
+        "text": "Noelle Velentzas"
+      },
+      {
+        "id": 9,
+        "text": "Asia Siddiqui"
+      },
+      {
+        "id": 10,
+        "text": "US"
+      },
+      {
+        "id": 11,
+        "text": "The Department of Justice"
+      },
+      {
+        "id": 12,
+        "text": "over 30"
+      },
+      {
+        "id": 13,
+        "text": "the past 18 months"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "chargedBy",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "supports",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "travelDestination",
+        "tail": 5
+      },
+      {
+        "head": 5,
+        "relation": "routeTo",
+        "tail": 6
+      },
+      {
+        "head": 8,
+        "relation": "arrestedIn",
+        "tail": 2
+      },
+      {
+        "head": 9,
+        "relation": "arrestedIn",
+        "tail": 2
+      },
+      {
+        "head": 8,
+        "relation": "plannedAttackIn",
+        "tail": 10
+      },
+      {
+        "head": 9,
+        "relation": "plannedAttackIn",
+        "tail": 10
+      },
+      {
+        "head": 11,
+        "relation": "prosecutedCases",
+        "tail": 12
+      },
+      {
+        "head": 11,
+        "relation": "timePeriod",
+        "tail": 13
+      }
+    ]
+  },
+  {
+    "document_id": 2,
+    "ragtruth_id": "26",
+    "text": "The FBI charged a Philadelphia woman named Keonna Thomas, also known as “Young Lioness” and “Fatayat Al Khilafah,” with attempting to travel overseas to fight for ISIS. She purchased an electronic visa to Turkey, which is known as the easiest way to enter Syria and join ISIS. Thomas could be sentenced to 15 years in prison. Meanwhile, two New York women were also arrested this week on terror charges. Homeland Security Secretary Jeh Johnson stated that the terrorist threat is more decentralized and involves the potential use of social media and the internet.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "a Philadelphia woman named Keonna Thomas, also known as “Young Lioness” and “Fatayat Al Khilafah"
+      },
+      {
+        "id": 1,
+        "text": "ISIS"
+      },
+      {
+        "id": 2,
+        "text": "FBI"
+      },
+      {
+        "id": 3,
+        "text": "Turkey"
+      },
+      {
+        "id": 4,
+        "text": "Syria"
+      },
+      {
+        "id": 5,
+        "text": "15 years"
+      },
+      {
+        "id": 6,
+        "text": "two"
+      },
+      {
+        "id": 7,
+        "text": "New York"
+      },
+      {
+        "id": 8,
+        "text": "this week"
+      },
+      {
+        "id": 9,
+        "text": "Homeland Security"
+      },
+      {
+        "id": 10,
+        "text": "Jeh Johnson"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "chargedBy",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "attemptedToTravelToFightFor",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "purchasedVisaTo",
+        "tail": 3
+      },
+      {
+        "head": 3,
+        "relation": "entryTo",
+        "tail": 4
+      },
+      {
+        "head": 3,
+        "relation": "join",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "possibleSentence",
+        "tail": 5
+      }
+    ]
+  },
+  {
+    "document_id": 3,
+    "ragtruth_id": "27",
+    "text": "FBI charges Philadelphia woman with attempting to join ISIS after purchasing electronic visa for Turkey. Keonna Thomas, 30, also known as \"Young Lioness\" and \"Fatayat Al Khilafah,\" made numerous social media posts expressing desire to fight for ISIS. She could face 15 years in prison. Three women have been arrested this week on terror charges, including two in New York who were accused of planning to build an explosive device for attacks in the US.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Philadelphia woman"
+      },
+      {
+        "id": 1,
+        "text": "ISIS"
+      },
+      {
+        "id": 2,
+        "text": "FBI"
+      },
+      {
+        "id": 3,
+        "text": "Turkey"
+      },
+      {
+        "id": 4,
+        "text": "15 years"
+      },
+      {
+        "id": 5,
+        "text": "Three"
+      },
+      {
+        "id": 6,
+        "text": "this week"
+      },
+      {
+        "id": 7,
+        "text": "two"
+      },
+      {
+        "id": 8,
+        "text": "New York"
+      },
+      {
+        "id": 9,
+        "text": "US"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "chargedBy",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "attemptedToJoin",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "purchasedVisaFor",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "expressedDesireToFightFor",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "possiblePrisonSentence",
+        "tail": 4
+      }
+    ]
+  },
+  {
+    "document_id": 4,
+    "ragtruth_id": "28",
+    "text": "Three women, including Keonna Thomas of Philadelphia, were charged with attempting to join ISIS this week. Thomas purchased a ticket to Barcelona but was arrested before her trip. Two other women, Noelle Velentzas and Asia Siddiqui, were arrested in New York for planning to build an explosive device. The FBI cited social media messages dating back to 2013 as evidence. This brings the total number of US citizens charged with supporting terrorism to over 30 in the past 18 months, with 18 of those cases involving ISIS.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Keonna Thomas of Philadelphia"
+      },
+      {
+        "id": 1,
+        "text": "cited"
+      },
+      {
+        "id": 2,
+        "text": "ISIS"
+      },
+      {
+        "id": 3,
+        "text": "Three"
+      },
+      {
+        "id": 4,
+        "text": "this week"
+      },
+      {
+        "id": 5,
+        "text": "Barcelona"
+      },
+      {
+        "id": 6,
+        "text": "Two"
+      },
+      {
+        "id": 7,
+        "text": "Noelle Velentzas"
+      },
+      {
+        "id": 8,
+        "text": "Asia Siddiqui"
+      },
+      {
+        "id": 9,
+        "text": "New York"
+      },
+      {
+        "id": 10,
+        "text": "FBI"
+      },
+      {
+        "id": 11,
+        "text": "2013"
+      },
+      {
+        "id": 12,
+        "text": "US"
+      },
+      {
+        "id": 13,
+        "text": "30"
+      },
+      {
+        "id": 14,
+        "text": "the past 18 months"
+      },
+      {
+        "id": 15,
+        "text": "18"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "chargedWithAttemptingToJoin",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "purchasedTicketTo",
+        "tail": 5
+      },
+      {
+        "head": 7,
+        "relation": "arrestedIn",
+        "tail": 9
+      },
+      {
+        "head": 8,
+        "relation": "arrestedIn",
+        "tail": 9
+      },
+      {
+        "head": 1,
+        "relation": "evidenceDate",
+        "tail": 11
+      },
+      {
+        "head": 1,
+        "relation": "refersTo",
+        "tail": 10
+      },
+      {
+        "head": 1,
+        "relation": "totalCharged",
+        "tail": 13
+      },
+      {
+        "head": 1,
+        "relation": "timePeriod",
+        "tail": 14
+      },
+      {
+        "head": 1,
+        "relation": "involves",
+        "tail": 2
+      }
+    ]
+  },
+  {
+    "document_id": 5,
+    "ragtruth_id": "29",
+    "text": "A 30-year-old Philadelphia woman, Keonna Thomas, was charged with attempting to travel to Syria to join ISIS. She was arrested on March 26 and could face 15 years in prison. Two other women, Noelle Velentzas and Asia Siddiqui, were arrested in New York for planning to build an explosive device for attacks in the US. In the past 18 months, the Justice Department has prosecuted 30 cases of people attempting to join or support terrorist groups, with 18 involving ISIS. Homeland Security Secretary Jeh Johnson described the current terrorist threat as decentralized, diffuse, and complicated, with the potential for lone wolf actors and effective use of social media.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "A 30-year-old Philadelphia woman, Keonna Thomas"
+      },
+      {
+        "id": 1,
+        "text": "ISIS"
+      },
+      {
+        "id": 2,
+        "text": "Syria"
+      },
+      {
+        "id": 3,
+        "text": "March 26"
+      },
+      {
+        "id": 4,
+        "text": "15 years"
+      },
+      {
+        "id": 5,
+        "text": "Two"
+      },
+      {
+        "id": 6,
+        "text": "Noelle Velentzas"
+      },
+      {
+        "id": 7,
+        "text": "Asia Siddiqui"
+      },
+      {
+        "id": 8,
+        "text": "New York"
+      },
+      {
+        "id": 9,
+        "text": "US"
+      },
+      {
+        "id": 10,
+        "text": "the past 18 months"
+      },
+      {
+        "id": 11,
+        "text": "the Justice Department"
+      },
+      {
+        "id": 12,
+        "text": "30"
+      },
+      {
+        "id": 13,
+        "text": "18"
+      },
+      {
+        "id": 14,
+        "text": "Homeland Security"
+      },
+      {
+        "id": 15,
+        "text": "Jeh Johnson"
+      },
+      {
+        "id": 16,
+        "text": "lone wolf"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "attemptedTravelTo",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "attemptedToJoin",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "arrestDate",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "possibleSentence",
+        "tail": 4
+      },
+      {
+        "head": 6,
+        "relation": "arrestLocation",
+        "tail": 8
+      },
+      {
+        "head": 7,
+        "relation": "arrestLocation",
+        "tail": 8
+      },
+      {
+        "head": 6,
+        "relation": "plannedAttackLocation",
+        "tail": 9
+      },
+      {
+        "head": 7,
+        "relation": "plannedAttackLocation",
+        "tail": 9
+      },
+      {
+        "head": 11,
+        "relation": "prosecutedCases",
+        "tail": 12
+      },
+      {
+        "head": 11,
+        "relation": "casesInvolving",
+        "tail": 13
+      },
+      {
+        "head": 15,
+        "relation": "position",
+        "tail": 14
+      }
+    ]
+  },
+  {
+    "document_id": 6,
+    "ragtruth_id": "42",
+    "text": "Blue Bell has temporarily shut down its Broken Arrow, Oklahoma, plant over the discovery of listeria contamination in a serving of ice cream originating from that plant. This is the third time Blue Bell has taken action in light of a listeria outbreak at a Kansas hospital that served the company's ice cream, which might be linked to Blue Bell Creameries products, according to the CDC. All five patients were hospitalized at the same hospital before developing listeriosis, the CDC said. At least four of them had consumed milkshakes made with Blue Bell ice cream before developing the infection. The CDC advises that individuals and institutions should check their freezers for the recalled products and throw them away. In a statement on its website, Blue Bell said \"this recall in no way includes Blue Bell ice cream half gallons, pints, quarts, 3 gallons or other 3 oz. cups.\" This has been the first product recall in the 108-year history of Blue Bell Creameries, the company said.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Blue Bell"
+      },
+      {
+        "id": 1,
+        "text": "its Broken Arrow, Oklahoma, plant"
+      },
+      {
+        "id": 2,
+        "text": "shut"
+      },
+      {
+        "id": 3,
+        "text": "a Kansas hospital that served the company's ice cream, which might be linked to Blue Bell Creameries products"
+      },
+      {
+        "id": 4,
+        "text": "the CDC"
+      },
+      {
+        "id": 5,
+        "text": "All five patients"
+      },
+      {
+        "id": 6,
+        "text": "listeriosis"
+      },
+      {
+        "id": 7,
+        "text": "individuals and institutions"
+      },
+      {
+        "id": 8,
+        "text": "the recalled products"
+      },
+      {
+        "id": 9,
+        "text": "Blue Bell Creameries"
+      },
+      {
+        "id": 10,
+        "text": "third"
+      },
+      {
+        "id": 11,
+        "text": "At least four"
+      },
+      {
+        "id": 12,
+        "text": "half gallons"
+      },
+      {
+        "id": 13,
+        "text": "3 gallons"
+      },
+      {
+        "id": 14,
+        "text": "3"
+      },
+      {
+        "id": 15,
+        "text": "first"
+      },
+      {
+        "id": 16,
+        "text": "108-year"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "shutDownPlant",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "recallCount",
+        "tail": 10
+      },
+      {
+        "head": 0,
+        "relation": "recallCount",
+        "tail": 15
+      },
+      {
+        "head": 0,
+        "relation": "historyLength",
+        "tail": 16
+      }
+    ]
+  },
+  {
+    "document_id": 7,
+    "ragtruth_id": "43",
+    "text": "Blue Bell ice cream has temporarily closed one of its manufacturing plants in Broken Arrow, Oklahoma, after listeria contamination was discovered in a serving of ice cream from that facility. Public health officials have warned consumers not to eat any Blue Bell products made at the plant, specifically 3-ounce servings of ice cream with coding dates marked with the letters O, P, Q, R, S, or T. The Centers for Disease Control and Prevention (CDC) has stated that this warning does not apply to other Blue Bell ice cream products. However, the company has issued a recall for other products. Blue Bell is shutting down the Broken Arrow plant to investigate the cause of the contamination. This is the third time the company has taken action due to a listeria outbreak. The CDC found listeria bacteria in a cup of ice cream from a Kansas hospital that matched samples recovered from the Broken Arrow plant. However, it is still uncertain if the ice cream is the source of these infections. Blue Bell has issued a statement expressing their concern and sadness for those affected by the outbreak. The CDC advises individuals and institutions to check their freezers for recalled products and discard them. Listeriosis is a serious infection primarily affecting vulnerable groups, such as the elderly, pregnant women, newborns, and those with weakened immune systems.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Blue Bell ice cream"
+      },
+      {
+        "id": 1,
+        "text": "one of its manufacturing plants in Broken Arrow, Oklahoma,"
+      },
+      {
+        "id": 2,
+        "text": "warned"
+      },
+      {
+        "id": 3,
+        "text": "Broken Arrow, Oklahoma,"
+      },
+      {
+        "id": 4,
+        "text": "listeria contamination"
+      },
+      {
+        "id": 5,
+        "text": "shutting"
+      },
+      {
+        "id": 6,
+        "text": "The Centers for Disease Control and Prevention (CDC)"
+      },
+      {
+        "id": 7,
+        "text": "a serving of ice cream from that facility"
+      },
+      {
+        "id": 8,
+        "text": "individuals and institutions"
+      },
+      {
+        "id": 9,
+        "text": "recalled products"
+      },
+      {
+        "id": 10,
+        "text": "3-ounce"
+      },
+      {
+        "id": 11,
+        "text": "T. The Centers for Disease Control and Prevention"
+      },
+      {
+        "id": 12,
+        "text": "third"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "manufacturingPlant",
+        "tail": 1
+      },
+      {
+        "head": 1,
+        "relation": "locatedIn",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "warned",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "shuttingDown",
+        "tail": 1
+      },
+      {
+        "head": 1,
+        "relation": "contamination",
+        "tail": 4
+      },
+      {
+        "head": 6,
+        "relation": "advises",
+        "tail": 8
+      },
+      {
+        "head": 8,
+        "relation": "checkFor",
+        "tail": 9
+      }
+    ]
+  },
+  {
+    "document_id": 8,
+    "ragtruth_id": "44",
+    "text": "Blue Bell Ice Cream Recalls Products Amid Listeria Outbreak; No Blue Bell Ice Cream Is Linked to Infections in Patients\n\nBlue Bell Creameries has temporarily shut down its manufacturing plant in Broken Arrow, Oklahoma, after discovering listeria contamination in a serving of ice cream. The contamination was found in a cup of ice cream recovered from a hospital in Kansas that served Blue Bell products. The company has recalled other products and shut down the plant \"out of an abundance of caution\" to search for a possible cause of contamination.\n\nThe Centers for Disease Control and Prevention (CDC) advised consumers not to eat any Blue Bell-branded products made at the Broken Arrow plant, which includes 3-ounce servings of ice cream from this plant that went to institutions in containers marked with the letters O, P, Q, R, S, or T behind the coding date. However, the warning does not affect other Blue Bell ice cream.\n\nListeriosis, a serious infection caused by eating contaminated food, primarily affects the elderly, pregnant women, newborns, and people with weakened immune systems. Symptoms include fever and muscle aches, sometimes associated with diarrhea or other gastrointestinal symptoms. In the United States, an estimated 1,600 people become seriously ill each year, and approximately 16% of these illnesses result in death.\n\nThe CDC advises that individuals and institutions should check their freezers for the recalled products and throw them away. Blue Bell Creameries has stated that this recall is the first in its 108-year history.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Blue Bell Creameries"
+      },
+      {
+        "id": 1,
+        "text": "listeria contamination in a serving of ice cream"
+      },
+      {
+        "id": 2,
+        "text": "a serving of ice cream"
+      },
+      {
+        "id": 3,
+        "text": "Blue Bell Ice Cream"
+      },
+      {
+        "id": 4,
+        "text": "its manufacturing plant in Broken Arrow, Oklahoma,"
+      },
+      {
+        "id": 5,
+        "text": "Broken Arrow, Oklahoma,"
+      },
+      {
+        "id": 6,
+        "text": "advised"
+      },
+      {
+        "id": 7,
+        "text": "The Centers for Disease Control and Prevention (CDC)"
+      },
+      {
+        "id": 8,
+        "text": "individuals and institutions"
+      },
+      {
+        "id": 9,
+        "text": "other products"
+      },
+      {
+        "id": 10,
+        "text": "recalled"
+      },
+      {
+        "id": 11,
+        "text": "Blue Bell Ice Cream Recalls Products"
+      },
+      {
+        "id": 12,
+        "text": "Listeria Outbreak"
+      },
+      {
+        "id": 13,
+        "text": "No Blue Bell Ice Cream Is Linked to Infections in Patients\n\nBlue Bell Creameries"
+      },
+      {
+        "id": 14,
+        "text": "Blue Bell-branded"
+      },
+      {
+        "id": 15,
+        "text": "3-ounce"
+      },
+      {
+        "id": 16,
+        "text": "the United States"
+      },
+      {
+        "id": 17,
+        "text": "an estimated 1,600"
+      },
+      {
+        "id": 18,
+        "text": "each year"
+      },
+      {
+        "id": 19,
+        "text": "approximately 16%"
+      },
+      {
+        "id": 20,
+        "text": "first"
+      },
+      {
+        "id": 21,
+        "text": "108-year"
+      }
+    ],
+    "relations": [
+      {
+        "head": 11,
+        "relation": "about",
+        "tail": 12
+      },
+      {
+        "head": 0,
+        "relation": "shutDown",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "locatedIn",
+        "tail": 5
+      },
+      {
+        "head": 1,
+        "relation": "foundIn",
+        "tail": 2
+      },
+      {
+        "head": 1,
+        "relation": "foundIn",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "recalled",
+        "tail": 9
+      },
+      {
+        "head": 7,
+        "relation": "advised",
+        "tail": 8
+      },
+      {
+        "head": 7,
+        "relation": "advisedAgainstEating",
+        "tail": 14
+      },
+      {
+        "head": 14,
+        "relation": "madeAt",
+        "tail": 4
+      },
+      {
+        "head": 10,
+        "relation": "firstInHistory",
+        "tail": 21
+      }
+    ]
+  },
+  {
+    "document_id": 9,
+    "ragtruth_id": "45",
+    "text": "Blue Bell ice cream has temporarily shut down one of its manufacturing plants after discovering listeria contamination in a serving of ice cream produced at the plant. The Centers for Disease Control and Prevention (CDC) has warned consumers not to eat any Blue Bell-branded products made at the Broken Arrow, Oklahoma plant, including 3-ounce servings of ice cream marked with certain codes. This is the third time Blue Bell has taken action due to a listeria outbreak at a Kansas hospital that served the company's ice cream. Investigations into the possible connection between the ice cream and the infections are ongoing. The company has recalled other products and advises individuals and institutions to check their freezers for the recalled items and throw them away. This is the first product recall in Blue Bell's 108-year history.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Blue Bell ice cream"
+      },
+      {
+        "id": 1,
+        "text": "one of its manufacturing plants"
+      },
+      {
+        "id": 2,
+        "text": "the company's ice cream"
+      },
+      {
+        "id": 3,
+        "text": "individuals and institutions"
+      },
+      {
+        "id": 4,
+        "text": "other products"
+      },
+      {
+        "id": 5,
+        "text": "This"
+      },
+      {
+        "id": 6,
+        "text": "The Centers for Disease Control and Prevention"
+      },
+      {
+        "id": 7,
+        "text": "CDC"
+      },
+      {
+        "id": 8,
+        "text": "3-ounce"
+      },
+      {
+        "id": 9,
+        "text": "third"
+      },
+      {
+        "id": 10,
+        "text": "Kansas"
+      },
+      {
+        "id": 11,
+        "text": "first"
+      },
+      {
+        "id": 12,
+        "text": "108-year"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "shutdownOf",
+        "tail": 1
+      },
+      {
+        "head": 6,
+        "relation": "abbreviation",
+        "tail": 7
+      },
+      {
+        "head": 0,
+        "relation": "brandedProduct",
+        "tail": 2
+      },
+      {
+        "head": 1,
+        "relation": "locatedIn",
+        "tail": 10
+      },
+      {
+        "head": 0,
+        "relation": "recalledProduct",
+        "tail": 4
+      }
+    ]
+  }
+]

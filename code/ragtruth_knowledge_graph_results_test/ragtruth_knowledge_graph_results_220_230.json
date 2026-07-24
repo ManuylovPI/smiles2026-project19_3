@@ -1,0 +1,629 @@
+[
+  {
+    "document_id": 220,
+    "ragtruth_id": "856",
+    "text": "Sure! Here's the summary within 45 words:\n\nA Lamborghini crash at the Exotic Driving Experience at Walt Disney World Speedway in Orlando resulted in the death of one passenger and injuries to the driver. The driver lost control of the vehicle, and the company operating the experience expressed their condolences.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "the driver"
+      },
+      {
+        "id": 1,
+        "text": "Lamborghini"
+      },
+      {
+        "id": 2,
+        "text": "the Exotic Driving Experience at Walt Disney World Speedway in Orlando"
+      },
+      {
+        "id": 3,
+        "text": "the company operating the experience"
+      },
+      {
+        "id": 4,
+        "text": "45"
+      },
+      {
+        "id": 5,
+        "text": "one"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "crashAt",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "lostControlOf",
+        "tail": 1
+      }
+    ]
+  },
+  {
+    "document_id": 221,
+    "ragtruth_id": "857",
+    "text": "A Lamborghini crashed into a guardrail at the Exotic Driving Experience at Walt Disney World Speedway, killing the passenger and hospitalizing the driver.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "the Exotic Driving Experience"
+      },
+      {
+        "id": 1,
+        "text": "Walt Disney World Speedway"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "locatedAt",
+        "tail": 1
+      }
+    ]
+  },
+  {
+    "document_id": 222,
+    "ragtruth_id": "876",
+    "text": "100 passengers on the Celebrity Infinity cruise ship have fallen ill with a gastrointestinal disease, with symptoms including vomiting and diarrhea. The CDC is investigating the cause. This is the third time the ship has experienced such an outbreak, with previous incidents in 2006 and 2013.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "the Celebrity Infinity cruise ship"
+      },
+      {
+        "id": 1,
+        "text": "100"
+      },
+      {
+        "id": 2,
+        "text": "CDC"
+      },
+      {
+        "id": 3,
+        "text": "third"
+      },
+      {
+        "id": 4,
+        "text": "2006"
+      },
+      {
+        "id": 5,
+        "text": "2013"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "outbreakCount",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "outbreakYear",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "outbreakYear",
+        "tail": 5
+      }
+    ]
+  },
+  {
+    "document_id": 223,
+    "ragtruth_id": "877",
+    "text": "Gastrointestinal illness has affected 100 people on the Celebrity Infinity cruise ship, including 95 passengers and 5 crew members. The CDC is investigating the cause of the illness. This is the third outbreak on the ship, which has taken measures to address the situation.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Gastrointestinal illness"
+      },
+      {
+        "id": 1,
+        "text": "the Celebrity Infinity cruise ship"
+      },
+      {
+        "id": 2,
+        "text": "100"
+      },
+      {
+        "id": 3,
+        "text": "95"
+      },
+      {
+        "id": 4,
+        "text": "5"
+      },
+      {
+        "id": 5,
+        "text": "CDC"
+      },
+      {
+        "id": 6,
+        "text": "third"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "affectedPeople",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "affectedPassengers",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "affectedCrewMembers",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "investigatedBy",
+        "tail": 5
+      },
+      {
+        "head": 1,
+        "relation": "outbreakOrdinal",
+        "tail": 6
+      }
+    ]
+  },
+  {
+    "document_id": 224,
+    "ragtruth_id": "878",
+    "text": "A gastrointestinal illness has affected about 100 people on the Celebrity Infinity cruise ship, including both passengers and crew members. The Centers for Disease Control and Prevention (CDC) has yet to determine the cause of the illness, but two CDC staffers will meet the ship in San Diego on Monday to investigate further. This is the third time the Celebrity Infinity has experienced such an outbreak, which has led to increased cleaning and disinfection procedures and specimen collection for testing.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "A gastrointestinal illness"
+      },
+      {
+        "id": 1,
+        "text": "The Centers for Disease Control and Prevention (CDC)"
+      },
+      {
+        "id": 2,
+        "text": "the Celebrity Infinity cruise ship"
+      },
+      {
+        "id": 3,
+        "text": "about 100"
+      },
+      {
+        "id": 4,
+        "text": "two"
+      },
+      {
+        "id": 5,
+        "text": "San Diego"
+      },
+      {
+        "id": 6,
+        "text": "Monday"
+      },
+      {
+        "id": 7,
+        "text": "third"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "affectedNumber",
+        "tail": 3
+      },
+      {
+        "head": 1,
+        "relation": "staffCount",
+        "tail": 4
+      },
+      {
+        "head": 2,
+        "relation": "meetingPlace",
+        "tail": 5
+      },
+      {
+        "head": 2,
+        "relation": "meetingDate",
+        "tail": 6
+      },
+      {
+        "head": 2,
+        "relation": "occurrenceCount",
+        "tail": 7
+      }
+    ]
+  },
+  {
+    "document_id": 225,
+    "ragtruth_id": "879",
+    "text": "Here is a summary of the article in 42 words or less:\n\nGastrointestinal illness affects 100 passengers and 5 crew on a cruise ship off the coast of California, with the CDC investigating the cause.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "42"
+      },
+      {
+        "id": 1,
+        "text": "100"
+      },
+      {
+        "id": 2,
+        "text": "5"
+      },
+      {
+        "id": 3,
+        "text": "California"
+      },
+      {
+        "id": 4,
+        "text": "CDC"
+      }
+    ],
+    "relations": [
+      {
+        "head": 4,
+        "relation": "investigating",
+        "tail": 3
+      }
+    ]
+  },
+  {
+    "document_id": 226,
+    "ragtruth_id": "880",
+    "text": "Sure! Here's the summary within 42 words:\n\nA gastrointestinal illness affecting 100 people on the Celebrity Infinity cruise ship has been reported by the Centers for Disease Control. The illness has affected both passengers and crew, with symptoms including vomiting and diarrhea. The cause remains unknown and the ship has increased cleaning and disinfection procedures. This is the third such outbreak on the ship since 2006.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "A gastrointestinal illness affecting 100 people on the Celebrity Infinity cruise ship"
+      },
+      {
+        "id": 1,
+        "text": "the Celebrity Infinity cruise ship"
+      },
+      {
+        "id": 2,
+        "text": "42"
+      },
+      {
+        "id": 3,
+        "text": "the Centers for Disease Control"
+      },
+      {
+        "id": 4,
+        "text": "third"
+      },
+      {
+        "id": 5,
+        "text": "2006"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "reportedBy",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "affects",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "count",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "ordinal",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "since",
+        "tail": 5
+      }
+    ]
+  },
+  {
+    "document_id": 227,
+    "ragtruth_id": "881",
+    "text": "Gastrointestinal illness has affected 100 people on the cruise ship Celebrity Infinity, according to the CDC. Symptoms include vomiting and diarrhea. The cause is unknown and two CDC staffers will meet the ship in San Diego on Monday. This is the third outbreak on the ship, which has a history of sanitation issues.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "the CDC"
+      },
+      {
+        "id": 1,
+        "text": "the cruise ship Celebrity Infinity"
+      },
+      {
+        "id": 2,
+        "text": "100"
+      },
+      {
+        "id": 3,
+        "text": "two"
+      },
+      {
+        "id": 4,
+        "text": "San Diego"
+      },
+      {
+        "id": 5,
+        "text": "Monday"
+      },
+      {
+        "id": 6,
+        "text": "third"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "affectedCount",
+        "tail": 2
+      },
+      {
+        "head": 1,
+        "relation": "meetingLocation",
+        "tail": 4
+      },
+      {
+        "head": 1,
+        "relation": "meetingDate",
+        "tail": 5
+      },
+      {
+        "head": 1,
+        "relation": "outbreakOrdinal",
+        "tail": 6
+      }
+    ]
+  },
+  {
+    "document_id": 228,
+    "ragtruth_id": "882",
+    "text": "Almost 2,000 inscriptions from World War I soldiers have been found in an underground city, located beneath battlefields near Naours, France. The graffiti dates back to almost 100 years and includes names, addresses, and military details of soldiers from Australia, the US, and the UK. Photographer Jeff Gusky, who has been documenting the site, described the inscriptions and the underground city as \"breathtaking\". The underground city dates back centuries but was sealed up in the 18th century, and rediscovered in the late 19th century. During WWI, soldiers would take refuge in the carved-out rooms and pathways. Gusky has noted 1,821 names, about 40% of which are Australian, with most of the others being British.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Almost 2,000 inscriptions from World War I soldiers"
+      },
+      {
+        "id": 1,
+        "text": "an underground city, located beneath battlefields near Naours, France"
+      },
+      {
+        "id": 2,
+        "text": "World War I"
+      },
+      {
+        "id": 3,
+        "text": "Photographer Jeff Gusky, who has been documenting the site"
+      },
+      {
+        "id": 4,
+        "text": "almost 100 years"
+      },
+      {
+        "id": 5,
+        "text": "Australia"
+      },
+      {
+        "id": 6,
+        "text": "US"
+      },
+      {
+        "id": 7,
+        "text": "UK"
+      },
+      {
+        "id": 8,
+        "text": "centuries"
+      },
+      {
+        "id": 9,
+        "text": "the 18th century"
+      },
+      {
+        "id": 10,
+        "text": "the late 19th century"
+      },
+      {
+        "id": 11,
+        "text": "1,821"
+      },
+      {
+        "id": 12,
+        "text": "about 40%"
+      },
+      {
+        "id": 13,
+        "text": "Australian"
+      },
+      {
+        "id": 14,
+        "text": "British"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "foundIn",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "datesBackTo",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "fromCountry",
+        "tail": 5
+      },
+      {
+        "head": 0,
+        "relation": "fromCountry",
+        "tail": 6
+      },
+      {
+        "head": 0,
+        "relation": "fromCountry",
+        "tail": 7
+      },
+      {
+        "head": 1,
+        "relation": "locatedBeneath",
+        "tail": 2
+      },
+      {
+        "head": 1,
+        "relation": "sealedUpIn",
+        "tail": 9
+      },
+      {
+        "head": 1,
+        "relation": "rediscoveredIn",
+        "tail": 10
+      },
+      {
+        "head": 3,
+        "relation": "documenting",
+        "tail": 1
+      },
+      {
+        "head": 3,
+        "relation": "notedCount",
+        "tail": 11
+      },
+      {
+        "head": 11,
+        "relation": "percentage",
+        "tail": 12
+      },
+      {
+        "head": 11,
+        "relation": "nationality",
+        "tail": 13
+      },
+      {
+        "head": 11,
+        "relation": "nationality",
+        "tail": 14
+      }
+    ]
+  },
+  {
+    "document_id": 229,
+    "ragtruth_id": "883",
+    "text": "A collection of graffiti dating back almost 100 years has been discovered in a French chalk quarry near Naours, France. The inscriptions were made by World War I soldiers, including Australians, Americans, and British soldiers. The underground city, where the graffiti was found, was used as a refuge by soldiers during the war. The discovery of the graffiti and the extensive underground city has only recently come to light due to a change in ownership of the land. The photographer, Jeff Gusky, who has documented the site, describes it as \"breathtaking\" and a \"treasure trove.\" The graffiti provides a human connection to the soldiers who lived a century ago.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "A collection of graffiti dating back almost 100 years"
+      },
+      {
+        "id": 1,
+        "text": "World War I"
+      },
+      {
+        "id": 2,
+        "text": "The underground city, where the graffiti was found"
+      },
+      {
+        "id": 3,
+        "text": "French"
+      },
+      {
+        "id": 4,
+        "text": "Naours"
+      },
+      {
+        "id": 5,
+        "text": "France"
+      },
+      {
+        "id": 6,
+        "text": "Australians"
+      },
+      {
+        "id": 7,
+        "text": "Americans"
+      },
+      {
+        "id": 8,
+        "text": "British"
+      },
+      {
+        "id": 9,
+        "text": "Jeff Gusky"
+      },
+      {
+        "id": 10,
+        "text": "a century ago"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "foundIn",
+        "tail": 2
+      },
+      {
+        "head": 2,
+        "relation": "locatedIn",
+        "tail": 4
+      },
+      {
+        "head": 2,
+        "relation": "locatedIn",
+        "tail": 5
+      },
+      {
+        "head": 2,
+        "relation": "usedAsRefugeDuring",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "madeBy",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "madeBy",
+        "tail": 6
+      },
+      {
+        "head": 0,
+        "relation": "madeBy",
+        "tail": 7
+      },
+      {
+        "head": 0,
+        "relation": "madeBy",
+        "tail": 8
+      },
+      {
+        "head": 9,
+        "relation": "documented",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "datesBackTo",
+        "tail": 10
+      }
+    ]
+  }
+]

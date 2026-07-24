@@ -1,0 +1,703 @@
+[
+  {
+    "document_id": 390,
+    "ragtruth_id": "1728",
+    "text": "The trend towards self-diagnosis through lab testing, with a view to preempting disease, is growing in the US, with over half of states allowing walk-in and online lab services without a doctor's order. Critics of the trend, however, argue that it is likely to lead to more medical care rather than improved health, with patients presenting themselves to doctors with abnormal results that are often false positives or minor abnormalities. Further testing can lead to increased anxiety, more procedures and over-treatment for diseases unlikely to cause problems. The trend is also likely to increase healthcare costs, through the sheer volume of additional testing, and subsequent office visits for abnormal results. While diagnostic tests can be extremely useful in sorting out acute medical problems, they are not necessarily useful for routine check-ups. Critics argue that the sector is in need of regulation and public education about what test results indicate and how to respond to them.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "The trend towards self-diagnosis through lab testing, with a view to preempting disease"
+      },
+      {
+        "id": 1,
+        "text": "patients"
+      },
+      {
+        "id": 2,
+        "text": "diagnostic tests"
+      },
+      {
+        "id": 3,
+        "text": "test results"
+      },
+      {
+        "id": 4,
+        "text": "US"
+      },
+      {
+        "id": 5,
+        "text": "over half"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "growingIn",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "allowanceRate",
+        "tail": 5
+      },
+      {
+        "head": 1,
+        "relation": "presentTo",
+        "tail": 1
+      }
+    ]
+  },
+  {
+    "document_id": 391,
+    "ragtruth_id": "1729",
+    "text": "April is increasingly being referred to as National Get Tested Month, with various individuals and organizations advocating for regular medical testing. Dallas Mavericks owner Mark Cuban recommended getting comprehensive blood tests every three months, while singer Taylor Swift encouraged her fans to remind their parents to undergo screening tests following her mother's cancer diagnosis. Additionally, Arizona Governor Doug Ducey signed legislation allowing Arizonans to obtain any lab test without a doctor's order.\n\nHowever, the availability of numerous lab tests raises concerns about the potential for unnecessary testing and its consequences. Medicare's Clinical Diagnostic Laboratory Fee Schedule lists over a thousand tests, many of which are blood tests. Seeking all available tests would likely result in anemia or other medical problems. The private sector is capitalizing on this growing demand, with laboratories in states that permit it offering walk-in and online services for individuals to check their own lab values.\n\nWhile some argue that this freedom to test promotes a healthier society, the primary effect may be increased medical care rather than improved health. Normal individuals may present abnormal results to doctors, who will then face the choice of either reassuring patients or pursuing further testing. This can lead to false alarms or the identification of minor abnormalities, often causing confusion regarding appropriate interventions.\n\nTesting the well can have unintended negative consequences, including heightened anxiety, more procedures, and unnecessary treatment. South Korea's increased thyroid cancer rates resulting from ultrasound screening serve as an example. Moreover, the freedom to test does not necessarily save money, as advertising can drive up testing volume and subsequent costs.\n\nWhile diagnostic testing can be beneficial for acute medical problems, it is unlikely to improve well-being. The biotech sector is expanding its offerings for testing healthy individuals, such as DNA sequencing and immune system monitoring. However, regulation and public education are crucial to ensure that medical data are properly understood and acted upon.\n\nIn conclusion, while individual freedom to test should not be outlawed, it requires regulation and education. The Food and Drug Administration should focus on preventing fraudulent testing practices, and the public should understand that testing does not automatically result in better health outcomes.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "singer Taylor Swift"
+      },
+      {
+        "id": 1,
+        "text": "her fans"
+      },
+      {
+        "id": 2,
+        "text": "unnecessary testing"
+      },
+      {
+        "id": 3,
+        "text": "The private sector"
+      },
+      {
+        "id": 4,
+        "text": "individuals"
+      },
+      {
+        "id": 5,
+        "text": "present"
+      },
+      {
+        "id": 6,
+        "text": "this freedom to test"
+      },
+      {
+        "id": 7,
+        "text": "diagnostic testing"
+      },
+      {
+        "id": 8,
+        "text": "The biotech sector"
+      },
+      {
+        "id": 9,
+        "text": "individual freedom to test"
+      },
+      {
+        "id": 10,
+        "text": "April"
+      },
+      {
+        "id": 11,
+        "text": "National Get Tested Month"
+      },
+      {
+        "id": 12,
+        "text": "Dallas Mavericks"
+      },
+      {
+        "id": 13,
+        "text": "Mark Cuban"
+      },
+      {
+        "id": 14,
+        "text": "every three months"
+      },
+      {
+        "id": 15,
+        "text": "Arizona"
+      },
+      {
+        "id": 16,
+        "text": "Doug Ducey"
+      },
+      {
+        "id": 17,
+        "text": "Arizonans"
+      },
+      {
+        "id": 18,
+        "text": "Medicare"
+      },
+      {
+        "id": 19,
+        "text": "Clinical Diagnostic Laboratory Fee Schedule"
+      },
+      {
+        "id": 20,
+        "text": "South Korea's"
+      },
+      {
+        "id": 21,
+        "text": "The Food and Drug Administration"
+      }
+    ],
+    "relations": [
+      {
+        "head": 10,
+        "relation": "referredToAs",
+        "tail": 11
+      },
+      {
+        "head": 12,
+        "relation": "owner",
+        "tail": 13
+      },
+      {
+        "head": 13,
+        "relation": "recommendedFrequency",
+        "tail": 14
+      },
+      {
+        "head": 0,
+        "relation": "encouraged",
+        "tail": 1
+      },
+      {
+        "head": 15,
+        "relation": "governor",
+        "tail": 16
+      },
+      {
+        "head": 15,
+        "relation": "signedLegislationFor",
+        "tail": 17
+      },
+      {
+        "head": 18,
+        "relation": "lists",
+        "tail": 19
+      },
+      {
+        "head": 3,
+        "relation": "capitalizingOn",
+        "tail": 2
+      },
+      {
+        "head": 8,
+        "relation": "expandingOfferingsFor",
+        "tail": 4
+      },
+      {
+        "head": 21,
+        "relation": "shouldFocusOn",
+        "tail": 2
+      }
+    ]
+  },
+  {
+    "document_id": 392,
+    "ragtruth_id": "1730",
+    "text": "The article discusses the increasing trend of individuals getting tested for various medical conditions without a prescription. Texas Governor Doug Ducey has signed legislation allowing Arizonans to get any lab test they desire without consulting a doctor first. However, the author cautions against overtesting and notes that it can lead to unnecessary medical procedures and expenses. They also highlight some of the risks associated with certain types of tests. The author concludes that while the ability to test oneself is generally positive, there should be regulations put in place to prevent abuse and ensure proper interpretation of test results.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Arizonans"
+      },
+      {
+        "id": 1,
+        "text": "overtesting"
+      },
+      {
+        "id": 2,
+        "text": "the author"
+      },
+      {
+        "id": 3,
+        "text": "Texas"
+      },
+      {
+        "id": 4,
+        "text": "Doug Ducey"
+      },
+      {
+        "id": 5,
+        "text": "first"
+      }
+    ],
+    "relations": [
+      {
+        "head": 4,
+        "relation": "governorOf",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "canGetLabTestWithoutConsulting",
+        "tail": 5
+      },
+      {
+        "head": 2,
+        "relation": "cautionsAgainst",
+        "tail": 1
+      }
+    ]
+  },
+  {
+    "document_id": 393,
+    "ragtruth_id": "1731",
+    "text": "In recent years, there has been a trend towards \"National Get Tested Month,\" with influential figures such as Mark Cuban and Taylor Swift encouraging people to get tested for various medical conditions. However, some experts are warning that this trend could lead to a number of negative consequences, including unnecessary medical procedures and increased healthcare costs. With the rise of direct-to-consumer genetic testing, it has become possible for individuals to order their own lab tests without a doctor's order, leading to concerns about the accuracy and relevance of the results. Some have pointed to the example of South Korea, where thyroid cancer screenings have led to a 15-fold increase in diagnoses, raising questions about the potential harms of over-testing. While there have been advances in diagnostic testing, it is important to recognize that testing oneself does not necessarily lead to better health outcomes, and that education and regulation are needed to ensure that individuals are not misled by false or irrelevant test results.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "a trend towards \"National Get Tested Month"
+      },
+      {
+        "id": 1,
+        "text": "individuals"
+      },
+      {
+        "id": 2,
+        "text": "recent years"
+      },
+      {
+        "id": 3,
+        "text": "Mark Cuban"
+      },
+      {
+        "id": 4,
+        "text": "Taylor Swift"
+      },
+      {
+        "id": 5,
+        "text": "South Korea"
+      },
+      {
+        "id": 6,
+        "text": "15-fold"
+      }
+    ],
+    "relations": []
+  },
+  {
+    "document_id": 394,
+    "ragtruth_id": "1732",
+    "text": "Here is a summary of the article in 200 words or less:\n\nThe freedom to test oneself for various medical conditions is becoming more prevalent, with some celebrities and businesses advocating for regular testing. However, this trend may not be as beneficial as it seems. While diagnostic tests can be helpful in identifying and treating medical conditions, they can also lead to unnecessary anxiety, procedures, and treatments for minor abnormalities. Additionally, the high volume of testing could drive up healthcare costs. The author argues that more education is needed to help the public understand the limitations of testing and the potential risks involved. Regulation of the testing industry is also necessary to prevent the sale of snake oil tests and to ensure that only effective and safe tests are available to consumers.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "becoming"
+      },
+      {
+        "id": 1,
+        "text": "diagnostic tests"
+      },
+      {
+        "id": 2,
+        "text": "200"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "canLeadTo",
+        "tail": 0
+      }
+    ]
+  },
+  {
+    "document_id": 395,
+    "ragtruth_id": "1733",
+    "text": "There is a growing trend in the US towards allowing individuals to get lab tests without a doctor's order. Mark Cuban, owner of the Dallas Mavericks, has advocated for people to get tested for everything available, and singer Taylor Swift has encouraged her fans to remind their parents to get screening tests. Arizona has recently passed legislation allowing residents to get any lab test without a doctor's order. While some see this as a way to promote health and wellness, others argue that it may do more harm than good.\n\nThere are over a thousand lab tests available through Medicare's Clinical Diagnostic Laboratory Fee Schedule, and many of them are blood tests. However, having too many blood tests can lead to anemia. Additionally, many abnormal results will turn out to be false alarms, leading to unnecessary further testing and treatment. This can cause anxiety, discomfort, and even harm to otherwise healthy individuals.\n\nThe push for more testing has led to the development of a \"test me\" market, with companies offering walk-in and online testing services. While this may seem convenient, it is important to remember that just because a test is available, it doesn't mean it's necessary or useful. In fact, studies have shown that excessive testing can lead to overdiagnosis and overtreatment, which can have serious consequences.\n\nIn conclusion, while the idea of having access to lab tests without a doctor's order may seem appealing, it's important to exercise caution and educate oneself on the potential risks and limitations of testing. It's crucial to understand that not all abnormalities are harmful, and that testing can sometimes do more harm than good.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "singer Taylor Swift"
+      },
+      {
+        "id": 1,
+        "text": "her fans"
+      },
+      {
+        "id": 2,
+        "text": "legislation allowing residents to get any lab test without a doctor's order"
+      },
+      {
+        "id": 3,
+        "text": "over a thousand lab tests available through Medicare's Clinical Diagnostic Laboratory Fee Schedule"
+      },
+      {
+        "id": 4,
+        "text": "a test"
+      },
+      {
+        "id": 5,
+        "text": "US"
+      },
+      {
+        "id": 6,
+        "text": "Mark Cuban"
+      },
+      {
+        "id": 7,
+        "text": "the Dallas Mavericks"
+      },
+      {
+        "id": 8,
+        "text": "Arizona"
+      }
+    ],
+    "relations": [
+      {
+        "head": 2,
+        "relation": "passedIn",
+        "tail": 8
+      },
+      {
+        "head": 7,
+        "relation": "owner",
+        "tail": 6
+      },
+      {
+        "head": 1,
+        "relation": "encouragedBy",
+        "tail": 0
+      }
+    ]
+  },
+  {
+    "document_id": 396,
+    "ragtruth_id": "1746",
+    "text": "Canadian fighter jets have carried out their first airstrike against ISIS in Syria, hitting a garrison near the ISIS capital of Raqqa. The strike was described as successful by Canada's Department of National Defence. Canadian forces are part of the U.S.-led coalition trying to stem the extremist group's advances in Iraq and Syria. Canadian Prime Minister Stephen Harper announced plans last month to expand the airstrikes into Syria.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Canadian fighter jets"
+      },
+      {
+        "id": 1,
+        "text": "ISIS"
+      },
+      {
+        "id": 2,
+        "text": "their first airstrike against ISIS in Syria"
+      },
+      {
+        "id": 3,
+        "text": "Syria"
+      },
+      {
+        "id": 4,
+        "text": "Raqqa"
+      },
+      {
+        "id": 5,
+        "text": "Canada"
+      },
+      {
+        "id": 6,
+        "text": "Department of National Defence"
+      },
+      {
+        "id": 7,
+        "text": "Canadian"
+      },
+      {
+        "id": 8,
+        "text": "Iraq"
+      },
+      {
+        "id": 9,
+        "text": "Canadian"
+      },
+      {
+        "id": 10,
+        "text": "Stephen Harper"
+      },
+      {
+        "id": 11,
+        "text": "last month"
+      }
+    ],
+    "relations": [
+      {
+        "head": 2,
+        "relation": "target",
+        "tail": 1
+      },
+      {
+        "head": 2,
+        "relation": "location",
+        "tail": 3
+      },
+      {
+        "head": 2,
+        "relation": "describedBy",
+        "tail": 6
+      },
+      {
+        "head": 7,
+        "relation": "partOf",
+        "tail": 5
+      },
+      {
+        "head": 7,
+        "relation": "partOfCoalitionIn",
+        "tail": 8
+      },
+      {
+        "head": 7,
+        "relation": "partOfCoalitionIn",
+        "tail": 3
+      },
+      {
+        "head": 10,
+        "relation": "nationality",
+        "tail": 9
+      },
+      {
+        "head": 10,
+        "relation": "announcedPlanToExpandAirstrikesInto",
+        "tail": 3
+      },
+      {
+        "head": 10,
+        "relation": "time",
+        "tail": 11
+      }
+    ]
+  },
+  {
+    "document_id": 397,
+    "ragtruth_id": "1747",
+    "text": "Canadian fighter jets have launched their first airstrike against ISIS in Syria, hitting one of the group's garrisons near Raqqa. The strike was deemed successful by Canada's Department of National Defence. Canadian forces, part of the U.S.-led coalition, have been conducting airstrikes in Iraq since November and recently expanded their operations into Syria. Defense Minister Jason Kenney stated that the airstrike demonstrates the government's commitment to tackling terrorism and denying ISIS safe haven. The number of casualties caused by the strike is currently unknown.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Canadian fighter jets"
+      },
+      {
+        "id": 1,
+        "text": "ISIS"
+      },
+      {
+        "id": 2,
+        "text": "their first airstrike against ISIS in Syria"
+      },
+      {
+        "id": 3,
+        "text": "Canadian forces, part of the U.S.-led coalition"
+      },
+      {
+        "id": 4,
+        "text": "Syria"
+      },
+      {
+        "id": 5,
+        "text": "Canada's"
+      },
+      {
+        "id": 6,
+        "text": "Raqqa"
+      },
+      {
+        "id": 7,
+        "text": "Department of National Defence"
+      },
+      {
+        "id": 8,
+        "text": "Iraq"
+      },
+      {
+        "id": 9,
+        "text": "November"
+      },
+      {
+        "id": 10,
+        "text": "Defense"
+      },
+      {
+        "id": 11,
+        "text": "Jason Kenney"
+      }
+    ],
+    "relations": [
+      {
+        "head": 2,
+        "relation": "against",
+        "tail": 1
+      },
+      {
+        "head": 2,
+        "relation": "in",
+        "tail": 4
+      },
+      {
+        "head": 2,
+        "relation": "deemedSuccessfulBy",
+        "tail": 7
+      },
+      {
+        "head": 3,
+        "relation": "partOf",
+        "tail": 1
+      },
+      {
+        "head": 3,
+        "relation": "in",
+        "tail": 8
+      },
+      {
+        "head": 3,
+        "relation": "since",
+        "tail": 9
+      },
+      {
+        "head": 3,
+        "relation": "expandedInto",
+        "tail": 4
+      },
+      {
+        "head": 10,
+        "relation": "minister",
+        "tail": 11
+      }
+    ]
+  },
+  {
+    "document_id": 398,
+    "ragtruth_id": "1748",
+    "text": "Canadian fighter jets bombed an ISIS garrison in Syria in the group's de facto capital of Raqqa in a successful airstrike that killed thousands of people. The CF-18 Hornets bombed under the expanded mandate and were part of a US-led coalition trying to stop ISIS' advance. The Canadian military stated that they will continue to deny ISIL safe haven in the region.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "ISIS"
+      },
+      {
+        "id": 1,
+        "text": "bombed"
+      },
+      {
+        "id": 2,
+        "text": "The Canadian military"
+      },
+      {
+        "id": 3,
+        "text": "Canadian"
+      },
+      {
+        "id": 4,
+        "text": "Syria"
+      },
+      {
+        "id": 5,
+        "text": "Raqqa"
+      },
+      {
+        "id": 6,
+        "text": "The CF-18 Hornets"
+      },
+      {
+        "id": 7,
+        "text": "US"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "target",
+        "tail": 0
+      },
+      {
+        "head": 1,
+        "relation": "location",
+        "tail": 5
+      },
+      {
+        "head": 1,
+        "relation": "location",
+        "tail": 4
+      },
+      {
+        "head": 6,
+        "relation": "partOf",
+        "tail": 7
+      },
+      {
+        "head": 2,
+        "relation": "opposes",
+        "tail": 0
+      }
+    ]
+  },
+  {
+    "document_id": 399,
+    "ragtruth_id": "1749",
+    "text": "Here is a summary of the article in 66 words:\n\nCanada's CF-18 Hornets have conducted their first airstrike against ISIS in Syria, hitting one of the extremist group's garrisons near Raqqa. The strike was successful, according to the Canadian Department of National Defence. This expansion of the airstrikes into Syria demonstrates Canada's determination to combat terrorism and promote regional security.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Canada's CF-18 Hornets"
+      },
+      {
+        "id": 1,
+        "text": "ISIS"
+      },
+      {
+        "id": 2,
+        "text": "their first airstrike against ISIS in Syria"
+      },
+      {
+        "id": 3,
+        "text": "Syria"
+      },
+      {
+        "id": 4,
+        "text": "Canada's"
+      },
+      {
+        "id": 5,
+        "text": "66"
+      },
+      {
+        "id": 6,
+        "text": "Raqqa"
+      },
+      {
+        "id": 7,
+        "text": "the Canadian Department of National Defence"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "conducted",
+        "tail": 2
+      },
+      {
+        "head": 2,
+        "relation": "against",
+        "tail": 1
+      },
+      {
+        "head": 2,
+        "relation": "in",
+        "tail": 3
+      },
+      {
+        "head": 2,
+        "relation": "targeted",
+        "tail": 6
+      },
+      {
+        "head": 2,
+        "relation": "reportedSuccessfulBy",
+        "tail": 7
+      },
+      {
+        "head": 4,
+        "relation": "expansionInto",
+        "tail": 3
+      }
+    ]
+  }
+]

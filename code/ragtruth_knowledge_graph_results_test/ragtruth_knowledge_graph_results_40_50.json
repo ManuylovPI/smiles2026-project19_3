@@ -1,0 +1,848 @@
+[
+  {
+    "document_id": 40,
+    "ragtruth_id": "148",
+    "text": "Blues legend B.B. King was hospitalized for dehydration but has since recovered and is back home resting. His dehydration was caused by his Type II diabetes. King thanked fans for their concerns and promised to return to performing soon. He has been inducted into the Rock and Roll Hall of Fame and has won numerous Grammys throughout his career.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Blues legend B.B. King"
+      },
+      {
+        "id": 1,
+        "text": "dehydration"
+      },
+      {
+        "id": 2,
+        "text": "fans"
+      },
+      {
+        "id": 3,
+        "text": "the Rock and Roll Hall of Fame"
+      },
+      {
+        "id": 4,
+        "text": "Grammys"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "hospitalizedFor",
+        "tail": 1
+      },
+      {
+        "head": 1,
+        "relation": "causedBy",
+        "tail": 0
+      },
+      {
+        "head": 0,
+        "relation": "inductedInto",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "won",
+        "tail": 4
+      }
+    ]
+  },
+  {
+    "document_id": 41,
+    "ragtruth_id": "149",
+    "text": "B.B. King was hospitalized for dehydration due to his Type II diabetes, but has since been released and is now resting at home with his grandchildren. The 89-year-old blues legend has a history of health issues, including a previous bout of dehydration and exhaustion that forced him to cancel tour dates last year.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "B.B. King"
+      },
+      {
+        "id": 1,
+        "text": "last year"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "hospitalizedFor",
+        "tail": 0
+      },
+      {
+        "head": 0,
+        "relation": "time",
+        "tail": 1
+      }
+    ]
+  },
+  {
+    "document_id": 42,
+    "ragtruth_id": "180",
+    "text": "Indiana Pacers forward, Chris Copeland, and his wife were stabbed outside the Manhattan nightclub 1OAK last night. Copeland suffered knife wounds to his elbow and abdomen and is in a stable condition at a New York hospital. Atlanta Hawks players Pero Antic and Thabo Sefolosha were at the nightclub and were arrested for obstruction of justice and disorderly conduct. The players were not involved in the stabbing incident, but allegedly interfered with police officers trying to establish a crime scene. The suspect is in police custody, and charges are pending. The incident took place just before 4 a.m. and the club was shut down immediately afterwards.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Indiana Pacers forward, Chris Copeland"
+      },
+      {
+        "id": 1,
+        "text": "the Manhattan nightclub 1OAK"
+      },
+      {
+        "id": 2,
+        "text": "Atlanta Hawks players Pero Antic and Thabo Sefolosha"
+      },
+      {
+        "id": 3,
+        "text": "stabbed"
+      },
+      {
+        "id": 4,
+        "text": "1OAK last night"
+      },
+      {
+        "id": 5,
+        "text": "New York"
+      },
+      {
+        "id": 6,
+        "text": "just before 4 a.m."
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "stabbedAt",
+        "tail": 1
+      },
+      {
+        "head": 3,
+        "relation": "time",
+        "tail": 6
+      }
+    ]
+  },
+  {
+    "document_id": 43,
+    "ragtruth_id": "181",
+    "text": "Indiana Pacers player Chris Copeland was stabbed outside of a nightclub in New York early Wednesday morning. Two Atlanta Hawks players, Pero Antic and Thabo Sefolosha, were arrested in connection with the incident. The stabbing occurred in front of the Fulton Houses project, not inside the club as initially reported. Copeland and a female companion were leaving the club when they were attacked. Copeland suffered a knife wound to his left elbow and abdomen, while the female companion and another woman were also injured. The suspect was detained by Copeland's driver and is now in police custody. Antic and Sefolosha were arrested on charges of obstructing governmental administration and disorderly conduct, with Sefolosha facing an additional charge of resisting arrest. The Hawks players were apparently trying to check on Copeland when they were arrested. The club shut down immediately after the incident. Copeland is in stable condition at a New York hospital. The NBA and the Hawks front office are investigating the incident. The Hawks are currently preparing for the NBA playoffs after clinching the No. 1 seed in the Eastern Conference, while the Pacers are one game out of playoff contention.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "stabbed"
+      },
+      {
+        "id": 1,
+        "text": "a nightclub in New York"
+      },
+      {
+        "id": 2,
+        "text": "Indiana Pacers player Chris Copeland"
+      },
+      {
+        "id": 3,
+        "text": "Copeland and a female companion"
+      },
+      {
+        "id": 4,
+        "text": "a female companion"
+      },
+      {
+        "id": 5,
+        "text": "Pero Antic"
+      },
+      {
+        "id": 6,
+        "text": "Two Atlanta Hawks players, Pero Antic and Thabo Sefolosha"
+      },
+      {
+        "id": 7,
+        "text": "Thabo Sefolosha"
+      },
+      {
+        "id": 8,
+        "text": "arrested"
+      },
+      {
+        "id": 9,
+        "text": "Atlanta Hawks"
+      },
+      {
+        "id": 10,
+        "text": "New York"
+      },
+      {
+        "id": 11,
+        "text": "The NBA"
+      },
+      {
+        "id": 12,
+        "text": "Indiana Pacers"
+      },
+      {
+        "id": 13,
+        "text": "early Wednesday morning"
+      },
+      {
+        "id": 14,
+        "text": "Fulton Houses"
+      },
+      {
+        "id": 15,
+        "text": "1"
+      },
+      {
+        "id": 16,
+        "text": "the Eastern Conference"
+      },
+      {
+        "id": 17,
+        "text": "one"
+      }
+    ],
+    "relations": [
+      {
+        "head": 2,
+        "relation": "team",
+        "tail": 12
+      },
+      {
+        "head": 0,
+        "relation": "location",
+        "tail": 14
+      },
+      {
+        "head": 0,
+        "relation": "location",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "location",
+        "tail": 10
+      },
+      {
+        "head": 0,
+        "relation": "time",
+        "tail": 13
+      },
+      {
+        "head": 6,
+        "relation": "team",
+        "tail": 9
+      },
+      {
+        "head": 8,
+        "relation": "subject",
+        "tail": 6
+      },
+      {
+        "head": 8,
+        "relation": "subject",
+        "tail": 7
+      },
+      {
+        "head": 11,
+        "relation": "investigates",
+        "tail": 0
+      },
+      {
+        "head": 9,
+        "relation": "investigates",
+        "tail": 0
+      },
+      {
+        "head": 9,
+        "relation": "conference",
+        "tail": 16
+      },
+      {
+        "head": 9,
+        "relation": "seed",
+        "tail": 15
+      },
+      {
+        "head": 12,
+        "relation": "gamesOut",
+        "tail": 17
+      }
+    ]
+  },
+  {
+    "document_id": 44,
+    "ragtruth_id": "182",
+    "text": "Chris Copeland of the Indiana Pacers was stabbed early Wednesday after leaving a trendy New York nightclub. Two Atlanta Hawks, Pero Antic and Thabo Sefolosha, were among those arrested on obstruction and disorderly conduct charges. The Hawks were not involved in the stabbing incident, police said, but were arrested after interfering with officers trying to establish a crime scene. Copeland and a female companion were in the club for about 10 minutes before leaving and walking down the street towards their car. The suspected stabber attacked them in front of the Fulton Houses project down the street from the club. Copeland and the woman tried to make their way back to the club to seek help from the security personnel on hand, leaving a bloody trail of handprints. Copeland is in stable condition at a New York hospital, while the female companion is recovering from her injuries. The NBA and the Hawks front office are looking into the incident.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Atlanta Hawks"
+      },
+      {
+        "id": 1,
+        "text": "stabbed"
+      },
+      {
+        "id": 2,
+        "text": "arrested"
+      },
+      {
+        "id": 3,
+        "text": "Chris Copeland of the Indiana Pacers"
+      },
+      {
+        "id": 4,
+        "text": "a trendy New York nightclub"
+      },
+      {
+        "id": 5,
+        "text": "Copeland and a female companion"
+      },
+      {
+        "id": 6,
+        "text": "a female companion"
+      },
+      {
+        "id": 7,
+        "text": "New York"
+      },
+      {
+        "id": 8,
+        "text": "early Wednesday"
+      },
+      {
+        "id": 9,
+        "text": "Two"
+      },
+      {
+        "id": 10,
+        "text": "Pero Antic"
+      },
+      {
+        "id": 11,
+        "text": "Thabo Sefolosha"
+      },
+      {
+        "id": 12,
+        "text": "about 10 minutes"
+      },
+      {
+        "id": 13,
+        "text": "Fulton Houses"
+      },
+      {
+        "id": 14,
+        "text": "NBA"
+      }
+    ],
+    "relations": [
+      {
+        "head": 3,
+        "relation": "stabbedAt",
+        "tail": 4
+      },
+      {
+        "head": 3,
+        "relation": "time",
+        "tail": 8
+      },
+      {
+        "head": 0,
+        "relation": "arrested",
+        "tail": 2
+      },
+      {
+        "head": 10,
+        "relation": "arrested",
+        "tail": 2
+      },
+      {
+        "head": 11,
+        "relation": "arrested",
+        "tail": 2
+      },
+      {
+        "head": 3,
+        "relation": "attackedBy",
+        "tail": 1
+      },
+      {
+        "head": 5,
+        "relation": "attackedBy",
+        "tail": 1
+      },
+      {
+        "head": 3,
+        "relation": "locatedIn",
+        "tail": 7
+      },
+      {
+        "head": 6,
+        "relation": "locatedIn",
+        "tail": 7
+      },
+      {
+        "head": 3,
+        "relation": "memberOf",
+        "tail": 0
+      }
+    ]
+  },
+  {
+    "document_id": 45,
+    "ragtruth_id": "183",
+    "text": "Indiana Pacer Chris Copeland was stabbed outside a New York nightclub early Wednesday morning, and two Atlanta Hawks players, Pero Antic and Thabo Sefolosha, were arrested for obstruction and other charges after attempting to intervene in the incident. According to police, Copeland and a female companion were walking away from the club when a 22-year-old man approached them and there was a dispute before the suspect stabbed Copeland and the woman. Copeland suffered a knife wound to his elbow and abdomen and is in stable condition at a New York hospital. Antic and Sefolosha were taken into custody after they allegedly interfered with police officers trying to establish a crime scene and pushed a police officer. The Hawks players were in New York for a Wednesday night game against the Brooklyn Nets, and neither will be in uniform due to the incident.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "stabbed"
+      },
+      {
+        "id": 1,
+        "text": "Indiana Pacer Chris Copeland"
+      },
+      {
+        "id": 2,
+        "text": "a New York nightclub"
+      },
+      {
+        "id": 3,
+        "text": "Copeland and a female companion"
+      },
+      {
+        "id": 4,
+        "text": "a 22-year-old man"
+      },
+      {
+        "id": 5,
+        "text": "a female companion"
+      },
+      {
+        "id": 6,
+        "text": "New York"
+      },
+      {
+        "id": 7,
+        "text": "Pero Antic"
+      },
+      {
+        "id": 8,
+        "text": "two Atlanta Hawks players, Pero Antic and Thabo Sefolosha"
+      },
+      {
+        "id": 9,
+        "text": "Thabo Sefolosha"
+      },
+      {
+        "id": 10,
+        "text": "Atlanta Hawks"
+      },
+      {
+        "id": 11,
+        "text": "early Wednesday morning"
+      },
+      {
+        "id": 12,
+        "text": "Wednesday"
+      },
+      {
+        "id": 13,
+        "text": "night"
+      },
+      {
+        "id": 14,
+        "text": "the Brooklyn Nets"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "stabbedAt",
+        "tail": 2
+      },
+      {
+        "head": 1,
+        "relation": "stabbedBy",
+        "tail": 4
+      },
+      {
+        "head": 1,
+        "relation": "location",
+        "tail": 6
+      },
+      {
+        "head": 8,
+        "relation": "team",
+        "tail": 10
+      },
+      {
+        "head": 8,
+        "relation": "location",
+        "tail": 6
+      },
+      {
+        "head": 8,
+        "relation": "gameAgainst",
+        "tail": 14
+      },
+      {
+        "head": 8,
+        "relation": "time",
+        "tail": 12
+      },
+      {
+        "head": 8,
+        "relation": "timeOfDay",
+        "tail": 13
+      },
+      {
+        "head": 8,
+        "relation": "time",
+        "tail": 11
+      }
+    ]
+  },
+  {
+    "document_id": 46,
+    "ragtruth_id": "184",
+    "text": "Indiana Pacers player Chris Copeland and a female companion were stabbed outside a trendy nightclub in New York City early Wednesday morning. Two Atlanta Hawks players, Pero Antic and Thabo Sefolosha, were arrested on charges of obstructing governmental administration and disorderly conduct after they interfered with police attempting to secure the crime scene. The stabbing occurred after a dispute between Copeland and a 22-year-old man, who stabbed Copland and two other women before fleeing the scene. Copeland and the other victims were taken to the hospital, and the suspect was arrested and recovered a knife at the scene. The Hawks players were not involved in the stabbing but were arrested for interfering with the police. The Pacers and the NBA are investigating the incident.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Two Atlanta Hawks players, Pero Antic and Thabo Sefolosha"
+      },
+      {
+        "id": 1,
+        "text": "stabbed"
+      },
+      {
+        "id": 2,
+        "text": "Indiana Pacers player Chris Copeland"
+      },
+      {
+        "id": 3,
+        "text": "Indiana Pacers player Chris Copeland and a female companion"
+      },
+      {
+        "id": 4,
+        "text": "the crime scene"
+      },
+      {
+        "id": 5,
+        "text": "two other women"
+      },
+      {
+        "id": 6,
+        "text": "a 22-year-old man, who stabbed Copland and two other women before fleeing the scene"
+      },
+      {
+        "id": 7,
+        "text": "Atlanta Hawks"
+      },
+      {
+        "id": 8,
+        "text": "arrested"
+      },
+      {
+        "id": 9,
+        "text": "Indiana Pacers"
+      },
+      {
+        "id": 10,
+        "text": "New York City"
+      },
+      {
+        "id": 11,
+        "text": "early Wednesday morning"
+      },
+      {
+        "id": 12,
+        "text": "NBA"
+      }
+    ],
+    "relations": [
+      {
+        "head": 3,
+        "relation": "stabbingVictim",
+        "tail": 1
+      },
+      {
+        "head": 5,
+        "relation": "stabbingVictim",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "arrestedFor",
+        "tail": 8
+      },
+      {
+        "head": 2,
+        "relation": "locatedIn",
+        "tail": 10
+      },
+      {
+        "head": 1,
+        "relation": "occurredIn",
+        "tail": 10
+      },
+      {
+        "head": 1,
+        "relation": "occurredAt",
+        "tail": 11
+      },
+      {
+        "head": 9,
+        "relation": "investigating",
+        "tail": 1
+      },
+      {
+        "head": 12,
+        "relation": "investigating",
+        "tail": 1
+      }
+    ]
+  },
+  {
+    "document_id": 47,
+    "ragtruth_id": "185",
+    "text": "Chris Copeland, a player for the Indiana Pacers, was stabbed outside a nightclub in New York City early Wednesday morning. Two Atlanta Hawks players, Pero Antic and Thabo Sefolosha, were arrested on charges of obstructing governmental administration and disorderly conduct. The stabbing occurred in front of the Fulton Houses project, and not at the nightclub 1OAK, where Copeland and a female companion had been before the incident. The suspect, who has not been named, stabbed Copeland and Saltara and then fled the scene. Copeland and Saltara tried to make their way back to the club, leaving a bloody trail behind them. The club's security team assisted Copeland until the police arrived. The Hawks players were arrested for interfering with officers trying to establish a crime scene. The police have released little information, but local media has identified the injured man as Copeland. The Pacers have confirmed that Copeland suffered a knife wound to his left elbow and abdomen and is in stable condition at a New York hospital.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "stabbed"
+      },
+      {
+        "id": 1,
+        "text": "a nightclub in New York City"
+      },
+      {
+        "id": 2,
+        "text": "Chris Copeland, a player for the Indiana Pacers"
+      },
+      {
+        "id": 3,
+        "text": "Copeland and a female companion"
+      },
+      {
+        "id": 4,
+        "text": "a female companion"
+      },
+      {
+        "id": 5,
+        "text": "Two Atlanta Hawks players, Pero Antic and Thabo Sefolosha"
+      },
+      {
+        "id": 6,
+        "text": "Atlanta Hawks"
+      },
+      {
+        "id": 7,
+        "text": "arrested"
+      },
+      {
+        "id": 8,
+        "text": "the police"
+      },
+      {
+        "id": 9,
+        "text": "the Indiana Pacers"
+      },
+      {
+        "id": 10,
+        "text": "New York City"
+      },
+      {
+        "id": 11,
+        "text": "early Wednesday morning"
+      },
+      {
+        "id": 12,
+        "text": "Fulton Houses"
+      }
+    ],
+    "relations": [
+      {
+        "head": 2,
+        "relation": "team",
+        "tail": 9
+      },
+      {
+        "head": 2,
+        "relation": "injuredBy",
+        "tail": 0
+      },
+      {
+        "head": 0,
+        "relation": "location",
+        "tail": 12
+      },
+      {
+        "head": 0,
+        "relation": "location",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "location",
+        "tail": 10
+      },
+      {
+        "head": 0,
+        "relation": "time",
+        "tail": 11
+      },
+      {
+        "head": 5,
+        "relation": "team",
+        "tail": 6
+      },
+      {
+        "head": 5,
+        "relation": "arrestedBy",
+        "tail": 8
+      }
+    ]
+  },
+  {
+    "document_id": 48,
+    "ragtruth_id": "204",
+    "text": "The family of Tejano star Selena, who was killed by her fan club president twenty years ago, is working with Nevada-based tech company, Acrovirt LLC, to create a digital version of her singing and dancing. The hologram-like figure is called \"Selena the One\", and will be the first figure to use Acrovirt's technology. The project hopes to give new fans an experience of the late star's persona, and will be used to release new songs and videos, collaborate with current artists, and even go on tour in 2018. Selena's sister, Suzette Quintanilla, insisted that it is not about replacing Selena, but about helping her legacy continue to grow.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Tejano star Selena, who was killed by her fan club president twenty years ago"
+      },
+      {
+        "id": 1,
+        "text": "a digital version of her singing and dancing"
+      },
+      {
+        "id": 2,
+        "text": "Nevada-based tech company, Acrovirt LLC"
+      },
+      {
+        "id": 3,
+        "text": "working"
+      },
+      {
+        "id": 4,
+        "text": "Selena the One"
+      },
+      {
+        "id": 5,
+        "text": "first"
+      },
+      {
+        "id": 6,
+        "text": "2018"
+      },
+      {
+        "id": 7,
+        "text": "Suzette Quintanilla"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "digitalVersion",
+        "tail": 1
+      },
+      {
+        "head": 1,
+        "relation": "name",
+        "tail": 4
+      },
+      {
+        "head": 1,
+        "relation": "technologyProvider",
+        "tail": 2
+      },
+      {
+        "head": 1,
+        "relation": "firstOfType",
+        "tail": 5
+      },
+      {
+        "head": 3,
+        "relation": "involves",
+        "tail": 2
+      },
+      {
+        "head": 3,
+        "relation": "plannedFor",
+        "tail": 6
+      },
+      {
+        "head": 7,
+        "relation": "sister",
+        "tail": 0
+      }
+    ]
+  },
+  {
+    "document_id": 49,
+    "ragtruth_id": "205",
+    "text": "Selena, the Tejano star who died 20 years ago, is being brought back through a hologram-like figure. Her family is creating a digital embodiment of her persona that will be able to walk, talk, sing, and dance. The technology is being handled by Acrovirt LLC, and the project is called \"Selena the One.\" The family intends to release new music and videos through this digital version of Selena, and they also plan to collaborate with current artists and go on tour in 2018. This is not the first time a performer has used virtual technology, but Selena's hologram is expected to be more advanced. Fans can support the launch through an Indiegogo campaign.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Selena, the Tejano star who died 20 years ago"
+      },
+      {
+        "id": 1,
+        "text": "a hologram-like figure"
+      },
+      {
+        "id": 2,
+        "text": "Her family"
+      },
+      {
+        "id": 3,
+        "text": "brought"
+      },
+      {
+        "id": 4,
+        "text": "Selena the One"
+      },
+      {
+        "id": 5,
+        "text": "2018"
+      },
+      {
+        "id": 6,
+        "text": "first"
+      },
+      {
+        "id": 7,
+        "text": "Indiegogo"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "projectName",
+        "tail": 4
+      },
+      {
+        "head": 1,
+        "relation": "handledBy",
+        "tail": 7
+      },
+      {
+        "head": 2,
+        "relation": "creates",
+        "tail": 1
+      },
+      {
+        "head": 2,
+        "relation": "intendsToReleaseThrough",
+        "tail": 1
+      },
+      {
+        "head": 2,
+        "relation": "plansTourIn",
+        "tail": 5
+      }
+    ]
+  }
+]

@@ -1,0 +1,1044 @@
+[
+  {
+    "document_id": 380,
+    "ragtruth_id": "1682",
+    "text": "A woman recounts her experience of being groped on a local train in Mumbai when she was 13 years old. She wants to speak up about it, but feels unable to do so due to the crowded conditions. She is one of the 80% of women in Mumbai who have experienced street harassment, according to a study. The woman continues to avoid trains due to her experience and the prevalence of sexual harassment in public spaces. Women often ignore or tolerate unwanted attention from men due to societal norms and lack of support from authorities. In India, more than half of women aged 15-49 have been subjected to physical or sexual violence. Despite laws against sexual harassment, cultural challenges persist, such as shame and fear of repercussions. Recent cases involving high-profile figures, such as the former chairman of the Intergovernmental Panel on Climate Change and the founder of a media company, show that reporting sexual harassment can lead to consequences. Women need to find the courage to speak out and demand accountability.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "A woman"
+      },
+      {
+        "id": 1,
+        "text": "her experience of being groped on a local train in Mumbai when she was 13 years old"
+      },
+      {
+        "id": 2,
+        "text": "Mumbai"
+      },
+      {
+        "id": 3,
+        "text": "one"
+      },
+      {
+        "id": 4,
+        "text": "the 80%"
+      },
+      {
+        "id": 5,
+        "text": "India"
+      },
+      {
+        "id": 6,
+        "text": "more than half"
+      },
+      {
+        "id": 7,
+        "text": "15-49"
+      },
+      {
+        "id": 8,
+        "text": "the Intergovernmental Panel on Climate Change"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "location",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "age",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "partOf",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "location",
+        "tail": 5
+      },
+      {
+        "head": 6,
+        "relation": "ageRange",
+        "tail": 7
+      }
+    ]
+  },
+  {
+    "document_id": 381,
+    "ragtruth_id": "1683",
+    "text": "Here is a summary of the article in 200 words:\n\nThe author reflects on their personal experience of sexual harassment on a local train in Mumbai when they were 13 years old and how it has impacted their life since then. They highlight a study that shows 80% of women in Mumbai have experienced street harassment, primarily in crowded areas like trains and railway platforms. The author notes that while most people consider sexual violence as rape, they also include other forms of harassment such as groping, stalking, and ogling, which are equally intimidating. They also acknowledge that many women choose to limit their activities or wear conservative clothing to avoid harassment. The author encourages women to speak up about their experiences and realizes that addressing sexual harassment requires a cultural shift. They cite recent cases of sexual harassment in India, such as the allegations against Rajendra Pachauri and Tarun Tejpal, and emphasize the importance of supporting women who come forward with their stories. The author argues that ignoring or accepting sexual harassment as part of daily life restricts women's full potential and hinders their ability to live full lives.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "The author"
+      },
+      {
+        "id": 1,
+        "text": "sexual harassment on a local train in Mumbai when they were 13 years old"
+      },
+      {
+        "id": 2,
+        "text": "Mumbai"
+      },
+      {
+        "id": 3,
+        "text": "most people"
+      },
+      {
+        "id": 4,
+        "text": "many women"
+      },
+      {
+        "id": 5,
+        "text": "women"
+      },
+      {
+        "id": 6,
+        "text": "women who come forward with their stories"
+      },
+      {
+        "id": 7,
+        "text": "women's"
+      },
+      {
+        "id": 8,
+        "text": "200"
+      },
+      {
+        "id": 9,
+        "text": "80%"
+      },
+      {
+        "id": 10,
+        "text": "India"
+      },
+      {
+        "id": 11,
+        "text": "Rajendra Pachauri"
+      },
+      {
+        "id": 12,
+        "text": "Tarun Tejpal"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "experienced",
+        "tail": 1
+      },
+      {
+        "head": 1,
+        "relation": "location",
+        "tail": 2
+      },
+      {
+        "head": 1,
+        "relation": "age",
+        "tail": 8
+      },
+      {
+        "head": 5,
+        "relation": "encouragedToSpeakUp",
+        "tail": 5
+      },
+      {
+        "head": 6,
+        "relation": "support",
+        "tail": 6
+      },
+      {
+        "head": 11,
+        "relation": "mentionedIn",
+        "tail": 10
+      },
+      {
+        "head": 12,
+        "relation": "mentionedIn",
+        "tail": 10
+      }
+    ]
+  },
+  {
+    "document_id": 382,
+    "ragtruth_id": "1684",
+    "text": "Here is the article summarized in 200 words:\n\nOne woman shares her personal experience of being groped on a train in Mumbai when she was 13 years old, and how it has affected her life ever since. She also highlights the prevalence of sexual harassment in India, with 80% of women in Mumbai having experienced street harassment. Many women choose to limit their movements and dress conservatively to avoid harassment. The author has been working to encourage women to speak out against harassment and has seen how bold and persistent action can lead to justice, as shown in two recent cases where women successfully reported and fought against powerful perpetrators. The author emphasizes that speaking out is key to changing the culture around sexual harassment and empowering women to live full lives free from restrictions.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "One woman"
+      },
+      {
+        "id": 1,
+        "text": "her personal experience of being groped on a train in Mumbai when she was 13 years old"
+      },
+      {
+        "id": 2,
+        "text": "Mumbai"
+      },
+      {
+        "id": 3,
+        "text": "Many women"
+      },
+      {
+        "id": 4,
+        "text": "200"
+      },
+      {
+        "id": 5,
+        "text": "India"
+      },
+      {
+        "id": 6,
+        "text": "80%"
+      },
+      {
+        "id": 7,
+        "text": "two"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "location",
+        "tail": 2
+      },
+      {
+        "head": 3,
+        "relation": "location",
+        "tail": 5
+      },
+      {
+        "head": 6,
+        "relation": "location",
+        "tail": 2
+      }
+    ]
+  },
+  {
+    "document_id": 383,
+    "ragtruth_id": "1685",
+    "text": "The article discusses the prevalence of sexual harassment against women in India, particularly in public spaces such as local trains and buses. The author shares her personal experience of being groped in a crowded train as a 13-year-old, and how it has affected her ever since. She notes that many women in India face similar experiences, and that it is not just about rape, but also other forms of harassment such as stalking, ogling, leering, catcalling, and whistling. The article cites a study that found 80% of women in Mumbai have experienced street harassment, and notes that most people, including women, tend to overlook these forms of harassment. The author highlights the impact it has on women's lives, limiting their freedom and mobility. She argues that it is important for women to speak up and acknowledge the problem in order to create a change in culture and shift the power dynamics. The article also mentions two recent high-profile cases in India where women came forward to report sexual harassment by powerful men, resulting in their resignation and arrest, respectively. The author emphasizes that women have allies who are willing to help clear the barriers, and that speaking out is essential to create a world where women can live full lives without feeling restricted and disempowered.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "The author"
+      },
+      {
+        "id": 1,
+        "text": "her personal experience of being groped in a crowded train as a 13-year-old"
+      },
+      {
+        "id": 2,
+        "text": "India"
+      },
+      {
+        "id": 3,
+        "text": "The article"
+      },
+      {
+        "id": 4,
+        "text": "other forms of harassment such as stalking, ogling, leering, catcalling, and whistling"
+      },
+      {
+        "id": 5,
+        "text": "sexual harassment against women"
+      },
+      {
+        "id": 6,
+        "text": "women's"
+      },
+      {
+        "id": 7,
+        "text": "women"
+      },
+      {
+        "id": 8,
+        "text": "80%"
+      },
+      {
+        "id": 9,
+        "text": "Mumbai"
+      },
+      {
+        "id": 10,
+        "text": "two"
+      }
+    ],
+    "relations": [
+      {
+        "head": 3,
+        "relation": "discusses",
+        "tail": 5
+      },
+      {
+        "head": 3,
+        "relation": "discusses",
+        "tail": 4
+      },
+      {
+        "head": 3,
+        "relation": "locatedIn",
+        "tail": 2
+      },
+      {
+        "head": 1,
+        "relation": "experiencedBy",
+        "tail": 0
+      },
+      {
+        "head": 4,
+        "relation": "locatedIn",
+        "tail": 2
+      },
+      {
+        "head": 4,
+        "relation": "overlookedBy",
+        "tail": 0
+      },
+      {
+        "head": 5,
+        "relation": "affects",
+        "tail": 6
+      },
+      {
+        "head": 6,
+        "relation": "locatedIn",
+        "tail": 2
+      },
+      {
+        "head": 7,
+        "relation": "locatedIn",
+        "tail": 2
+      },
+      {
+        "head": 7,
+        "relation": "reported",
+        "tail": 5
+      },
+      {
+        "head": 7,
+        "relation": "reportedIn",
+        "tail": 2
+      },
+      {
+        "head": 8,
+        "relation": "percentageOf",
+        "tail": 7
+      },
+      {
+        "head": 8,
+        "relation": "locatedIn",
+        "tail": 9
+      }
+    ]
+  },
+  {
+    "document_id": 384,
+    "ragtruth_id": "1698",
+    "text": "Climbers have returned to Mount Everest for this year's climbing season, after a deadly avalanche in 2014, that killed 16 Sherpas, resulted in the closure of the climbing season. Following the disaster, there were debates about the risks faced by Sherpas and the danger of climbing Everest. The route through Khumbu Icefall, where the avalanche occurred, has been changed to a safer, but longer, route than the one used in the 1990s. However, Alpenglow Expeditions has announced it will no longer use the Nepal route, due to increasing danger. It will instead use the northern route from China, where there is no icefall. This has resulted in a rise in numbers registered to climb the northern route to Everest, which has led to concerns amongst Nepali companies that climbers will divert to the Chinese side. Nepal relies heavily on tourism and the Sherpas rely on leading expeditions for their income. Also returning to Everest are several climbers who survived the avalanche.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "this year's climbing season"
+      },
+      {
+        "id": 1,
+        "text": "a deadly avalanche in 2014, that killed 16 Sherpas"
+      },
+      {
+        "id": 2,
+        "text": "Mount Everest"
+      },
+      {
+        "id": 3,
+        "text": "Alpenglow Expeditions"
+      },
+      {
+        "id": 4,
+        "text": "The route through Khumbu Icefall, where the avalanche occurred"
+      },
+      {
+        "id": 5,
+        "text": "use"
+      },
+      {
+        "id": 6,
+        "text": "the northern route from China, where there is no icefall"
+      },
+      {
+        "id": 7,
+        "text": "Nepal"
+      },
+      {
+        "id": 8,
+        "text": "the Sherpas"
+      },
+      {
+        "id": 9,
+        "text": "Sherpas"
+      },
+      {
+        "id": 10,
+        "text": "the 1990s"
+      },
+      {
+        "id": 11,
+        "text": "Nepali"
+      },
+      {
+        "id": 12,
+        "text": "Chinese"
+      }
+    ],
+    "relations": [
+      {
+        "head": 3,
+        "relation": "stoppedUsing",
+        "tail": 4
+      },
+      {
+        "head": 3,
+        "relation": "uses",
+        "tail": 6
+      },
+      {
+        "head": 6,
+        "relation": "routeTo",
+        "tail": 2
+      },
+      {
+        "head": 4,
+        "relation": "changedTo",
+        "tail": 6
+      },
+      {
+        "head": 7,
+        "relation": "reliesOn",
+        "tail": 0
+      },
+      {
+        "head": 8,
+        "relation": "reliesOn",
+        "tail": 5
+      }
+    ]
+  },
+  {
+    "document_id": 385,
+    "ragtruth_id": "1699",
+    "text": "Mountaineers have returned to Mount Everest for this year's climbing season, following a deadly season last year. In 2014, an avalanche caused by a falling piece of glacial ice killed 16 Nepalis. This incident sparked debates about the risks faced by Sherpas and the dangers of climbing Everest. To reduce risks, the route through the Khumbu Icefall, where the deaths occurred, has been changed to a longer but safer path. Nepal has issued 347 permits this year to climb Mount Everest, a slight increase from last year. The local Nepalese committee that determines the path up Everest has chosen a central route through the Khumbu Icefall for safety reasons. This route was used in the 1990s but was abandoned in favor of a quicker route. The new path requires climbers to cross more crevasses and use more ladders. One company, Alpenglow Expeditions, has decided to stop climbing from the Nepal side and use the northern route from China due to safety concerns. The northern route has seen an increase in popularity, causing concern for Nepali companies. Sherpas, who rely on leading expeditions for their livelihood, are returning to the summit despite the fears of their families. Many mountaineers are also returning to Everest this year, including Jon Reiter who survived last year's avalanche. Reiter explained on his blog that he is drawn back to the mountains, despite the dangers.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "a deadly season last year"
+      },
+      {
+        "id": 1,
+        "text": "Mount Everest"
+      },
+      {
+        "id": 2,
+        "text": "killed"
+      },
+      {
+        "id": 3,
+        "text": "this year's"
+      },
+      {
+        "id": 4,
+        "text": "last year"
+      },
+      {
+        "id": 5,
+        "text": "a longer but safer path"
+      },
+      {
+        "id": 6,
+        "text": "the Khumbu Icefall"
+      },
+      {
+        "id": 7,
+        "text": "a central route through the Khumbu Icefall"
+      },
+      {
+        "id": 8,
+        "text": "Nepal"
+      },
+      {
+        "id": 9,
+        "text": "the northern route from China"
+      },
+      {
+        "id": 10,
+        "text": "Sherpas, who rely on leading expeditions for their livelihood"
+      },
+      {
+        "id": 11,
+        "text": "Jon Reiter who survived last year's avalanche"
+      },
+      {
+        "id": 12,
+        "text": "2014"
+      },
+      {
+        "id": 13,
+        "text": "16"
+      },
+      {
+        "id": 14,
+        "text": "Nepalis"
+      },
+      {
+        "id": 15,
+        "text": "Sherpas"
+      },
+      {
+        "id": 16,
+        "text": "347"
+      },
+      {
+        "id": 17,
+        "text": "Nepalese"
+      },
+      {
+        "id": 18,
+        "text": "the 1990s"
+      },
+      {
+        "id": 19,
+        "text": "One"
+      },
+      {
+        "id": 20,
+        "text": "Alpenglow Expeditions"
+      },
+      {
+        "id": 21,
+        "text": "Nepali"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "hasClimbingSeason",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "time",
+        "tail": 4
+      },
+      {
+        "head": 2,
+        "relation": "time",
+        "tail": 12
+      },
+      {
+        "head": 2,
+        "relation": "numberOfDeaths",
+        "tail": 13
+      },
+      {
+        "head": 2,
+        "relation": "victim",
+        "tail": 14
+      },
+      {
+        "head": 0,
+        "relation": "causedDebateAbout",
+        "tail": 15
+      },
+      {
+        "head": 0,
+        "relation": "causedDebateAbout",
+        "tail": 1
+      },
+      {
+        "head": 6,
+        "relation": "routeChangedTo",
+        "tail": 5
+      },
+      {
+        "head": 8,
+        "relation": "issuedPermits",
+        "tail": 16
+      },
+      {
+        "head": 8,
+        "relation": "issuedPermitsFor",
+        "tail": 3
+      },
+      {
+        "head": 8,
+        "relation": "issuedPermitsToClimb",
+        "tail": 1
+      },
+      {
+        "head": 7,
+        "relation": "locatedIn",
+        "tail": 6
+      },
+      {
+        "head": 7,
+        "relation": "usedIn",
+        "tail": 18
+      },
+      {
+        "head": 5,
+        "relation": "requires",
+        "tail": 6
+      },
+      {
+        "head": 5,
+        "relation": "requires",
+        "tail": 13
+      },
+      {
+        "head": 5,
+        "relation": "requires",
+        "tail": 19
+      },
+      {
+        "head": 20,
+        "relation": "stoppedClimbingFrom",
+        "tail": 8
+      },
+      {
+        "head": 20,
+        "relation": "usesRoute",
+        "tail": 9
+      },
+      {
+        "head": 9,
+        "relation": "from",
+        "tail": 8
+      },
+      {
+        "head": 9,
+        "relation": "increasedPopularityConcerned",
+        "tail": 21
+      },
+      {
+        "head": 10,
+        "relation": "reliesOn",
+        "tail": 19
+      },
+      {
+        "head": 10,
+        "relation": "returningTo",
+        "tail": 1
+      },
+      {
+        "head": 10,
+        "relation": "fears",
+        "tail": 10
+      },
+      {
+        "head": 11,
+        "relation": "survived",
+        "tail": 0
+      },
+      {
+        "head": 11,
+        "relation": "returningTo",
+        "tail": 1
+      },
+      {
+        "head": 11,
+        "relation": "time",
+        "tail": 4
+      }
+    ]
+  },
+  {
+    "document_id": 386,
+    "ragtruth_id": "1700",
+    "text": "Climbers are resuming their efforts to reach the summit of Mount Everest during the current climbing season. This comes after a deadly season in 2014 when an avalanche killed 16 Nepalis. The accident triggered debates about the risks faced by Sherpas, the mostly Nepalese guides who work on the mountain. In response to the deaths, the route through the Khumbu Icefall, known for its dangerous terrain, has been changed to a longer and safer path. This new path requires climbers to cross more crevasses and use more ladders, but it is expected to be less risky. Nepal has issued 347 permits for climbing Mount Everest this season, with 125 of them from the shortened season of 2015. The Chinese side of Everest has become increasingly popular due to concerns about Nepali government closures, but it is considered to be less safe. Nepali authorities are concerned that the growing popularity of the northern route will divert climbers away from the Nepalese side, which is vital for the country's tourism industry. Many of the guides who worked on the mountain last year lost friends in the avalanche, and while they may be willing to return to the summit, their families are hesitant.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Climbers"
+      },
+      {
+        "id": 1,
+        "text": "resuming"
+      },
+      {
+        "id": 2,
+        "text": "an avalanche"
+      },
+      {
+        "id": 3,
+        "text": "Mount Everest"
+      },
+      {
+        "id": 4,
+        "text": "killed"
+      },
+      {
+        "id": 5,
+        "text": "a longer and safer path"
+      },
+      {
+        "id": 6,
+        "text": "347 permits for climbing Mount Everest this season"
+      },
+      {
+        "id": 7,
+        "text": "The Chinese side of Everest"
+      },
+      {
+        "id": 8,
+        "text": "Nepal"
+      },
+      {
+        "id": 9,
+        "text": "Many of the guides who worked on the mountain last year"
+      },
+      {
+        "id": 10,
+        "text": "the summit of Mount Everest"
+      },
+      {
+        "id": 11,
+        "text": "2014"
+      },
+      {
+        "id": 12,
+        "text": "16"
+      },
+      {
+        "id": 13,
+        "text": "Nepalis"
+      },
+      {
+        "id": 14,
+        "text": "Sherpas"
+      },
+      {
+        "id": 15,
+        "text": "Nepalese"
+      },
+      {
+        "id": 16,
+        "text": "the Khumbu Icefall"
+      },
+      {
+        "id": 17,
+        "text": "125"
+      },
+      {
+        "id": 18,
+        "text": "2015"
+      },
+      {
+        "id": 19,
+        "text": "Nepali"
+      },
+      {
+        "id": 20,
+        "text": "Nepalese"
+      }
+    ],
+    "relations": [
+      {
+        "head": 2,
+        "relation": "killed",
+        "tail": 13
+      },
+      {
+        "head": 2,
+        "relation": "occurredIn",
+        "tail": 11
+      },
+      {
+        "head": 5,
+        "relation": "routeThrough",
+        "tail": 16
+      },
+      {
+        "head": 6,
+        "relation": "issuedBy",
+        "tail": 8
+      },
+      {
+        "head": 6,
+        "relation": "forClimbing",
+        "tail": 3
+      },
+      {
+        "head": 6,
+        "relation": "count",
+        "tail": 17
+      },
+      {
+        "head": 6,
+        "relation": "fromSeason",
+        "tail": 18
+      },
+      {
+        "head": 7,
+        "relation": "partOf",
+        "tail": 3
+      },
+      {
+        "head": 9,
+        "relation": "workedOn",
+        "tail": 3
+      },
+      {
+        "head": 9,
+        "relation": "lastYear",
+        "tail": 11
+      },
+      {
+        "head": 0,
+        "relation": "resumingEffortsToReach",
+        "tail": 10
+      }
+    ]
+  },
+  {
+    "document_id": 387,
+    "ragtruth_id": "1701",
+    "text": "Mountaineers have returned to Mount Everest this year after a deadly season last year when 16 Nepalis died in an avalanche while completing their morning prayers. This year, the route through the Khumbu Icefall has been changed to reduce risks, taking longer but expected to be safer. However, some climbing companies have decided to stop using the Nepal side due to increased danger, while others remain unsure. The local Nepalese committee that determines the path up Everest voted to return to the central route for safety reasons. Despite concerns, many Sherpas are still willing to risk their lives to reach the summit, as climbing is how they feed their families and send their children to school. Several mountaineers are also returning this year, including Jon Reiter, who survived last year's avalanche and is making his way to base camp again.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "16 Nepalis"
+      },
+      {
+        "id": 1,
+        "text": "this year"
+      },
+      {
+        "id": 2,
+        "text": "Mount Everest"
+      },
+      {
+        "id": 3,
+        "text": "the route through the Khumbu Icefall"
+      },
+      {
+        "id": 4,
+        "text": "many Sherpas"
+      },
+      {
+        "id": 5,
+        "text": "an avalanche"
+      },
+      {
+        "id": 6,
+        "text": "Jon Reiter, who survived last year's avalanche and is making his way to base camp again"
+      },
+      {
+        "id": 7,
+        "text": "last year"
+      },
+      {
+        "id": 8,
+        "text": "morning"
+      },
+      {
+        "id": 9,
+        "text": "Nepal"
+      },
+      {
+        "id": 10,
+        "text": "Nepalese"
+      }
+    ],
+    "relations": [
+      {
+        "head": 3,
+        "relation": "locatedIn",
+        "tail": 9
+      },
+      {
+        "head": 3,
+        "relation": "routeOf",
+        "tail": 2
+      },
+      {
+        "head": 6,
+        "relation": "survived",
+        "tail": 5
+      }
+    ]
+  },
+  {
+    "document_id": 388,
+    "ragtruth_id": "1702",
+    "text": "Sure! Here's the summary within 200 words:\n\nMount Everest climbing season has resumed after last year's deadly incident that killed 16 Nepalis. This year, climbers are taking a different route through the Khumbu Icefall, deemed safer despite being longer, to avoid the area where the fatalities occurred. The new path involves crossing more crevasses and using more vertical and horizontal ladders. Some expedition companies have decided to stop climbing from the Nepal side due to increasing danger, instead opting for the northern route from China, which has historically been less popular but offers harsher weather and rockier terrain. The change in route has sparked concerns among Nepali companies that climbers will divert to the Chinese side, impacting their livelihoods as leading expeditions is how Sherpas support their families. While some mountaineers are returning this year, others have chosen not to put their families through the trauma again.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "16 Nepalis"
+      },
+      {
+        "id": 1,
+        "text": "a different route through the Khumbu Icefall, deemed safer despite being longer"
+      },
+      {
+        "id": 2,
+        "text": "China"
+      },
+      {
+        "id": 3,
+        "text": "climbers"
+      },
+      {
+        "id": 4,
+        "text": "Sherpas"
+      },
+      {
+        "id": 5,
+        "text": "This year"
+      },
+      {
+        "id": 6,
+        "text": "others"
+      },
+      {
+        "id": 7,
+        "text": "200"
+      },
+      {
+        "id": 8,
+        "text": "Mount Everest"
+      },
+      {
+        "id": 9,
+        "text": "last year's"
+      },
+      {
+        "id": 10,
+        "text": "Nepal"
+      },
+      {
+        "id": 11,
+        "text": "Nepali"
+      }
+    ],
+    "relations": [
+      {
+        "head": 8,
+        "relation": "climbingSeasonResumedIn",
+        "tail": 5
+      },
+      {
+        "head": 8,
+        "relation": "incidentOccurredIn",
+        "tail": 9
+      },
+      {
+        "head": 1,
+        "relation": "routeThrough",
+        "tail": 8
+      },
+      {
+        "head": 1,
+        "relation": "routeThrough",
+        "tail": 10
+      },
+      {
+        "head": 3,
+        "relation": "divertTo",
+        "tail": 2
+      }
+    ]
+  },
+  {
+    "document_id": 389,
+    "ragtruth_id": "1703",
+    "text": "This year's climbing season on Mount Everest has begun, with climbers returning to the mountain despite last year's deadly accident that killed 16 Nepalis. To reduce risks, the route through Khumbu Icefall has been changed to a longer but safer path. Climbing teams have not yet entered the icefall, which is known for its jagged pieces of ice that can break off and pose a danger to climbers. The Nepal government has issued 347 permits for climbers this year, a slight increase from last year. The local committee that determines the path up Everest has decided to return to a central route through the icefall, which was previously used in the 1990s. This route will require climbers to cross more crevasses and use more vertical and horizontal ladders. Some climbing companies, such as Alpenglow Expeditions, have decided to stop climbing from the Nepal side and instead opt for the northern route from China, which is considered safer. The increasing popularity of the northern route has caused concern among Nepali companies, as they rely heavily on tourism dollars. Despite the risks, many climbers are still eager to summit Everest, including Jon Reiter, who survived last year's avalanche.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Mount Everest"
+      },
+      {
+        "id": 1,
+        "text": "Khumbu Icefall"
+      },
+      {
+        "id": 2,
+        "text": "This year's"
+      },
+      {
+        "id": 3,
+        "text": "last year's"
+      },
+      {
+        "id": 4,
+        "text": "a longer but safer path"
+      },
+      {
+        "id": 5,
+        "text": "a central route through the icefall, which was previously used in the 1990s"
+      },
+      {
+        "id": 6,
+        "text": "The Nepal government"
+      },
+      {
+        "id": 7,
+        "text": "the northern route from China, which is considered safer"
+      },
+      {
+        "id": 8,
+        "text": "Nepali companies"
+      },
+      {
+        "id": 9,
+        "text": "last year's deadly accident that killed 16 Nepalis"
+      },
+      {
+        "id": 10,
+        "text": "347"
+      },
+      {
+        "id": 11,
+        "text": "Alpenglow Expeditions"
+      },
+      {
+        "id": 12,
+        "text": "Jon Reiter"
+      }
+    ],
+    "relations": [
+      {
+        "head": 6,
+        "relation": "issuedPermits",
+        "tail": 10
+      },
+      {
+        "head": 1,
+        "relation": "routeChangedTo",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "routeChangedTo",
+        "tail": 5
+      },
+      {
+        "head": 11,
+        "relation": "stoppedClimbingFrom",
+        "tail": 6
+      },
+      {
+        "head": 11,
+        "relation": "optedForRoute",
+        "tail": 7
+      }
+    ]
+  }
+]

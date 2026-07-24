@@ -1,0 +1,372 @@
+[
+  {
+    "document_id": 210,
+    "ragtruth_id": "840",
+    "text": "John Travolta, one of the Church of Scientology's most high-profile members, has expressed his disinterest in watching HBO's new critical documentary, \"Going Clear: Scientology and the Prison of Belief\". Travolta stated he has been happy with his 40-year experience with the Church, and believes the documentary is the result of disgruntled individuals. He credited the Church with helping him survive the death of his son in 2009.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "John Travolta, one of the Church of Scientology's most high-profile members"
+      },
+      {
+        "id": 1,
+        "text": "the Church of Scientology's"
+      },
+      {
+        "id": 2,
+        "text": "HBO's new critical documentary, \"Going Clear: Scientology and the Prison of Belief\""
+      },
+      {
+        "id": 3,
+        "text": "40-year"
+      },
+      {
+        "id": 4,
+        "text": "2009"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "memberOf",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "experienceDuration",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "disinterestedIn",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "creditedWithHelpFrom",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "sonDeathYear",
+        "tail": 4
+      }
+    ]
+  },
+  {
+    "document_id": 211,
+    "ragtruth_id": "841",
+    "text": "John Travolta, a prominent member of the Church of Scientology, has spoken out against HBO's documentary \"Going Clear: Scientology and the Prison of Belief.\" He stated that he has not seen the documentary and has no interest in doing so. Travolta defended his positive experience with Scientology and dismissed the documentary as the result of disgruntled individuals. He praised the church for helping him cope with the death of his son.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "John Travolta, a prominent member of the Church of Scientology"
+      },
+      {
+        "id": 1,
+        "text": "HBO's documentary \"Going Clear: Scientology and the Prison of Belief"
+      },
+      {
+        "id": 2,
+        "text": "the Church of Scientology"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "memberOf",
+        "tail": 2
+      }
+    ]
+  },
+  {
+    "document_id": 212,
+    "ragtruth_id": "842",
+    "text": "HBO's documentary \"Going Clear: Scientology and the Prison of Belief\" has received buzz, but John Travolta, a high-profile Scientologist, is not interested in seeing it. Travolta believes the documentary is based on \"disgruntled\" individuals and that he has had positive experiences with the Church of Scientology. He calls Scientology \"brilliant\" and credits the church with helping him cope with the death of his son.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "HBO's documentary \"Going Clear: Scientology and the Prison of Belief\""
+      },
+      {
+        "id": 1,
+        "text": "John Travolta, a high-profile Scientologist"
+      },
+      {
+        "id": 2,
+        "text": "the Church of Scientology"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "memberOf",
+        "tail": 2
+      }
+    ]
+  },
+  {
+    "document_id": 213,
+    "ragtruth_id": "843",
+    "text": "Sure! Here's a summary of the article in 64 words:\n\nJohn Travolta has dismissed HBO's documentary \"Going Clear: Scientology and the Prison of Belief\" as negative and untrue, despite being one of the Church of Scientology's most high-profile members. He claims he's had a positive experience with the organization and hasn't experienced any of the abuse alleged in the documentary.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "John Travolta"
+      },
+      {
+        "id": 1,
+        "text": "the Church of Scientology's"
+      },
+      {
+        "id": 2,
+        "text": "HBO's documentary \"Going Clear: Scientology and the Prison of Belief\""
+      },
+      {
+        "id": 3,
+        "text": "64"
+      },
+      {
+        "id": 4,
+        "text": "one"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "memberOf",
+        "tail": 1
+      },
+      {
+        "head": 2,
+        "relation": "dismissedAs",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "memberCount",
+        "tail": 4
+      }
+    ]
+  },
+  {
+    "document_id": 214,
+    "ragtruth_id": "844",
+    "text": "Sure! Here's the summary in 64 words:\n\nJohn Travolta, a prominent Scientologist, criticized HBO's documentary \"Going Clear: Scientology and the Prison of Belief\" as based on \"hearsay\" and said he won't comment on it. Travolta credits Scientology with helping him cope with the death of his son and calls it \"brilliant.\"",
+    "entities": [
+      {
+        "id": 0,
+        "text": "John Travolta, a prominent Scientologist"
+      },
+      {
+        "id": 1,
+        "text": "HBO's documentary \"Going Clear: Scientology and the Prison of Belief\""
+      },
+      {
+        "id": 2,
+        "text": "64"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "memberOf",
+        "tail": 1
+      }
+    ]
+  },
+  {
+    "document_id": 215,
+    "ragtruth_id": "845",
+    "text": "John Travolta spoke out against HBO's documentary \"Going Clear: Scientology and the Prison of Belief,\" saying he hasn't seen it and doesn't plan to. Travolta, a Scientologist for 40 years, praised the church for its positive impact on his life and dismissed the documentary as a result of \"disgruntled\" people. He credited Scientology with helping him cope with the death of his son, Jett.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "John Travolta"
+      },
+      {
+        "id": 1,
+        "text": "HBO's documentary \"Going Clear: Scientology and the Prison of Belief"
+      },
+      {
+        "id": 2,
+        "text": "the church"
+      },
+      {
+        "id": 3,
+        "text": "Jett"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "memberOf",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "creditedWithHelping",
+        "tail": 2
+      },
+      {
+        "head": 2,
+        "relation": "positiveImpactOn",
+        "tail": 0
+      },
+      {
+        "head": 0,
+        "relation": "parentOf",
+        "tail": 3
+      }
+    ]
+  },
+  {
+    "document_id": 216,
+    "ragtruth_id": "852",
+    "text": "A man has died at Walt Disney World Speedway's Exotic Driving Experience after a Lamborghini crashed into a guardrail. The passenger, 36-year-old Gary Terry, died at the scene, while the driver, 24-year-old Tavon Watson, was hospitalised with minor injuries.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "A man"
+      },
+      {
+        "id": 1,
+        "text": "Walt Disney World Speedway's"
+      },
+      {
+        "id": 2,
+        "text": "Exotic Driving Experience"
+      },
+      {
+        "id": 3,
+        "text": "Lamborghini"
+      },
+      {
+        "id": 4,
+        "text": "24-year-old"
+      },
+      {
+        "id": 5,
+        "text": "Tavon Watson"
+      }
+    ],
+    "relations": [
+      {
+        "head": 2,
+        "relation": "partOf",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "diedAt",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "diedAt",
+        "tail": 1
+      }
+    ]
+  },
+  {
+    "document_id": 217,
+    "ragtruth_id": "853",
+    "text": "A passenger died and the driver was injured when a Lamborghini crashed into a guardrail at the Exotic Driving Experience in Walt Disney World Speedway. The driver lost control of the vehicle. Petty Holdings, the company operating the experience, expressed condolences and also operates the Richard Petty Driving Experience.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "the driver"
+      },
+      {
+        "id": 1,
+        "text": "a Lamborghini"
+      },
+      {
+        "id": 2,
+        "text": "the Exotic Driving Experience in Walt Disney World Speedway"
+      },
+      {
+        "id": 3,
+        "text": "Petty Holdings"
+      },
+      {
+        "id": 4,
+        "text": "the Richard Petty Driving Experience"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "crashedAt",
+        "tail": 2
+      },
+      {
+        "head": 2,
+        "relation": "operatedBy",
+        "tail": 3
+      },
+      {
+        "head": 3,
+        "relation": "operates",
+        "tail": 4
+      }
+    ]
+  },
+  {
+    "document_id": 218,
+    "ragtruth_id": "854",
+    "text": "A Lamborghini crashed into a guardrail during an Exotic Driving Experience at Walt Disney World Speedway, killing one person and injuring another. The operation, run by Petty Holdings, has been suspended until further notice.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "an Exotic Driving Experience at Walt Disney World Speedway"
+      },
+      {
+        "id": 1,
+        "text": "one"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "operator",
+        "tail": 1
+      }
+    ]
+  },
+  {
+    "document_id": 219,
+    "ragtruth_id": "855",
+    "text": "A fatal car crash occurred at Walt Disney World Speedway during an exotic driving experience, where a Lamborghini crashed into a guardrail and the passenger, Gary Terry, died at the scene. The driver, Tavon Watson, sustained minor injuries.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Walt Disney World Speedway"
+      },
+      {
+        "id": 1,
+        "text": "Lamborghini"
+      },
+      {
+        "id": 2,
+        "text": "Gary Terry"
+      },
+      {
+        "id": 3,
+        "text": "Tavon Watson"
+      }
+    ],
+    "relations": [
+      {
+        "head": 2,
+        "relation": "diedAt",
+        "tail": 0
+      },
+      {
+        "head": 3,
+        "relation": "injuredAt",
+        "tail": 0
+      }
+    ]
+  }
+]

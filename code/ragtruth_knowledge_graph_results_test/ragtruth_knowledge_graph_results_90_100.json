@@ -1,0 +1,568 @@
+[
+  {
+    "document_id": 90,
+    "ragtruth_id": "354",
+    "text": "The US National Park Service is waiving entrance fees to its 128 fee-charging sites, including Yellowstone and Yosemite, on Saturday and Sunday to celebrate National Park Week from April 18 to April 26. Various special events are planned, including night-time astronomy parties and Earth Day celebrations.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "The US National Park Service"
+      },
+      {
+        "id": 1,
+        "text": "128"
+      },
+      {
+        "id": 2,
+        "text": "Yellowstone"
+      },
+      {
+        "id": 3,
+        "text": "Saturday"
+      },
+      {
+        "id": 4,
+        "text": "Sunday"
+      },
+      {
+        "id": 5,
+        "text": "National Park Week"
+      },
+      {
+        "id": 6,
+        "text": "April 18 to April 26"
+      },
+      {
+        "id": 7,
+        "text": "night"
+      },
+      {
+        "id": 8,
+        "text": "Earth Day"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "numberOfSites",
+        "tail": 1
+      },
+      {
+        "head": 5,
+        "relation": "startDate",
+        "tail": 6
+      },
+      {
+        "head": 5,
+        "relation": "includesDate",
+        "tail": 3
+      },
+      {
+        "head": 5,
+        "relation": "includesDate",
+        "tail": 4
+      },
+      {
+        "head": 5,
+        "relation": "celebratedBy",
+        "tail": 0
+      }
+    ]
+  },
+  {
+    "document_id": 91,
+    "ragtruth_id": "355",
+    "text": "From April 18 to April 26, the United States' national parks will be offering free admission to the 128 parks that usually charge a fee. National Park Week will include various activities and events, and people are encouraged to share their experiences using #FindYourPark.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "people"
+      },
+      {
+        "id": 1,
+        "text": "April 18 to April 26"
+      },
+      {
+        "id": 2,
+        "text": "the United States'"
+      },
+      {
+        "id": 3,
+        "text": "128"
+      },
+      {
+        "id": 4,
+        "text": "National Park Week"
+      }
+    ],
+    "relations": [
+      {
+        "head": 4,
+        "relation": "date",
+        "tail": 1
+      },
+      {
+        "head": 4,
+        "relation": "location",
+        "tail": 2
+      },
+      {
+        "head": 2,
+        "relation": "numberOfParks",
+        "tail": 3
+      }
+    ]
+  },
+  {
+    "document_id": 92,
+    "ragtruth_id": "356",
+    "text": "National Parks in the US are free for visitors on April 18 and 19 as part of National Park Week. This includes 128 parks that usually charge a fee. Activities include night-time astronomy parties, daytime Revolutionary War programs, Earth Day parties and family-friendly Junior Ranger activities. To find out more information and plan your visit, go to FindYourPark.com or www.nationalparkweek.org. Share your experiences using the hashtag #FindYourPark.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "National Park Week"
+      },
+      {
+        "id": 1,
+        "text": "US"
+      },
+      {
+        "id": 2,
+        "text": "April 18 and 19"
+      },
+      {
+        "id": 3,
+        "text": "128"
+      },
+      {
+        "id": 4,
+        "text": "night"
+      },
+      {
+        "id": 5,
+        "text": "Revolutionary War"
+      },
+      {
+        "id": 6,
+        "text": "Earth Day"
+      },
+      {
+        "id": 7,
+        "text": "Ranger"
+      },
+      {
+        "id": 8,
+        "text": "FindYourPark.com"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "location",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "date",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "includes",
+        "tail": 3
+      }
+    ]
+  },
+  {
+    "document_id": 93,
+    "ragtruth_id": "357",
+    "text": "Free admission to US national parks this weekend! 🏞️ Explore 128 fee-charging parks, including Yosemite and Yellowstone, during National Park Week (April 18-26). Find park sites near you & join events like stargazing parties, Revolutionary War programs, Earth Day festivities, and Junior Ranger activities. Share your park experiences with #FindYourPark.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "US"
+      },
+      {
+        "id": 1,
+        "text": "this weekend"
+      },
+      {
+        "id": 2,
+        "text": "128"
+      },
+      {
+        "id": 3,
+        "text": "Yosemite"
+      },
+      {
+        "id": 4,
+        "text": "Yellowstone"
+      },
+      {
+        "id": 5,
+        "text": "National Park Week"
+      },
+      {
+        "id": 6,
+        "text": "April 18-26"
+      },
+      {
+        "id": 7,
+        "text": "Revolutionary War"
+      },
+      {
+        "id": 8,
+        "text": "Earth Day"
+      },
+      {
+        "id": 9,
+        "text": "Junior Ranger"
+      }
+    ],
+    "relations": [
+      {
+        "head": 5,
+        "relation": "date",
+        "tail": 6
+      },
+      {
+        "head": 3,
+        "relation": "locatedIn",
+        "tail": 0
+      },
+      {
+        "head": 4,
+        "relation": "locatedIn",
+        "tail": 0
+      }
+    ]
+  },
+  {
+    "document_id": 94,
+    "ragtruth_id": "358",
+    "text": "National parks are free on Sat. & Sun. during National Park Week (Apr. 18-26). 128 parks normally charging fees will offer free admission. Find Your Park website lists events & activities. Share your experiences with #FindYourPark.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Sat. & Sun"
+      },
+      {
+        "id": 1,
+        "text": "National Park Week"
+      },
+      {
+        "id": 2,
+        "text": "Apr. 18-26"
+      },
+      {
+        "id": 3,
+        "text": "128"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "date",
+        "tail": 2
+      },
+      {
+        "head": 1,
+        "relation": "freeAdmissionDays",
+        "tail": 0
+      },
+      {
+        "head": 1,
+        "relation": "numberOfParks",
+        "tail": 3
+      }
+    ]
+  },
+  {
+    "document_id": 95,
+    "ragtruth_id": "359",
+    "text": "National Park Service offers free admission to 128 parks, including Yellowstone and Yosemite, on April 18-19 and 25-26, as part of National Park Week.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "National Park Service"
+      },
+      {
+        "id": 1,
+        "text": "128"
+      },
+      {
+        "id": 2,
+        "text": "Yellowstone"
+      },
+      {
+        "id": 3,
+        "text": "April 18-19"
+      },
+      {
+        "id": 4,
+        "text": "25"
+      },
+      {
+        "id": 5,
+        "text": "National Park Week"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "offersFreeAdmissionTo",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "offersFreeAdmissionTo",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "partOf",
+        "tail": 5
+      }
+    ]
+  },
+  {
+    "document_id": 96,
+    "ragtruth_id": "408",
+    "text": "A second robot has been sent into the Fukushima nuclear plant to assess damage caused by the 2011 earthquake and tsunami. The first robot broke down after becoming stranded by a fallen object. The second robot was able to capture images of a strange green glow, indicating lower radiation levels and temperatures than expected. Tokyo Electric Power Company (TEPCO) claims this is a sign that cooling systems are functioning properly, and a positive step towards the decommissioning of the plant.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "A second robot"
+      },
+      {
+        "id": 1,
+        "text": "a strange green glow, indicating lower radiation levels and temperatures than expected"
+      },
+      {
+        "id": 2,
+        "text": "the Fukushima nuclear plant"
+      },
+      {
+        "id": 3,
+        "text": "2011"
+      },
+      {
+        "id": 4,
+        "text": "first"
+      },
+      {
+        "id": 5,
+        "text": "Tokyo Electric Power Company"
+      },
+      {
+        "id": 6,
+        "text": "TEPCO"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "sentInto",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "capturedImageOf",
+        "tail": 1
+      },
+      {
+        "head": 5,
+        "relation": "abbreviation",
+        "tail": 6
+      }
+    ]
+  },
+  {
+    "document_id": 97,
+    "ragtruth_id": "409",
+    "text": "A second robotic probe sent into the Fukushima nuclear plant has captured images of a strange green glow. The robot detected lower radiation levels and temperature than expected, indicating that cooling systems were working effectively. The cause of the green glow is unknown, but it could suggest a discoloration of the grating. The first robot stalled after encountering a fallen object, but still collected data on radiation levels in most of the targeted locations. The radiation levels in the damaged reactors remain extremely high, making it unsafe for workers to enter. Decommissioning work is estimated to cost $50 billion and will take years to complete.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "A second robotic probe sent into the Fukushima nuclear plant"
+      },
+      {
+        "id": 1,
+        "text": "a strange green glow"
+      },
+      {
+        "id": 2,
+        "text": "The cause of the green glow"
+      },
+      {
+        "id": 3,
+        "text": "first"
+      },
+      {
+        "id": 4,
+        "text": "$50 billion"
+      },
+      {
+        "id": 5,
+        "text": "years"
+      }
+    ],
+    "relations": [
+      {
+        "head": 2,
+        "relation": "causeOf",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "cost",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "duration",
+        "tail": 5
+      }
+    ]
+  },
+  {
+    "document_id": 98,
+    "ragtruth_id": "410",
+    "text": "A second robotic probe has been sent into the Fukushima nuclear plant to capture images of a strange green glow. The probe detected lower radiation levels and temperature than expected, indicating that cooling systems were working effectively. The yellow seen on the images seemed to suggest a discoloration of the grating, though the cause was unknown. The green glow could not be seen when filmed from other angles. The shape-shifting robots were sent in to assess the damage in one of the reactors that suffered a meltdown after a devastating earthquake and tsunami in March 2011. TEPCO said the site's still too dangerous for workers to enter. The first robot stalled after moving about 10 meters due to a fallen object blocking its path. The second robot collected data from all 11 points as scheduled and completed around two-thirds of the originally planned route. Decommissioning work is estimated to cost $50 billion and will take years to complete. TEPCO called the robotic probe an \"unprecedented\" experiment.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "A second robotic probe"
+      },
+      {
+        "id": 1,
+        "text": "images of a strange green glow"
+      },
+      {
+        "id": 2,
+        "text": "a strange green glow"
+      },
+      {
+        "id": 3,
+        "text": "the Fukushima nuclear plant"
+      },
+      {
+        "id": 4,
+        "text": "The first robot"
+      },
+      {
+        "id": 5,
+        "text": "TEPCO"
+      },
+      {
+        "id": 6,
+        "text": "one"
+      },
+      {
+        "id": 7,
+        "text": "March 2011"
+      },
+      {
+        "id": 8,
+        "text": "about 10 meters"
+      },
+      {
+        "id": 9,
+        "text": "11"
+      },
+      {
+        "id": 10,
+        "text": "around two-thirds"
+      },
+      {
+        "id": 11,
+        "text": "$50 billion"
+      },
+      {
+        "id": 12,
+        "text": "years"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "sentInto",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "capturedImagesOf",
+        "tail": 1
+      },
+      {
+        "head": 1,
+        "relation": "depicts",
+        "tail": 2
+      },
+      {
+        "head": 4,
+        "relation": "movedDistance",
+        "tail": 8
+      },
+      {
+        "head": 0,
+        "relation": "collectedDataAtPoints",
+        "tail": 9
+      },
+      {
+        "head": 0,
+        "relation": "completedRouteFraction",
+        "tail": 10
+      },
+      {
+        "head": 5,
+        "relation": "called",
+        "tail": 0
+      },
+      {
+        "head": 11,
+        "relation": "estimatedCostOf",
+        "tail": 12
+      }
+    ]
+  },
+  {
+    "document_id": 99,
+    "ragtruth_id": "411",
+    "text": "Sure! Here's a summary of the article in 82 words:\n\nA second robot was sent into the crippled Fukushima nuclear plant to collect data on radiation levels, capturing images of a strange green glow. While the robot detected lower radiation levels than expected, the cause of the green glow remains unknown. The robotic probe is part of an unprecedented experiment to gather information on the damaged reactors, which are still unsafe for people to enter four years after the nuclear crisis.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "A second robot"
+      },
+      {
+        "id": 1,
+        "text": "a strange green glow"
+      },
+      {
+        "id": 2,
+        "text": "82"
+      },
+      {
+        "id": 3,
+        "text": "Fukushima"
+      },
+      {
+        "id": 4,
+        "text": "four years"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "sentInto",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "capturedImageOf",
+        "tail": 1
+      }
+    ]
+  }
+]

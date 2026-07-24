@@ -1,0 +1,551 @@
+[
+  {
+    "document_id": 270,
+    "ragtruth_id": "1110",
+    "text": "Debra Lobo, a 55-year-old American citizen, was shot and wounded in Pakistan. The attack happened as she drove from the medical school where she works in Karachi. Pamphlets saying \"America should be burnt\" were found in her car. Lobo is expected to survive.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "shot"
+      },
+      {
+        "id": 1,
+        "text": "Debra Lobo, a 55-year-old American citizen"
+      },
+      {
+        "id": 2,
+        "text": "Pakistan"
+      },
+      {
+        "id": 3,
+        "text": "Karachi"
+      },
+      {
+        "id": 4,
+        "text": "America"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "nationality",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "location",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "location",
+        "tail": 3
+      }
+    ]
+  },
+  {
+    "document_id": 271,
+    "ragtruth_id": "1111",
+    "text": "An American citizen working at a medical school in Karachi, Pakistan, was shot and wounded by two assailants on a motorcycle. The victim, Debra Lobo, is unconscious but expected to survive. Pamphlets with anti-American sentiments were found in her car. The U.S. Embassy is working with Pakistani authorities on the investigation.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "An American citizen working at a medical school in Karachi, Pakistan,"
+      },
+      {
+        "id": 1,
+        "text": "two"
+      },
+      {
+        "id": 2,
+        "text": "anti-American"
+      },
+      {
+        "id": 3,
+        "text": "The U.S. Embassy"
+      },
+      {
+        "id": 4,
+        "text": "Pakistani"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "nationality",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "locatedIn",
+        "tail": 4
+      },
+      {
+        "head": 3,
+        "relation": "cooperatesWith",
+        "tail": 4
+      }
+    ]
+  },
+  {
+    "document_id": 272,
+    "ragtruth_id": "1112",
+    "text": "An American woman working at a medical school in Pakistan was shot by two assailants on a motorcycle while driving home to pick up her daughters. The attack occurred despite a recent surge in security measures. Police found anti-American pamphlets near the scene of the crime. The victim, Debra Lobo, is expected to survive after surgery.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "An American woman working at a medical school in Pakistan"
+      },
+      {
+        "id": 1,
+        "text": "shot"
+      },
+      {
+        "id": 2,
+        "text": "two"
+      },
+      {
+        "id": 3,
+        "text": "anti-American"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "shotBy",
+        "tail": 2
+      }
+    ]
+  },
+  {
+    "document_id": 273,
+    "ragtruth_id": "1113",
+    "text": "An American citizen, Debra Lobo, was shot in Karachi, Pakistan while driving from work, with pamphlets found in her car calling for America to be burned. The 55-year-old is expected to survive, but is unconscious. The US Embassy is in contact with Pakistani authorities and is investigating the incident.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "An American citizen, Debra Lobo"
+      },
+      {
+        "id": 1,
+        "text": "shot"
+      },
+      {
+        "id": 2,
+        "text": "Karachi"
+      },
+      {
+        "id": 3,
+        "text": "Pakistan"
+      },
+      {
+        "id": 4,
+        "text": "America"
+      },
+      {
+        "id": 5,
+        "text": "The US Embassy"
+      },
+      {
+        "id": 6,
+        "text": "Pakistani"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "locatedIn",
+        "tail": 2
+      },
+      {
+        "head": 2,
+        "relation": "locatedIn",
+        "tail": 3
+      },
+      {
+        "head": 5,
+        "relation": "inContactWith",
+        "tail": 6
+      }
+    ]
+  },
+  {
+    "document_id": 274,
+    "ragtruth_id": "1114",
+    "text": "Sure! Here's the summary within 44 words:\n\nAmerican woman critically injured in Pakistan shooting; assailants threw pamphlets saying \"America should be burnt\". She is being treated at Aga Khan Hospital and is expected to survive.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "\n\nAmerican woman"
+      },
+      {
+        "id": 1,
+        "text": "44"
+      },
+      {
+        "id": 2,
+        "text": "Pakistan"
+      },
+      {
+        "id": 3,
+        "text": "America"
+      },
+      {
+        "id": 4,
+        "text": "Aga Khan Hospital"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "treatedAt",
+        "tail": 4
+      }
+    ]
+  },
+  {
+    "document_id": 275,
+    "ragtruth_id": "1115",
+    "text": "An American woman was shot and injured in Karachi, Pakistan, while driving from work. The attackers threw pamphlets saying \"America should be burnt\" before fleeing. The victim, Debra Lobo, is expected to survive and is being treated at a local hospital.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "An American woman"
+      },
+      {
+        "id": 1,
+        "text": "Karachi"
+      },
+      {
+        "id": 2,
+        "text": "Pakistan"
+      },
+      {
+        "id": 3,
+        "text": "America"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "locatedIn",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "nationality",
+        "tail": 3
+      }
+    ]
+  },
+  {
+    "document_id": 276,
+    "ragtruth_id": "1152",
+    "text": "A family of four from Delaware are in a critical condition or recovering, following a vacation to the U.S. Virgin Islands, during which they may have been exposed to dangerous pesticides. The father can neither move nor speak, while his two teenage sons are in comas. The mother was also hospitalised, yet has since been released and is undergoing occupational therapy. The family were taken ill after renting a villa at the Sirenusa resort in St. John. The U.S. Environmental Protection Agency has suggested that the presence of a pesticide in the rented villa is likely to have caused the illnesses, which were reported on 20 March. The pesticide in question, methyl bromide, can have serious health effects, including damage to the central nervous system and respiratory system, and its use is highly restricted in the United States. The U.S. Department of Justice has launched a criminal investigation into the matter.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "A family of four from Delaware"
+      },
+      {
+        "id": 1,
+        "text": "The father"
+      },
+      {
+        "id": 2,
+        "text": "a villa at the Sirenusa resort in St. John"
+      },
+      {
+        "id": 3,
+        "text": "The pesticide in question, methyl bromide,"
+      },
+      {
+        "id": 4,
+        "text": "U.S."
+      },
+      {
+        "id": 5,
+        "text": "two"
+      },
+      {
+        "id": 6,
+        "text": "The U.S. Environmental Protection Agency"
+      },
+      {
+        "id": 7,
+        "text": "20 March"
+      },
+      {
+        "id": 8,
+        "text": "the United States"
+      },
+      {
+        "id": 9,
+        "text": "The U.S. Department of Justice"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "locatedIn",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "rented",
+        "tail": 2
+      },
+      {
+        "head": 2,
+        "relation": "locatedIn",
+        "tail": 8
+      },
+      {
+        "head": 3,
+        "relation": "restrictedIn",
+        "tail": 8
+      },
+      {
+        "head": 6,
+        "relation": "suggestedCause",
+        "tail": 2
+      },
+      {
+        "head": 9,
+        "relation": "launchedInvestigationInto",
+        "tail": 2
+      }
+    ]
+  },
+  {
+    "document_id": 277,
+    "ragtruth_id": "1153",
+    "text": "Two Delaware boys and their father are in critical condition after becoming sick, possibly from pesticide exposure, during a trip to the U.S. Virgin Islands. The family fell ill more than two weeks ago while renting a villa at the Sirenusa resort in St. John. They were airlifted to hospitals in the US. The boys, aged 16 and 14, are in a coma at a Philadelphia hospital. The father is conscious but unable to move. The US Environmental Protection Agency (EPA) has found the presence of methyl bromide, a restricted pesticide, in the villa where the family was staying. Exposure to methyl bromide can cause serious health effects. The EPA is investigating whether the family was made ill after a fumigation at the resort. The US Department of Justice has initiated a criminal investigation into the matter. The rental agent for the villa, Sea Glass Vacations, stated that the unit below the family's had been treated for pests, but their unit was not treated. Terminix, the pest control company used by Sea Glass Vacations, is cooperating with authorities and conducting an internal investigation.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Two Delaware boys"
+      },
+      {
+        "id": 1,
+        "text": "The family"
+      },
+      {
+        "id": 2,
+        "text": "their father"
+      },
+      {
+        "id": 3,
+        "text": "a villa"
+      },
+      {
+        "id": 4,
+        "text": "The US Environmental Protection Agency (EPA)"
+      },
+      {
+        "id": 5,
+        "text": "the Sirenusa resort in St. John"
+      },
+      {
+        "id": 6,
+        "text": "The rental agent for the villa, Sea Glass Vacations,"
+      },
+      {
+        "id": 7,
+        "text": "U.S."
+      },
+      {
+        "id": 8,
+        "text": "more than two weeks ago"
+      },
+      {
+        "id": 9,
+        "text": "US"
+      },
+      {
+        "id": 10,
+        "text": "Philadelphia"
+      },
+      {
+        "id": 11,
+        "text": "The US Department of Justice"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "stayedAt",
+        "tail": 3
+      },
+      {
+        "head": 3,
+        "relation": "locatedAt",
+        "tail": 5
+      },
+      {
+        "head": 1,
+        "relation": "travelDestination",
+        "tail": 7
+      },
+      {
+        "head": 1,
+        "relation": "airliftedTo",
+        "tail": 9
+      },
+      {
+        "head": 0,
+        "relation": "hospitalLocation",
+        "tail": 10
+      },
+      {
+        "head": 4,
+        "relation": "foundPresenceOf",
+        "tail": 3
+      },
+      {
+        "head": 4,
+        "relation": "investigating",
+        "tail": 1
+      },
+      {
+        "head": 11,
+        "relation": "initiatedInvestigationInto",
+        "tail": 1
+      },
+      {
+        "head": 6,
+        "relation": "rentalAgentFor",
+        "tail": 3
+      }
+    ]
+  },
+  {
+    "document_id": 278,
+    "ragtruth_id": "1154",
+    "text": "Two Delaware boys remain in critical condition in a hospital after falling ill with symptoms similar to those caused by pesticide exposure during a trip to the US Virgin Islands. The boys' father, also ill, is unable to move or speak. The US Environmental Protection Agency (EPA) said that the presence of a pesticide at the family's vacation rental may have caused the illnesses. The EPA is conducting an investigation with local government agencies. The family's attorney declined to comment on the investigation. The luxury villa where the family stayed rents between $550 and $1,200 per night. Terminix, the pest control company responsible for treating the unit, is also looking into the matter and is cooperating with authorities.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Two Delaware boys"
+      },
+      {
+        "id": 1,
+        "text": "symptoms similar to those caused by pesticide exposure during a trip to the US Virgin Islands"
+      },
+      {
+        "id": 2,
+        "text": "The US Environmental Protection Agency (EPA)"
+      },
+      {
+        "id": 3,
+        "text": "the family's"
+      },
+      {
+        "id": 4,
+        "text": "an investigation with local government agencies"
+      },
+      {
+        "id": 5,
+        "text": "the family's vacation rental"
+      },
+      {
+        "id": 6,
+        "text": "between $550 and $1,200 per night"
+      },
+      {
+        "id": 7,
+        "text": "Terminix"
+      }
+    ],
+    "relations": [
+      {
+        "head": 2,
+        "relation": "conducting",
+        "tail": 4
+      },
+      {
+        "head": 5,
+        "relation": "rentsFor",
+        "tail": 6
+      },
+      {
+        "head": 7,
+        "relation": "responsibleForTreating",
+        "tail": 5
+      }
+    ]
+  },
+  {
+    "document_id": 279,
+    "ragtruth_id": "1155",
+    "text": "Two Delaware boys are in a coma and their father remains unable to talk or move two weeks after falling ill during a trip to the US Virgin Islands. The family was renting a villa at the Sirenusa resort when they became ill, and initial tests reveal that a pesticide may have caused their illnesses. The US Environmental Protection Agency (EPA) is investigating whether the family was exposed to the pesticide during a fumigation at the resort on March 18. The family's lawyer declined to comment on the investigation, but the EPA confirmed that it is working with local government agencies to determine if any environmental regulations or laws were violated. The boys, aged 16 and 14, and their mother were transported to hospitals in the US for treatment, while the father remains hospitalized.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Two Delaware boys"
+      },
+      {
+        "id": 1,
+        "text": "The family"
+      },
+      {
+        "id": 2,
+        "text": "a pesticide"
+      },
+      {
+        "id": 3,
+        "text": "the Sirenusa resort"
+      },
+      {
+        "id": 4,
+        "text": "investigating"
+      },
+      {
+        "id": 5,
+        "text": "The US Environmental Protection Agency (EPA)"
+      },
+      {
+        "id": 6,
+        "text": "their father"
+      },
+      {
+        "id": 7,
+        "text": "two weeks"
+      },
+      {
+        "id": 8,
+        "text": "US"
+      },
+      {
+        "id": 9,
+        "text": "March 18"
+      },
+      {
+        "id": 10,
+        "text": "US"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "rentedAt",
+        "tail": 3
+      },
+      {
+        "head": 1,
+        "relation": "exposedTo",
+        "tail": 2
+      },
+      {
+        "head": 5,
+        "relation": "investigating",
+        "tail": 4
+      },
+      {
+        "head": 1,
+        "relation": "exposedDuring",
+        "tail": 9
+      }
+    ]
+  }
+]

@@ -1,0 +1,1094 @@
+[
+  {
+    "document_id": 110,
+    "ragtruth_id": "446",
+    "text": "The 2015 Academy of Country Music Awards took place on Sunday night at the Dallas Cowboys stadium and was watched by millions of people. The event saw several memorable performances, including Eric Church and Keith Urban's opening duet and Reba McEntire's energetic set. Taylor Swift also made an appearance and sang along to country songs. Garth Brooks' tribute to the U.S. military was another standout moment. However, some critics felt that the length of the ceremony, which ran for three and a half hours, was excessive.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "The 2015 Academy of Country Music Awards"
+      },
+      {
+        "id": 1,
+        "text": "Sunday night"
+      },
+      {
+        "id": 2,
+        "text": "Dallas"
+      },
+      {
+        "id": 3,
+        "text": "Cowboys"
+      },
+      {
+        "id": 4,
+        "text": "millions"
+      },
+      {
+        "id": 5,
+        "text": "Eric Church"
+      },
+      {
+        "id": 6,
+        "text": "Keith Urban's"
+      },
+      {
+        "id": 7,
+        "text": "Reba McEntire's"
+      },
+      {
+        "id": 8,
+        "text": "Taylor Swift"
+      },
+      {
+        "id": 9,
+        "text": "Garth Brooks'"
+      },
+      {
+        "id": 10,
+        "text": "U.S."
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "date",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "location",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "location",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "audience",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "performedBy",
+        "tail": 5
+      },
+      {
+        "head": 0,
+        "relation": "performedBy",
+        "tail": 6
+      },
+      {
+        "head": 0,
+        "relation": "performedBy",
+        "tail": 7
+      },
+      {
+        "head": 0,
+        "relation": "appearedBy",
+        "tail": 8
+      },
+      {
+        "head": 0,
+        "relation": "performedBy",
+        "tail": 9
+      },
+      {
+        "head": 9,
+        "relation": "tributeTo",
+        "tail": 10
+      }
+    ]
+  },
+  {
+    "document_id": 111,
+    "ragtruth_id": "447",
+    "text": "The 50th Annual Academy of Country Music Awards held at the Dallas Cowboys Stadium was a grand event with plenty of memorable moments. Hosts Blake Shelton and Luke Bryan kicked off the night with an energetic opening performance, followed by standout performances from Eric Church, Keith Urban, and Taylor Swift. Reba McEntire proved why she's a country legend with her powerful vocals, while Garth Brooks paid tribute to the US military with an emotional performance. Christina Aguilera surprised fans by joining Rascal Flatts for a collaborative performance. Miranda Lambert dominated the awards category, winning several awards, including Entertainer of the Year. Other highlights included Jason Aldean's powerful medley, Little Big Town bringing their poignant ballad \"Girl Crush\" to the stage, and Steven Tyler's unique facial hair. However, some viewers criticized the length of the ceremony, which ran for three and a half hours, and felt that some of the milestone awards given to country legends like Reba McEntire, Kenny Chesney, and George Strait were rushed. Additionally, some Twitter users criticized Taylor Swift for attending the awards show despite transitioning to pop music.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Reba McEntire"
+      },
+      {
+        "id": 1,
+        "text": "Little Big Town"
+      },
+      {
+        "id": 2,
+        "text": "The 50th Annual Academy of Country Music Awards held at the Dallas Cowboys Stadium"
+      },
+      {
+        "id": 3,
+        "text": "Taylor Swift"
+      },
+      {
+        "id": 4,
+        "text": "Blake Shelton"
+      },
+      {
+        "id": 5,
+        "text": "Luke Bryan"
+      },
+      {
+        "id": 6,
+        "text": "the night"
+      },
+      {
+        "id": 7,
+        "text": "Eric Church"
+      },
+      {
+        "id": 8,
+        "text": "Keith Urban"
+      },
+      {
+        "id": 9,
+        "text": "Garth Brooks"
+      },
+      {
+        "id": 10,
+        "text": "US"
+      },
+      {
+        "id": 11,
+        "text": "Christina Aguilera"
+      },
+      {
+        "id": 12,
+        "text": "Rascal Flatts"
+      },
+      {
+        "id": 13,
+        "text": "Miranda Lambert"
+      },
+      {
+        "id": 14,
+        "text": "Entertainer of the Year"
+      },
+      {
+        "id": 15,
+        "text": "Jason Aldean's"
+      },
+      {
+        "id": 16,
+        "text": "Girl Crush"
+      },
+      {
+        "id": 17,
+        "text": "Steven Tyler's"
+      },
+      {
+        "id": 18,
+        "text": "Kenny Chesney"
+      },
+      {
+        "id": 19,
+        "text": "George Strait"
+      }
+    ],
+    "relations": [
+      {
+        "head": 2,
+        "relation": "host",
+        "tail": 4
+      },
+      {
+        "head": 2,
+        "relation": "host",
+        "tail": 5
+      },
+      {
+        "head": 2,
+        "relation": "performer",
+        "tail": 7
+      },
+      {
+        "head": 2,
+        "relation": "performer",
+        "tail": 8
+      },
+      {
+        "head": 2,
+        "relation": "performer",
+        "tail": 3
+      },
+      {
+        "head": 2,
+        "relation": "performer",
+        "tail": 0
+      },
+      {
+        "head": 2,
+        "relation": "performer",
+        "tail": 9
+      },
+      {
+        "head": 2,
+        "relation": "performer",
+        "tail": 11
+      },
+      {
+        "head": 2,
+        "relation": "performer",
+        "tail": 12
+      },
+      {
+        "head": 2,
+        "relation": "performer",
+        "tail": 15
+      },
+      {
+        "head": 2,
+        "relation": "performer",
+        "tail": 1
+      },
+      {
+        "head": 2,
+        "relation": "awardWinner",
+        "tail": 13
+      },
+      {
+        "head": 13,
+        "relation": "award",
+        "tail": 14
+      },
+      {
+        "head": 2,
+        "relation": "attendee",
+        "tail": 3
+      }
+    ]
+  },
+  {
+    "document_id": 112,
+    "ragtruth_id": "448",
+    "text": "The 2015 Academy of Country Music Awards celebrated its 50th anniversary with a star-studded event at the Dallas Cowboys stadium. Hosts Blake Shelton and Luke Bryan kicked off the show with a powerful joint performance, and other highlights included Eric Church and Keith Urban's opening number, Reba McEntire's energetic performance, and Taylor Swift singing along to country songs from the audience. The night also featured memorable performances by Garth Brooks, Rascal Flatts, and Little Big Town. However, not all moments were perfect, with some critics panning Tony Romo's awkward hosting, the lengthy show, and Steven Tyler's facial hair. Additionally, some country fans took to Twitter to criticize Taylor Swift for attending the awards after transitioning to pop music.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "The 2015 Academy of Country Music Awards"
+      },
+      {
+        "id": 1,
+        "text": "Taylor Swift"
+      },
+      {
+        "id": 2,
+        "text": "50th"
+      },
+      {
+        "id": 3,
+        "text": "Dallas"
+      },
+      {
+        "id": 4,
+        "text": "Cowboys"
+      },
+      {
+        "id": 5,
+        "text": "Blake Shelton"
+      },
+      {
+        "id": 6,
+        "text": "Luke Bryan"
+      },
+      {
+        "id": 7,
+        "text": "Eric Church"
+      },
+      {
+        "id": 8,
+        "text": "Keith Urban's"
+      },
+      {
+        "id": 9,
+        "text": "Reba McEntire's"
+      },
+      {
+        "id": 10,
+        "text": "Garth Brooks"
+      },
+      {
+        "id": 11,
+        "text": "Rascal Flatts"
+      },
+      {
+        "id": 12,
+        "text": "Little Big Town"
+      },
+      {
+        "id": 13,
+        "text": "Tony Romo's"
+      },
+      {
+        "id": 14,
+        "text": "Steven Tyler's"
+      },
+      {
+        "id": 15,
+        "text": "Twitter"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "anniversary",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "location",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "location",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "host",
+        "tail": 5
+      },
+      {
+        "head": 0,
+        "relation": "host",
+        "tail": 6
+      },
+      {
+        "head": 0,
+        "relation": "performer",
+        "tail": 7
+      },
+      {
+        "head": 0,
+        "relation": "performer",
+        "tail": 8
+      },
+      {
+        "head": 0,
+        "relation": "performer",
+        "tail": 9
+      },
+      {
+        "head": 0,
+        "relation": "performer",
+        "tail": 10
+      },
+      {
+        "head": 0,
+        "relation": "performer",
+        "tail": 11
+      },
+      {
+        "head": 0,
+        "relation": "performer",
+        "tail": 12
+      },
+      {
+        "head": 1,
+        "relation": "attendee",
+        "tail": 0
+      },
+      {
+        "head": 15,
+        "relation": "criticized",
+        "tail": 1
+      }
+    ]
+  },
+  {
+    "document_id": 113,
+    "ragtruth_id": "449",
+    "text": "The 50th Academy of Country Music Awards took place on Sunday night at the Dallas Cowboys stadium, with hosts Blake Shelton and Luke Bryan promising a bigger and better event than ever before. The night saw performances by top country artists, including Eric Church and Keith Urban, who kicked off the show with a powerful joint performance. Other highlights included Reba McEntire's energetic performance, Taylor Swift singing along to country classics in the audience, and Garth Brooks' emotional salute to the US armed forces. The night also saw a special award presented to Taylor Swift's mother, Andrea Swift, who recently revealed she has been diagnosed with cancer. Some of the night's worst moments included Tony Romo's awkward appearance on stage, the lengthy three-and-a-half hour runtime, and criticism on Twitter aimed at Taylor Swift for attending the event despite having moved away from country music. Overall, the 50th ACM Awards were a memorable celebration of country music, with both classic and modern artists shining throughout the night.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Sunday night"
+      },
+      {
+        "id": 1,
+        "text": "The 50th Academy of Country Music Awards"
+      },
+      {
+        "id": 2,
+        "text": "Taylor Swift"
+      },
+      {
+        "id": 3,
+        "text": "Taylor Swift's mother, Andrea Swift, who recently revealed she has been diagnosed with cancer"
+      },
+      {
+        "id": 4,
+        "text": "Dallas"
+      },
+      {
+        "id": 5,
+        "text": "Cowboys"
+      },
+      {
+        "id": 6,
+        "text": "Blake Shelton"
+      },
+      {
+        "id": 7,
+        "text": "Luke Bryan"
+      },
+      {
+        "id": 8,
+        "text": "Eric Church"
+      },
+      {
+        "id": 9,
+        "text": "Keith Urban"
+      },
+      {
+        "id": 10,
+        "text": "Reba McEntire's"
+      },
+      {
+        "id": 11,
+        "text": "Garth Brooks'"
+      },
+      {
+        "id": 12,
+        "text": "US"
+      },
+      {
+        "id": 13,
+        "text": "Tony Romo's"
+      },
+      {
+        "id": 14,
+        "text": "three"
+      },
+      {
+        "id": 15,
+        "text": "Twitter"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "time",
+        "tail": 0
+      },
+      {
+        "head": 1,
+        "relation": "location",
+        "tail": 4
+      },
+      {
+        "head": 1,
+        "relation": "location",
+        "tail": 5
+      },
+      {
+        "head": 1,
+        "relation": "host",
+        "tail": 6
+      },
+      {
+        "head": 1,
+        "relation": "host",
+        "tail": 7
+      },
+      {
+        "head": 1,
+        "relation": "performer",
+        "tail": 8
+      },
+      {
+        "head": 1,
+        "relation": "performer",
+        "tail": 9
+      },
+      {
+        "head": 1,
+        "relation": "performer",
+        "tail": 10
+      },
+      {
+        "head": 1,
+        "relation": "performer",
+        "tail": 2
+      },
+      {
+        "head": 1,
+        "relation": "performer",
+        "tail": 11
+      },
+      {
+        "head": 1,
+        "relation": "awardRecipient",
+        "tail": 3
+      },
+      {
+        "head": 1,
+        "relation": "criticizedOn",
+        "tail": 15
+      },
+      {
+        "head": 1,
+        "relation": "duration",
+        "tail": 14
+      }
+    ]
+  },
+  {
+    "document_id": 114,
+    "ragtruth_id": "462",
+    "text": "Polish Prince, Jan Zylinski, has challenged UK Independence Party (UKIP) leader, Nigel Farage, to a duel in London's Hyde Park, over his immigration policy. Farage, who is campaigning for Britain's general elections on May 7, blames the unrestricted flow of immigrants from impoverished Eastern Europe on Britain's membership of the European Union. Zylinski, who is disgruntled with discrimination against Poles living in Britain, offered to meet Farage in Hyde Park to \"resolve this matter in the way that an 18th century Polish aristocrat and an English gentleman would traditionally do.\" Farage responded that he does not intend to accept the offer, adding that he thought a Polish prince would agree with him that it's a tragedy that Poland has lost so many of its brightest young people. UKIP is campaigning to leave the European Union and cut Britain's £9 billion ($12.4B) annual foreign aid budget.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "UK Independence Party (UKIP) leader, Nigel Farage,"
+      },
+      {
+        "id": 1,
+        "text": "Britain's"
+      },
+      {
+        "id": 2,
+        "text": "London's Hyde Park"
+      },
+      {
+        "id": 3,
+        "text": "offered"
+      },
+      {
+        "id": 4,
+        "text": "Poland"
+      },
+      {
+        "id": 5,
+        "text": "UK Independence Party (UKIP)"
+      },
+      {
+        "id": 6,
+        "text": "the European Union"
+      },
+      {
+        "id": 7,
+        "text": "Polish"
+      },
+      {
+        "id": 8,
+        "text": "Jan Zylinski"
+      },
+      {
+        "id": 9,
+        "text": "Eastern Europe"
+      },
+      {
+        "id": 10,
+        "text": "Zylinski"
+      },
+      {
+        "id": 11,
+        "text": "Poles"
+      },
+      {
+        "id": 12,
+        "text": "an 18th century"
+      },
+      {
+        "id": 13,
+        "text": "Polish"
+      },
+      {
+        "id": 14,
+        "text": "English"
+      },
+      {
+        "id": 15,
+        "text": "Polish"
+      },
+      {
+        "id": 16,
+        "text": "£9 billion"
+      },
+      {
+        "id": 17,
+        "text": "12.4B"
+      },
+      {
+        "id": 18,
+        "text": "annual"
+      }
+    ],
+    "relations": [
+      {
+        "head": 8,
+        "relation": "nationality",
+        "tail": 7
+      },
+      {
+        "head": 8,
+        "relation": "duelOpponent",
+        "tail": 0
+      },
+      {
+        "head": 8,
+        "relation": "offeredToMeetIn",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "campaigningFor",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "blamesOn",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "blamesOn",
+        "tail": 6
+      },
+      {
+        "head": 5,
+        "relation": "campaigningToLeave",
+        "tail": 6
+      },
+      {
+        "head": 5,
+        "relation": "wantsToCut",
+        "tail": 16
+      }
+    ]
+  },
+  {
+    "document_id": 115,
+    "ragtruth_id": "463",
+    "text": "A Polish Prince, Jan Zylinski, has challenged Nigel Farage, the leader of the UK Independence Party (UKIP), to a duel in London's Hyde Park over his immigration policy. Farage blames EU membership for the influx of foreign immigrants into Britain, particularly from Eastern Europe. Zylinski, in a video posted on YouTube, expressed his frustration with the discrimination against Poles living in Britain and criticized Farage for blaming migrants for traffic jams. Holding a sword that belonged to his father, a World War II war hero, Zylinski proposed a duel to settle the matter. Farage, however, declined the offer and highlighted the loss of young Polish talent as a tragedy for Poland. UKIP wants Britain to leave the EU and cut foreign aid. Zylinski also suggested a verbal duel on a TV show before the elections. In a separate video, he emphasized the positive contributions of Poles to Britain and called for an end to the hostility towards them.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Nigel Farage, the leader of the UK Independence Party (UKIP),"
+      },
+      {
+        "id": 1,
+        "text": "A Polish Prince, Jan Zylinski,"
+      },
+      {
+        "id": 2,
+        "text": "Britain"
+      },
+      {
+        "id": 3,
+        "text": "proposed"
+      },
+      {
+        "id": 4,
+        "text": "the UK Independence Party (UKIP)"
+      },
+      {
+        "id": 5,
+        "text": "EU"
+      },
+      {
+        "id": 6,
+        "text": "Poles"
+      },
+      {
+        "id": 7,
+        "text": "London"
+      },
+      {
+        "id": 8,
+        "text": "Hyde Park"
+      },
+      {
+        "id": 9,
+        "text": "Eastern Europe"
+      },
+      {
+        "id": 10,
+        "text": "YouTube"
+      },
+      {
+        "id": 11,
+        "text": "Poles"
+      },
+      {
+        "id": 12,
+        "text": "World War II"
+      },
+      {
+        "id": 13,
+        "text": "Polish"
+      },
+      {
+        "id": 14,
+        "text": "Poland"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "challengedToDuel",
+        "tail": 0
+      },
+      {
+        "head": 0,
+        "relation": "leaderOf",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "blames",
+        "tail": 5
+      },
+      {
+        "head": 0,
+        "relation": "blamesImmigrationInto",
+        "tail": 2
+      },
+      {
+        "head": 1,
+        "relation": "postedOn",
+        "tail": 10
+      },
+      {
+        "head": 1,
+        "relation": "criticized",
+        "tail": 0
+      },
+      {
+        "head": 1,
+        "relation": "proposed",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "declined",
+        "tail": 3
+      },
+      {
+        "head": 4,
+        "relation": "wants",
+        "tail": 2
+      },
+      {
+        "head": 1,
+        "relation": "suggested",
+        "tail": 3
+      }
+    ]
+  },
+  {
+    "document_id": 116,
+    "ragtruth_id": "464",
+    "text": "A Polish prince has challenged British politician Nigel Farage to a duel in London's Hyde Park over his immigration policy. Prince Jan Zylinski is upset with discrimination against Poles living in Britain and believes that Farage's claim that migrants are causing traffic jams is nonsense. He wants to settle the matter through a traditional duel with a sword. Farage, however, does not intend to accept the offer and instead proposes a duel with words on a TV show before the general election. Zylinski agrees and suggests a separate video duel. Meanwhile, another UKIP politician tweeted an image of a medieval knight being sliced in two, suggesting that Farage would do the same to the prince.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "British politician Nigel Farage"
+      },
+      {
+        "id": 1,
+        "text": "A Polish prince"
+      },
+      {
+        "id": 2,
+        "text": "wants"
+      },
+      {
+        "id": 3,
+        "text": "London"
+      },
+      {
+        "id": 4,
+        "text": "Hyde Park"
+      },
+      {
+        "id": 5,
+        "text": "Poles"
+      },
+      {
+        "id": 6,
+        "text": "Britain"
+      },
+      {
+        "id": 7,
+        "text": "UKIP"
+      },
+      {
+        "id": 8,
+        "text": "two"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "locatedIn",
+        "tail": 3
+      },
+      {
+        "head": 1,
+        "relation": "locatedIn",
+        "tail": 4
+      },
+      {
+        "head": 5,
+        "relation": "residesIn",
+        "tail": 6
+      },
+      {
+        "head": 0,
+        "relation": "memberOf",
+        "tail": 7
+      }
+    ]
+  },
+  {
+    "document_id": 117,
+    "ragtruth_id": "465",
+    "text": "A Polish prince has challenged UK Independence Party (UKIP) leader Nigel Farage to a duel in Hyde Park over Farage's criticism of Polish immigrants in the UK. Prince Jan Zylinski, whose father was a World War II war hero, held a sword belonging to his father and issued the challenge in a video posted on YouTube. Zylinski criticized Farage for blaming migrants for traffic jams and accused him of spreading hatred towards Poles. Farage rejected the challenge, stating that he does not have a sword and does not intend to engage in a duel. Zylinski also offered an alternative challenge, suggesting a debate in a TV studio before the upcoming elections.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "UK Independence Party (UKIP) leader Nigel Farage"
+      },
+      {
+        "id": 1,
+        "text": "A Polish prince"
+      },
+      {
+        "id": 2,
+        "text": "challenged"
+      },
+      {
+        "id": 3,
+        "text": "Hyde Park"
+      },
+      {
+        "id": 4,
+        "text": "Polish"
+      },
+      {
+        "id": 5,
+        "text": "UK"
+      },
+      {
+        "id": 6,
+        "text": "YouTube"
+      },
+      {
+        "id": 7,
+        "text": "Poles"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "challenged",
+        "tail": 0
+      },
+      {
+        "head": 1,
+        "relation": "location",
+        "tail": 3
+      },
+      {
+        "head": 1,
+        "relation": "postedOn",
+        "tail": 6
+      },
+      {
+        "head": 0,
+        "relation": "criticized",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "criticized",
+        "tail": 7
+      }
+    ]
+  },
+  {
+    "document_id": 118,
+    "ragtruth_id": "466",
+    "text": "A Polish prince has challenged Nigel Farage, the leader of the UK Independence Party (UKIP), to a duel in London's Hyde Park over his immigration policies. The prince, Jan Zylinski, is upset about Farage's comments blaming immigrants for traffic jams and other issues. Zylinski, who lives in Britain, posted a video on YouTube challenging Farage to a duel, either with swords or in a TV studio debate. Farage has declined the challenge, saying he does not want to engage in a physical altercation and prefers to focus on the upcoming elections. Zylinski has also created a video highlighting the positive contributions of Poles to Britain, including their work ethic and integration into the community.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Nigel Farage, the leader of the UK Independence Party (UKIP),"
+      },
+      {
+        "id": 1,
+        "text": "A Polish prince"
+      },
+      {
+        "id": 2,
+        "text": "challenging"
+      },
+      {
+        "id": 3,
+        "text": "Britain"
+      },
+      {
+        "id": 4,
+        "text": "Poles"
+      },
+      {
+        "id": 5,
+        "text": "London"
+      },
+      {
+        "id": 6,
+        "text": "Hyde Park"
+      },
+      {
+        "id": 7,
+        "text": "Zylinski"
+      },
+      {
+        "id": 8,
+        "text": "YouTube"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "challengeTarget",
+        "tail": 0
+      },
+      {
+        "head": 1,
+        "relation": "locatedIn",
+        "tail": 3
+      },
+      {
+        "head": 7,
+        "relation": "challengeTarget",
+        "tail": 0
+      },
+      {
+        "head": 0,
+        "relation": "locatedIn",
+        "tail": 5
+      },
+      {
+        "head": 6,
+        "relation": "locatedIn",
+        "tail": 5
+      },
+      {
+        "head": 7,
+        "relation": "locatedIn",
+        "tail": 3
+      },
+      {
+        "head": 7,
+        "relation": "publishedOn",
+        "tail": 8
+      },
+      {
+        "head": 1,
+        "relation": "highlightedContributionOf",
+        "tail": 4
+      },
+      {
+        "head": 4,
+        "relation": "locatedIn",
+        "tail": 3
+      }
+    ]
+  },
+  {
+    "document_id": 119,
+    "ragtruth_id": "467",
+    "text": "A Polish Prince, Jan Zylinski, has challenged Nigel Farage, the leader of the UK Independence Party (UKIP), to a duel in Hyde Park over Farage's anti-immigration stance. Farage has criticized Britain's membership in the EU for allowing foreign immigrants, including Poles, to enter the country without control. Zylinski, whose family has a long history of fighting for Polish independence, accused Farage of discriminating against Poles and challenged him to a duel to settle the matter in a traditional 18th-century manner. Farage declined the invitation, stating that he does not have a sword and that he would not engage in a physical fight. Zylinski then proposed a verbal duel in a TV studio, to which Farage has not responded. Zylinski also released a video highlighting the positive contributions of Poles to Britain, including their work ethic and integration into the community.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Nigel Farage, the leader of the UK Independence Party (UKIP),"
+      },
+      {
+        "id": 1,
+        "text": "Britain's"
+      },
+      {
+        "id": 2,
+        "text": "A Polish Prince, Jan Zylinski,"
+      },
+      {
+        "id": 3,
+        "text": "challenged"
+      },
+      {
+        "id": 4,
+        "text": "Poles"
+      },
+      {
+        "id": 5,
+        "text": "Hyde Park"
+      },
+      {
+        "id": 6,
+        "text": "EU"
+      },
+      {
+        "id": 7,
+        "text": "Poles"
+      },
+      {
+        "id": 8,
+        "text": "Poles"
+      },
+      {
+        "id": 9,
+        "text": "18th-century"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "leaderOf",
+        "tail": 6
+      },
+      {
+        "head": 2,
+        "relation": "challengeTarget",
+        "tail": 0
+      },
+      {
+        "head": 2,
+        "relation": "challengeLocation",
+        "tail": 5
+      },
+      {
+        "head": 0,
+        "relation": "criticizedMembershipIn",
+        "tail": 6
+      },
+      {
+        "head": 0,
+        "relation": "criticizedImmigrationFrom",
+        "tail": 7
+      },
+      {
+        "head": 2,
+        "relation": "accusedOfDiscriminatingAgainst",
+        "tail": 8
+      },
+      {
+        "head": 2,
+        "relation": "proposedDuelIn",
+        "tail": 9
+      },
+      {
+        "head": 2,
+        "relation": "releasedVideoAbout",
+        "tail": 4
+      }
+    ]
+  }
+]

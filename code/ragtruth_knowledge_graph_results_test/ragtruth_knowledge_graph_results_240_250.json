@@ -1,0 +1,703 @@
+[
+  {
+    "document_id": 240,
+    "ragtruth_id": "924",
+    "text": "Chinese-born, American-based entrepreneur, Jia Jiang, launched a blog project called \"100 Days of Rejection\" after his tech start-up was declined investment. In his project, he forced himself to confront his fear of rejection by undertaking 100 challenges that were likely to result in rejection. On his third day of the project, Jiang famously requested a Krispy Kreme manager to make him five interlinked donuts to mimic the Olympic symbol. The video of the request went viral, and soon Jiang was being invited to speak at events across the US. The experience led to Jiang writing a book called \"Rejection Proof\", which is part self-help and part motivational/autobiography. Jiang aims to help others overcome their fear of rejection, which he believes holds people back from achieving their goals. He shares eight tips in his book for making rejection work for you, including viewing rejection as a numbers game, not running away after a 'no', asking why a rejection occurred, and standing tall and remembering that rejection is an opinion.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Chinese-born, American-based entrepreneur, Jia Jiang"
+      },
+      {
+        "id": 1,
+        "text": "a blog project called \"100 Days of Rejection\""
+      },
+      {
+        "id": 2,
+        "text": "requested"
+      },
+      {
+        "id": 3,
+        "text": "others"
+      },
+      {
+        "id": 4,
+        "text": "people"
+      },
+      {
+        "id": 5,
+        "text": "a book called \"Rejection Proof\", which is part self-help and part motivational/autobiography"
+      },
+      {
+        "id": 6,
+        "text": "100"
+      },
+      {
+        "id": 7,
+        "text": "his third day"
+      },
+      {
+        "id": 8,
+        "text": "Krispy Kreme"
+      },
+      {
+        "id": 9,
+        "text": "five"
+      },
+      {
+        "id": 10,
+        "text": "Olympic"
+      },
+      {
+        "id": 11,
+        "text": "US"
+      },
+      {
+        "id": 12,
+        "text": "eight"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "creator",
+        "tail": 0
+      },
+      {
+        "head": 5,
+        "relation": "author",
+        "tail": 0
+      },
+      {
+        "head": 5,
+        "relation": "partOf",
+        "tail": 0
+      },
+      {
+        "head": 1,
+        "relation": "hasDuration",
+        "tail": 6
+      },
+      {
+        "head": 7,
+        "relation": "partOf",
+        "tail": 1
+      },
+      {
+        "head": 2,
+        "relation": "objectOf",
+        "tail": 0
+      },
+      {
+        "head": 2,
+        "relation": "target",
+        "tail": 8
+      },
+      {
+        "head": 2,
+        "relation": "quantity",
+        "tail": 9
+      },
+      {
+        "head": 2,
+        "relation": "symbol",
+        "tail": 10
+      },
+      {
+        "head": 0,
+        "relation": "invitedToSpeakIn",
+        "tail": 11
+      },
+      {
+        "head": 5,
+        "relation": "containsTips",
+        "tail": 12
+      }
+    ]
+  },
+  {
+    "document_id": 241,
+    "ragtruth_id": "925",
+    "text": "Jia Jiang, a Chinese-born entrepreneur, embarked on a project called \"100 Days of Rejection\" in which he challenged himself to face his fear of rejection. After quitting his job and starting his own tech start-up, which was declined investment, Jiang decided to confront his fear head-on. He documented his experiences in a blog and later wrote a book called Rejection Proof, which is being released this week. One of his most memorable challenges was asking a Krispy Kreme manager to make him five interlinked donuts to mimic the Olympic symbol, which she surprisingly agreed to. The video of this interaction went viral on Reddit, leading to Jiang's fame and invitations to speak at events. However, Jiang's goal was not to gain fame, but rather to overcome his own fears and help others do the same. He believes that the fear of rejection holds people back and wants to demystify the idea of rejection. Jiang offers eight tips for making rejection work for you, including not being afraid to ask for something and not running away after a rejection. He also emphasizes that rejection does not determine the merit of an idea and that understanding why you were rejected can lead to finding alternative solutions. Jiang believes that through facing rejection, one can turn it into an opportunity and expand their comfort zone. Overall, his project aims to show that rejection is not something to fear, but rather a stepping stone towards success.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Jia Jiang, a Chinese-born entrepreneur"
+      },
+      {
+        "id": 1,
+        "text": "his fear of rejection"
+      },
+      {
+        "id": 2,
+        "text": "a Krispy Kreme manager"
+      },
+      {
+        "id": 3,
+        "text": "rejection"
+      },
+      {
+        "id": 4,
+        "text": "one"
+      },
+      {
+        "id": 5,
+        "text": "a book called Rejection Proof, which is being released this week"
+      },
+      {
+        "id": 6,
+        "text": "One"
+      },
+      {
+        "id": 7,
+        "text": "five"
+      },
+      {
+        "id": 8,
+        "text": "Olympic"
+      },
+      {
+        "id": 9,
+        "text": "Reddit"
+      },
+      {
+        "id": 10,
+        "text": "eight"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "author",
+        "tail": 5
+      },
+      {
+        "head": 0,
+        "relation": "fear",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "askedToMake",
+        "tail": 2
+      },
+      {
+        "head": 2,
+        "relation": "agreedToMake",
+        "tail": 7
+      },
+      {
+        "head": 2,
+        "relation": "agreedToMimic",
+        "tail": 8
+      },
+      {
+        "head": 5,
+        "relation": "releaseTime",
+        "tail": 6
+      },
+      {
+        "head": 0,
+        "relation": "numberOfTips",
+        "tail": 10
+      },
+      {
+        "head": 0,
+        "relation": "postedOn",
+        "tail": 9
+      }
+    ]
+  },
+  {
+    "document_id": 242,
+    "ragtruth_id": "926",
+    "text": "Jia Jiang, a Chinese-American entrepreneur, launched a project called \"100 Days of Rejection\" in which he tried to get over his fear of rejection by asking strangers for money or things in exchange for nothing, and posting the results online. His goal was to help himself and others overcoming rejection. After his tech start-up was declined investment, Jiang began to confront his fear head-on. As part of the project, he wrote a book called Rejection Proof. Despite the initial criticism and rejection, the project gained popularity online and eventually led to appearances on talk shows and invitations to speak at events across the country. Through his experiences, Jiang learned that the fear of rejection holds us back more than the rejection itself, and that rejection is more of a human interaction than a universal truth. He also discovered that rejection can be a catalyst for growth and success. Jiang believes that one of the best ways to handle rejection is to ask \"why?\" and then find solutions to address any issues that arise. He also suggests setting a specific number of \"no's\" one can take and remaining confident and engaging in any situation.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Jia Jiang, a Chinese-American entrepreneur"
+      },
+      {
+        "id": 1,
+        "text": "his fear of rejection"
+      },
+      {
+        "id": 2,
+        "text": "the project"
+      },
+      {
+        "id": 3,
+        "text": "Rejection Proof"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "launched",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "wrote",
+        "tail": 3
+      }
+    ]
+  },
+  {
+    "document_id": 243,
+    "ragtruth_id": "927",
+    "text": "Jia Jiang, a Chinese-born entrepreneur, faced rejection when he quit his comfortable job to pursue his dreams of becoming an entrepreneur. To overcome his fear of rejection, he started the \"100 Days of Rejection\" project, where he asked strangers for $100 or an apple without explanation. His project gained attention after he shared his experiences on social media, and he wrote a book called \"Rejection Proof\" based on his journey. Jiang's tips for dealing with rejection include embracing the fear, viewing rejection as a numbers game, and asking why to find solutions. He also suggests setting a limit on the number of nos one can tolerate and standing tall, remembering that rejection is an opinion. Additionally, Jiang shares insights on the impact of sleep deprivation on IQ, the benefits of doing nothing, and the habits of highly ineffective people.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Jia Jiang, a Chinese-born entrepreneur"
+      },
+      {
+        "id": 1,
+        "text": "the \"100 Days of Rejection\" project, where he asked strangers for $100 or an apple without explanation"
+      },
+      {
+        "id": 2,
+        "text": "his fear of rejection"
+      },
+      {
+        "id": 3,
+        "text": "Rejection Proof"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "startedBy",
+        "tail": 0
+      },
+      {
+        "head": 3,
+        "relation": "basedOn",
+        "tail": 0
+      }
+    ]
+  },
+  {
+    "document_id": 244,
+    "ragtruth_id": "928",
+    "text": "Here is a summary of the article in 198 words:\n\nJia Jiang, a Chinese-born entrepreneur, embarked on a project called \"100 Days of Rejection\" to overcome his fear of rejection. He asked strangers for unusual requests, such as $100 or an apple, and documented their responses. His project went viral, leading to media appearances and speaking engagements. Jiang's book, \"Rejection Proof,\" offers eight tips for turning rejection into an opportunity, including not letting fear hold you back, treating rejection as a numbers game, and asking why for feedback. Jiang's project and book aim to demystify rejection and empower others to face their fears.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Jia Jiang, a Chinese-born entrepreneur"
+      },
+      {
+        "id": 1,
+        "text": "strangers"
+      },
+      {
+        "id": 2,
+        "text": "a project called \"100 Days of Rejection\""
+      },
+      {
+        "id": 3,
+        "text": "others"
+      },
+      {
+        "id": 4,
+        "text": "198"
+      },
+      {
+        "id": 5,
+        "text": "100"
+      },
+      {
+        "id": 6,
+        "text": "Rejection Proof"
+      },
+      {
+        "id": 7,
+        "text": "eight"
+      }
+    ],
+    "relations": [
+      {
+        "head": 2,
+        "relation": "creator",
+        "tail": 0
+      },
+      {
+        "head": 0,
+        "relation": "author",
+        "tail": 6
+      },
+      {
+        "head": 6,
+        "relation": "numberOfTips",
+        "tail": 7
+      },
+      {
+        "head": 2,
+        "relation": "aim",
+        "tail": 3
+      }
+    ]
+  },
+  {
+    "document_id": 245,
+    "ragtruth_id": "929",
+    "text": "Jia Jiang, a Chinese-born entrepreneur, launched a project called \"100 Days of Rejection\" where he intentionally sought rejection for 100 days to overcome his fear of it. He documented his experiences on his blog and eventually wrote a book called \"Rejection Proof\" which is being released this week. Through his project, Jiang learned that rejection is not personal and can be turned into an opportunity. He shares 8 tips on how to make rejection work for you:\n\n1. Embrace rejection and don't be afraid to ask for what you want.\n2. Rejection is a numbers game, so keep asking until you get a yes.\n3. Don't judge the merit of an idea based on rejection, as it often reflects the rejecter's perspective.\n4. Don't run away after a no, instead, ask why and try to find a solution.\n5. Set a target for the number of no's you can take before achieving a yes.\n6. Develop invincibility by gradually expanding your comfort zone.\n7. Stand tall and remember that rejection is just an opinion.\n8. Use rejection as an opportunity to learn and grow.\n\nJiang's project gained him recognition and helped him land speaking gigs and even a job offer. His story serves as an inspiration to others who fear rejection and proves that embracing it can lead to growth and success.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Jia Jiang, a Chinese-born entrepreneur"
+      },
+      {
+        "id": 1,
+        "text": "rejection"
+      },
+      {
+        "id": 2,
+        "text": "a project called \"100 Days of Rejection\" where he intentionally sought rejection for 100 days to overcome his fear of it"
+      },
+      {
+        "id": 3,
+        "text": "an idea"
+      },
+      {
+        "id": 4,
+        "text": "rejection"
+      },
+      {
+        "id": 5,
+        "text": "Rejection Proof"
+      },
+      {
+        "id": 6,
+        "text": "this week"
+      },
+      {
+        "id": 7,
+        "text": "8"
+      },
+      {
+        "id": 8,
+        "text": "1"
+      },
+      {
+        "id": 9,
+        "text": "2"
+      },
+      {
+        "id": 10,
+        "text": "3"
+      },
+      {
+        "id": 11,
+        "text": "4"
+      },
+      {
+        "id": 12,
+        "text": "5"
+      },
+      {
+        "id": 13,
+        "text": "6"
+      },
+      {
+        "id": 14,
+        "text": "7"
+      },
+      {
+        "id": 15,
+        "text": "8"
+      }
+    ],
+    "relations": [
+      {
+        "head": 2,
+        "relation": "launchedBy",
+        "tail": 0
+      },
+      {
+        "head": 2,
+        "relation": "purpose",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "wrote",
+        "tail": 5
+      },
+      {
+        "head": 5,
+        "relation": "releaseDate",
+        "tail": 6
+      },
+      {
+        "head": 2,
+        "relation": "helped",
+        "tail": 0
+      },
+      {
+        "head": 2,
+        "relation": "gainedRecognitionFor",
+        "tail": 0
+      }
+    ]
+  },
+  {
+    "document_id": 246,
+    "ragtruth_id": "960",
+    "text": "In the last year, over 25,000 people have battled Ebola and over 10,000 have died, changing the lives of survivors and exposing government flaws in disease control. The epidemic has abated, with 30 new cases reported in the week of April 5, but there are still concerns about unknown chains of transmission. Liberia and Sierra Leone have more treatment facilities than demand, whilst in Guinea 7 out of 19 deaths were only identified post-mortem.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "the last year"
+      },
+      {
+        "id": 1,
+        "text": "over 25,000"
+      },
+      {
+        "id": 2,
+        "text": "over 10,000"
+      },
+      {
+        "id": 3,
+        "text": "30"
+      },
+      {
+        "id": 4,
+        "text": "the week of April 5"
+      },
+      {
+        "id": 5,
+        "text": "Liberia"
+      },
+      {
+        "id": 6,
+        "text": "Sierra Leone"
+      },
+      {
+        "id": 7,
+        "text": "Guinea"
+      },
+      {
+        "id": 8,
+        "text": "19"
+      }
+    ],
+    "relations": [
+      {
+        "head": 4,
+        "relation": "newCases",
+        "tail": 3
+      },
+      {
+        "head": 7,
+        "relation": "deaths",
+        "tail": 8
+      }
+    ]
+  },
+  {
+    "document_id": 247,
+    "ragtruth_id": "961",
+    "text": "Over the past year, more than 25,000 people have contracted Ebola, with over 10,000 deaths. The Ebola epidemic has highlighted the vulnerability of the world to disease and exposed flaws in government systems. While the number of cases has decreased, there are still new infections each week, with 30 new cases reported in the week of April 5. Liberia and Sierra Leone have seen a significant decline in cases, but Guinea still faces challenges with unknown transmission chains and unsafe burials.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Ebola"
+      },
+      {
+        "id": 1,
+        "text": "the past year"
+      },
+      {
+        "id": 2,
+        "text": "more than 25,000"
+      },
+      {
+        "id": 3,
+        "text": "10,000"
+      },
+      {
+        "id": 4,
+        "text": "each week"
+      },
+      {
+        "id": 5,
+        "text": "30"
+      },
+      {
+        "id": 6,
+        "text": "the week of April 5"
+      },
+      {
+        "id": 7,
+        "text": "Liberia"
+      },
+      {
+        "id": 8,
+        "text": "Sierra Leone"
+      },
+      {
+        "id": 9,
+        "text": "Guinea"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "casesInPastYear",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "deathsInPastYear",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "newCasesPerWeek",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "newCasesReported",
+        "tail": 5
+      },
+      {
+        "head": 0,
+        "relation": "newCasesReportedIn",
+        "tail": 6
+      },
+      {
+        "head": 0,
+        "relation": "declineInCases",
+        "tail": 7
+      },
+      {
+        "head": 0,
+        "relation": "declineInCases",
+        "tail": 8
+      }
+    ]
+  },
+  {
+    "document_id": 248,
+    "ragtruth_id": "962",
+    "text": "Since August 2014, more than 25,000 people have fought Ebola infections, with over 10,000 fatalities. Over 15,000 survivors are experiencing ongoing physical and emotional trauma. Although the intensity of the outbreak has decreased, dozens of new cases are reported each week. The mixed results from efforts to stop the spread of Ebola have led to concerns about the possibility of future outbreaks. The impact of Ebola has revealed flaws in healthcare systems globally.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Ebola"
+      },
+      {
+        "id": 1,
+        "text": "August 2014"
+      },
+      {
+        "id": 2,
+        "text": "more than 25,000"
+      },
+      {
+        "id": 3,
+        "text": "10,000"
+      },
+      {
+        "id": 4,
+        "text": "Over 15,000"
+      },
+      {
+        "id": 5,
+        "text": "dozens"
+      },
+      {
+        "id": 6,
+        "text": "each week"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "startDate",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "fatalities",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "survivors",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "newCasesPerWeek",
+        "tail": 5
+      },
+      {
+        "head": 0,
+        "relation": "newCasesFrequency",
+        "tail": 6
+      }
+    ]
+  },
+  {
+    "document_id": 249,
+    "ragtruth_id": "963",
+    "text": "Here is a summary of the article in 67 words or less:\n\nMore than 25,000 people have fought Ebola infections in the past year, with over 10,000 dying. Although the number of new cases has decreased, there are still dozens infected each week. Surveillance improvements suggest unknown chains of transmission may lead to new infections in the coming weeks. Many survivors and responders have been affected emotionally and physically.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "67"
+      },
+      {
+        "id": 1,
+        "text": "More than 25,000"
+      },
+      {
+        "id": 2,
+        "text": "the past year"
+      },
+      {
+        "id": 3,
+        "text": "over 10,000"
+      },
+      {
+        "id": 4,
+        "text": "dozens"
+      },
+      {
+        "id": 5,
+        "text": "each week"
+      },
+      {
+        "id": 6,
+        "text": "the coming weeks"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "timePeriod",
+        "tail": 2
+      },
+      {
+        "head": 3,
+        "relation": "timePeriod",
+        "tail": 2
+      },
+      {
+        "head": 4,
+        "relation": "timePeriod",
+        "tail": 5
+      },
+      {
+        "head": 4,
+        "relation": "timePeriod",
+        "tail": 6
+      }
+    ]
+  }
+]

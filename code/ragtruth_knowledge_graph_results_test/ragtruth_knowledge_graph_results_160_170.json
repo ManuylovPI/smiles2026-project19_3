@@ -1,0 +1,835 @@
+[
+  {
+    "document_id": 160,
+    "ragtruth_id": "616",
+    "text": "The jury in the Aaron Hernandez murder trial has reached a verdict after deliberating for over 35 hours. The jurors, who were consumed by the trial for over a month, found Hernandez guilty of first-degree murder in the death of Odin Lloyd. The jurors were struck by the viciousness of the multiple gunshots and the defendant's indifference to Lloyd's fate. One juror, Lesa Strachan, said the jury was unanimous in their decision and that the evidence was \"overwhelming.\" The jurors declined to discuss the dynamics inside the jury room, but emphasized the gravity of their task and the importance of fairness. The conviction carries a sentence of life without parole.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "The jury in the Aaron Hernandez murder trial"
+      },
+      {
+        "id": 1,
+        "text": "the Aaron Hernandez murder trial"
+      },
+      {
+        "id": 2,
+        "text": "a verdict"
+      },
+      {
+        "id": 3,
+        "text": "Aaron Hernandez"
+      },
+      {
+        "id": 4,
+        "text": "Odin Lloyd"
+      },
+      {
+        "id": 5,
+        "text": "over 35 hours"
+      },
+      {
+        "id": 6,
+        "text": "first"
+      },
+      {
+        "id": 7,
+        "text": "One"
+      },
+      {
+        "id": 8,
+        "text": "Lesa Strachan"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "jury",
+        "tail": 0
+      },
+      {
+        "head": 3,
+        "relation": "guiltyVerdict",
+        "tail": 2
+      },
+      {
+        "head": 3,
+        "relation": "victim",
+        "tail": 4
+      },
+      {
+        "head": 2,
+        "relation": "sentence",
+        "tail": 5
+      }
+    ]
+  },
+  {
+    "document_id": 161,
+    "ragtruth_id": "617",
+    "text": "After 35 hours of deliberation, the jury in the Aaron Hernandez murder trial reached a verdict, finding the former NFL star guilty of first-degree murder. The jury consisted of 12 members, including Lesa Strachan, the foreperson, who spoke to CNN about the experience. Strachan mentioned the viciousness of the crime, stating that Hernandez shot the victim, Odin Lloyd, six times, which she found disturbing. Another juror, Rosalie Oliver, expressed her surprise at receiving congratulatory calls after the verdict, stating that no one had won in the case. The jurors emphasized the gravity of their task and the importance of focusing on the evidence presented during the trial. They also mentioned that their decision was not influenced by Hernandez's status as a football player. The jurors declined to discuss the dynamics inside the jury room, preferring to keep the focus on the evidence.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Aaron Hernandez"
+      },
+      {
+        "id": 1,
+        "text": "the jury in the Aaron Hernandez murder trial"
+      },
+      {
+        "id": 2,
+        "text": "Lesa Strachan, the foreperson, who spoke to CNN about the experience"
+      },
+      {
+        "id": 3,
+        "text": "Another juror, Rosalie Oliver"
+      },
+      {
+        "id": 4,
+        "text": "a verdict"
+      },
+      {
+        "id": 5,
+        "text": "the Aaron Hernandez murder trial"
+      },
+      {
+        "id": 6,
+        "text": "the evidence presented during the trial"
+      },
+      {
+        "id": 7,
+        "text": "35 hours"
+      },
+      {
+        "id": 8,
+        "text": "first"
+      },
+      {
+        "id": 9,
+        "text": "12"
+      },
+      {
+        "id": 10,
+        "text": "Odin Lloyd"
+      },
+      {
+        "id": 11,
+        "text": "six"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "deliberationDuration",
+        "tail": 7
+      },
+      {
+        "head": 1,
+        "relation": "reached",
+        "tail": 4
+      },
+      {
+        "head": 1,
+        "relation": "memberCount",
+        "tail": 9
+      },
+      {
+        "head": 2,
+        "relation": "role",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "victim",
+        "tail": 10
+      },
+      {
+        "head": 0,
+        "relation": "shotCount",
+        "tail": 11
+      },
+      {
+        "head": 4,
+        "relation": "verdictOf",
+        "tail": 5
+      }
+    ]
+  },
+  {
+    "document_id": 162,
+    "ragtruth_id": "618",
+    "text": "SkyWest Airlines Flight 5622, with 84 passengers on board, made an emergency landing in Buffalo, NY due to a suspected pressurisation issue. Passengers recounted the flight attendant asking for medical assistance for a sick passenger, and then later announced a pressurisation problem and to prepare for an emergency landing. Three passengers reported a loss of consciousness, and 15 were examined by medical personnel on landing but none were transported to hospital. However, maintenance personnel found no indication of a pressurisation problem. The Federal Aviation Administration initially reported a pressurisation issue, but then issued a statement that did not reference any pressurisation problems. The National Transportation Safety Board is working with the FAA and SkyWest to gather information on the incident.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "The Federal Aviation Administration"
+      },
+      {
+        "id": 1,
+        "text": "SkyWest Airlines Flight 5622, with 84 passengers on board"
+      },
+      {
+        "id": 2,
+        "text": "Buffalo"
+      },
+      {
+        "id": 3,
+        "text": "NY"
+      },
+      {
+        "id": 4,
+        "text": "Three"
+      },
+      {
+        "id": 5,
+        "text": "15"
+      },
+      {
+        "id": 6,
+        "text": "The National Transportation Safety Board"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "emergencyLandingIn",
+        "tail": 2
+      },
+      {
+        "head": 1,
+        "relation": "emergencyLandingIn",
+        "tail": 3
+      },
+      {
+        "head": 1,
+        "relation": "reportedLossOfConsciousnessCount",
+        "tail": 4
+      },
+      {
+        "head": 1,
+        "relation": "examinedByMedicalPersonnelCount",
+        "tail": 5
+      },
+      {
+        "head": 6,
+        "relation": "workingWith",
+        "tail": 0
+      },
+      {
+        "head": 6,
+        "relation": "workingWith",
+        "tail": 1
+      }
+    ]
+  },
+  {
+    "document_id": 163,
+    "ragtruth_id": "619",
+    "text": "On a SkyWest Airlines flight from Chicago to Hartford, Connecticut, passengers experienced a terrifying emergency landing in Buffalo, New York. Larry Johnson, a passenger on the flight, described feeling fear and helplessness during the incident. A flight attendant initially asked for medical help for a sick passenger, but then announced a pressurization problem and warned passengers to prepare for an emergency landing. Some passengers reported feeling dizzy and lightheaded, and three even lost consciousness. Despite initial reports of a pressurization problem, the FAA later stated that there were no indications of such an issue. The cause of the incident is still under investigation by both the FAA and SkyWest. Passengers were examined by medical personnel at the airport, but no hospitalizations were necessary.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "a SkyWest Airlines flight from Chicago to Hartford, Connecticut"
+      },
+      {
+        "id": 1,
+        "text": "a terrifying emergency landing"
+      },
+      {
+        "id": 2,
+        "text": "the FAA"
+      },
+      {
+        "id": 3,
+        "text": "SkyWest Airlines"
+      },
+      {
+        "id": 4,
+        "text": "Buffalo"
+      },
+      {
+        "id": 5,
+        "text": "New York"
+      },
+      {
+        "id": 6,
+        "text": "Larry Johnson"
+      },
+      {
+        "id": 7,
+        "text": "three"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "operator",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "incident",
+        "tail": 1
+      },
+      {
+        "head": 1,
+        "relation": "location",
+        "tail": 4
+      },
+      {
+        "head": 4,
+        "relation": "locatedIn",
+        "tail": 5
+      },
+      {
+        "head": 6,
+        "relation": "passengerOn",
+        "tail": 0
+      },
+      {
+        "head": 1,
+        "relation": "investigatedBy",
+        "tail": 2
+      },
+      {
+        "head": 1,
+        "relation": "investigatedBy",
+        "tail": 3
+      }
+    ]
+  },
+  {
+    "document_id": 164,
+    "ragtruth_id": "620",
+    "text": "Larry Johnson, a passenger on SkyWest Flight 5622 that made an emergency landing in Buffalo, New York, described the fear and helplessness he felt during the incident. He said that a flight attendant asked for someone medically trained to help with a sick passenger, and then announced a pressurization problem. Johnson recalls the flight attendant telling passengers they would feel dizzy, woozy, and lightheaded. Three passengers reported losing consciousness, and 15 were examined by medical personnel at the airport. However, none were transported to the hospital. The Federal Aviation Administration initially reported a pressurization problem, but later issued a statement saying it would investigate. The National Transportation Safety Board is also investigating the incident. Nurse Mary Cunningham, who was on board, said she attended to two sick passengers, one of whom turned gray and became lethargic. She returned to her seat after feeling lightheaded. The plane descended 28,000 feet in three minutes, which felt like a roller coaster, according to aviation analyst Mary Schiavo. Johnson was glad that the ride ended safely, but said he would not want to experience it again.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Larry Johnson, a passenger on SkyWest Flight 5622 that made an emergency landing in Buffalo, New York,"
+      },
+      {
+        "id": 1,
+        "text": "a flight attendant"
+      },
+      {
+        "id": 2,
+        "text": "passengers"
+      },
+      {
+        "id": 3,
+        "text": "The Federal Aviation Administration"
+      },
+      {
+        "id": 4,
+        "text": "the incident"
+      },
+      {
+        "id": 5,
+        "text": "Nurse Mary Cunningham, who was on board,"
+      },
+      {
+        "id": 6,
+        "text": "SkyWest Flight 5622 that made an emergency landing in Buffalo, New York"
+      },
+      {
+        "id": 7,
+        "text": "woozy"
+      },
+      {
+        "id": 8,
+        "text": "Three"
+      },
+      {
+        "id": 9,
+        "text": "15"
+      },
+      {
+        "id": 10,
+        "text": "The National Transportation Safety Board"
+      },
+      {
+        "id": 11,
+        "text": "two"
+      },
+      {
+        "id": 12,
+        "text": "28,000 feet"
+      },
+      {
+        "id": 13,
+        "text": "three minutes"
+      },
+      {
+        "id": 14,
+        "text": "Mary Schiavo"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "passengerOn",
+        "tail": 6
+      },
+      {
+        "head": 6,
+        "relation": "emergencyLandingIn",
+        "tail": 4
+      },
+      {
+        "head": 3,
+        "relation": "reported",
+        "tail": 4
+      },
+      {
+        "head": 3,
+        "relation": "investigates",
+        "tail": 4
+      },
+      {
+        "head": 10,
+        "relation": "investigates",
+        "tail": 4
+      },
+      {
+        "head": 5,
+        "relation": "onBoard",
+        "tail": 6
+      },
+      {
+        "head": 5,
+        "relation": "attendedTo",
+        "tail": 11
+      },
+      {
+        "head": 6,
+        "relation": "descended",
+        "tail": 12
+      },
+      {
+        "head": 6,
+        "relation": "descendedIn",
+        "tail": 13
+      }
+    ]
+  },
+  {
+    "document_id": 165,
+    "ragtruth_id": "621",
+    "text": "On Wednesday, SkyWest Flight 5622 made an emergency landing in Buffalo, New York due to a pressurization issue. Passengers reported feeling dizzy, disoriented, and experiencing vision problems during the descent. The Federal Aviation Administration (FAA) is investigating the incident, but so far, no indication of a pressurization problem has been found on the aircraft. A nurse on board the flight, Mary Cunningham, administered oxygen to a sick passenger and later assisted with another passenger who lost consciousness. Thirty-one passengers were evaluated by medical personnel at the airport, but none were transported to the hospital. The flight was carrying 84 passengers and nine crew members.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "SkyWest Flight 5622"
+      },
+      {
+        "id": 1,
+        "text": "Wednesday"
+      },
+      {
+        "id": 2,
+        "text": "Buffalo"
+      },
+      {
+        "id": 3,
+        "text": "New York"
+      },
+      {
+        "id": 4,
+        "text": "The Federal Aviation Administration"
+      },
+      {
+        "id": 5,
+        "text": "FAA"
+      },
+      {
+        "id": 6,
+        "text": "Mary Cunningham"
+      },
+      {
+        "id": 7,
+        "text": "Thirty-one"
+      },
+      {
+        "id": 8,
+        "text": "84"
+      },
+      {
+        "id": 9,
+        "text": "nine"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "emergencyLandingIn",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "emergencyLandingIn",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "date",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "investigatedBy",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "investigatedBy",
+        "tail": 5
+      },
+      {
+        "head": 0,
+        "relation": "crewMember",
+        "tail": 6
+      },
+      {
+        "head": 0,
+        "relation": "passengerCount",
+        "tail": 8
+      },
+      {
+        "head": 0,
+        "relation": "crewCount",
+        "tail": 9
+      }
+    ]
+  },
+  {
+    "document_id": 166,
+    "ragtruth_id": "622",
+    "text": "SkyWest Flight 5622 made an emergency landing in Buffalo, NY due to a pressurization problem, according to initial reports from the Federal Aviation Administration (FAA). Passengers described feeling dizzy and lightheaded, and three people lost consciousness. The plane descended 28,000 feet in three minutes, causing a roller coaster-like effect. Maintenance personnel found no pressurization issues, and the cause is still under investigation. A nurse on board attended to two sick passengers, and fifteen others were examined by medical personnel. No one was hospitalized.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "SkyWest Flight 5622"
+      },
+      {
+        "id": 1,
+        "text": "Buffalo"
+      },
+      {
+        "id": 2,
+        "text": "NY"
+      },
+      {
+        "id": 3,
+        "text": "the Federal Aviation Administration"
+      },
+      {
+        "id": 4,
+        "text": "FAA"
+      },
+      {
+        "id": 5,
+        "text": "three"
+      },
+      {
+        "id": 6,
+        "text": "28,000 feet"
+      },
+      {
+        "id": 7,
+        "text": "three minutes"
+      },
+      {
+        "id": 8,
+        "text": "two"
+      },
+      {
+        "id": 9,
+        "text": "fifteen"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "emergencyLandingIn",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "emergencyLandingIn",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "reportedBy",
+        "tail": 3
+      },
+      {
+        "head": 3,
+        "relation": "abbreviation",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "descendedBy",
+        "tail": 6
+      },
+      {
+        "head": 0,
+        "relation": "descendedInTime",
+        "tail": 7
+      },
+      {
+        "head": 0,
+        "relation": "peopleLostConsciousness",
+        "tail": 5
+      },
+      {
+        "head": 0,
+        "relation": "passengersAttendedTo",
+        "tail": 8
+      },
+      {
+        "head": 0,
+        "relation": "passengersExamined",
+        "tail": 9
+      }
+    ]
+  },
+  {
+    "document_id": 167,
+    "ragtruth_id": "623",
+    "text": "On Wednesday, SkyWest Airlines Flight 5622 made an emergency landing in Buffalo, New York due to a pressurization issue. Passengers reported feeling dizzy, woozy, and lightheaded, and some even lost consciousness. Nurse Mary Cunningham, who was on board, attended to two passengers who became ill. The plane descended 28,000 feet in three minutes before landing safely. No one was transported to the hospital, but 15 passengers were examined by medical personnel. The cause of the incident is still under investigation by the airline and the National Transportation Safety Board.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "SkyWest Airlines Flight 5622"
+      },
+      {
+        "id": 1,
+        "text": "Wednesday"
+      },
+      {
+        "id": 2,
+        "text": "Buffalo"
+      },
+      {
+        "id": 3,
+        "text": "New York"
+      },
+      {
+        "id": 4,
+        "text": "woozy"
+      },
+      {
+        "id": 5,
+        "text": "Nurse Mary Cunningham"
+      },
+      {
+        "id": 6,
+        "text": "two"
+      },
+      {
+        "id": 7,
+        "text": "28,000 feet"
+      },
+      {
+        "id": 8,
+        "text": "three minutes"
+      },
+      {
+        "id": 9,
+        "text": "15"
+      },
+      {
+        "id": 10,
+        "text": "the National Transportation Safety Board"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "landingPlace",
+        "tail": 2
+      },
+      {
+        "head": 2,
+        "relation": "locatedIn",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "landingDate",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "descendedDistance",
+        "tail": 7
+      },
+      {
+        "head": 0,
+        "relation": "descendedDuration",
+        "tail": 8
+      },
+      {
+        "head": 5,
+        "relation": "attendedTo",
+        "tail": 6
+      },
+      {
+        "head": 0,
+        "relation": "examinedPassengers",
+        "tail": 9
+      },
+      {
+        "head": 0,
+        "relation": "investigatedBy",
+        "tail": 10
+      }
+    ]
+  },
+  {
+    "document_id": 168,
+    "ragtruth_id": "642",
+    "text": "Former New England Patriots tight end, Aaron Hernandez, has been sentenced to life without the possibility of parole after being found guilty of first-degree murder in the 2013 slaying of Odin Lloyd. The 25 year-old was also found guilty of unlawful possession of a firearm and unlawful possession of ammunition. His own attorney, James Sultan, admitted that Hernandez had witnessed the killing of Odin Lloyd, committed by somebody he knew, but stated that his client did not commit the crime. Despite his conviction, Hernandez displayed an air of bravado, winking at his fiancée, Shayanna Jenkins, during the trial and did not appear to show any signs of remorse. The NFL and the Patriots have been praised for their handling of the case, cutting Hernandez from the team hours after he was charged with murder.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Former New England Patriots tight end, Aaron Hernandez"
+      },
+      {
+        "id": 1,
+        "text": "the 2013 slaying of Odin Lloyd"
+      },
+      {
+        "id": 2,
+        "text": "Odin Lloyd"
+      },
+      {
+        "id": 3,
+        "text": "His own attorney, James Sultan"
+      },
+      {
+        "id": 4,
+        "text": "found"
+      },
+      {
+        "id": 5,
+        "text": "New England Patriots"
+      },
+      {
+        "id": 6,
+        "text": "The NFL and the Patriots"
+      },
+      {
+        "id": 7,
+        "text": "first"
+      },
+      {
+        "id": 8,
+        "text": "Shayanna Jenkins"
+      },
+      {
+        "id": 9,
+        "text": "the team hours"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "guiltyOf",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "victim",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "fiancee",
+        "tail": 8
+      },
+      {
+        "head": 0,
+        "relation": "memberOf",
+        "tail": 5
+      }
+    ]
+  },
+  {
+    "document_id": 169,
+    "ragtruth_id": "643",
+    "text": "Former New England Patriots tight end Aaron Hernandez has been convicted of first-degree murder in the 2013 killing of Odin Lloyd. Hernandez showed no remorse during the trial, walking into court with confidence and even winking at his fiancee. His attorney admitted that Hernandez witnessed the killing but denied his involvement. Despite his arrogant demeanor, the jury carefully considered the evidence and found him guilty. Hernandez was sentenced to life in prison without parole, also being found guilty of unlawful possession of a firearm and ammunition. The verdict brings a sense of sadness, as both Lloyd and Hernandez were once friends. Hernandez had a troubled past, with reports of bar fights, drug use, and even being questioned in relation to a shooting. However, the New England Patriots and the NFL have been praised for their handling of the case. Hernandez was immediately released from the team after being charged with murder, and his coaches did not try to defend his character. The NFL generally does a good job vetting its players, and Hernandez is seen as an anomaly. It is impossible to predict the evil that can reside in someone's heart, even those closest to us. Hernandez himself expressed a lack of concern during his arrest, stating, \"It is what it is.\"",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Former New England Patriots tight end Aaron Hernandez"
+      },
+      {
+        "id": 1,
+        "text": "the 2013 killing of Odin Lloyd"
+      },
+      {
+        "id": 2,
+        "text": "convicted"
+      },
+      {
+        "id": 3,
+        "text": "Odin Lloyd"
+      },
+      {
+        "id": 4,
+        "text": "New England Patriots"
+      },
+      {
+        "id": 5,
+        "text": "the New England Patriots and the NFL"
+      },
+      {
+        "id": 6,
+        "text": "the NFL"
+      },
+      {
+        "id": 7,
+        "text": "the evil that can reside in someone's heart, even those closest to us"
+      },
+      {
+        "id": 8,
+        "text": "first"
+      },
+      {
+        "id": 9,
+        "text": "Lloyd and Hernandez"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "team",
+        "tail": 4
+      },
+      {
+        "head": 1,
+        "relation": "victim",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "convictedOf",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "guiltyOf",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "sentencedTo",
+        "tail": 7
+      }
+    ]
+  }
+]

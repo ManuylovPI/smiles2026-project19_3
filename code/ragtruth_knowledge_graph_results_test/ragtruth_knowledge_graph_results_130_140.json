@@ -1,0 +1,757 @@
+[
+  {
+    "document_id": 130,
+    "ragtruth_id": "544",
+    "text": "Survivors of the Boston Marathon bombing and family members of those killed have been testifying in the sentencing phase for Dzhokhar Tsarnaev, who was found guilty of perpetrating the attack. Steve Woolfenden, a biomedical researcher, described how he and his son were injured in the bombing and how a good Samaritan helped them escape. Other survivors, including Heather Abbott and Marc Fucarile, also testified about their experiences, including the loss of limbs and severe burns. Dr. David King, a trauma surgeon, testified about the extent of the injuries he treated, including those sustained by Martin Richard, an 8-year-old boy who died in the attack. The prosecution is attempting to convince the jury that Tsarnaev was cold-hearted and remorseless, while the defense is trying to soften this portrayal by highlighting Tsarnaev's difficult upbringing. The jury must decide whether Tsarnaev will receive the death penalty or life in prison.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "the Boston Marathon bombing"
+      },
+      {
+        "id": 1,
+        "text": "Steve Woolfenden, a biomedical researcher,"
+      },
+      {
+        "id": 2,
+        "text": "he and his son"
+      },
+      {
+        "id": 3,
+        "text": "Other survivors, including Heather Abbott and Marc Fucarile"
+      },
+      {
+        "id": 4,
+        "text": "Dr. David King, a trauma surgeon,"
+      },
+      {
+        "id": 5,
+        "text": "Dzhokhar Tsarnaev, who was found guilty of perpetrating the attack"
+      },
+      {
+        "id": 6,
+        "text": "was"
+      },
+      {
+        "id": 7,
+        "text": "the jury"
+      },
+      {
+        "id": 8,
+        "text": "Samaritan"
+      },
+      {
+        "id": 9,
+        "text": "Martin Richard"
+      },
+      {
+        "id": 10,
+        "text": "8-year-old"
+      }
+    ],
+    "relations": [
+      {
+        "head": 5,
+        "relation": "perpetratorOf",
+        "tail": 0
+      },
+      {
+        "head": 2,
+        "relation": "injuredIn",
+        "tail": 0
+      },
+      {
+        "head": 9,
+        "relation": "diedIn",
+        "tail": 0
+      },
+      {
+        "head": 7,
+        "relation": "decidesSentenceFor",
+        "tail": 5
+      }
+    ]
+  },
+  {
+    "document_id": 131,
+    "ragtruth_id": "545",
+    "text": "The trial of Dzhokhar Tsarnaev, the bomber responsible for the Boston Marathon bombing, continues with survivors and family members of the victims sharing their stories. Steve Woolfenden, a biomedical researcher, testified about how he was injured in the blast and how he saw Martin Richard, a young boy who was killed in the attack. Woolfenden described how he used his belt as a tourniquet and tried to comfort his son, who was also injured. Dr. David King, a trauma surgeon, testified about the injuries he saw at the scene, which were similar to those he saw while serving in combat zones. Heather Abbott, another victim, described how she was injured and how she had to make the difficult decision to amputate her foot. Marc Fucarile, another victim, recounted the moment of the bombing and how he was severely burned and lost his leg. The prosecution showed graphic videos of the bombing and its aftermath, including the death of Martin Richard, who died from rapid blood loss due to shrapnel wounds. The defense is expected to present its case next week, focusing on Tsarnaev's difficult upbringing.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "survivors and family members of the victims"
+      },
+      {
+        "id": 1,
+        "text": "Steve Woolfenden, a biomedical researcher,"
+      },
+      {
+        "id": 2,
+        "text": "the Boston Marathon bombing"
+      },
+      {
+        "id": 3,
+        "text": "Dr. David King, a trauma surgeon,"
+      },
+      {
+        "id": 4,
+        "text": "Heather Abbott, another victim,"
+      },
+      {
+        "id": 5,
+        "text": "Marc Fucarile, another victim,"
+      },
+      {
+        "id": 6,
+        "text": "killed"
+      },
+      {
+        "id": 7,
+        "text": "Martin Richard, a young boy who was killed in the attack"
+      },
+      {
+        "id": 8,
+        "text": "The defense"
+      },
+      {
+        "id": 9,
+        "text": "Dzhokhar Tsarnaev, the bomber responsible for the Boston Marathon bombing"
+      },
+      {
+        "id": 10,
+        "text": "next week"
+      }
+    ],
+    "relations": [
+      {
+        "head": 9,
+        "relation": "responsibleFor",
+        "tail": 2
+      },
+      {
+        "head": 7,
+        "relation": "killedIn",
+        "tail": 2
+      },
+      {
+        "head": 7,
+        "relation": "diedFrom",
+        "tail": 6
+      },
+      {
+        "head": 8,
+        "relation": "presentCase",
+        "tail": 10
+      }
+    ]
+  },
+  {
+    "document_id": 132,
+    "ragtruth_id": "582",
+    "text": "Sofia Vergara, the Colombian-born actress and star of the hit TV sitcom \"Modern Family\", is being sued by her ex-fiancé, businessman Nick Loeb, over the fate of their two frozen embryos. The couple, who split in May 2014, conceived the embryos through in vitro fertilisation in November 2013, with the intention of one day having children together. Loeb is seeking to prevent Vergara from destroying the embryos and wants to bring them to term using a surrogate mother. He has offered to waive any parental or financial obligations on Vergara's part and has suggested she could be involved with the child in the future should she change her mind. The case raises questions about who has the right to embryos and poses a challenge to the legal system, which typically views embryos as property. Experts suggest the case will be a test of whether frozen embryos are considered to be human beings or property in the eyes of the law.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Sofia Vergara, the Colombian-born actress and star of the hit TV sitcom \"Modern Family\""
+      },
+      {
+        "id": 1,
+        "text": "their two frozen embryos"
+      },
+      {
+        "id": 2,
+        "text": "her ex-fiancé, businessman Nick Loeb,"
+      },
+      {
+        "id": 3,
+        "text": "sued"
+      },
+      {
+        "id": 4,
+        "text": "May 2014"
+      },
+      {
+        "id": 5,
+        "text": "November 2013"
+      },
+      {
+        "id": 6,
+        "text": "one day"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "exFiance",
+        "tail": 2
+      },
+      {
+        "head": 2,
+        "relation": "sued",
+        "tail": 0
+      },
+      {
+        "head": 1,
+        "relation": "conceivedIn",
+        "tail": 5
+      },
+      {
+        "head": 2,
+        "relation": "seeksToPrevent",
+        "tail": 0
+      },
+      {
+        "head": 2,
+        "relation": "wantsToBringToTerm",
+        "tail": 1
+      },
+      {
+        "head": 2,
+        "relation": "offeredToWaiveObligationsOn",
+        "tail": 0
+      }
+    ]
+  },
+  {
+    "document_id": 133,
+    "ragtruth_id": "583",
+    "text": "Sofia Vergara, the Colombian-born actress and star of the TV sitcom \"Modern Family,\" is facing a legal battle initiated by her ex-fiancé, Nick Loeb. Loeb is suing Vergara to prevent her from destroying their two frozen embryos that were conceived through in vitro fertilization during their relationship. The lawsuit, filed under the names \"Joe Doe\" and \"Jane Doe\" to protect the individuals' privacy, states that the embryos should not be destroyed until both parties reach an agreement. Loeb wants to implant the embryos in a surrogate and bring them to term, but he does not want any financial obligations from Vergara. He believes that life begins at fertilization and that he should have the right to become a father without imposing any obligations on Vergara. The lawsuit raises questions about who has the right to embryos and when life begins. Typically, a legal agreement between a couple determines who has ultimate authority over the embryos. If there is a disagreement, the courts usually get involved to decide ownership. This case is considered a gray area of law since it is new and will likely open up new issues. A California court will have to determine to whom the embryos belong since they are currently stored in a clinic in Beverly Hills. Meanwhile, Vergara is promoting her new movie while being engaged to actor Joe Manganiello.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Sofia Vergara, the Colombian-born actress and star of the TV sitcom \"Modern Family"
+      },
+      {
+        "id": 1,
+        "text": "her ex-fiancé, Nick Loeb"
+      },
+      {
+        "id": 2,
+        "text": "a legal battle initiated by her ex-fiancé, Nick Loeb"
+      },
+      {
+        "id": 3,
+        "text": "their"
+      },
+      {
+        "id": 4,
+        "text": "their two frozen embryos that were conceived through in vitro fertilization during their relationship"
+      },
+      {
+        "id": 5,
+        "text": "California"
+      },
+      {
+        "id": 6,
+        "text": "Beverly Hills"
+      },
+      {
+        "id": 7,
+        "text": "Joe Manganiello"
+      }
+    ],
+    "relations": [
+      {
+        "head": 2,
+        "relation": "initiatedBy",
+        "tail": 1
+      },
+      {
+        "head": 2,
+        "relation": "involves",
+        "tail": 0
+      },
+      {
+        "head": 4,
+        "relation": "conceivedDuringRelationshipWith",
+        "tail": 3
+      },
+      {
+        "head": 4,
+        "relation": "storedIn",
+        "tail": 6
+      },
+      {
+        "head": 0,
+        "relation": "engagedTo",
+        "tail": 7
+      }
+    ]
+  },
+  {
+    "document_id": 134,
+    "ragtruth_id": "584",
+    "text": "Sofia Vergara, a popular Latina actress known for her role in Modern Family, is currently embroiled in a legal battle with her former fiancé Nick Loeb over two frozen embryos created through in vitro fertilization in November 2013. Loeb is seeking to prevent Vergara from destroying the embryos, while Vergara wants to use them to have children. The case has led to questions about who has the right to embryos and when life begins. Experts suggest that the documents signed during the fertility process will likely apply in this case, but if there is a disagreement, it will be decided by a court of law.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Sofia Vergara, a popular Latina actress known for her role in Modern Family"
+      },
+      {
+        "id": 1,
+        "text": "her former fiancé Nick Loeb"
+      },
+      {
+        "id": 2,
+        "text": "two frozen embryos created through in vitro fertilization in November 2013"
+      },
+      {
+        "id": 3,
+        "text": "a legal battle with her former fiancé Nick Loeb over two frozen embryos created through in vitro fertilization in November 2013"
+      },
+      {
+        "id": 4,
+        "text": "a disagreement"
+      }
+    ],
+    "relations": [
+      {
+        "head": 3,
+        "relation": "involves",
+        "tail": 0
+      },
+      {
+        "head": 3,
+        "relation": "involves",
+        "tail": 1
+      },
+      {
+        "head": 3,
+        "relation": "involves",
+        "tail": 2
+      },
+      {
+        "head": 1,
+        "relation": "seeksToPrevent",
+        "tail": 0
+      },
+      {
+        "head": 0,
+        "relation": "wantsToUse",
+        "tail": 2
+      },
+      {
+        "head": 4,
+        "relation": "decidedBy",
+        "tail": 3
+      }
+    ]
+  },
+  {
+    "document_id": 135,
+    "ragtruth_id": "585",
+    "text": "Actress Sofia Vergara is embroiled in a legal battle with her ex-fiance Nick Loeb over two frozen embryos they created together. Loeb is suing Vergara to prevent her from destroying the embryos, which he wants to implant in a surrogate and raise as his own. The couple split in May 2014 and Loeb filed the lawsuit anonymously citing privacy concerns. Vergara's representatives have refused to comment on the matter. The lawsuit raises questions about who has the right to embryos and whether they are considered life or property. Experts say this is a gray area of law and a California court will have to decide to whom the embryos belong. This case is similar to the Planned Parenthood of Central Missouri vs. Danforth case, where the US Supreme Court declared a statute requiring parental and spousal consent for abortions unconstitutional.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Actress Sofia Vergara"
+      },
+      {
+        "id": 1,
+        "text": "her ex-fiance Nick Loeb"
+      },
+      {
+        "id": 2,
+        "text": "two frozen embryos they created together"
+      },
+      {
+        "id": 3,
+        "text": "they"
+      },
+      {
+        "id": 4,
+        "text": "suing"
+      },
+      {
+        "id": 5,
+        "text": "embryos"
+      },
+      {
+        "id": 6,
+        "text": "May 2014"
+      },
+      {
+        "id": 7,
+        "text": "California"
+      },
+      {
+        "id": 8,
+        "text": "the Planned Parenthood of Central Missouri"
+      },
+      {
+        "id": 9,
+        "text": "Danforth"
+      },
+      {
+        "id": 10,
+        "text": "the US Supreme Court"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "exFiance",
+        "tail": 1
+      },
+      {
+        "head": 2,
+        "relation": "createdTogetherBy",
+        "tail": 3
+      },
+      {
+        "head": 1,
+        "relation": "sued",
+        "tail": 0
+      },
+      {
+        "head": 3,
+        "relation": "splitIn",
+        "tail": 6
+      },
+      {
+        "head": 4,
+        "relation": "involves",
+        "tail": 2
+      },
+      {
+        "head": 4,
+        "relation": "involves",
+        "tail": 5
+      },
+      {
+        "head": 4,
+        "relation": "similarTo",
+        "tail": 8
+      },
+      {
+        "head": 8,
+        "relation": "vs",
+        "tail": 9
+      },
+      {
+        "head": 10,
+        "relation": "declaredUnconstitutional",
+        "tail": 9
+      }
+    ]
+  },
+  {
+    "document_id": 136,
+    "ragtruth_id": "586",
+    "text": "Sofia Vergara, actress and star of Modern Family, is in a legal battle with her ex-fiancé Nick Loeb over two frozen embryos they created together. Loeb is suing Vergara to prevent her from destroying the embryos, which were conceived through in vitro fertilization in 2013. The lawsuit does not name the parties, listing them as \"Jane Doe\" and \"Joe Doe\" to protect their privacy. Loeb wants to implant the embryos in a surrogate and bring them to term, but Vergara does not want to be involved. The case raises questions about who has the right to embryos and when life begins. Experts say the lawsuit could set a precedent for future cases involving frozen embryos.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Sofia Vergara, actress and star of Modern Family"
+      },
+      {
+        "id": 1,
+        "text": "her ex-fiancé Nick Loeb"
+      },
+      {
+        "id": 2,
+        "text": "two frozen embryos they created together"
+      },
+      {
+        "id": 3,
+        "text": "suing"
+      },
+      {
+        "id": 4,
+        "text": "the parties"
+      },
+      {
+        "id": 5,
+        "text": "Joe Doe"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "suing",
+        "tail": 0
+      },
+      {
+        "head": 1,
+        "relation": "involvedIn",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "involvedIn",
+        "tail": 2
+      },
+      {
+        "head": 2,
+        "relation": "createdTogetherBy",
+        "tail": 1
+      },
+      {
+        "head": 2,
+        "relation": "createdTogetherBy",
+        "tail": 0
+      }
+    ]
+  },
+  {
+    "document_id": 137,
+    "ragtruth_id": "587",
+    "text": "Actress Sofia Vergara is facing a legal battle with her ex-fiance Nick Loeb over two frozen embryos they created during their relationship. Loeb is suing Vergara to prevent her from destroying the embryos, which are currently being held at a clinic in Beverly Hills. The lawsuit, which names the couple as \"Jane Doe\" and \"John Doe,\" requests that the court allow Loeb to implant the embryos in a surrogate and bring them to term. Loeb believes that \"life begins at fertilization\" and that he has a corresponding right to be a father since he wants to bring the embryos to term. Vergara's representatives have declined to comment on the matter. The case raises questions about who has the right to embryos in situations where a couple disagrees, and experts say it could lead to new legal precedents.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Actress Sofia Vergara"
+      },
+      {
+        "id": 1,
+        "text": "they"
+      },
+      {
+        "id": 2,
+        "text": "her ex-fiance Nick Loeb"
+      },
+      {
+        "id": 3,
+        "text": "two frozen embryos they created during their relationship"
+      },
+      {
+        "id": 4,
+        "text": "suing"
+      },
+      {
+        "id": 5,
+        "text": "John Doe"
+      }
+    ],
+    "relations": [
+      {
+        "head": 2,
+        "relation": "exFianceOf",
+        "tail": 0
+      },
+      {
+        "head": 3,
+        "relation": "createdBy",
+        "tail": 1
+      },
+      {
+        "head": 4,
+        "relation": "involves",
+        "tail": 0
+      },
+      {
+        "head": 4,
+        "relation": "involves",
+        "tail": 2
+      },
+      {
+        "head": 4,
+        "relation": "involves",
+        "tail": 3
+      },
+      {
+        "head": 4,
+        "relation": "involves",
+        "tail": 1
+      },
+      {
+        "head": 4,
+        "relation": "involves",
+        "tail": 5
+      }
+    ]
+  },
+  {
+    "document_id": 138,
+    "ragtruth_id": "588",
+    "text": "Hillary Clinton surprised the world with the unconventional way she launched her campaign. Not only did she rebrand herself but completely reframed who she is, what she stands for and how she intends to run. Many in the media were critical of the launch, however, from a marketing perspective, it may have been much more successful than critics think. The announcement video changed Clinton's message from being self-absorbed to being empathetic. In marketing terms, rebranding is a strategy to bring a new name, term, symbol or design to an established brand with the aim of developing a new identity in the minds of consumers. Reframing is a strategy that goes further: it seeks to change how a consumer (or voter) emotionally experiences an established brand. Clinton's road trip to Iowa in the van nicknamed Scooby was also part of the campaign and her new and controversial campaign logo was introduced last week. All these pieces brought Clinton back on stage not as a leader from yesterday but, surprisingly, as one for the future. The key to Clinton's success in reframing her message and movement will be consistency.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Hillary Clinton"
+      },
+      {
+        "id": 1,
+        "text": "launched"
+      },
+      {
+        "id": 2,
+        "text": "Reframing"
+      },
+      {
+        "id": 3,
+        "text": "her campaign"
+      },
+      {
+        "id": 4,
+        "text": "Iowa"
+      },
+      {
+        "id": 5,
+        "text": "Scooby"
+      },
+      {
+        "id": 6,
+        "text": "last week"
+      },
+      {
+        "id": 7,
+        "text": "yesterday"
+      }
+    ],
+    "relations": [
+      {
+        "head": 3,
+        "relation": "launchedBy",
+        "tail": 0
+      },
+      {
+        "head": 3,
+        "relation": "campaignLocation",
+        "tail": 4
+      },
+      {
+        "head": 3,
+        "relation": "associatedWith",
+        "tail": 5
+      },
+      {
+        "head": 3,
+        "relation": "introducedAt",
+        "tail": 6
+      },
+      {
+        "head": 0,
+        "relation": "associatedWith",
+        "tail": 7
+      }
+    ]
+  },
+  {
+    "document_id": 139,
+    "ragtruth_id": "589",
+    "text": "Hillary Clinton has surprised the world with her unconventional campaign launch. She has embarked on a long communications campaign to rebrand herself and change the public's perception of her. While some critics have dismissed her efforts as vapid and boring, there is no denying that her launch has been successful from a marketing perspective. Her YouTube announcement video successfully portrays her as confident, fresh, and forward-looking. Clinton's team is attempting to create an empathetic relationship with voters that she has struggled with in the past. The road trip to Iowa and the anonymous stop at Chipotle reinforce her campaign theme of connecting with everyday Americans. Additionally, Clinton's new campaign logo is a brilliant expression of the emotional connection she wants to have with voters. It signifies movement and portrays Clinton as someone who is there to support the people and help them move forward. In contrast to Clinton's unconventional approach, Marco Rubio's announcement followed a more traditional script, which may have amplified the impact of Clinton's reframing. However, there are concerns about the authenticity of Clinton's campaign and whether it is the real Hillary or a candidate in a mask. The key to Clinton's success will be consistency and integrating her empathetic relationship with voters into all aspects of her campaign. If she fails to do so, she may face the same voter perceptions that doomed her in 2008. Overall, Clinton's campaign launch has been successful in terms of marketing, and only time will tell if it translates into voter support.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Hillary Clinton"
+      },
+      {
+        "id": 1,
+        "text": "her unconventional campaign launch"
+      },
+      {
+        "id": 2,
+        "text": "Clinton's new campaign logo"
+      },
+      {
+        "id": 3,
+        "text": "the people"
+      },
+      {
+        "id": 4,
+        "text": "Clinton's campaign"
+      },
+      {
+        "id": 5,
+        "text": "YouTube"
+      },
+      {
+        "id": 6,
+        "text": "Iowa"
+      },
+      {
+        "id": 7,
+        "text": "Chipotle"
+      },
+      {
+        "id": 8,
+        "text": "Americans"
+      },
+      {
+        "id": 9,
+        "text": "Marco Rubio's"
+      },
+      {
+        "id": 10,
+        "text": "Hillary"
+      },
+      {
+        "id": 11,
+        "text": "2008"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "launchedBy",
+        "tail": 0
+      },
+      {
+        "head": 2,
+        "relation": "belongsTo",
+        "tail": 0
+      },
+      {
+        "head": 2,
+        "relation": "signifies",
+        "tail": 3
+      },
+      {
+        "head": 4,
+        "relation": "belongsTo",
+        "tail": 0
+      },
+      {
+        "head": 4,
+        "relation": "relatedTo",
+        "tail": 0
+      },
+      {
+        "head": 1,
+        "relation": "postedOn",
+        "tail": 5
+      },
+      {
+        "head": 1,
+        "relation": "includesStopIn",
+        "tail": 6
+      },
+      {
+        "head": 1,
+        "relation": "includesStopIn",
+        "tail": 7
+      },
+      {
+        "head": 1,
+        "relation": "connectsWith",
+        "tail": 8
+      },
+      {
+        "head": 4,
+        "relation": "comparedWith",
+        "tail": 9
+      },
+      {
+        "head": 4,
+        "relation": "comparedWith",
+        "tail": 10
+      },
+      {
+        "head": 4,
+        "relation": "sameAs",
+        "tail": 0
+      },
+      {
+        "head": 0,
+        "relation": "sameAs",
+        "tail": 10
+      },
+      {
+        "head": 4,
+        "relation": "failedIn",
+        "tail": 11
+      }
+    ]
+  }
+]

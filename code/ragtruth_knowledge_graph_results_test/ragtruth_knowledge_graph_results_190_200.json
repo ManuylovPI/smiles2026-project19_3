@@ -1,0 +1,460 @@
+[
+  {
+    "document_id": 190,
+    "ragtruth_id": "724",
+    "text": "Sure! Here is the summary you requested within 68 words:\n\nLynyrd Skynyrd's original drummer, Robert Lewis Burns Jr., died in a car crash in Georgia at 64. He was not restrained and hit a mailbox and tree. Burns was part of the band's original lineup and played on early hits like \"Sweet Home Alabama\" before leaving the group in 1975. The band was inducted into the Rock and Roll Hall of Fame in 2006.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Lynyrd Skynyrd's original drummer, Robert Lewis Burns Jr."
+      },
+      {
+        "id": 1,
+        "text": "Lynyrd Skynyrd's"
+      },
+      {
+        "id": 2,
+        "text": "68"
+      },
+      {
+        "id": 3,
+        "text": "Georgia"
+      },
+      {
+        "id": 4,
+        "text": "64"
+      },
+      {
+        "id": 5,
+        "text": "Sweet Home Alabama"
+      },
+      {
+        "id": 6,
+        "text": "1975"
+      },
+      {
+        "id": 7,
+        "text": "the Rock and Roll Hall of Fame"
+      },
+      {
+        "id": 8,
+        "text": "2006"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "diedIn",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "ageAtDeath",
+        "tail": 4
+      },
+      {
+        "head": 1,
+        "relation": "inductedInto",
+        "tail": 7
+      },
+      {
+        "head": 1,
+        "relation": "inductionYear",
+        "tail": 8
+      },
+      {
+        "head": 0,
+        "relation": "leftGroupIn",
+        "tail": 6
+      },
+      {
+        "head": 5,
+        "relation": "performedBy",
+        "tail": 0
+      }
+    ]
+  },
+  {
+    "document_id": 191,
+    "ragtruth_id": "725",
+    "text": "Robert Burns Jr., the original drummer for Lynyrd Skynyrd, died in a car crash in Georgia at the age of 64. He was not wearing a seatbelt and died after hitting a mailbox and tree. Burns was a founding member of the band and played on their first two albums before leaving in 1975 due to exhaustion from touring. The band continued to change members and had a tragic plane crash in 1977 that killed three members, including the lead singer. Despite this, the band continues to tour with the sole remaining original member, Gary Rossington.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Robert Burns Jr., the original drummer for Lynyrd Skynyrd"
+      },
+      {
+        "id": 1,
+        "text": "Lynyrd Skynyrd"
+      },
+      {
+        "id": 2,
+        "text": "Georgia"
+      },
+      {
+        "id": 3,
+        "text": "the age of 64"
+      },
+      {
+        "id": 4,
+        "text": "first"
+      },
+      {
+        "id": 5,
+        "text": "two"
+      },
+      {
+        "id": 6,
+        "text": "1975"
+      },
+      {
+        "id": 7,
+        "text": "1977"
+      },
+      {
+        "id": 8,
+        "text": "three"
+      },
+      {
+        "id": 9,
+        "text": "Gary Rossington"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "original drummer",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "diedIn",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "ageAtDeath",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "foundingMemberOf",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "playedOnAlbumCount",
+        "tail": 5
+      },
+      {
+        "head": 0,
+        "relation": "leftIn",
+        "tail": 6
+      },
+      {
+        "head": 1,
+        "relation": "hadPlaneCrashIn",
+        "tail": 7
+      },
+      {
+        "head": 1,
+        "relation": "lostMembersInCrash",
+        "tail": 8
+      },
+      {
+        "head": 1,
+        "relation": "hasRemainingOriginalMember",
+        "tail": 9
+      }
+    ]
+  },
+  {
+    "document_id": 192,
+    "ragtruth_id": "726",
+    "text": "A nuclear submarine under repair at Russia's Zvyozdochka shipyard has caught fire. The blaze started during welding work and ignited the rubber insulation between the submarine's light and pressure hull. No injuries have been reported and the vessel was not armed.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "caught"
+      },
+      {
+        "id": 1,
+        "text": "A nuclear submarine under repair at Russia's Zvyozdochka shipyard"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "caught",
+        "tail": 0
+      }
+    ]
+  },
+  {
+    "document_id": 193,
+    "ragtruth_id": "727",
+    "text": "A nuclear submarine in a Russian shipyard caught fire during welding work. The fire started in the rubber insulation between the light and pressure hull. No ammunition or nuclear fuel was on board, and the fire posed no threat to people or the shipyard.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "caught"
+      },
+      {
+        "id": 1,
+        "text": "a Russian shipyard"
+      }
+    ],
+    "relations": []
+  },
+  {
+    "document_id": 194,
+    "ragtruth_id": "728",
+    "text": "A nuclear submarine being repaired in Russia caught fire due to accidental welding damage, causing an explosion that released radiation into the air. Four workers were killed in the incident and over 170 others were hospitalized. The cause of the explosion remains unknown but experts have suggested that a spark may have ignited a hydrogen leak. The damaged sub is currently being dismantled and decommissioned.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "an explosion that released radiation into the air"
+      },
+      {
+        "id": 1,
+        "text": "A nuclear submarine being repaired in Russia"
+      },
+      {
+        "id": 2,
+        "text": "Four"
+      },
+      {
+        "id": 3,
+        "text": "over 170"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "causedBy",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "deathToll",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "hospitalized",
+        "tail": 3
+      }
+    ]
+  },
+  {
+    "document_id": 195,
+    "ragtruth_id": "729",
+    "text": "A nuclear submarine caught fire during repairs at a Russian shipyard, with no ammunition on board. Insulation caught fire while welding work was being done, and the fire has been extinguished without any injuries.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "caught"
+      },
+      {
+        "id": 1,
+        "text": "Russian"
+      }
+    ],
+    "relations": []
+  },
+  {
+    "document_id": 196,
+    "ragtruth_id": "730",
+    "text": "Sure! Here's the summary within 42 words:\n\nA nuclear submarine at a Russian shipyard caught fire during repairs, but there's no danger of radiation or explosion as there's no ammunition or fissile materials on board. The fire started during welding work and has been extinguished, with no injuries reported.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "caught"
+      },
+      {
+        "id": 1,
+        "text": "42"
+      },
+      {
+        "id": 2,
+        "text": "Russian"
+      }
+    ],
+    "relations": []
+  },
+  {
+    "document_id": 197,
+    "ragtruth_id": "731",
+    "text": "A nuclear submarine caught fire during repairs at a Russian shipyard, with no injuries or danger to people or the environment, according to officials.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Russian"
+      }
+    ],
+    "relations": []
+  },
+  {
+    "document_id": 198,
+    "ragtruth_id": "774",
+    "text": "The California Public Utilities Commission has ordered Pacific Gas & Electric Co. to pay a record $1.6b penalty for unsafe operation of its gas transmission system. The penalty relates to a pipeline rupture in 2010 that caused eight deaths. Most of the penalty will be used to improve pipeline safety, with $850m going to gas transmission pipeline safety infrastructure improvements and $50m to other safety enhancements. PG&E has already paid over $500m in claims to victims' families, replaced over 800 miles of pipe, and installed new gas leak technology.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Pacific Gas & Electric Co."
+      },
+      {
+        "id": 1,
+        "text": "a record $1.6b penalty"
+      },
+      {
+        "id": 2,
+        "text": "The California Public Utilities Commission"
+      },
+      {
+        "id": 3,
+        "text": "2010"
+      },
+      {
+        "id": 4,
+        "text": "eight"
+      },
+      {
+        "id": 5,
+        "text": "850"
+      },
+      {
+        "id": 6,
+        "text": "50"
+      },
+      {
+        "id": 7,
+        "text": "over $500"
+      },
+      {
+        "id": 8,
+        "text": "over 800 miles"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "orderedToPay",
+        "tail": 1
+      },
+      {
+        "head": 1,
+        "relation": "relatesTo",
+        "tail": 3
+      },
+      {
+        "head": 1,
+        "relation": "causedDeaths",
+        "tail": 4
+      },
+      {
+        "head": 1,
+        "relation": "allocatedTo",
+        "tail": 5
+      },
+      {
+        "head": 1,
+        "relation": "allocatedTo",
+        "tail": 6
+      },
+      {
+        "head": 0,
+        "relation": "paidClaims",
+        "tail": 7
+      },
+      {
+        "head": 0,
+        "relation": "replaced",
+        "tail": 8
+      }
+    ]
+  },
+  {
+    "document_id": 199,
+    "ragtruth_id": "775",
+    "text": "The California Public Utilities Commission has ordered Pacific Gas & Electric Co. (PG&E) to pay a record $1.6 billion penalty for the unsafe operation of its gas transmission system, including a pipeline rupture in 2010 that killed eight people. The penalty includes $850 million for pipeline safety improvements and $50 million for other safety measures. PG&E's CEO expressed remorse and stated that the company is committed to becoming the safest energy company in the US. PG&E has already paid over $500 million in claims to the victims and has made significant efforts to improve safety since the incident. The previous record penalty was $146 million in 2008.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Pacific Gas & Electric Co. (PG&E)"
+      },
+      {
+        "id": 1,
+        "text": "a record $1.6 billion penalty"
+      },
+      {
+        "id": 2,
+        "text": "eight people"
+      },
+      {
+        "id": 3,
+        "text": "a pipeline rupture in 2010 that killed eight people"
+      },
+      {
+        "id": 4,
+        "text": "The California Public Utilities Commission"
+      },
+      {
+        "id": 5,
+        "text": "$850 million"
+      },
+      {
+        "id": 6,
+        "text": "$50 million"
+      },
+      {
+        "id": 7,
+        "text": "US"
+      },
+      {
+        "id": 8,
+        "text": "over $500 million"
+      },
+      {
+        "id": 9,
+        "text": "$146 million"
+      },
+      {
+        "id": 10,
+        "text": "2008"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "penalty",
+        "tail": 1
+      },
+      {
+        "head": 3,
+        "relation": "killed",
+        "tail": 2
+      },
+      {
+        "head": 1,
+        "relation": "includes",
+        "tail": 5
+      },
+      {
+        "head": 1,
+        "relation": "includes",
+        "tail": 6
+      },
+      {
+        "head": 0,
+        "relation": "paidClaims",
+        "tail": 8
+      },
+      {
+        "head": 9,
+        "relation": "date",
+        "tail": 10
+      }
+    ]
+  }
+]

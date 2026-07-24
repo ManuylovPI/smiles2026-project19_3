@@ -1,0 +1,568 @@
+[
+  {
+    "document_id": 200,
+    "ragtruth_id": "776",
+    "text": "The California Public Utilities Commission (CPUC) fined Pacific Gas & Electric (PG&E) $1.6 billion in penalties for the unsafe operation of its gas transmission system. Most of the amount will be used for improving pipeline safety. The penalty stems from the 2010 pipeline explosion in San Bruno that killed eight people and caused widespread damage. This is the largest penalty ever imposed by the CPUC. PG&E has already spent over $500 million settling claims with the victims and implementing safety measures recommended by regulators. The company pledges to become the safest energy provider in the US. The CPUC's president Michael Picker stated that they failed to prevent the tragedy and must do everything possible to avoid similar incidents in the future.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Pacific Gas & Electric (PG&E)"
+      },
+      {
+        "id": 1,
+        "text": "$1.6 billion"
+      },
+      {
+        "id": 2,
+        "text": "The California Public Utilities Commission (CPUC)"
+      },
+      {
+        "id": 3,
+        "text": "eight people"
+      },
+      {
+        "id": 4,
+        "text": "the 2010 pipeline explosion in San Bruno that killed eight people and caused widespread damage"
+      },
+      {
+        "id": 5,
+        "text": "over $500 million"
+      },
+      {
+        "id": 6,
+        "text": "US"
+      },
+      {
+        "id": 7,
+        "text": "Michael Picker"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "fined",
+        "tail": 1
+      },
+      {
+        "head": 1,
+        "relation": "penaltyBy",
+        "tail": 2
+      },
+      {
+        "head": 1,
+        "relation": "stemsFrom",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "spent",
+        "tail": 5
+      },
+      {
+        "head": 0,
+        "relation": "operatesIn",
+        "tail": 6
+      },
+      {
+        "head": 2,
+        "relation": "president",
+        "tail": 7
+      }
+    ]
+  },
+  {
+    "document_id": 201,
+    "ragtruth_id": "777",
+    "text": "Here is a summary of the article in 91 words:\n\nThe California Public Utilities Commission ordered Pacific Gas & Electric Co. to pay a record $1.6 billion penalty for unsafe operation of its gas transmission system, including the 2010 pipeline rupture in San Bruno that killed eight people. The majority of the penalty will fund pipeline safety improvements, with $850 million going towards upgrades and $50 million for other safety measures. PG&E's CEO apologized for the tragedy and promised to become the safest energy company in the US.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Pacific Gas & Electric Co."
+      },
+      {
+        "id": 1,
+        "text": "a record $1.6 billion penalty"
+      },
+      {
+        "id": 2,
+        "text": "the 2010 pipeline rupture in San Bruno that killed eight people"
+      },
+      {
+        "id": 3,
+        "text": "91"
+      },
+      {
+        "id": 4,
+        "text": "The California Public Utilities Commission"
+      },
+      {
+        "id": 5,
+        "text": "$850 million"
+      },
+      {
+        "id": 6,
+        "text": "$50 million"
+      },
+      {
+        "id": 7,
+        "text": "US"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "penalty",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "unsafeOperationOf",
+        "tail": 2
+      },
+      {
+        "head": 1,
+        "relation": "funds",
+        "tail": 5
+      },
+      {
+        "head": 1,
+        "relation": "funds",
+        "tail": 6
+      },
+      {
+        "head": 0,
+        "relation": "apologizedFor",
+        "tail": 2
+      }
+    ]
+  },
+  {
+    "document_id": 202,
+    "ragtruth_id": "778",
+    "text": "Sure! Here's the summary within 91 words:\n\nThe California Public Utilities Commission fined Pacific Gas & Electric Co. $1.6 billion for unsafe pipeline operations, following the 2010 San Bruno blast that killed 8 and injured 50. Most of the penalty goes towards improving pipeline safety. PG&E CEO Tony Earley expressed regret and dedication to earning back customer trust. The company has already replaced 800 miles of pipe and implemented safety measures. This is the largest fine ever imposed on a utility company in California.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "$1.6 billion"
+      },
+      {
+        "id": 1,
+        "text": "Pacific Gas & Electric Co."
+      },
+      {
+        "id": 2,
+        "text": "91"
+      },
+      {
+        "id": 3,
+        "text": "The California Public Utilities Commission"
+      },
+      {
+        "id": 4,
+        "text": "2010"
+      },
+      {
+        "id": 5,
+        "text": "San Bruno"
+      },
+      {
+        "id": 6,
+        "text": "8"
+      },
+      {
+        "id": 7,
+        "text": "50"
+      },
+      {
+        "id": 8,
+        "text": "Tony Earley"
+      },
+      {
+        "id": 9,
+        "text": "800 miles"
+      },
+      {
+        "id": 10,
+        "text": "California"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "finedBy",
+        "tail": 3
+      },
+      {
+        "head": 1,
+        "relation": "fineAmount",
+        "tail": 0
+      },
+      {
+        "head": 1,
+        "relation": "relatedToEvent",
+        "tail": 5
+      },
+      {
+        "head": 1,
+        "relation": "relatedToDate",
+        "tail": 4
+      },
+      {
+        "head": 1,
+        "relation": "ceo",
+        "tail": 8
+      },
+      {
+        "head": 1,
+        "relation": "replacedPipe",
+        "tail": 9
+      },
+      {
+        "head": 0,
+        "relation": "largestFineIn",
+        "tail": 10
+      }
+    ]
+  },
+  {
+    "document_id": 203,
+    "ragtruth_id": "779",
+    "text": "The California Public Utilities Commission has ordered Pacific Gas & Electric Co. to pay a record $1.6 billion penalty for unsafe operation of its gas transmission system, including the pipeline rupture that killed eight people in San Bruno in 2010. The penalty includes $850 million for gas transmission pipeline safety infrastructure improvements and $50 million for other safety measures. The company has also paid over $500 million in claims to victims and their families.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Pacific Gas & Electric Co."
+      },
+      {
+        "id": 1,
+        "text": "a record $1.6 billion penalty"
+      },
+      {
+        "id": 2,
+        "text": "victims"
+      },
+      {
+        "id": 3,
+        "text": "The California Public Utilities Commission"
+      },
+      {
+        "id": 4,
+        "text": "eight"
+      },
+      {
+        "id": 5,
+        "text": "San Bruno"
+      },
+      {
+        "id": 6,
+        "text": "2010"
+      },
+      {
+        "id": 7,
+        "text": "$850 million"
+      },
+      {
+        "id": 8,
+        "text": "$50 million"
+      },
+      {
+        "id": 9,
+        "text": "over $500 million"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "orderedBy",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "penalty",
+        "tail": 1
+      },
+      {
+        "head": 1,
+        "relation": "includes",
+        "tail": 7
+      },
+      {
+        "head": 1,
+        "relation": "includes",
+        "tail": 8
+      },
+      {
+        "head": 0,
+        "relation": "paidClaimsTo",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "paidAmount",
+        "tail": 9
+      }
+    ]
+  },
+  {
+    "document_id": 204,
+    "ragtruth_id": "834",
+    "text": "Rapper Nelly was arrested in Tennessee on drug charges after a state trooper pulled over his private bus for not displaying transportation and fuel tax stickers. The officer noticed the smell of marijuana, and a search of the vehicle revealed methamphetamine, marijuana, drug paraphernalia, several handguns, and 100 small Ziploc bags. Nelly and another passenger were taken to jail, but later posted bond and left.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Rapper Nelly"
+      },
+      {
+        "id": 1,
+        "text": "a state trooper"
+      },
+      {
+        "id": 2,
+        "text": "his private bus"
+      },
+      {
+        "id": 3,
+        "text": "Tennessee"
+      },
+      {
+        "id": 4,
+        "text": "marijuana, drug paraphernalia"
+      },
+      {
+        "id": 5,
+        "text": "100"
+      },
+      {
+        "id": 6,
+        "text": "Ziploc"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "arrestedIn",
+        "tail": 3
+      },
+      {
+        "head": 2,
+        "relation": "pulledOverBy",
+        "tail": 1
+      },
+      {
+        "head": 2,
+        "relation": "searchedBy",
+        "tail": 1
+      }
+    ]
+  },
+  {
+    "document_id": 205,
+    "ragtruth_id": "835",
+    "text": "Hip-hop star Nelly, known for his hit song \"Country Grammar,\" has been arrested in Tennessee on drug charges. During a routine traffic stop, state troopers detected the smell of marijuana coming from Nelly's private bus. A search of the vehicle uncovered methamphetamine, marijuana, drug paraphernalia, handguns, and small bags commonly used for drug sales. Nelly, whose real name is Cornell Haynes, was taken to jail but later released on bond. No comment has been made by his representatives.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Hip-hop star Nelly, known for his hit song \"Country Grammar"
+      },
+      {
+        "id": 1,
+        "text": "Nelly's private bus"
+      },
+      {
+        "id": 2,
+        "text": "Tennessee"
+      },
+      {
+        "id": 3,
+        "text": "marijuana, drug paraphernalia"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "locatedIn",
+        "tail": 2
+      }
+    ]
+  },
+  {
+    "document_id": 206,
+    "ragtruth_id": "836",
+    "text": "Rapper Nelly was arrested in Tennessee on drug charges after a state trooper stopped his private bus. Troopers found five colored crystal-type rocks that tested positive for methamphetamine, along with a small amount of marijuana and other drug paraphernalia during a search of the vehicle. Additionally, troopers discovered several handguns and 100 small Ziploc bags that are commonly used for selling drugs.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Rapper Nelly"
+      },
+      {
+        "id": 1,
+        "text": "his private bus"
+      },
+      {
+        "id": 2,
+        "text": "Tennessee"
+      },
+      {
+        "id": 3,
+        "text": "five"
+      },
+      {
+        "id": 4,
+        "text": "marijuana"
+      },
+      {
+        "id": 5,
+        "text": "100"
+      },
+      {
+        "id": 6,
+        "text": "Ziploc"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "arrestedIn",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "vehicle",
+        "tail": 1
+      },
+      {
+        "head": 1,
+        "relation": "contains",
+        "tail": 3
+      },
+      {
+        "head": 1,
+        "relation": "contains",
+        "tail": 4
+      },
+      {
+        "head": 1,
+        "relation": "contains",
+        "tail": 5
+      },
+      {
+        "head": 1,
+        "relation": "contains",
+        "tail": 6
+      }
+    ]
+  },
+  {
+    "document_id": 207,
+    "ragtruth_id": "837",
+    "text": "Sure! Here's a summary of the news in 65 words or less:\n\nNelly, a 40-year-old hip-hop star, was arrested on drug charges in Tennessee after a state trooper pulled over his private bus on I-40. Police found methamphetamine, marijuana, and other drug paraphernalia, as well as several handguns, including a gold-plated Desert Eagle pistol. Nelly was taken to jail but later posted bond and was released.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Nelly, a 40-year-old hip-hop star"
+      },
+      {
+        "id": 1,
+        "text": "65"
+      },
+      {
+        "id": 2,
+        "text": "Tennessee"
+      },
+      {
+        "id": 3,
+        "text": "I-40"
+      },
+      {
+        "id": 4,
+        "text": "marijuana"
+      },
+      {
+        "id": 5,
+        "text": "Desert Eagle"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "arrestedIn",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "pulledOverOn",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "foundWith",
+        "tail": 4
+      }
+    ]
+  },
+  {
+    "document_id": 208,
+    "ragtruth_id": "838",
+    "text": "Sure! Here's the summary in 65 words:\n\nNelly was arrested on drug charges in Tennessee after a state trooper smelled marijuana coming from his bus. The rapper and five others were found with methamphetamine, marijuana, and drug paraphernalia, as well as several handguns. Nelly was taken to jail but posted bond and was released.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "his"
+      },
+      {
+        "id": 1,
+        "text": "65"
+      },
+      {
+        "id": 2,
+        "text": "Tennessee"
+      },
+      {
+        "id": 3,
+        "text": "five"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "arrestedIn",
+        "tail": 2
+      }
+    ]
+  },
+  {
+    "document_id": 209,
+    "ragtruth_id": "839",
+    "text": "Rapper Nelly was arrested on drug charges in Tennessee after a state trooper smelled marijuana while inspecting his tour bus. He was charged with felony drug possession and other offenses. Five other people were also arrested.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Rapper Nelly"
+      },
+      {
+        "id": 1,
+        "text": "Tennessee"
+      },
+      {
+        "id": 2,
+        "text": "marijuana"
+      },
+      {
+        "id": 3,
+        "text": "Five"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "arrestedIn",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "chargedWith",
+        "tail": 2
+      }
+    ]
+  }
+]

@@ -1,0 +1,747 @@
+[
+  {
+    "document_id": 370,
+    "ragtruth_id": "1648",
+    "text": "Sure! Here's the summary within 200 words:\n\nPresident Barack Obama is in Panama for the Summit of the Americas, hoping to improve ties with Latin American leaders and reverse the US's declining influence in the region. Recent summit meetings have been marred by controversies and diplomatic mishaps, and the US needs a strong performance to regain ground lost to other global powers like China and Russia. Obama has announced a new policy towards Cuba, but this has sparked criticism from some lawmakers and led to a miscalculation with Venezuela, which could undermine US efforts. The US must focus on supporting democracy, human rights, and economic growth in the region to win back support from the people of Latin America. If successful, Obama could leave a lasting legacy beyond the historic handshake with Cuban President Raul Castro.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "the US's"
+      },
+      {
+        "id": 1,
+        "text": "President Barack Obama"
+      },
+      {
+        "id": 2,
+        "text": "announced"
+      },
+      {
+        "id": 3,
+        "text": "the region"
+      },
+      {
+        "id": 4,
+        "text": "200"
+      },
+      {
+        "id": 5,
+        "text": "Panama"
+      },
+      {
+        "id": 6,
+        "text": "Americas"
+      },
+      {
+        "id": 7,
+        "text": "Latin American"
+      },
+      {
+        "id": 8,
+        "text": "China"
+      },
+      {
+        "id": 9,
+        "text": "Russia"
+      },
+      {
+        "id": 10,
+        "text": "Cuba"
+      },
+      {
+        "id": 11,
+        "text": "Venezuela"
+      },
+      {
+        "id": 12,
+        "text": "US"
+      },
+      {
+        "id": 13,
+        "text": "Cuban"
+      },
+      {
+        "id": 14,
+        "text": "Raul Castro"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "locatedIn",
+        "tail": 5
+      },
+      {
+        "head": 1,
+        "relation": "attends",
+        "tail": 6
+      },
+      {
+        "head": 1,
+        "relation": "announcedPolicyToward",
+        "tail": 10
+      },
+      {
+        "head": 1,
+        "relation": "handshakeWith",
+        "tail": 14
+      }
+    ]
+  },
+  {
+    "document_id": 371,
+    "ragtruth_id": "1649",
+    "text": "The article discusses the upcoming Summit of the Americas in Panama, where President Barack Obama is expected to meet with leaders from nearly three dozen nations in the Western Hemisphere. The author notes that the summit offers an opportunity for the US to improve relations with its neighbors, which have been strained in recent years due to factors such as the US focus on the Middle East and the rise of China, Russia, and Iran in the region. The article highlights Obama's efforts to normalize relations with Cuba as a positive step, but notes that the US has lost influence in the region and must work to regain it. The author also notes that previous summits have been marred by controversy, such as the prostitution scandal in Cartagena, Colombia, and the late Venezuelan President Hugo Chavez's public relations victory over Obama in 2009. The article concludes that if Obama can articulate a clear vision and rally neighbors behind it, the summit could be a success and mark a turning point in US relations with Latin America.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "the upcoming Summit of the Americas in Panama, where President Barack Obama is expected to meet with leaders from nearly three dozen nations in the Western Hemisphere"
+      },
+      {
+        "id": 1,
+        "text": "the US"
+      },
+      {
+        "id": 2,
+        "text": "the Middle East"
+      },
+      {
+        "id": 3,
+        "text": "The article"
+      },
+      {
+        "id": 4,
+        "text": "President Barack Obama"
+      },
+      {
+        "id": 5,
+        "text": "influence in the region"
+      },
+      {
+        "id": 6,
+        "text": "The author"
+      },
+      {
+        "id": 7,
+        "text": "a clear vision"
+      },
+      {
+        "id": 8,
+        "text": "recent years"
+      },
+      {
+        "id": 9,
+        "text": "US"
+      },
+      {
+        "id": 10,
+        "text": "China"
+      },
+      {
+        "id": 11,
+        "text": "Russia"
+      },
+      {
+        "id": 12,
+        "text": "Iran"
+      },
+      {
+        "id": 13,
+        "text": "Cuba"
+      },
+      {
+        "id": 14,
+        "text": "Cartagena"
+      },
+      {
+        "id": 15,
+        "text": "Colombia"
+      },
+      {
+        "id": 16,
+        "text": "Venezuelan"
+      },
+      {
+        "id": 17,
+        "text": "Hugo Chavez"
+      },
+      {
+        "id": 18,
+        "text": "2009"
+      },
+      {
+        "id": 19,
+        "text": "US"
+      },
+      {
+        "id": 20,
+        "text": "Latin America"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "location",
+        "tail": 14
+      },
+      {
+        "head": 0,
+        "relation": "location",
+        "tail": 15
+      },
+      {
+        "head": 0,
+        "relation": "participant",
+        "tail": 4
+      },
+      {
+        "head": 1,
+        "relation": "relationWith",
+        "tail": 2
+      },
+      {
+        "head": 1,
+        "relation": "relationWith",
+        "tail": 20
+      },
+      {
+        "head": 4,
+        "relation": "relationWith",
+        "tail": 13
+      },
+      {
+        "head": 1,
+        "relation": "influenceIn",
+        "tail": 5
+      },
+      {
+        "head": 17,
+        "relation": "nationality",
+        "tail": 16
+      },
+      {
+        "head": 17,
+        "relation": "relationWith",
+        "tail": 4
+      },
+      {
+        "head": 17,
+        "relation": "date",
+        "tail": 18
+      }
+    ]
+  },
+  {
+    "document_id": 372,
+    "ragtruth_id": "1674",
+    "text": "CNN has reported from Yemen, a country that has become largely off limits to the outside world, due to the ongoing conflict between Houthi rebels and Saudi-led coalition forces. A no-fly zone has rendered the international airport almost obsolete, but Unicef was able to gain access for an aid mission. More than 100,000 Yemeni civilians have fled their homes since fighting began and the UN estimates that 15.9 million people are in need of assistance. Unicef hopes to be able to deliver food and supplies to ease the worsening humanitarian crisis. Even prior to Saudi airstrikes, most of the 25 million people in Yemen required humanitarian assistance.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "More than 100,000 Yemeni civilians"
+      },
+      {
+        "id": 1,
+        "text": "Unicef"
+      },
+      {
+        "id": 2,
+        "text": "Yemen, a country that has become largely off limits to the outside world, due to the ongoing conflict between Houthi rebels and Saudi-led coalition forces"
+      },
+      {
+        "id": 3,
+        "text": "CNN"
+      },
+      {
+        "id": 4,
+        "text": "UN"
+      },
+      {
+        "id": 5,
+        "text": "15.9 million"
+      },
+      {
+        "id": 6,
+        "text": "Saudi"
+      },
+      {
+        "id": 7,
+        "text": "25 million"
+      }
+    ],
+    "relations": [
+      {
+        "head": 3,
+        "relation": "reportedFrom",
+        "tail": 2
+      },
+      {
+        "head": 1,
+        "relation": "gainedAccessTo",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "fledFrom",
+        "tail": 2
+      },
+      {
+        "head": 4,
+        "relation": "estimatesNeedOfAssistance",
+        "tail": 5
+      },
+      {
+        "head": 1,
+        "relation": "hopesToDeliverAidTo",
+        "tail": 2
+      },
+      {
+        "head": 7,
+        "relation": "requiredHumanitarianAssistanceIn",
+        "tail": 2
+      }
+    ]
+  },
+  {
+    "document_id": 373,
+    "ragtruth_id": "1675",
+    "text": "The conflict in Yemen has made it too dangerous for most of the outside world to visit the war-torn country. However, CNN was granted rare access to Sanaa Airport on a desperate aid mission by Unicef. The airport has previously been bombed, and hostilities are likely to resume soon. Unicef hopes to deliver vital food and supplies to help ease the worsening humanitarian crisis in Yemen, where over 100,000 civilians have fled their homes and 15.9 million people are in need of assistance. Aid workers are busy unloading provisions on the tarmac, while thousands have fled the country on evacuation flights.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Yemen"
+      },
+      {
+        "id": 1,
+        "text": "Sanaa Airport"
+      },
+      {
+        "id": 2,
+        "text": "Unicef"
+      },
+      {
+        "id": 3,
+        "text": "over 100,000 civilians"
+      },
+      {
+        "id": 4,
+        "text": "CNN"
+      },
+      {
+        "id": 5,
+        "text": "thousands"
+      }
+    ],
+    "relations": [
+      {
+        "head": 4,
+        "relation": "accessGrantedTo",
+        "tail": 1
+      },
+      {
+        "head": 1,
+        "relation": "locatedIn",
+        "tail": 0
+      },
+      {
+        "head": 2,
+        "relation": "missionTo",
+        "tail": 1
+      },
+      {
+        "head": 3,
+        "relation": "fledFrom",
+        "tail": 0
+      },
+      {
+        "head": 5,
+        "relation": "fledFrom",
+        "tail": 0
+      }
+    ]
+  },
+  {
+    "document_id": 374,
+    "ragtruth_id": "1676",
+    "text": "CNN recently gained access to Sanaa Airport in Yemen, which has been scarred by the ongoing conflict in the country. Unicef delivered aid via a transport plane, with the country facing a severe humanitarian crisis due to the conflict. The airport has been bombarded, and many Yemenis have fled to neighboring countries. The United Nations and other organizations are working to deliver aid to those in need in a country crippled by a lack of resources.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Yemen"
+      },
+      {
+        "id": 1,
+        "text": "the ongoing conflict in the country"
+      },
+      {
+        "id": 2,
+        "text": "Sanaa Airport in Yemen, which has been scarred by the ongoing conflict in the country"
+      },
+      {
+        "id": 3,
+        "text": "CNN"
+      },
+      {
+        "id": 4,
+        "text": "Yemenis"
+      },
+      {
+        "id": 5,
+        "text": "The United Nations"
+      }
+    ],
+    "relations": [
+      {
+        "head": 2,
+        "relation": "locatedIn",
+        "tail": 0
+      },
+      {
+        "head": 2,
+        "relation": "scarredBy",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "affectedBy",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "aidDeliveredBy",
+        "tail": 5
+      }
+    ]
+  },
+  {
+    "document_id": 375,
+    "ragtruth_id": "1677",
+    "text": "Here is a summary of the article in 106 words:\n\nUnicef delivered vital food and supplies to Yemen despite the ongoing conflict between Houthi rebels and Saudi-led coalition forces. The country's international airport is damaged and off-limits, so the aid organization had to rely on a desperate aid mission. Despite the danger, Unicef managed to unload huge amounts of emergency nutrition and medical equipment onto the tarmac. However, the situation remains dire, with over 100,000 Yemeni civilians displaced and 15.9 million people in need of assistance. The main terminal is under Houthi rebel control, making it difficult for aid workers to distribute supplies effectively.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Yemen"
+      },
+      {
+        "id": 1,
+        "text": "Unicef"
+      },
+      {
+        "id": 2,
+        "text": "106"
+      },
+      {
+        "id": 3,
+        "text": "Houthi"
+      },
+      {
+        "id": 4,
+        "text": "Saudi"
+      },
+      {
+        "id": 5,
+        "text": "over 100,000"
+      },
+      {
+        "id": 6,
+        "text": "Yemeni"
+      },
+      {
+        "id": 7,
+        "text": "15.9 million"
+      },
+      {
+        "id": 8,
+        "text": "Houthi"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "deliveredAidTo",
+        "tail": 0
+      },
+      {
+        "head": 0,
+        "relation": "airportUnderControlOf",
+        "tail": 8
+      }
+    ]
+  },
+  {
+    "document_id": 376,
+    "ragtruth_id": "1678",
+    "text": "Sure! Here's the summary in 106 words:\n\nUnicef delivered vital aid to Yemen's capital city of Sanaa despite the ongoing conflict, using a rare window of peace to bring food and supplies to those in need. The airport has been damaged by bombing, and hostilities are expected to resume soon. The UN estimates that over 100,000 civilians have fled their homes and 15.9 million people require humanitarian assistance. Unicef's efforts are critical in alleviating the worsening humanitarian crisis.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "over 100,000 civilians"
+      },
+      {
+        "id": 1,
+        "text": "Unicef"
+      },
+      {
+        "id": 2,
+        "text": "106"
+      },
+      {
+        "id": 3,
+        "text": "Yemen"
+      },
+      {
+        "id": 4,
+        "text": "Sanaa"
+      },
+      {
+        "id": 5,
+        "text": "UN"
+      },
+      {
+        "id": 6,
+        "text": "15.9 million"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "deliveredAidTo",
+        "tail": 4
+      },
+      {
+        "head": 4,
+        "relation": "capitalOf",
+        "tail": 3
+      },
+      {
+        "head": 5,
+        "relation": "estimates",
+        "tail": 6
+      },
+      {
+        "head": 5,
+        "relation": "estimates",
+        "tail": 0
+      }
+    ]
+  },
+  {
+    "document_id": 377,
+    "ragtruth_id": "1679",
+    "text": "A Unicef aid mission was granted rare access to Sanaa Airport in Yemen, which has been devastated by a brutal conflict. The airport has been bombed and is mostly destroyed, with nearby buildings in ruins. Despite the danger, Unicef hopes to deliver vital food and supplies to ease the country's worsening humanitarian crisis. Over 100,000 civilians have fled their homes, and 15.9 million people are in need of assistance. Unicef's team must figure out how to distribute aid to those most in need in a country with limited resources. This mission is one of the few hopes for those who cannot flee the country.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Sanaa Airport in Yemen, which has been devastated by a brutal conflict"
+      },
+      {
+        "id": 1,
+        "text": "Unicef"
+      },
+      {
+        "id": 2,
+        "text": "Yemen, which has been devastated by a brutal conflict"
+      },
+      {
+        "id": 3,
+        "text": "Over 100,000 civilians"
+      },
+      {
+        "id": 4,
+        "text": "A Unicef aid mission"
+      },
+      {
+        "id": 5,
+        "text": "15.9 million"
+      }
+    ],
+    "relations": [
+      {
+        "head": 4,
+        "relation": "missionOf",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "locatedIn",
+        "tail": 2
+      }
+    ]
+  },
+  {
+    "document_id": 378,
+    "ragtruth_id": "1680",
+    "text": "A study by We the People found that 80% of women in Mumbai have been street harassed, primarily in crowded areas like trains and railway platforms. Most people, including women, only consider sexual violence as rape, overlooking other forms of harassment, such as touching, groping, stalking, ogling, leering, catcalling and whistling. However, these acts can be incredibly intimidating, causing many women to limit their time outside or change their routes to avoid harassment. Sexual harassment is pervasive in all aspects of life in India, with the U.N. Women's report stating that one in three women worldwide face some form of sexual violence at least once in their lifetime. This statistic is likely even higher in India. Only a handful of the 2,000 women who have attended workshops have never been at the receiving end of harassment. Less than 10 have reported harassment to an official channel. Despite this, two recent cases in India have proved that coming forward to report sexual harassment can make a difference, even when the perpetrator is in a position of power. The victims in these cases found allies who were willing to help them overcome the barriers to reporting.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "other forms of harassment, such as touching, groping, stalking, ogling, leering, catcalling and whistling"
+      },
+      {
+        "id": 1,
+        "text": "many women"
+      },
+      {
+        "id": 2,
+        "text": "one in three women worldwide"
+      },
+      {
+        "id": 3,
+        "text": "India"
+      },
+      {
+        "id": 4,
+        "text": "reported"
+      },
+      {
+        "id": 5,
+        "text": "two recent cases in India"
+      },
+      {
+        "id": 6,
+        "text": "The victims in these cases"
+      },
+      {
+        "id": 7,
+        "text": "80%"
+      },
+      {
+        "id": 8,
+        "text": "Mumbai"
+      },
+      {
+        "id": 9,
+        "text": "the U.N. Women's"
+      },
+      {
+        "id": 10,
+        "text": "2,000"
+      },
+      {
+        "id": 11,
+        "text": "Less than 10"
+      }
+    ],
+    "relations": [
+      {
+        "head": 8,
+        "relation": "streetHarassmentRate",
+        "tail": 7
+      },
+      {
+        "head": 1,
+        "relation": "affectedBy",
+        "tail": 0
+      },
+      {
+        "head": 3,
+        "relation": "hasSexualHarassment",
+        "tail": 0
+      },
+      {
+        "head": 2,
+        "relation": "faceSexualViolence",
+        "tail": 0
+      },
+      {
+        "head": 4,
+        "relation": "reportedTo",
+        "tail": 11
+      },
+      {
+        "head": 5,
+        "relation": "locatedIn",
+        "tail": 3
+      },
+      {
+        "head": 6,
+        "relation": "involvedIn",
+        "tail": 5
+      }
+    ]
+  },
+  {
+    "document_id": 379,
+    "ragtruth_id": "1681",
+    "text": "The author recounts her own experience of sexual harassment on public transportation in Mumbai, India when she was 13 years old. She highlights how common these incidents are, with 80% of women in Mumbai reporting street harassment. However, she emphasizes that sexual violence is not limited to rape and includes actions such as groping, stalking, ogling, and catcalling. Many women choose to limit their activities, dress more conservatively, or take longer routes to avoid harassment. The author also discusses the cultural acceptance of sexual harassment and the normalization of staring and commenting on women. She points out that only a small number of women report harassment to officials, likely due to fear, shame, and a lack of confidence in the justice system. Despite these barriers, the author encourages women to speak up and confront their harassers. She mentions two recent cases in India where women's courage to report sexual harassment led to the resignation of powerful individuals. The author argues that speaking out against harassment is crucial to empower women and create a culture shift in India. She urges women to find the courage to report incidents and emphasizes that accepting harassment as part of daily life is unacceptable.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "The author"
+      },
+      {
+        "id": 1,
+        "text": "sexual harassment on public transportation in Mumbai, India when she was 13 years old"
+      },
+      {
+        "id": 2,
+        "text": "Mumbai, India"
+      },
+      {
+        "id": 3,
+        "text": "Many women"
+      },
+      {
+        "id": 4,
+        "text": "fear, shame, and a lack of confidence in the justice system"
+      },
+      {
+        "id": 5,
+        "text": "women"
+      },
+      {
+        "id": 6,
+        "text": "India"
+      },
+      {
+        "id": 7,
+        "text": "80%"
+      },
+      {
+        "id": 8,
+        "text": "two"
+      },
+      {
+        "id": 9,
+        "text": "daily"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "occurredIn",
+        "tail": 2
+      },
+      {
+        "head": 1,
+        "relation": "occurredIn",
+        "tail": 6
+      },
+      {
+        "head": 2,
+        "relation": "streetHarassmentRate",
+        "tail": 7
+      },
+      {
+        "head": 0,
+        "relation": "encourages",
+        "tail": 5
+      },
+      {
+        "head": 0,
+        "relation": "mentions",
+        "tail": 8
+      },
+      {
+        "head": 0,
+        "relation": "arguesFor",
+        "tail": 5
+      },
+      {
+        "head": 0,
+        "relation": "occursIn",
+        "tail": 9
+      }
+    ]
+  }
+]

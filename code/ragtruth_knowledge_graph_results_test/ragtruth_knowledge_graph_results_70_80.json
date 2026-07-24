@@ -1,0 +1,666 @@
+[
+  {
+    "document_id": 70,
+    "ragtruth_id": "274",
+    "text": "Sisters Iman and Siham, who were born in Mogadishu but raised in Canada as refugees, are now pursuing their passion for music in Los Angeles. Known as Faarrow, the duo is working on their debut album with producer Elijah Kelley, which blends Afro-pop, hip-hop, and rhythmic African percussion. They also work with the UNHCR to support refugees, particularly in Kenya and Somalia. The sisters hope to use their platform to inspire others and challenge the notion that refugees cannot pursue creative careers. They plan to release their first single soon and continue to work on their album, while also promoting their social conscious brand \"Wish Creatively.\"",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Sisters Iman and Siham, who were born in Mogadishu but raised in Canada as refugees"
+      },
+      {
+        "id": 1,
+        "text": "their debut album"
+      },
+      {
+        "id": 2,
+        "text": "Los Angeles"
+      },
+      {
+        "id": 3,
+        "text": "Elijah Kelley"
+      },
+      {
+        "id": 4,
+        "text": "African"
+      },
+      {
+        "id": 5,
+        "text": "UNHCR"
+      },
+      {
+        "id": 6,
+        "text": "Kenya"
+      },
+      {
+        "id": 7,
+        "text": "Somalia"
+      },
+      {
+        "id": 8,
+        "text": "first"
+      },
+      {
+        "id": 9,
+        "text": "Wish Creatively"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "bornIn",
+        "tail": 7
+      },
+      {
+        "head": 0,
+        "relation": "raisedIn",
+        "tail": 6
+      },
+      {
+        "head": 0,
+        "relation": "locatedIn",
+        "tail": 2
+      },
+      {
+        "head": 1,
+        "relation": "producer",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "worksWith",
+        "tail": 5
+      },
+      {
+        "head": 0,
+        "relation": "supports",
+        "tail": 6
+      },
+      {
+        "head": 0,
+        "relation": "supports",
+        "tail": 7
+      },
+      {
+        "head": 0,
+        "relation": "brand",
+        "tail": 9
+      }
+    ]
+  },
+  {
+    "document_id": 71,
+    "ragtruth_id": "275",
+    "text": "Somali-Canadian sisters Iman and Siham Hashi, known collectively as Faarrow, are set to release their debut album, blending Afro-pop, hip-hop, and rhythmic African percussion. They have been working with producer Elijah Kelley, who has also worked with artists like Michael Jackson and Whitney Houston. The sisters write their own songs and have been influenced by artists like the Spice Girls and Sia. They have also been advocating for refugees, working with the UNHCR, and have started a non-profit organization to support women in Kenya and Somalia. They hope to use their music to inspire others and make a positive impact, breaking away from the traditional expectation that creative pursuits are not respected in their culture.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Somali-Canadian sisters Iman and Siham Hashi, known collectively as Faarrow"
+      },
+      {
+        "id": 1,
+        "text": "Afro"
+      },
+      {
+        "id": 2,
+        "text": "African"
+      },
+      {
+        "id": 3,
+        "text": "Elijah Kelley"
+      },
+      {
+        "id": 4,
+        "text": "Michael Jackson"
+      },
+      {
+        "id": 5,
+        "text": "Whitney Houston"
+      },
+      {
+        "id": 6,
+        "text": "Sia"
+      },
+      {
+        "id": 7,
+        "text": "UNHCR"
+      },
+      {
+        "id": 8,
+        "text": "Kenya"
+      },
+      {
+        "id": 9,
+        "text": "Somalia"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "producer",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "influencedBy",
+        "tail": 6
+      },
+      {
+        "head": 0,
+        "relation": "workedWith",
+        "tail": 7
+      },
+      {
+        "head": 0,
+        "relation": "supports",
+        "tail": 8
+      },
+      {
+        "head": 0,
+        "relation": "supports",
+        "tail": 9
+      }
+    ]
+  },
+  {
+    "document_id": 72,
+    "ragtruth_id": "312",
+    "text": "The US Senate has given final approval to a bill that reforms Medicare and provides a permanent solution to the \"doc fix,\" a method used by the government to ensure that payments to Medicare providers keep up with inflation. The bill, which passed with a vote of 92 to 8, also includes a two-year extension of a popular children's health insurance program. The House had already approved the bill, and President Obama is expected to sign it into law.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Medicare"
+      },
+      {
+        "id": 1,
+        "text": "The bill, which passed with a vote of 92 to 8"
+      },
+      {
+        "id": 2,
+        "text": "The US Senate"
+      },
+      {
+        "id": 3,
+        "text": "two-year"
+      },
+      {
+        "id": 4,
+        "text": "House"
+      },
+      {
+        "id": 5,
+        "text": "Obama"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "approvedBy",
+        "tail": 2
+      },
+      {
+        "head": 1,
+        "relation": "approvedBy",
+        "tail": 4
+      },
+      {
+        "head": 1,
+        "relation": "signBy",
+        "tail": 5
+      },
+      {
+        "head": 1,
+        "relation": "duration",
+        "tail": 3
+      }
+    ]
+  },
+  {
+    "document_id": 73,
+    "ragtruth_id": "313",
+    "text": "The Senate has passed a Medicare reform bill with a permanent solution to the \"doc fix\", ensuring payments to Medicare providers keep up with inflation. The bill also includes a two-year extension of a children's health insurance program. The House approved the bill earlier and President Obama is expected to sign it. The bill faced opposition from some conservative senators, who argued that it added to the long-term debt. Despite this, the bill passed with a broad bipartisan vote.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Medicare"
+      },
+      {
+        "id": 1,
+        "text": "a Medicare reform bill with a permanent solution to the \"doc fix\", ensuring payments to Medicare providers keep up with inflation"
+      },
+      {
+        "id": 2,
+        "text": "opposition from some conservative senators, who argued that it added to the long-term debt"
+      },
+      {
+        "id": 3,
+        "text": "Senate"
+      },
+      {
+        "id": 4,
+        "text": "two-year"
+      },
+      {
+        "id": 5,
+        "text": "House"
+      },
+      {
+        "id": 6,
+        "text": "Obama"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "passedBy",
+        "tail": 3
+      },
+      {
+        "head": 1,
+        "relation": "approvedBy",
+        "tail": 5
+      },
+      {
+        "head": 1,
+        "relation": "expectedToBeSignedBy",
+        "tail": 6
+      },
+      {
+        "head": 1,
+        "relation": "hasDuration",
+        "tail": 4
+      }
+    ]
+  },
+  {
+    "document_id": 74,
+    "ragtruth_id": "314",
+    "text": "The Senate has passed a Medicare reform bill that includes a permanent solution to the \"doc fix\" and a two-year extension of the Children's Health Insurance Program (CHIP). The bill, which passed 92-8, addresses the issue of payments to Medicare providers and institutionalizes and expands Obamacare policies. Despite objections from some conservative senators, the bill received support from both parties and was backed by the House and President Obama.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "Medicare"
+      },
+      {
+        "id": 1,
+        "text": "The bill, which passed 92-8,"
+      },
+      {
+        "id": 2,
+        "text": "Senate"
+      },
+      {
+        "id": 3,
+        "text": "two-year"
+      },
+      {
+        "id": 4,
+        "text": "the Children's Health Insurance Program"
+      },
+      {
+        "id": 5,
+        "text": "House"
+      },
+      {
+        "id": 6,
+        "text": "Obama"
+      }
+    ],
+    "relations": [
+      {
+        "head": 1,
+        "relation": "passedBy",
+        "tail": 2
+      },
+      {
+        "head": 1,
+        "relation": "includes",
+        "tail": 3
+      },
+      {
+        "head": 1,
+        "relation": "includes",
+        "tail": 4
+      },
+      {
+        "head": 1,
+        "relation": "backedBy",
+        "tail": 5
+      },
+      {
+        "head": 1,
+        "relation": "backedBy",
+        "tail": 6
+      }
+    ]
+  },
+  {
+    "document_id": 75,
+    "ragtruth_id": "315",
+    "text": "Here is a summary of the article in 84 words or less:\n\nThe US Senate approved a bipartisan Medicare reform bill with a permanent solution to the \"doc fix\" and a two-year extension of a popular children's health insurance program. The bill passed 92-8 despite opposition from some conservatives who wanted offsets for the $200 billion cost. The bill now heads to President Obama's desk for signing.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "a bipartisan Medicare reform bill with a permanent solution to the \"doc fix\" and a two-year extension of a popular children's health insurance program"
+      },
+      {
+        "id": 1,
+        "text": "84"
+      },
+      {
+        "id": 2,
+        "text": "The US Senate"
+      },
+      {
+        "id": 3,
+        "text": "92-8"
+      },
+      {
+        "id": 4,
+        "text": "$200 billion"
+      },
+      {
+        "id": 5,
+        "text": "Obama"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "approvedBy",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "voteCount",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "cost",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "sentTo",
+        "tail": 5
+      }
+    ]
+  },
+  {
+    "document_id": 76,
+    "ragtruth_id": "316",
+    "text": "The Senate passed a bipartisan Medicare reform bill with a permanent \"doc fix\" to ensure payment increases for providers keep pace with inflation. The bill also extends funding for a children's health insurance program. The vote was 92-8, despite objections from some conservatives who wanted offsets for the bill's estimated $200 billion cost. The House previously passed the bill, and President Obama is expected to sign it.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "a bipartisan Medicare reform bill with a permanent \"doc fix\" to ensure payment increases for providers keep pace with inflation"
+      },
+      {
+        "id": 1,
+        "text": "passed"
+      },
+      {
+        "id": 2,
+        "text": "Senate"
+      },
+      {
+        "id": 3,
+        "text": "92-8"
+      },
+      {
+        "id": 4,
+        "text": "$200 billion"
+      },
+      {
+        "id": 5,
+        "text": "House"
+      },
+      {
+        "id": 6,
+        "text": "Obama"
+      }
+    ],
+    "relations": [
+      {
+        "head": 2,
+        "relation": "passed",
+        "tail": 0
+      },
+      {
+        "head": 0,
+        "relation": "extendsFundingFor",
+        "tail": 0
+      },
+      {
+        "head": 0,
+        "relation": "vote",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "cost",
+        "tail": 4
+      },
+      {
+        "head": 5,
+        "relation": "passed",
+        "tail": 0
+      },
+      {
+        "head": 0,
+        "relation": "expectedToBeSignedBy",
+        "tail": 6
+      }
+    ]
+  },
+  {
+    "document_id": 77,
+    "ragtruth_id": "317",
+    "text": "The Senate passed a bipartisan bill to reform Medicare, permanently solving the \"doc fix\" issue and extending a children's health insurance program. The bill, which passed 92-8, includes a two-year extension of the children's health program and pays for the $200 billion cost by reducing spending elsewhere. Conservatives like Ted Cruz and Marco Rubio opposed the bill, while Rand Paul supported it. The bill now heads to President Obama's desk for signing.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "a bipartisan bill to reform Medicare, permanently solving the \"doc fix\" issue and extending a children's health insurance program"
+      },
+      {
+        "id": 1,
+        "text": "a children's health insurance program"
+      },
+      {
+        "id": 2,
+        "text": "Senate"
+      },
+      {
+        "id": 3,
+        "text": "two-year"
+      },
+      {
+        "id": 4,
+        "text": "$200 billion"
+      },
+      {
+        "id": 5,
+        "text": "Conservatives"
+      },
+      {
+        "id": 6,
+        "text": "Ted Cruz"
+      },
+      {
+        "id": 7,
+        "text": "Marco Rubio"
+      },
+      {
+        "id": 8,
+        "text": "Rand Paul"
+      },
+      {
+        "id": 9,
+        "text": "Obama"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "passedBy",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "extends",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "duration",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "cost",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "opposedBy",
+        "tail": 6
+      },
+      {
+        "head": 0,
+        "relation": "opposedBy",
+        "tail": 7
+      },
+      {
+        "head": 0,
+        "relation": "supportedBy",
+        "tail": 8
+      },
+      {
+        "head": 0,
+        "relation": "signedBy",
+        "tail": 9
+      }
+    ]
+  },
+  {
+    "document_id": 78,
+    "ragtruth_id": "330",
+    "text": "A trailer for the upcoming film \"Batman v. Superman: Dawn of Justice\" briefly leaked online before it was quickly taken down. The video, captured on a handheld device, featured Spanish subtitles. The footage was set to premiere in Imax theaters on Monday and the film is set to release on March 25, 2016.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "A trailer for the upcoming film \"Batman v. Superman: Dawn of Justice\""
+      },
+      {
+        "id": 1,
+        "text": "the upcoming film \"Batman v. Superman: Dawn of Justice\""
+      },
+      {
+        "id": 2,
+        "text": "Spanish"
+      },
+      {
+        "id": 3,
+        "text": "Monday"
+      },
+      {
+        "id": 4,
+        "text": "March 25, 2016"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "subtitlesLanguage",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "premiereDate",
+        "tail": 3
+      },
+      {
+        "head": 1,
+        "relation": "releaseDate",
+        "tail": 4
+      }
+    ]
+  },
+  {
+    "document_id": 79,
+    "ragtruth_id": "331",
+    "text": "A leaked trailer for \"Batman v. Superman: Dawn of Justice\" was uploaded to YouTube briefly before being taken down. The trailer features footage of Superman and Batman facing off, along with overlapping commentary from various voices. The highly anticipated trailer was set to premiere in Imax theaters on Monday. The film stars Ben Affleck as Batman, Henry Cavill as Superman, and Amy Adams.",
+    "entities": [
+      {
+        "id": 0,
+        "text": "A leaked trailer for \"Batman v. Superman: Dawn of Justice\""
+      },
+      {
+        "id": 1,
+        "text": "Batman"
+      },
+      {
+        "id": 2,
+        "text": "Superman"
+      },
+      {
+        "id": 3,
+        "text": "YouTube"
+      },
+      {
+        "id": 4,
+        "text": "Monday"
+      },
+      {
+        "id": 5,
+        "text": "Ben Affleck"
+      },
+      {
+        "id": 6,
+        "text": "Henry Cavill"
+      },
+      {
+        "id": 7,
+        "text": "Amy Adams"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "relation": "uploadedTo",
+        "tail": 3
+      },
+      {
+        "head": 0,
+        "relation": "features",
+        "tail": 1
+      },
+      {
+        "head": 0,
+        "relation": "features",
+        "tail": 2
+      },
+      {
+        "head": 0,
+        "relation": "premiereDate",
+        "tail": 4
+      },
+      {
+        "head": 0,
+        "relation": "stars",
+        "tail": 5
+      },
+      {
+        "head": 0,
+        "relation": "stars",
+        "tail": 6
+      },
+      {
+        "head": 0,
+        "relation": "stars",
+        "tail": 7
+      }
+    ]
+  }
+]
